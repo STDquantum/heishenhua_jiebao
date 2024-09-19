@@ -1,0 +1,716 @@
+{
+  "List": [
+    {
+      "Id": 101,
+      "DropLevel": 1,
+      "ItemId": 2101,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 102,
+      "DropLevel": 1,
+      "ItemId": 2101,
+      "DropRule": 1003,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 103,
+      "DropLevel": 1,
+      "ItemId": 2101,
+      "DropRule": 1004,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 104,
+      "DropLevel": 1,
+      "ItemId": 2103,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 105,
+      "DropLevel": 1,
+      "ItemId": 2103,
+      "DropRule": 1003,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 106,
+      "DropLevel": 1,
+      "ItemId": 2103,
+      "DropRule": 1004,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 107,
+      "DropLevel": 1,
+      "ItemId": 2102,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 108,
+      "DropLevel": 1,
+      "ItemId": 2102,
+      "DropRule": 1003,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 109,
+      "DropLevel": 1,
+      "ItemId": 2102,
+      "DropRule": 1004,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 113,
+      "DropLevel": 1,
+      "ItemId": 2114,
+      "DropRule": 1003,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 114,
+      "DropLevel": 1,
+      "ItemId": 2112,
+      "DropRule": 1003,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 115,
+      "DropLevel": 1,
+      "ItemId": 2115,
+      "DropRule": 1003,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 116,
+      "DropLevel": 1,
+      "ItemId": 2109,
+      "DropRule": 1003,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 117,
+      "DropLevel": 1,
+      "ItemId": 2110,
+      "DropRule": 1003,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 118,
+      "DropLevel": 1,
+      "ItemId": 2117,
+      "DropRule": 1001,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_RenShen_Finish.DBC_YaoCai_RenShen_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 120,
+      "DropLevel": 1,
+      "ItemId": 3040,
+      "DropRule": 1001,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 121,
+      "DropLevel": 1,
+      "ItemId": 3040,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 122,
+      "DropLevel": 1,
+      "ItemId": 3040,
+      "DropRule": 1003,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 123,
+      "DropLevel": 1,
+      "ItemId": 2102,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 124,
+      "DropLevel": 1,
+      "ItemId": 2102,
+      "DropRule": 1004,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 125,
+      "DropLevel": 1,
+      "ItemId": 2101,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 126,
+      "DropLevel": 1,
+      "ItemId": 2113,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8001
+    },
+    {
+      "Id": 127,
+      "DropLevel": 1,
+      "ItemId": 2112,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8002
+    },
+    {
+      "Id": 128,
+      "DropLevel": 1,
+      "ItemId": 2117,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8003
+    },
+    {
+      "Id": 129,
+      "DropLevel": 1,
+      "ItemId": 2123,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8004
+    },
+    {
+      "Id": 130,
+      "DropLevel": 1,
+      "ItemId": 2103,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8005
+    },
+    {
+      "Id": 131,
+      "DropLevel": 1,
+      "ItemId": 2115,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8006
+    },
+    {
+      "Id": 132,
+      "DropLevel": 1,
+      "ItemId": 2110,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8007
+    },
+    {
+      "Id": 133,
+      "DropLevel": 1,
+      "ItemId": 2122,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8008
+    },
+    {
+      "Id": 134,
+      "DropLevel": 1,
+      "ItemId": 2119,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8009
+    },
+    {
+      "Id": 135,
+      "DropLevel": 1,
+      "ItemId": 2125,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8010
+    },
+    {
+      "Id": 136,
+      "DropLevel": 1,
+      "ItemId": 2108,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8011
+    },
+    {
+      "Id": 137,
+      "DropLevel": 1,
+      "ItemId": 2109,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8012
+    },
+    {
+      "Id": 138,
+      "DropLevel": 1,
+      "ItemId": 2114,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8013
+    },
+    {
+      "Id": 139,
+      "DropLevel": 1,
+      "ItemId": 2120,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8014
+    },
+    {
+      "Id": 140,
+      "DropLevel": 1,
+      "ItemId": 2102,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8015
+    },
+    {
+      "Id": 141,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish_leaf.DBC_YaoCai_Finish_leaf'",
+      "DropId": 982001
+    },
+    {
+      "Id": 142,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish_leaf.DBC_YaoCai_Finish_leaf'",
+      "DropId": 982002
+    },
+    {
+      "Id": 143,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish_leaf.DBC_YaoCai_Finish_leaf'",
+      "DropId": 982003
+    },
+    {
+      "Id": 144,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 982004
+    },
+    {
+      "Id": 145,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish_leaf.DBC_YaoCai_Finish_leaf'",
+      "DropId": 982005
+    },
+    {
+      "Id": 146,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 982006
+    },
+    {
+      "Id": 147,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish_leaf.DBC_YaoCai_Finish_leaf'",
+      "DropId": 982007
+    },
+    {
+      "Id": 148,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish_leaf.DBC_YaoCai_Finish_leaf'",
+      "DropId": 982008
+    },
+    {
+      "Id": 149,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_zhushu_Finish.DBC_YaoCai_zhushu_Finish'",
+      "DropId": 982009
+    },
+    {
+      "Id": 150,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_jiaoli_Finish.DBC_YaoCai_jiaoli_Finish'",
+      "DropId": 982010
+    },
+    {
+      "Id": 151,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_huozao_Finish.DBC_YaoCai_huozao_Finish'",
+      "DropId": 982011
+    },
+    {
+      "Id": 301,
+      "DropLevel": 1,
+      "ItemId": 2108,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8016
+    },
+    {
+      "Id": 302,
+      "DropLevel": 1,
+      "ItemId": 2109,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8017
+    },
+    {
+      "Id": 303,
+      "DropLevel": 1,
+      "ItemId": 2110,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8018
+    },
+    {
+      "Id": 304,
+      "DropLevel": 1,
+      "ItemId": 2114,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8019
+    },
+    {
+      "Id": 305,
+      "DropLevel": 1,
+      "ItemId": 2115,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8020
+    },
+    {
+      "Id": 306,
+      "DropLevel": 1,
+      "ItemId": 2119,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8021
+    },
+    {
+      "Id": 307,
+      "DropLevel": 1,
+      "ItemId": 2120,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8022
+    },
+    {
+      "Id": 308,
+      "DropLevel": 1,
+      "ItemId": 2122,
+      "DropRule": 1002,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'",
+      "DropId": 8023
+    },
+    {
+      "Id": 201,
+      "DropLevel": 1,
+      "ItemId": 2014,
+      "DropRule": 1001,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/02MainHZ/Item/YaoCai/DBC/DBC_DanYao_Finish.DBC_DanYao_Finish'",
+      "DropId": 8034
+    },
+    {
+      "Id": 221,
+      "DropLevel": 1,
+      "ItemId": 2014,
+      "DropRule": 1001,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/02MainHZ/Item/YaoCai/DBC/DBC_DanYao_Finish.DBC_DanYao_Finish'",
+      "DropId": 2035
+    },
+    {
+      "Id": 222,
+      "DropLevel": 1,
+      "ItemId": 4001,
+      "DropRule": 1001,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/02MainHZ/Item/YaoCai/DBC/DBC_DanYao_Finish.DBC_DanYao_Finish'",
+      "DropId": 8036
+    },
+    {
+      "Id": 223,
+      "DropLevel": 1,
+      "ItemId": 2303,
+      "DropRule": 1001,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Environment/VFX/Niagara/Guilei/DBC/DBC_guilei_Finish.DBC_guilei_Finish'",
+      "DropId": 3012
+    },
+    {
+      "Id": 224,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Interactive/Jiu/DBC/DBC_Jiu_Burst.DBC_Jiu_Burst'",
+      "DropId": 82001
+    },
+    {
+      "Id": 225,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Interactive/Jiu/DBC/DBC_Jiu_Burst.DBC_Jiu_Burst'",
+      "DropId": 82002
+    },
+    {
+      "Id": 226,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Interactive/Jiu/DBC/DBC_Jiu_Burst.DBC_Jiu_Burst'",
+      "DropId": 82003
+    },
+    {
+      "Id": 227,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Interactive/Jiu/DBC/DBC_Jiu_Burst.DBC_Jiu_Burst'",
+      "DropId": 82004
+    },
+    {
+      "Id": 228,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Interactive/Jiu/DBC/DBC_Jiu_Burst.DBC_Jiu_Burst'",
+      "DropId": 82005
+    },
+    {
+      "Id": 229,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Interactive/Jiu/DBC/DBC_Jiu_Burst.DBC_Jiu_Burst'",
+      "DropId": 82006
+    },
+    {
+      "Id": 401,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_xianteng_Finish.DBC_YaoCai_xianteng_Finish'",
+      "DropId": 91100
+    },
+    {
+      "Id": 402,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_xianteng_Finish.DBC_YaoCai_xianteng_Finish'",
+      "DropId": 91100
+    },
+    {
+      "Id": 403,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_xianteng_Finish.DBC_YaoCai_xianteng_Finish'",
+      "DropId": 91100
+    },
+    {
+      "Id": 404,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_xianteng_Finish.DBC_YaoCai_xianteng_Finish'",
+      "DropId": 91100
+    },
+    {
+      "Id": 405,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_xianteng_Finish.DBC_YaoCai_xianteng_Finish'",
+      "DropId": 91100
+    },
+    {
+      "Id": 406,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_xianteng_Finish.DBC_YaoCai_xianteng_Finish'",
+      "DropId": 91100
+    },
+    {
+      "Id": 407,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_xianteng_Finish.DBC_YaoCai_xianteng_Finish'",
+      "DropId": 91100
+    },
+    {
+      "Id": 408,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_xianteng_Finish.DBC_YaoCai_xianteng_Finish'",
+      "DropId": 91100
+    },
+    {
+      "Id": 409,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_xianteng_Finish.DBC_YaoCai_xianteng_Finish'",
+      "DropId": 91100
+    },
+    {
+      "Id": 410,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_xianteng_Finish.DBC_YaoCai_xianteng_Finish'",
+      "DropId": 91100
+    },
+    {
+      "Id": 411,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_xianteng_Finish.DBC_YaoCai_xianteng_Finish'",
+      "DropId": 91100
+    },
+    {
+      "Id": 412,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_xianteng_Finish.DBC_YaoCai_xianteng_Finish'",
+      "DropId": 91100
+    },
+    {
+      "Id": 901,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 981011
+    },
+    {
+      "Id": 902,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 981021
+    },
+    {
+      "Id": 903,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 981031
+    },
+    {
+      "Id": 904,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 981041
+    },
+    {
+      "Id": 905,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 981051
+    },
+    {
+      "Id": 906,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 981061
+    },
+    {
+      "Id": 907,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 981071
+    },
+    {
+      "Id": 908,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 981081
+    },
+    {
+      "Id": 909,
+      "DropLevel": 1,
+      "ItemId": 0,
+      "DropRule": 0,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 981091
+    },
+    {
+      "Id": 997,
+      "DropLevel": 1,
+      "ItemId": 4006,
+      "DropRule": 1001,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'",
+      "DropId": 8037
+    },
+    {
+      "Id": 998,
+      "DropLevel": 1,
+      "ItemId": 4003,
+      "DropRule": 1001,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/02MainHZ/Item/YaoCai/DBC/DBC_DanYao_Finish.DBC_DanYao_Finish'",
+      "DropId": 8038
+    },
+    {
+      "Id": 999,
+      "DropLevel": 1,
+      "ItemId": 4004,
+      "DropRule": 1001,
+      "DropEfx": "BGWDataAsset_B1DBC'/Game/02MainHZ/Item/YaoCai/DBC/DBC_DanYao_Finish.DBC_DanYao_Finish'",
+      "DropId": 8039
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "RelationRuleType": 0,
+      "AntiRuleTeamIDs": "5,6,99,",
+      "TeamDamageReductionConfig": ""
+    },
+    {
+      "ID": 99,
+      "RelationRuleType": 1,
+      "AntiRuleTeamIDs": "",
+      "TeamDamageReductionConfig": ""
+    },
+    {
+      "ID": 2,
+      "RelationRuleType": 0,
+      "AntiRuleTeamIDs": "32,99",
+      "TeamDamageReductionConfig": "(3,8100),(4,9500),(5,5000),(26,6500)"
+    },
+    {
+      "ID": 3,
+      "RelationRuleType": 0,
+      "AntiRuleTeamIDs": "4,99",
+      "TeamDamageReductionConfig": "(2,7200)"
+    },
+    {
+      "ID": 4,
+      "RelationRuleType": 0,
+      "AntiRuleTeamIDs": "3,99",
+      "TeamDamageReductionConfig": "(2,9500)"
+    },
+    {
+      "ID": 5,
+      "RelationRuleType": 0,
+      "AntiRuleTeamIDs": "1,99",
+      "TeamDamageReductionConfig": "(2,9500)"
+    },
+    {
+      "ID": 6,
+      "RelationRuleType": 1,
+      "AntiRuleTeamIDs": "2",
+      "TeamDamageReductionConfig": "(2,2000)"
+    },
+    {
+      "ID": 19,
+      "RelationRuleType": 0,
+      "AntiRuleTeamIDs": "99",
+      "TeamDamageReductionConfig": "(20,-4500)"
+    },
+    {
+      "ID": 20,
+      "RelationRuleType": 0,
+      "AntiRuleTeamIDs": "99",
+      "TeamDamageReductionConfig": ""
+    },
+    {
+      "ID": 21,
+      "RelationRuleType": 0,
+      "AntiRuleTeamIDs": "1,99",
+      "TeamDamageReductionConfig": "（22,-10000）"
+    },
+    {
+      "ID": 22,
+      "RelationRuleType": 0,
+      "AntiRuleTeamIDs": "99",
+      "TeamDamageReductionConfig": "（21,10000）"
+    },
+    {
+      "ID": 23,
+      "RelationRuleType": 0,
+      "AntiRuleTeamIDs": "99",
+      "TeamDamageReductionConfig": "(24,-26000)"
+    },
+    {
+      "ID": 24,
+      "RelationRuleType": 0,
+      "AntiRuleTeamIDs": "99",
+      "TeamDamageReductionConfig": "(23,2000)"
+    },
+    {
+      "ID": 25,
+      "RelationRuleType": 0,
+      "AntiRuleTeamIDs": "99",
+      "TeamDamageReductionConfig": "(2,4800)"
+    },
+    {
+      "ID": 26,
+      "RelationRuleType": 0,
+      "AntiRuleTeamIDs": "99",
+      "TeamDamageReductionConfig": "(2,9400)"
+    }
+  ]
+}

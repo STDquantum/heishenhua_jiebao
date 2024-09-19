@@ -1,0 +1,1084 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "MainInputID": 2,
+      "FeatureFilters": [
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        },
+        {
+          "FilterType": 8,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 2,
+      "MainInputID": 10001,
+      "FeatureFilters": [
+        {
+          "FilterType": 9,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            1
+          ]
+        },
+        {
+          "FilterType": 11,
+          "FilterInputs": [],
+          "Inverse": 1,
+          "FilterParams": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 3,
+      "MainInputID": 2,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 4,
+      "MainInputID": 10002,
+      "FeatureFilters": [
+        {
+          "FilterType": 1,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 5,
+      "MainInputID": 10002,
+      "FeatureFilters": [
+        {
+          "FilterType": 10,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            500,
+            50
+          ]
+        },
+        {
+          "FilterType": 4,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": []
+        },
+        {
+          "FilterType": 14,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": []
+        }
+      ]
+    },
+    {
+      "ID": 6,
+      "MainInputID": 5,
+      "FeatureFilters": [
+        {
+          "FilterType": 1,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 1,
+          "FilterParams": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 7,
+      "MainInputID": 6,
+      "FeatureFilters": [
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        },
+        {
+          "FilterType": 8,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 8,
+      "MainInputID": 9,
+      "FeatureFilters": [
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            2500
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 9,
+      "MainInputID": 6,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            1,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 10,
+      "MainInputID": 2,
+      "FeatureFilters": [
+        {
+          "FilterType": 12,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            1400
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 11,
+      "MainInputID": 10002,
+      "FeatureFilters": [
+        {
+          "FilterType": 11,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 12,
+      "MainInputID": 2,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 13,
+      "MainInputID": 2,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 14,
+      "MainInputID": 10002,
+      "FeatureFilters": [
+        {
+          "FilterType": 15,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 15,
+      "MainInputID": 16,
+      "FeatureFilters": [
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            26
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            7000
+          ]
+        },
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            1
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        },
+        {
+          "FilterType": 8,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 16,
+      "MainInputID": 26,
+      "FeatureFilters": [
+        {
+          "FilterType": 10,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            800,
+            100
+          ]
+        },
+        {
+          "FilterType": 4,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": []
+        },
+        {
+          "FilterType": 14,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": []
+        }
+      ]
+    },
+    {
+      "ID": 17,
+      "MainInputID": 10002,
+      "FeatureFilters": [
+        {
+          "FilterType": 12,
+          "FilterInputs": [
+            26
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            250
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 18,
+      "MainInputID": 2,
+      "FeatureFilters": [
+        {
+          "FilterType": 12,
+          "FilterInputs": [
+            26
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            650
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 19,
+      "MainInputID": 18,
+      "FeatureFilters": [
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 20,
+      "MainInputID": 18,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 21,
+      "MainInputID": 18,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 22,
+      "MainInputID": 2,
+      "FeatureFilters": [
+        {
+          "FilterType": 13,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            7000
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 23,
+      "MainInputID": 2,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 24,
+      "MainInputID": 8,
+      "FeatureFilters": [
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            1
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            9000
+          ]
+        },
+        {
+          "FilterType": 8,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 25,
+      "MainInputID": 8,
+      "FeatureFilters": [
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            1
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            5000
+          ]
+        },
+        {
+          "FilterType": 8,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 26,
+      "MainInputID": 10001,
+      "FeatureFilters": [
+        {
+          "FilterType": 16,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            9982
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 27,
+      "MainInputID": 16,
+      "FeatureFilters": [
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            26
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            10000
+          ]
+        },
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            1
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            10000
+          ]
+        },
+        {
+          "FilterType": 8,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 28,
+      "MainInputID": 10001,
+      "FeatureFilters": [
+        {
+          "FilterType": 9,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 29,
+      "MainInputID": 28,
+      "FeatureFilters": [
+        {
+          "FilterType": 13,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            9000
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 30,
+      "MainInputID": 29,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 31,
+      "MainInputID": 10002,
+      "FeatureFilters": [
+        {
+          "FilterType": 13,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            9000
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 32,
+      "MainInputID": 18,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 33,
+      "MainInputID": 18,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 34,
+      "MainInputID": 10003,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 35,
+      "MainInputID": 10003,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 100,
+      "MainInputID": 101,
+      "FeatureFilters": [
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        },
+        {
+          "FilterType": 8,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 101,
+      "MainInputID": 10001,
+      "FeatureFilters": [
+        {
+          "FilterType": 9,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 102,
+      "MainInputID": 101,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 103,
+      "MainInputID": 104,
+      "FeatureFilters": [
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        },
+        {
+          "FilterType": 8,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 104,
+      "MainInputID": 10001,
+      "FeatureFilters": [
+        {
+          "FilterType": 9,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            1
+          ]
+        },
+        {
+          "FilterType": 11,
+          "FilterInputs": [],
+          "Inverse": 1,
+          "FilterParams": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 105,
+      "MainInputID": 104,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 106,
+      "MainInputID": 10002,
+      "FeatureFilters": [
+        {
+          "FilterType": 1,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 107,
+      "MainInputID": 10002,
+      "FeatureFilters": [
+        {
+          "FilterType": 10,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            500,
+            50
+          ]
+        },
+        {
+          "FilterType": 4,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": []
+        },
+        {
+          "FilterType": 14,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": []
+        }
+      ]
+    },
+    {
+      "ID": 108,
+      "MainInputID": 107,
+      "FeatureFilters": [
+        {
+          "FilterType": 1,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 1,
+          "FilterParams": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 109,
+      "MainInputID": 108,
+      "FeatureFilters": [
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        },
+        {
+          "FilterType": 8,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 110,
+      "MainInputID": 111,
+      "FeatureFilters": [
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            2500
+          ]
+        },
+        {
+          "FilterType": 8,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 111,
+      "MainInputID": 108,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            1,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 112,
+      "MainInputID": 104,
+      "FeatureFilters": [
+        {
+          "FilterType": 12,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            1400
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 113,
+      "MainInputID": 104,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 114,
+      "MainInputID": 104,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            10002,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 115,
+      "MainInputID": 108,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            1,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 116,
+      "MainInputID": 115,
+      "FeatureFilters": [
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            2500
+          ]
+        },
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            113
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            10000
+          ]
+        },
+        {
+          "FilterType": 8,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 117,
+      "MainInputID": 108,
+      "FeatureFilters": [
+        {
+          "FilterType": 2,
+          "FilterInputs": [
+            1,
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 118,
+      "MainInputID": 117,
+      "FeatureFilters": [
+        {
+          "FilterType": 7,
+          "FilterInputs": [
+            10002
+          ],
+          "Inverse": 0,
+          "FilterParams": [
+            2500
+          ]
+        },
+        {
+          "FilterType": 8,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 119,
+      "MainInputID": 102,
+      "FeatureFilters": [
+        {
+          "FilterType": 13,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            9000
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 120,
+      "MainInputID": 10002,
+      "FeatureFilters": [
+        {
+          "FilterType": 13,
+          "FilterInputs": [],
+          "Inverse": 0,
+          "FilterParams": [
+            9000
+          ]
+        }
+      ]
+    }
+  ]
+}

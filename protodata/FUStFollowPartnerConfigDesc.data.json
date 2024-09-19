@@ -1,0 +1,202 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "LevelID": 0,
+      "OverlapBoxGUID": "",
+      "AssociationUnitInfoID": 509905,
+      "FollowPartnerDispDAPath": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "FollowPartnerSpawnType": 1,
+      "JudgeConditionAfterPartnerAppear": 0,
+      "RespawnCheckDistance": 50000,
+      "RespawnWaitTime": 5,
+      "ConfigDAPath": "",
+      "ConditionType": 0,
+      "QuestStageConditionInfoList": [
+        {
+          "TaskStageID": 907,
+          "TaskStageState": 1
+        }
+      ]
+    },
+    {
+      "ID": 2,
+      "LevelID": 40,
+      "OverlapBoxGUID": "UGuid.PSD.ZhuBaJie.Follow.Box",
+      "AssociationUnitInfoID": 509906,
+      "FollowPartnerDispDAPath": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "FollowPartnerSpawnType": 0,
+      "JudgeConditionAfterPartnerAppear": 0,
+      "RespawnCheckDistance": 50000,
+      "RespawnWaitTime": 5,
+      "ConfigDAPath": "",
+      "ConditionType": 0,
+      "QuestStageConditionInfoList": [
+        {
+          "TaskStageID": 4901001,
+          "TaskStageState": 1
+        }
+      ]
+    },
+    {
+      "ID": 3,
+      "LevelID": 40,
+      "OverlapBoxGUID": "UGuid.PSD.ZhuBaJie.Follow.Box",
+      "AssociationUnitInfoID": 509906,
+      "FollowPartnerDispDAPath": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "FollowPartnerSpawnType": 1,
+      "JudgeConditionAfterPartnerAppear": 1,
+      "RespawnCheckDistance": 50000,
+      "RespawnWaitTime": 0,
+      "ConfigDAPath": "",
+      "ConditionType": 1,
+      "QuestStageConditionInfoList": [
+        {
+          "TaskStageID": 4901002,
+          "TaskStageState": 1
+        },
+        {
+          "TaskStageID": 4901003,
+          "TaskStageState": 1
+        },
+        {
+          "TaskStageID": 4901004,
+          "TaskStageState": 1
+        }
+      ]
+    },
+    {
+      "ID": 6,
+      "LevelID": 30,
+      "OverlapBoxGUID": "UGuid.LYS.ZhuBaJie.Follow.Box",
+      "AssociationUnitInfoID": 509930,
+      "FollowPartnerDispDAPath": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "FollowPartnerSpawnType": 1,
+      "JudgeConditionAfterPartnerAppear": 1,
+      "RespawnCheckDistance": 15000,
+      "RespawnWaitTime": 5,
+      "ConfigDAPath": "",
+      "ConditionType": 0,
+      "QuestStageConditionInfoList": [
+        {
+          "TaskStageID": 3901002,
+          "TaskStageState": 1
+        }
+      ]
+    },
+    {
+      "ID": 7,
+      "LevelID": 40,
+      "OverlapBoxGUID": "",
+      "AssociationUnitInfoID": 509999,
+      "FollowPartnerDispDAPath": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "FollowPartnerSpawnType": 1,
+      "JudgeConditionAfterPartnerAppear": 1,
+      "RespawnCheckDistance": 50000,
+      "RespawnWaitTime": 5,
+      "ConfigDAPath": "",
+      "ConditionType": 0,
+      "QuestStageConditionInfoList": [
+        {
+          "TaskStageID": 907,
+          "TaskStageState": 1
+        }
+      ]
+    },
+    {
+      "ID": 8,
+      "LevelID": 98,
+      "OverlapBoxGUID": "UGuid.HGS.ZhuBaJie.Follow.Box",
+      "AssociationUnitInfoID": 509942,
+      "FollowPartnerDispDAPath": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "FollowPartnerSpawnType": 0,
+      "JudgeConditionAfterPartnerAppear": 0,
+      "RespawnCheckDistance": 50000,
+      "RespawnWaitTime": 5,
+      "ConfigDAPath": "",
+      "ConditionType": 0,
+      "QuestStageConditionInfoList": [
+        {
+          "TaskStageID": 9810001,
+          "TaskStageState": 1
+        }
+      ]
+    },
+    {
+      "ID": 9,
+      "LevelID": 98,
+      "OverlapBoxGUID": "UGuid.HGS.ZhuBaJie.Follow.Box",
+      "AssociationUnitInfoID": 509942,
+      "FollowPartnerDispDAPath": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "FollowPartnerSpawnType": 1,
+      "JudgeConditionAfterPartnerAppear": 1,
+      "RespawnCheckDistance": 50000,
+      "RespawnWaitTime": 5,
+      "ConfigDAPath": "",
+      "ConditionType": 0,
+      "QuestStageConditionInfoList": [
+        {
+          "TaskStageID": 9810002,
+          "TaskStageState": 1
+        }
+      ]
+    },
+    {
+      "ID": 10,
+      "LevelID": 98,
+      "OverlapBoxGUID": "UGuid.Shiluan.ZhuBaJie.Follow.Box",
+      "AssociationUnitInfoID": 509943,
+      "FollowPartnerDispDAPath": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "FollowPartnerSpawnType": 0,
+      "JudgeConditionAfterPartnerAppear": 1,
+      "RespawnCheckDistance": 50000,
+      "RespawnWaitTime": 5,
+      "ConfigDAPath": "",
+      "ConditionType": 0,
+      "QuestStageConditionInfoList": [
+        {
+          "TaskStageID": 9812001,
+          "TaskStageState": 1
+        }
+      ]
+    },
+    {
+      "ID": 11,
+      "LevelID": 98,
+      "OverlapBoxGUID": "UGuid.Shiluan.ZhuBaJie.Follow.Box",
+      "AssociationUnitInfoID": 509943,
+      "FollowPartnerDispDAPath": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "FollowPartnerSpawnType": 1,
+      "JudgeConditionAfterPartnerAppear": 1,
+      "RespawnCheckDistance": 50000,
+      "RespawnWaitTime": 5,
+      "ConfigDAPath": "",
+      "ConditionType": 0,
+      "QuestStageConditionInfoList": [
+        {
+          "TaskStageID": 9812002,
+          "TaskStageState": 1
+        }
+      ]
+    },
+    {
+      "ID": 12,
+      "LevelID": 0,
+      "OverlapBoxGUID": "",
+      "AssociationUnitInfoID": 509931,
+      "FollowPartnerDispDAPath": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "FollowPartnerSpawnType": 1,
+      "JudgeConditionAfterPartnerAppear": 1,
+      "RespawnCheckDistance": 15000,
+      "RespawnWaitTime": 5,
+      "ConfigDAPath": "",
+      "ConditionType": 0,
+      "QuestStageConditionInfoList": [
+        {
+          "TaskStageID": 9599001,
+          "TaskStageState": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "List": [
+    {
+      "Id": 9005,
+      "SortId": 1,
+      "Name": "黑神话：悟空 主题音乐",
+      "AudioDuration": 305.957,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 6003,
+      "SortId": 2,
+      "Name": "云宫迅音",
+      "AudioDuration": 265.766,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 1001,
+      "SortId": 3,
+      "Name": "英雄气概等时休",
+      "AudioDuration": 319.89,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 1002,
+      "SortId": 4,
+      "Name": "胜景赛娑婆",
+      "AudioDuration": 124.965,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 9002,
+      "SortId": 5,
+      "Name": "别有世间曾未见",
+      "AudioDuration": 39.968,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 1003,
+      "SortId": 6,
+      "Name": "大闹黑风山",
+      "AudioDuration": 97.969,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 1006,
+      "SortId": 7,
+      "Name": "灵山莫远求",
+      "AudioDuration": 48.947,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 1007,
+      "SortId": 8,
+      "Name": "木生炉烟",
+      "AudioDuration": 131.52,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 1008,
+      "SortId": 9,
+      "Name": "后院大狗",
+      "AudioDuration": 177.535,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 1009,
+      "SortId": 10,
+      "Name": "怪不得小生现出本相",
+      "AudioDuration": 198.281,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 1010,
+      "SortId": 11,
+      "Name": "痴长二百七十岁",
+      "AudioDuration": 296.15,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 1011,
+      "SortId": 12,
+      "Name": "正是山中黑风王",
+      "AudioDuration": 193.256,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 1004,
+      "SortId": 13,
+      "Name": "黑烟漠漠红焰腾",
+      "AudioDuration": 242.237,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 1012,
+      "SortId": 14,
+      "Name": "这把火你看到了吗",
+      "AudioDuration": 300.455,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 1005,
+      "SortId": 15,
+      "Name": "看见",
+      "AudioDuration": 240.605,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 9001,
+      "SortId": 16,
+      "Name": "静隐深山无俗虑",
+      "AudioDuration": 99.31,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2001,
+      "SortId": 17,
+      "Name": "村中鼠",
+      "AudioDuration": 182.667,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2004,
+      "SortId": 18,
+      "Name": "父子相抱哭",
+      "AudioDuration": 235.662,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2002,
+      "SortId": 19,
+      "Name": "猴头好下酒",
+      "AudioDuration": 142.817,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2005,
+      "SortId": 20,
+      "Name": "浑不动",
+      "AudioDuration": 34.138,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2006,
+      "SortId": 21,
+      "Name": "崖前有怪",
+      "AudioDuration": 141.736,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2003,
+      "SortId": 22,
+      "Name": "声振波浑",
+      "AudioDuration": 172.776,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2007,
+      "SortId": 23,
+      "Name": "万里江山都是颤",
+      "AudioDuration": 310.0,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3005,
+      "SortId": 24,
+      "Name": "山中元帅唤马流",
+      "AudioDuration": 172.623,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3001,
+      "SortId": 25,
+      "Name": "三千功行尽倾颓",
+      "AudioDuration": 240.492,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3006,
+      "SortId": 26,
+      "Name": "他乡万两金",
+      "AudioDuration": 41.25,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3007,
+      "SortId": 27,
+      "Name": "妙音妙音",
+      "AudioDuration": 210.534,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3008,
+      "SortId": 28,
+      "Name": "爱即是苦",
+      "AudioDuration": 232.663,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3009,
+      "SortId": 29,
+      "Name": "夕照剑辙",
+      "AudioDuration": 132.099,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 9003,
+      "SortId": 30,
+      "Name": "六六少翁商",
+      "AudioDuration": 93.333,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3010,
+      "SortId": 31,
+      "Name": "终成空与非",
+      "AudioDuration": 125.893,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3002,
+      "SortId": 32,
+      "Name": "我也去当个天命人玩玩",
+      "AudioDuration": 188.74,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3003,
+      "SortId": 33,
+      "Name": "禅光瑞蔼凶气藏",
+      "AudioDuration": 180.417,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3011,
+      "SortId": 34,
+      "Name": "温柔天下去得",
+      "AudioDuration": 39.75,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3012,
+      "SortId": 35,
+      "Name": "偶像即业障",
+      "AudioDuration": 318.964,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3004,
+      "SortId": 36,
+      "Name": "屁",
+      "AudioDuration": 279.457,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3013,
+      "SortId": 37,
+      "Name": "辟开数劫任西东",
+      "AudioDuration": 121.967,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4001,
+      "SortId": 38,
+      "Name": "兰性喜如春",
+      "AudioDuration": 101.481,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4005,
+      "SortId": 39,
+      "Name": "虫儿也欺负人哩",
+      "AudioDuration": 141.075,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4006,
+      "SortId": 40,
+      "Name": "妖精菩萨，还是菩萨妖精？",
+      "AudioDuration": 153.041,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4007,
+      "SortId": 41,
+      "Name": "慈悲颠倒何故",
+      "AudioDuration": 171.642,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4008,
+      "SortId": 42,
+      "Name": "善恶若无报",
+      "AudioDuration": 82.083,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4002,
+      "SortId": 43,
+      "Name": "那有怜香惜玉心",
+      "AudioDuration": 289.248,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4009,
+      "SortId": 44,
+      "Name": "闺心坚似石",
+      "AudioDuration": 260.593,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4010,
+      "SortId": 45,
+      "Name": "黄芽白雪神仙府",
+      "AudioDuration": 111.115,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4011,
+      "SortId": 46,
+      "Name": "伤敌一万",
+      "AudioDuration": 42.0,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4012,
+      "SortId": 47,
+      "Name": "今番也该换我飞升",
+      "AudioDuration": 237.827,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4013,
+      "SortId": 48,
+      "Name": "啼血",
+      "AudioDuration": 278.848,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4003,
+      "SortId": 49,
+      "Name": "情因旧恨生灾毒",
+      "AudioDuration": 389.992,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4004,
+      "SortId": 50,
+      "Name": "勿听",
+      "AudioDuration": 260.357,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5001,
+      "SortId": 51,
+      "Name": "日落月胧路难寻",
+      "AudioDuration": 204.706,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5005,
+      "SortId": 52,
+      "Name": "中道分离乱五行",
+      "AudioDuration": 127.563,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5002,
+      "SortId": 53,
+      "Name": "毛烧没了才好吃",
+      "AudioDuration": 163.642,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5006,
+      "SortId": 54,
+      "Name": "让你耍个够",
+      "AudioDuration": 132.5,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5007,
+      "SortId": 55,
+      "Name": "阴阳难合",
+      "AudioDuration": 270.401,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5008,
+      "SortId": 56,
+      "Name": "休言不报应",
+      "AudioDuration": 41.25,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5009,
+      "SortId": 57,
+      "Name": "急急猴子，不过如此",
+      "AudioDuration": 181.105,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5010,
+      "SortId": 58,
+      "Name": "冰火现忠骨",
+      "AudioDuration": 133.512,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5011,
+      "SortId": 59,
+      "Name": "永镇西方第一名",
+      "AudioDuration": 330.855,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5003,
+      "SortId": 60,
+      "Name": "有经处有火",
+      "AudioDuration": 310.427,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5004,
+      "SortId": 61,
+      "Name": "不由己",
+      "AudioDuration": 293.976,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 6004,
+      "SortId": 62,
+      "Name": "回顾仙山两泪垂",
+      "AudioDuration": 125.385,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 6005,
+      "SortId": 63,
+      "Name": "石遮天",
+      "AudioDuration": 126.562,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 6006,
+      "SortId": 64,
+      "Name": "那个原来是你",
+      "AudioDuration": 332.344,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 6007,
+      "SortId": 65,
+      "Name": "心猿归正",
+      "AudioDuration": 233.108,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 6002,
+      "SortId": 66,
+      "Name": "历代驰名第一妖",
+      "AudioDuration": 295.642,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 6001,
+      "SortId": 67,
+      "Name": "不管人间兴与败",
+      "AudioDuration": 283.574,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 6008,
+      "SortId": 68,
+      "Name": "众圣降凡尘",
+      "AudioDuration": 174.73,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 6009,
+      "SortId": 69,
+      "Name": "法天象地",
+      "AudioDuration": 194.821,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 9004,
+      "SortId": 70,
+      "Name": "只怕有心人",
+      "AudioDuration": 67.5,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 6098,
+      "SortId": 71,
+      "Name": "敢问路在何方",
+      "AudioDuration": 316.047,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 3,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 6099,
+      "SortId": 72,
+      "Name": "未竟",
+      "AudioDuration": 402.596,
+      "Lyricist": "",
+      "Arranger": "",
+      "UnlockCondition": 2,
+      "LocalizationTag": 1
+    }
+  ]
+}

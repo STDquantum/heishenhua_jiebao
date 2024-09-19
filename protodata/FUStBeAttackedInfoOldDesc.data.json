@@ -1,0 +1,954 @@
+{
+  "List": [
+    {
+      "ID": 901,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 1001,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/Player/Sunwukong/Montage/AM_Wukong_V4_hit_l.AM_Wukong_V4_hit_l",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/Player/Sunwukong/Montage/AM_Wukong_V4_hit_l.AM_Wukong_V4_hit_l",
+      "Guard": "/Game/00Main/Animation/Player/Sunwukong/Montage/AM_Wukong_V4_hit_r.AM_Wukong_V4_hit_r"
+    },
+    {
+      "ID": 1201,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 2901,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 3001,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 3101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 3201,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 3301,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HGS01/HGS_TianJiang_01/Montage/AM_HGS_TianJiang_01_Sd_Block_01.AM_HGS_TianJiang_01_Sd_Block_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HGS01/HGS_TianJiang_01/Montage/AM_HGS_TianJiang_01_Sd_Block_01.AM_HGS_TianJiang_01_Sd_Block_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HGS01/HGS_TianJiang_01/Montage/AM_HGS_TianJiang_01_Sd_Block_01.AM_HGS_TianJiang_01_Sd_Block_01'"
+    },
+    {
+      "ID": 3302,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HGS01/HGS_TianJiang_01/Montage/AM_HGS_TianJiang_01_Hit_Fast_Torso_F_01.AM_HGS_TianJiang_01_Hit_Fast_Torso_F_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HGS01/HGS_TianJiang_01/Montage/AM_HGS_TianJiang_01_Hit_Fast_Torso_L_01.AM_HGS_TianJiang_01_Hit_Fast_Torso_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HGS01/HGS_TianJiang_01/Montage/AM_HGS_TianJiang_01_Hit_Fast_Torso_R_01.AM_HGS_TianJiang_01_Hit_Fast_Torso_R_01'"
+    },
+    {
+      "ID": 3401,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 3501,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 3601,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 3701,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 3801,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 4001,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 100101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Lang_02/Montages/AM_GYCY_Lang_02_Hit_Fast_Torso_F_01.AM_GYCY_Lang_02_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Lang_02/Montages/AM_GYCY_Lang_02_Hit_Fast_Torso_L_01.AM_GYCY_Lang_02_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Lang_02/Montages/AM_GYCY_Lang_02_Hit_Fast_Torso_R_01.AM_GYCY_Lang_02_Hit_Fast_Torso_R_01"
+    },
+    {
+      "ID": 100201,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Lang_03/Montage/AM_GYCY_Lang_03_Hit_Fast_Torso_F_01.AM_GYCY_Lang_03_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Lang_03/Montage/AM_GYCY_Lang_03_Hit_Fast_Torso_L_01.AM_GYCY_Lang_03_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Lang_03/Montage/AM_GYCY_Lang_03_Hit_Fast_Torso_R_01.AM_GYCY_Lang_03_Hit_Fast_Torso_R_01"
+    },
+    {
+      "ID": 100301,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_She_01/Montage/AM_GYCY_She_01_Hit_Fast_Torso_R_01.AM_GYCY_She_01_Hit_Fast_Torso_R_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_She_01/Montage/AM_GYCY_She_01_Hit_Fast_Torso_L_01.AM_GYCY_She_01_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_She_01/Montage/AM_GYCY_She_01_Hit_Fast_Torso_R_01.AM_GYCY_She_01_Hit_Fast_Torso_R_01"
+    },
+    {
+      "ID": 100401,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_She_02/Montage/AM_GYCY_She_02_Hit_Fast_Torso_F_01.AM_GYCY_She_02_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_She_02/Montage/AM_GYCY_She_02_Hit_Fast_Torso_F_01.AM_GYCY_She_02_Hit_Fast_Torso_F_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_She_02/Montage/AM_GYCY_She_02_Hit_Fast_Torso_F_01.AM_GYCY_She_02_Hit_Fast_Torso_F_01"
+    },
+    {
+      "ID": 100501,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Lang_01/Montage/AM_GYCY_Lang_01_Hit_Fast_Torso_F_01.AM_GYCY_Lang_01_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Lang_01/Montage/AM_GYCY_Lang_01_Hit_Fast_Torso_L_01.AM_GYCY_Lang_01_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Lang_01/Montage/AM_GYCY_Lang_01_Hit_Fast_Torso_R_01.AM_GYCY_Lang_01_Hit_Fast_Torso_R_01"
+    },
+    {
+      "ID": 100601,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_She_03/Montage/AM_GYCY_She_03_Hit_Fast_Torso_F_00.AM_GYCY_She_03_Hit_Fast_Torso_F_00",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_She_03/Montage/AM_GYCY_She_03_Hit_Fast_Torso_F_01.AM_GYCY_She_03_Hit_Fast_Torso_F_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_She_03/Montage/AM_GYCY_She_03_Hit_Fast_Torso_F_02.AM_GYCY_She_03_Hit_Fast_Torso_F_02"
+    },
+    {
+      "ID": 100701,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_LingXuZi_01/Montage/AM_GYCY_LingXuZi_01_Hit_Fast_Torso_F_01.AM_GYCY_LingXuZi_01_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_LingXuZi_01/Montage/AM_GYCY_LingXuZi_01_Hit_Fast_Torso_F_01.AM_GYCY_LingXuZi_01_Hit_Fast_Torso_F_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_LingXuZi_01/Montage/AM_GYCY_LingXuZi_01_Hit_Fast_Torso_F_01.AM_GYCY_LingXuZi_01_Hit_Fast_Torso_F_01"
+    },
+    {
+      "ID": 100801,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_BaiYi_03/BaiYi_01/Montage/AM_GYCY_BaiYi_01_Hit_Fast_Torso_L_01.AM_GYCY_BaiYi_01_Hit_Fast_Torso_L_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_BaiYi_03/BaiYi_01/Montage/AM_GYCY_BaiYi_01_Hit_Fast_Torso_L_01.AM_GYCY_BaiYi_01_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_BaiYi_03/BaiYi_01/Montage/AM_GYCY_BaiYi_01_Hit_Fast_Torso_L_01.AM_GYCY_BaiYi_01_Hit_Fast_Torso_L_01"
+    },
+    {
+      "ID": 100901,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Wa_02/Montage/AM_GYCY_Wa_02_Hit_Fast_Torso_F_01.AM_GYCY_Wa_02_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Wa_02/Montage/AM_GYCY_Wa_02_Hit_Fast_Torso_F_01.AM_GYCY_Wa_02_Hit_Fast_Torso_F_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Wa_02/Montage/AM_GYCY_Wa_02_Hit_Fast_Torso_F_01.AM_GYCY_Wa_02_Hit_Fast_Torso_F_01"
+    },
+    {
+      "ID": 101001,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_TuFei_01/Montage/AM_GYCY_TuFei_01_Hit_Fast_Torso_F_01.AM_GYCY_TuFei_01_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_TuFei_01/Montage/AM_GYCY_TuFei_01_Hit_Fast_Torso_L_01.AM_GYCY_TuFei_01_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_TuFei_01/Montage/AM_GYCY_TuFei_01_Hit_Fast_Torso_R_01.AM_GYCY_TuFei_01_Hit_Fast_Torso_R_01"
+    },
+    {
+      "ID": 101101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Lang_04/Montage/AM_GYCY_Lang_04_Hit_Fast_Torso_F_03.AM_GYCY_Lang_04_Hit_Fast_Torso_F_03",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Lang_04/Montage/AM_GYCY_Lang_04_Hit_Fast_Torso_F_02.AM_GYCY_Lang_04_Hit_Fast_Torso_F_02",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Lang_04/Montage/AM_GYCY_Lang_04_Hit_Fast_Torso_F_03.AM_GYCY_Lang_04_Hit_Fast_Torso_F_03"
+    },
+    {
+      "ID": 101201,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_HeiXiong_01/Montage/AM_GYCY_HeiXiong_01_Hit_Fast_Torso_F.AM_GYCY_HeiXiong_01_Hit_Fast_Torso_F",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_HeiXiong_01/Montage/AM_GYCY_HeiXiong_01_Hit_Fast_Torso_F.AM_GYCY_HeiXiong_01_Hit_Fast_Torso_F",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_HeiXiong_01/Montage/AM_GYCY_HeiXiong_01_Hit_Fast_Torso_F.AM_GYCY_HeiXiong_01_Hit_Fast_Torso_F"
+    },
+    {
+      "ID": 101301,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Wa_01/Montage/AM_GYCY_Wa_01_Hit_Fast_Torso_F_01.AM_GYCY_Wa_01_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Wa_01/Montage/AM_GYCY_Wa_01_Hit_Fast_Torso_F_01.AM_GYCY_Wa_01_Hit_Fast_Torso_F_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Wa_01/Montage/AM_GYCY_Wa_01_Hit_Fast_Torso_F_01.AM_GYCY_Wa_01_Hit_Fast_Torso_F_01"
+    },
+    {
+      "ID": 101401,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Lang_05/Montage/AM_GYCY_Lang_05_Hit_Fast_Torso_F_02.AM_GYCY_Lang_05_Hit_Fast_Torso_F_02",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Lang_05/Montage/AM_GYCY_Lang_05_Hit_Fast_Torso_R_01.AM_GYCY_Lang_05_Hit_Fast_Torso_R_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Lang_05/Montage/AM_GYCY_Lang_05_Hit_Fast_Torso_L_01.AM_GYCY_Lang_05_Hit_Fast_Torso_L_01"
+    },
+    {
+      "ID": 101501,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Lang_06/test/AM_GYCY_Lang_06_Hit_Fast_Torso_L_01.AM_GYCY_Lang_06_Hit_Fast_Torso_L_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Lang_06/test/AM_GYCY_Lang_06_Hit_Fast_Torso_L_01.AM_GYCY_Lang_06_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Lang_06/test/AM_GYCY_Lang_06_Hit_Fast_Torso_R_01.AM_GYCY_Lang_06_Hit_Fast_Torso_R_01"
+    },
+    {
+      "ID": 101601,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Lang_07/Montage/AM_GYCY_Lang_07_Hit_Fast_Torso_F_01.AM_GYCY_Lang_07_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Lang_07/Montage/AM_GYCY_Lang_07_Hit_Fast_Torso_F_03.AM_GYCY_Lang_07_Hit_Fast_Torso_F_03",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Lang_07/Montage/AM_GYCY_Lang_07_Hit_Fast_Torso_F_02.AM_GYCY_Lang_07_Hit_Fast_Torso_F_02"
+    },
+    {
+      "ID": 101602,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Lang_07/Montage/AM_GYCY_Lang_07_Hit_Fast_Torso_F_00.AM_GYCY_Lang_07_Hit_Fast_Torso_F_00",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Lang_07/Montage/AM_GYCY_Lang_07_Hit_Fast_Torso_F_00.AM_GYCY_Lang_07_Hit_Fast_Torso_F_00",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Lang_07/Montage/AM_GYCY_Lang_07_Hit_Fast_Torso_F_00.AM_GYCY_Lang_07_Hit_Fast_Torso_F_00"
+    },
+    {
+      "ID": 101701,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Seng_01/Montage/AM_GYCY_Seng_01_Hit_Fast_Torso_F_01.AM_GYCY_Seng_01_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Seng_01/Montage/AM_GYCY_Seng_01_Hit_Fast_Torso_L_02.AM_GYCY_Seng_01_Hit_Fast_Torso_L_02",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Seng_01/Montage/AM_GYCY_Seng_01_Hit_Fast_Torso_R_02.AM_GYCY_Seng_01_Hit_Fast_Torso_R_02"
+    },
+    {
+      "ID": 101801,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Seng_03/Montage/AM_GYCY_Seng_03_Hit_Fast_Torso_L_01.AM_GYCY_Seng_03_Hit_Fast_Torso_L_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Seng_03/Montage/AM_GYCY_Seng_03_Hit_Fast_Torso_L_01.AM_GYCY_Seng_03_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Seng_03/Montage/AM_GYCY_Seng_03_Hit_Fast_Torso_R_01.AM_GYCY_Seng_03_Hit_Fast_Torso_R_01"
+    },
+    {
+      "ID": 101901,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/FTT/FTT_ShiBing_01/Montage/AM_FTT_ShiBing_01_Hit_Fast_Torso_L_01.AM_FTT_ShiBing_01_Hit_Fast_Torso_L_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/FTT/FTT_ShiBing_01/Montage/AM_FTT_ShiBing_01_Hit_Fast_Torso_L_01.AM_FTT_ShiBing_01_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/FTT/FTT_ShiBing_01/Montage/AM_FTT_ShiBing_01_Hit_Fast_Torso_R_01.AM_FTT_ShiBing_01_Hit_Fast_Torso_R_01"
+    },
+    {
+      "ID": 102001,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Seng_02/Montage/AM_GYCY_Seng_02_Hit_Fast_Torso_F_01.AM_GYCY_Seng_02_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Seng_02/Montage/AM_GYCY_Seng_02_Hit_Fast_Torso_F_01.AM_GYCY_Seng_02_Hit_Fast_Torso_F_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Seng_02/Montage/AM_GYCY_Seng_02_Hit_Fast_Torso_F_01.AM_GYCY_Seng_02_Hit_Fast_Torso_F_01"
+    },
+    {
+      "ID": 102101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_Seng_04/Montage/V3/AM_GYCY_Seng_04_V3_Torso_F_01.AM_GYCY_Seng_04_V3_Torso_F_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_Seng_04/Montage/V3/AM_GYCY_Seng_04_V3_Torso_L_01.AM_GYCY_Seng_04_V3_Torso_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_Seng_04/Montage/V3/AM_GYCY_Seng_04_V3_Torso_R_01.AM_GYCY_Seng_04_V3_Torso_R_01'"
+    },
+    {
+      "ID": 102201,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_HeiXiong_Mm/Montage/AM_GYCY_HeiXiong_01_Hit_Slow_Torso_R_01.AM_GYCY_HeiXiong_01_Hit_Slow_Torso_R_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_HeiXiong_Mm/Montage/AM_GYCY_HeiXiong_01_Hit_Slow_Torso_L_01.AM_GYCY_HeiXiong_01_Hit_Slow_Torso_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_HeiXiong_Mm/Montage/AM_GYCY_HeiXiong_01_Hit_Slow_Torso_R_01.AM_GYCY_HeiXiong_01_Hit_Slow_Torso_R_01'"
+    },
+    {
+      "ID": 102301,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_YanJianXi_01/Montage/AM_GYCY_YanJianXi_Hit_Fast_Torso_F_01.AM_GYCY_YanJianXi_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_YanJianXi_01/Montage/AM_GYCY_YanJianXi_Hit_Fast_Torso_F_01.AM_GYCY_YanJianXi_Hit_Fast_Torso_F_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_YanJianXi_01/Montage/AM_GYCY_YanJianXi_Hit_Fast_Torso_F_01.AM_GYCY_YanJianXi_Hit_Fast_Torso_F_01"
+    },
+    {
+      "ID": 102401,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_YanJianXi_01/Montage/AM_GYCY_YanJianXi_01_Hit_Fast_Torso_L_01.AM_GYCY_YanJianXi_01_Hit_Fast_Torso_L_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_YanJianXi_01/Montage/AM_GYCY_YanJianXi_01_Hit_Fast_Torso_L_01.AM_GYCY_YanJianXi_01_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_YanJianXi_01/Montage/AM_GYCY_YanJianXi_01_Hit_Fast_Torso_R_01.AM_GYCY_YanJianXi_01_Hit_Fast_Torso_R_01"
+    },
+    {
+      "ID": 102501,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_DBL_01/Montage/AM_GYCY_DBL_01_Hit_B_02.AM_GYCY_DBL_01_Hit_B_02",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_DBL_01/Montage/AM_GYCY_DBL_01_Hit_R_01.AM_GYCY_DBL_01_Hit_R_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_DBL_01/Montage/AM_GYCY_DBL_01_Hit_l_01.AM_GYCY_DBL_01_Hit_l_01"
+    },
+    {
+      "ID": 102502,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_DBL_01/Montage/AM_GYCY_DBL_01_Hit_Spec_01.AM_GYCY_DBL_01_Hit_Spec_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_DBL_01/Montage/AM_GYCY_DBL_01_Hit_Spec_01.AM_GYCY_DBL_01_Hit_Spec_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_DBL_01/Montage/AM_GYCY_DBL_01_Hit_Spec_01.AM_GYCY_DBL_01_Hit_Spec_01"
+    },
+    {
+      "ID": 102601,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/PSD/PSD_YouYan_01/Montage/AM_PSD_YouYan_01_Hit_Fast_Torso_F_01.AM_PSD_YouYan_01_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/PSD/PSD_YouYan_01/Montage/AM_PSD_YouYan_01_Hit_Fast_Torso_F_01.AM_PSD_YouYan_01_Hit_Fast_Torso_F_01",
+      "Guard": "/Game/00Main/Animation/PSD/PSD_YouYan_01/Montage/AM_PSD_YouYan_01_Hit_Fast_Torso_F_01.AM_PSD_YouYan_01_Hit_Fast_Torso_F_01"
+    },
+    {
+      "ID": 102701,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/FTT/FTT_GuiShiWei_01/Montage/AM_GYCY_GuiShiWei_01_Hit_Fast_Torso_L_01.AM_GYCY_GuiShiWei_01_Hit_Fast_Torso_L_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/FTT/FTT_GuiShiWei_01/Montage/AM_GYCY_GuiShiWei_01_Hit_Fast_Torso_L_01.AM_GYCY_GuiShiWei_01_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/FTT/FTT_GuiShiWei_01/Montage/AM_GYCY_GuiShiWei_01_Hit_Fast_Torso_R_01.AM_GYCY_GuiShiWei_01_Hit_Fast_Torso_R_01"
+    },
+    {
+      "ID": 102801,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_BaiYi_03/BaiYi_02/Montage/AM_GYCY_BaiYi_02_Hit_Fast_Torso_F_01.AM_GYCY_BaiYi_02_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_BaiYi_03/BaiYi_02/Montage/AM_GYCY_BaiYi_02_Hit_Fast_Torso_L_01.AM_GYCY_BaiYi_02_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_BaiYi_03/BaiYi_02/Montage/AM_GYCY_BaiYi_02_Hit_Fast_Torso_F_01.AM_GYCY_BaiYi_02_Hit_Fast_Torso_F_01"
+    },
+    {
+      "ID": 102901,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Lang_08/Montage/AM_GYCY_Lang_08_Hit_Fast_Torso_F_01.AM_GYCY_Lang_08_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Lang_08/Montage/AM_GYCY_Lang_08_Hit_Fast_Torso_F_01.AM_GYCY_Lang_08_Hit_Fast_Torso_F_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Lang_08/Montage/AM_GYCY_Lang_08_Hit_Fast_Torso_F_02.AM_GYCY_Lang_08_Hit_Fast_Torso_F_02"
+    },
+    {
+      "ID": 103001,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/PSD/PSD_Chong_01/Montage/AM_PSD_Chong_01_Hit_Fast_Torso_F_01.AM_PSD_Chong_01_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/PSD/PSD_Chong_01/Montage/AM_PSD_Chong_01_Hit_Fast_Torso_F_01.AM_PSD_Chong_01_Hit_Fast_Torso_F_01",
+      "Guard": "/Game/00Main/Animation/PSD/PSD_Chong_01/Montage/AM_PSD_Chong_01_Hit_Fast_Torso_F_01.AM_PSD_Chong_01_Hit_Fast_Torso_F_01"
+    },
+    {
+      "ID": 103101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 103102,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 103201,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Lang_03/Montage/AM_GYCY_Lang_03_Hit_Fast_Torso_F_01.AM_GYCY_Lang_03_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Lang_03/Montage/AM_GYCY_Lang_03_Hit_Fast_Torso_L_01.AM_GYCY_Lang_03_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Lang_03/Montage/AM_GYCY_Lang_03_Hit_Fast_Torso_R_01.AM_GYCY_Lang_03_Hit_Fast_Torso_R_01"
+    },
+    {
+      "ID": 103301,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Lang_06/test/AM_GYCY_Lang_06_Hit_Fast_Torso_L_01.AM_GYCY_Lang_06_Hit_Fast_Torso_L_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Lang_06/test/AM_GYCY_Lang_06_Hit_Fast_Torso_L_01.AM_GYCY_Lang_06_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Lang_06/test/AM_GYCY_Lang_06_Hit_Fast_Torso_R_01.AM_GYCY_Lang_06_Hit_Fast_Torso_R_01"
+    },
+    {
+      "ID": 103401,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Lang_08/Montage/AM_GYCY_Lang_08_Hit_Fast_Torso_F_01.AM_GYCY_Lang_08_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Lang_08/Montage/AM_GYCY_Lang_08_Hit_Fast_Torso_F_01.AM_GYCY_Lang_08_Hit_Fast_Torso_F_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Lang_08/Montage/AM_GYCY_Lang_08_Hit_Fast_Torso_F_02.AM_GYCY_Lang_08_Hit_Fast_Torso_F_02"
+    },
+    {
+      "ID": 103501,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 103601,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_DBL_01/Montage/AM_GYCY_DBL_01_Hit_B_02.AM_GYCY_DBL_01_Hit_B_02",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_DBL_01/Montage/AM_GYCY_DBL_01_Hit_R_01.AM_GYCY_DBL_01_Hit_R_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_DBL_01/Montage/AM_GYCY_DBL_01_Hit_l_01.AM_GYCY_DBL_01_Hit_l_01"
+    },
+    {
+      "ID": 105001,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 110101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 200101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_Hu_01/Montage/AM_HFM_Hu_01_Hit_Fast_Torso_R_01.AM_HFM_Hu_01_Hit_Fast_Torso_R_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_Hu_01/Montage/AM_HFM_Hu_01_Hit_Fast_Torso_L_01.AM_HFM_Hu_01_Hit_Fast_Torso_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_Hu_01/Montage/AM_HFM_Hu_01_Hit_Fast_Torso_R_01.AM_HFM_Hu_01_Hit_Fast_Torso_R_01'"
+    },
+    {
+      "ID": 200201,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/HFM/HFM_MaMian_01a/Montage/AM_HFM_MaMian_01a_Hit_Fast_Torso_F_01.AM_HFM_MaMian_01a_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/HFM/HFM_MaMian_01a/Montage/AM_HFM_MaMian_01a_Hit_Fast_Torso_F_01.AM_HFM_MaMian_01a_Hit_Fast_Torso_F_01",
+      "Guard": "/Game/00Main/Animation/HFM/HFM_MaMian_01a/Montage/AM_HFM_MaMian_01a_Hit_Fast_Torso_F_01.AM_HFM_MaMian_01a_Hit_Fast_Torso_F_01"
+    },
+    {
+      "ID": 200301,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/HFM/HFM_Shu_04a/Montage/AM_HFM_Shu_04_Hit_Fast_Torso_F_01.AM_HFM_Shu_04_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/HFM/HFM_Shu_04a/Montage/AM_HFM_Shu_04_Hit_Fast_Torso_L_01.AM_HFM_Shu_04_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/HFM/HFM_Shu_04a/Montage/AM_HFM_Shu_04_Hit_Fast_Torso_R_01.AM_HFM_Shu_04_Hit_Fast_Torso_R_01"
+    },
+    {
+      "ID": 200401,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_XunShanGui_01a/Montage/AM_HFM_XunShanGui_01a_Hit_Fast_F_01.AM_HFM_XunShanGui_01a_Hit_Fast_F_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_XunShanGui_01a/Montage/AM_HFM_XunShanGui_01a_Hit_Fast_L_01.AM_HFM_XunShanGui_01a_Hit_Fast_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_XunShanGui_01a/Montage/AM_HFM_XunShanGui_01a_Hit_Fast_R_01.AM_HFM_XunShanGui_01a_Hit_Fast_R_01'"
+    },
+    {
+      "ID": 200501,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShaWuLiang_01a/Montage/AM_HFM_ShaWuLiang_01_Hit_Torso_L_01.AM_HFM_ShaWuLiang_01_Hit_Torso_L_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShaWuLiang_01a/Montage/AM_HFM_ShaWuLiang_01_Hit_Torso_L_01.AM_HFM_ShaWuLiang_01_Hit_Torso_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShaWuLiang_01a/Montage/AM_HFM_ShaWuLiang_01_Hit_Torso_R_01.AM_HFM_ShaWuLiang_01_Hit_Torso_R_01'"
+    },
+    {
+      "ID": 200601,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_Hou_01a/Montage/AM_HFM_Hou_01_Hit_Fast_Torso_F_02.AM_HFM_Hou_01_Hit_Fast_Torso_F_02'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_Hou_01a/Montage/AM_HFM_Hou_01_Hit_Fast_Torso_L_02.AM_HFM_Hou_01_Hit_Fast_Torso_L_02'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_Hou_01a/Montage/AM_HFM_Hou_01_Hit_Fast_Torso_R_02.AM_HFM_Hou_01_Hit_Fast_Torso_R_02'"
+    },
+    {
+      "ID": 200701,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShanZhen_01/Montage/AM_HFM_ShanZhen_01_Hit_Back_Montage.AM_HFM_ShanZhen_01_Hit_Back_Montage'",
+      "UnitBeAttackedConfigPath": "AnimSequence'/Game/00Main/Animation/HFM/HFM_ShanZhen_01/AS_HFM_ShanZhen_01_Hit_Fast_Torso_L_02.AS_HFM_ShanZhen_01_Hit_Fast_Torso_L_02'",
+      "Guard": "AnimSequence'/Game/00Main/Animation/HFM/HFM_ShanZhen_01/AS_HFM_ShanZhen_01_Hit_Fast_Torso_R_02.AS_HFM_ShanZhen_01_Hit_Fast_Torso_R_02'"
+    },
+    {
+      "ID": 200801,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_MaoYou_02a/Montage/AM_HFM_MaoYou_02A_Hit_Fast_Torso_F_01.AM_HFM_MaoYou_02A_Hit_Fast_Torso_F_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_MaoYou_02a/Montage/AM_HFM_MaoYou_02A_Hit_Fast_Torso_L_01.AM_HFM_MaoYou_02A_Hit_Fast_Torso_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_MaoYou_02a/Montage/AM_HFM_MaoYou_02A_Hit_Fast_Torso_R_01.AM_HFM_MaoYou_02A_Hit_Fast_Torso_R_01'"
+    },
+    {
+      "ID": 200901,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_Shu_05a/Monatege/AM_HFM_Shu_05_Hit_Fast_R_01.AM_HFM_Shu_05_Hit_Fast_R_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_Shu_05a/Monatege/AM_HFM_Shu_05_Hit_Fast_L_01.AM_HFM_Shu_05_Hit_Fast_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_Shu_05a/Monatege/AM_HFM_Shu_05_Hit_Fast_R_01.AM_HFM_Shu_05_Hit_Fast_R_01'"
+    },
+    {
+      "ID": 200902,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_Shu_05a/Monatege/AM_HFM_Shu_05_Hit_S_F_01.AM_HFM_Shu_05_Hit_S_F_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_Shu_05a/Monatege/AM_HFM_Shu_05_Hit_S_F_01.AM_HFM_Shu_05_Hit_S_F_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_Shu_05a/Monatege/AM_HFM_Shu_05_Hit_S_F_01.AM_HFM_Shu_05_Hit_S_F_01'"
+    },
+    {
+      "ID": 201101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 201201,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShiXianFeng_01a/Montage/AM_HFM_ShiXianFeng_Hit_Fast_Torso_F_01.AM_HFM_ShiXianFeng_Hit_Fast_Torso_F_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShiXianFeng_01a/Montage/AM_HFM_ShiXianFeng_Hit_Fast_Torso_F_01.AM_HFM_ShiXianFeng_Hit_Fast_Torso_F_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShiXianFeng_01a/Montage/AM_HFM_ShiXianFeng_Hit_Fast_Torso_F_01.AM_HFM_ShiXianFeng_Hit_Fast_Torso_F_01'"
+    },
+    {
+      "ID": 201301,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_BXA_01a/Montage/AM_HFM_BXA_01a_Hit_Fast_Torso_F_01.AM_HFM_BXA_01a_Hit_Fast_Torso_F_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_BXA_01a/Montage/AM_HFM_BXA_01a_Hit_Fast_Torso_L_01.AM_HFM_BXA_01a_Hit_Fast_Torso_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_BXA_01a/Montage/AM_HFM_BXA_01a_Hit_Fast_Torso_R_01.AM_HFM_BXA_01a_Hit_Fast_Torso_R_01'"
+    },
+    {
+      "ID": 201401,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 201501,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShuangTouShu_01a/Montage/AM_HFM_ShuangTouShu_01a_Hit_Fast_F_01.AM_HFM_ShuangTouShu_01a_Hit_Fast_F_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShuangTouShu_01a/Montage/AM_HFM_ShuangTouShu_01a_Hit_Fast_L_01.AM_HFM_ShuangTouShu_01a_Hit_Fast_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShuangTouShu_01a/Montage/AM_HFM_ShuangTouShu_01a_Hit_Fast_R_01.AM_HFM_ShuangTouShu_01a_Hit_Fast_R_01'"
+    },
+    {
+      "ID": 201601,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShiTongLing/Montage/AM_HFM_ShiTongLing_Hit_Fast_F_01.AM_HFM_ShiTongLing_Hit_Fast_F_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShiTongLing/Montage/AM_HFM_ShiTongLing_Hit_Fast_L_01.AM_HFM_ShiTongLing_Hit_Fast_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShiTongLing/Montage/AM_HFM_ShiTongLing_Hit_Fast_R_01.AM_HFM_ShiTongLing_Hit_Fast_R_01'"
+    },
+    {
+      "ID": 201701,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_HuanWuZhe_01a/Montage/AM_HFM_HuanWuZhe_01a_Hit_Fast_F_01.AM_HFM_HuanWuZhe_01a_Hit_Fast_F_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_HuanWuZhe_01a/Montage/AM_HFM_HuanWuZhe_01a_Hit_Fast_L_01.AM_HFM_HuanWuZhe_01a_Hit_Fast_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_HuanWuZhe_01a/Montage/AM_HFM_HuanWuZhe_01a_Hit_Fast_R_01.AM_HFM_HuanWuZhe_01a_Hit_Fast_R_01'"
+    },
+    {
+      "ID": 201801,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/GYCY/GYCY_Lang_02/Montages/AM_GYCY_Lang_02_Hit_Fast_Torso_F_01.AM_GYCY_Lang_02_Hit_Fast_Torso_F_01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/GYCY/GYCY_Lang_02/Montages/AM_GYCY_Lang_02_Hit_Fast_Torso_L_01.AM_GYCY_Lang_02_Hit_Fast_Torso_L_01",
+      "Guard": "/Game/00Main/Animation/GYCY/GYCY_Lang_02/Montages/AM_GYCY_Lang_02_Hit_Fast_Torso_R_01.AM_GYCY_Lang_02_Hit_Fast_Torso_R_01"
+    },
+    {
+      "ID": 201901,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_HuangPaoZhu/Montage/AM_HFM_HuangPaoZhu_Hit_Fast_Torso_F_01.AM_HFM_HuangPaoZhu_Hit_Fast_Torso_F_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_HuangPaoZhu/Montage/AM_HFM_HuangPaoZhu_Hit_Fast_Torso_L_01.AM_HFM_HuangPaoZhu_Hit_Fast_Torso_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_HuangPaoZhu/Montage/AM_HFM_HuangPaoZhu_Hit_Fast_Torso_R_01.AM_HFM_HuangPaoZhu_Hit_Fast_Torso_R_01'"
+    },
+    {
+      "ID": 202001,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_GuYao_01A/Montage/AM_HFM_GuYao_01_Hit_Fast_Torso_R_02.AM_HFM_GuYao_01_Hit_Fast_Torso_R_02'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_GuYao_01A/Montage/AM_HFM_GuYao_01_Hit_Fast_Torso_L_01.AM_HFM_GuYao_01_Hit_Fast_Torso_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_GuYao_01A/Montage/AM_HFM_GuYao_01_Hit_Fast_Torso_R_01.AM_HFM_GuYao_01_Hit_Fast_Torso_R_01'"
+    },
+    {
+      "ID": 202101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShuNuShou_01a/Montage/AM_HFM_ShuNuShou_01_Hit_Fast_F_01.AM_HFM_ShuNuShou_01_Hit_Fast_F_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShuNuShou_01a/Montage/AM_HFM_ShuNuShou_01_Hit_Fast_L_01.AM_HFM_ShuNuShou_01_Hit_Fast_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShuNuShou_01a/Montage/AM_HFM_ShuNuShou_01_Hit_Fast_R_01.AM_HFM_ShuNuShou_01_Hit_Fast_R_01'"
+    },
+    {
+      "ID": 300101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/LYS/LYS_HongPaoShu/Montage/AM_LYS_HongPaoShu_Hit_Fast_Torso_R_01.AM_LYS_HongPaoShu_Hit_Fast_Torso_R_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_HongPaoShu/Montage/AM_LYS_HongPaoShu_Hit_Fast_Torso_L_01.AM_LYS_HongPaoShu_Hit_Fast_Torso_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/LYS/LYS_HongPaoShu/Montage/AM_LYS_HongPaoShu_Hit_Fast_Torso_R_01.AM_LYS_HongPaoShu_Hit_Fast_Torso_R_01'"
+    },
+    {
+      "ID": 300201,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/LYS/LYS_TuiSeng/Montage/AM_LYS_TuiSeng_01_Hit_Fast_L_01.AM_LYS_TuiSeng_01_Hit_Fast_L_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_TuiSeng/Montage/AM_LYS_TuiSeng_01_Hit_Fast_L_01.AM_LYS_TuiSeng_01_Hit_Fast_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/LYS/LYS_TuiSeng/Montage/AM_LYS_TuiSeng_01_Hit_Fast_R_01.AM_LYS_TuiSeng_01_Hit_Fast_R_01'"
+    },
+    {
+      "ID": 300301,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/LYS/LYS_4ChiFu/Montage/AM_LYS_4ChiFu_Hit_Fast_L_01.AM_LYS_4ChiFu_Hit_Fast_L_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_4ChiFu/Montage/AM_LYS_4ChiFu_Hit_Fast_L_01.AM_LYS_4ChiFu_Hit_Fast_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/LYS/LYS_4ChiFu/Montage/AM_LYS_4ChiFu_Hit_Fast_R_01.AM_LYS_4ChiFu_Hit_Fast_R_01'"
+    },
+    {
+      "ID": 300302,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/LYS/LYS_4ChiFu/Montage/AM_LYS_4ChiFu_Hit_Fast_R_02.AM_LYS_4ChiFu_Hit_Fast_R_02'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_4ChiFu/Montage/AM_LYS_4ChiFu_Hit_Fast_L_02.AM_LYS_4ChiFu_Hit_Fast_L_02'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/LYS/LYS_4ChiFu/Montage/AM_LYS_4ChiFu_Hit_Fast_R_02.AM_LYS_4ChiFu_Hit_Fast_R_02'"
+    },
+    {
+      "ID": 999101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 999401,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 999501,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 999601,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/01Main/Animation/Player/FrankWarrior/Montage/AM_FrankWarrior_Beatback.AM_FrankWarrior_Beatback",
+      "UnitBeAttackedConfigPath": "/Game/01Main/Animation/Player/FrankWarrior/Montage/AM_FrankWarrior_Beatback.AM_FrankWarrior_Beatback",
+      "Guard": "/Game/01Main/Animation/Player/FrankWarrior/Montage/AM_FrankWarrior_Beatback.AM_FrankWarrior_Beatback"
+    },
+    {
+      "ID": 999701,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 999801,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 999901,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 1000101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/Test/Lang_06test_SJJ/Montage/AM_GYCY_Lang_06_Hit_Fast_Torso_F_01.AM_GYCY_Lang_06_Hit_Fast_Torso_F_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/Test/Lang_06test_SJJ/Montage/AM_GYCY_Lang_06_Hit_Fast_Torso_L_01.AM_GYCY_Lang_06_Hit_Fast_Torso_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/Test/Lang_06test_SJJ/Montage/AM_GYCY_Lang_06_Hit_Fast_Torso_R_01.AM_GYCY_Lang_06_Hit_Fast_Torso_R_01'"
+    },
+    {
+      "ID": 1000201,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/RongdaTest/Retest/Lang06Ani/Montage/AM_GYCY_Lang_06_Hit_Fast_Torso_F_01.AM_GYCY_Lang_06_Hit_Fast_Torso_F_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/RongdaTest/Retest/Lang06Ani/Montage/AM_GYCY_Lang_06_Hit_Fast_Torso_L_01.AM_GYCY_Lang_06_Hit_Fast_Torso_L_01'",
+      "Guard": "AnimMontage'/Game/RongdaTest/Retest/Lang06Ani/Montage/AM_GYCY_Lang_06_Hit_Fast_Torso_R_01.AM_GYCY_Lang_06_Hit_Fast_Torso_R_01'"
+    },
+    {
+      "ID": 1001101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/Player/Sunwukong/Montage/AM_Wukong_hurt01.AM_Wukong_hurt01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/Player/Sunwukong/Montage/AM_Wukong_V4_hit_l.AM_Wukong_V4_hit_l",
+      "Guard": "/Game/00Main/Animation/Player/Sunwukong/Montage/AM_Wukong_V4_hit_r.AM_Wukong_V4_hit_r"
+    },
+    {
+      "ID": 1001201,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "/Game/00Main/Animation/Player/Sunwukong/Montage/AM_Wukong_hurt01.AM_Wukong_hurt01",
+      "UnitBeAttackedConfigPath": "/Game/00Main/Animation/Player/Sunwukong/Montage/AM_Wukong_V4_hit_l.AM_Wukong_V4_hit_l",
+      "Guard": "/Game/00Main/Animation/Player/Sunwukong/Montage/AM_Wukong_V4_hit_r.AM_Wukong_V4_hit_r"
+    },
+    {
+      "ID": 1102101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 1102102,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 300401,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/00Main/Animation/LYS/LYS_NuMuJinGang/AM/AM_LYS_NuMuJinGang_Hit_Slow_L_01.AM_LYS_NuMuJinGang_Hit_Slow_L_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_NuMuJinGang/AM/AM_LYS_NuMuJinGang_Hit_Fast_L_01.AM_LYS_NuMuJinGang_Hit_Fast_L_01'",
+      "Guard": "AnimMontage'/Game/00Main/Animation/LYS/LYS_NuMuJinGang/AM/AM_LYS_NuMuJinGang_Hit_Fast_R_01.AM_LYS_NuMuJinGang_Hit_Fast_R_01'"
+    }
+  ]
+}

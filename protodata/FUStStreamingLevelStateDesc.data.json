@@ -1,0 +1,404 @@
+{
+  "List": [
+    {
+      "ID": 1099,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFS/DA_HFS_levelstreaming_benchmark.DA_HFS_levelstreaming_benchmark'"
+    },
+    {
+      "ID": 1301,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/MGD/DA_mgd_steaming_fx_load.DA_mgd_steaming_fx_load'"
+    },
+    {
+      "ID": 1302,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/MGD/DA_mgd_steaming_fx_unload.DA_mgd_steaming_fx_unload'"
+    },
+    {
+      "ID": 1303,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/MGD/DA_mgd_steaming_fx3_load.DA_mgd_steaming_fx3_load'"
+    },
+    {
+      "ID": 2001,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFM/DA_HFM_LevelStreaming_HuStone.DA_HFM_LevelStreaming_HuStone'"
+    },
+    {
+      "ID": 2002,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFM/DA_HFM_LevelStreaming_Valley.DA_HFM_LevelStreaming_Valley'"
+    },
+    {
+      "ID": 2003,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFM/DA_HFM_LevelStreaming_Desert.DA_HFM_LevelStreaming_Desert'"
+    },
+    {
+      "ID": 2004,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFM/DA_HFM_LevelStreaming_Persistent.DA_HFM_LevelStreaming_Persistent'"
+    },
+    {
+      "ID": 2005,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFM/DA_HFM_LevelStreaming_SHLG.DA_HFM_LevelStreaming_SHLG'"
+    },
+    {
+      "ID": 2006,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFM/DA_HFM_LevelStreaming_HuCave.DA_HFM_LevelStreaming_HuCave'"
+    },
+    {
+      "ID": 2007,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFM/DA_HFM_LevelStreaming_SHLGVolume.DA_HFM_LevelStreaming_SHLGVolume'"
+    },
+    {
+      "ID": 2008,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFM/DA_HFM_LevelStreaming_HuCave_Volume.DA_HFM_LevelStreaming_HuCave_Volume'"
+    },
+    {
+      "ID": 2009,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFM/DA_HFM_levelstreaming_dujiaoxian_down.DA_HFM_levelstreaming_dujiaoxian_down'"
+    },
+    {
+      "ID": 2010,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFM/DA_HFM_LevelStreaming_XiaoXuMi.DA_HFM_LevelStreaming_XiaoXuMi'"
+    },
+    {
+      "ID": 2011,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFM/DA_hfm_levelstreaming_hastornado.DA_hfm_levelstreaming_hastornado'"
+    },
+    {
+      "ID": 2012,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFM/DA_hfm_levelstreaming_notornado.DA_hfm_levelstreaming_notornado'"
+    },
+    {
+      "ID": 3000,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/Tortoise/DA_streaminglevel_tortoise_base.DA_streaminglevel_tortoise_base'"
+    },
+    {
+      "ID": 3001,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/Tortoise/DA_streaminglevel_tortoise_C3S3_p1.DA_streaminglevel_tortoise_C3S3_p1'"
+    },
+    {
+      "ID": 3002,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/Tortoise/DA_streaminglevel_tortoise_C3S3_p2.DA_streaminglevel_tortoise_C3S3_p2'"
+    },
+    {
+      "ID": 3003,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/Tortoise/DA_streaminglevel_tortoise_C3S3_p3.DA_streaminglevel_tortoise_C3S3_p3'"
+    },
+    {
+      "ID": 3004,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/Tortoise/DA_streaminglevel_tortoise_C4S1_p1.DA_streaminglevel_tortoise_C4S1_p1'"
+    },
+    {
+      "ID": 3005,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/Tortoise/DA_streaminglevel_tortoise_C4S1_p2.DA_streaminglevel_tortoise_C4S1_p2'"
+    },
+    {
+      "ID": 3006,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/Tortoise/DA_streaminglevel_tortoise_C4S1_p3.DA_streaminglevel_tortoise_C4S1_p3'"
+    },
+    {
+      "ID": 3007,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/Tortoise/DA_streaminglevel_tortoise_loadfor_kaoan.DA_streaminglevel_tortoise_loadfor_kaoan'"
+    },
+    {
+      "ID": 3008,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/Tortoise/DA_streaminglevel_tortoisefight_only.DA_streaminglevel_tortoisefight_only'"
+    },
+    {
+      "ID": 3009,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_lys_streaming_guiseqonly.DA_lys_streaming_guiseqonly'"
+    },
+    {
+      "ID": 3044,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/Tortoise/DA_streaminglevel_tortoise_finalbase.DA_streaminglevel_tortoise_finalbase'"
+    },
+    {
+      "ID": 3045,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/Tortoise/DA_streaminglevel_tortoise_Shanggui.DA_streaminglevel_tortoise_Shanggui'"
+    },
+    {
+      "ID": 3010,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_levelstreaming_huangmei_base.DA_levelstreaming_huangmei_base'"
+    },
+    {
+      "ID": 3011,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/DA_HuangMeiLevelStreaming_Stage01.DA_HuangMeiLevelStreaming_Stage01'"
+    },
+    {
+      "ID": 3012,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/DA_HuangMeiLevelStreaming_Stage02.DA_HuangMeiLevelStreaming_Stage02'"
+    },
+    {
+      "ID": 3013,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/DA_HuangMeiLevelStreaming_Stage03.DA_HuangMeiLevelStreaming_Stage03'"
+    },
+    {
+      "ID": 3014,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_levelstreaming_torzd.DA_levelstreaming_torzd'"
+    },
+    {
+      "ID": 3015,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_levelstreaming_bigpalace.DA_levelstreaming_bigpalace'"
+    },
+    {
+      "ID": 3016,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/XiaoMiao/DA_LYS_XiaoMiao_Start.DA_LYS_XiaoMiao_Start'"
+    },
+    {
+      "ID": 3017,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/XiaoMiao/DA_LYS_XiaoMiao_End.DA_LYS_XiaoMiao_End'"
+    },
+    {
+      "ID": 3018,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/MiLe/DA_LYS_MiLe_Start.DA_LYS_MiLe_Start'"
+    },
+    {
+      "ID": 3019,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/MiLe/DA_LYS_MiLe_End.DA_LYS_MiLe_End'"
+    },
+    {
+      "ID": 3020,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/MiLe/DA_LYS_MiLe_Start_GKA.DA_LYS_MiLe_Start_GKA'"
+    },
+    {
+      "ID": 3021,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/XiaoMiao/DA_lys_beishanfeixing_quietlake.DA_lys_beishanfeixing_quietlake'"
+    },
+    {
+      "ID": 3022,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_LYS_LevelStreaming_NorthMountain.DA_LYS_LevelStreaming_NorthMountain'"
+    },
+    {
+      "ID": 3023,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/MiLe/XiaoMiLeQuest/DA_LYS_XiaoMiLe_Start.DA_LYS_XiaoMiLe_Start'"
+    },
+    {
+      "ID": 3024,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/MiLe/XiaoMiLeQuest/DA_LYS_XiaoMiLe_End.DA_LYS_XiaoMiLe_End'"
+    },
+    {
+      "ID": 3025,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HuangMei/DA_lys_streaming_c5s4p1.DA_lys_streaming_c5s4p1'"
+    },
+    {
+      "ID": 3026,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_LYS_LevelStreaming_Persistent.DA_LYS_LevelStreaming_Persistent'"
+    },
+    {
+      "ID": 3027,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_LYS_LevelStreaming_Yuanjing.DA_LYS_LevelStreaming_Yuanjing'"
+    },
+    {
+      "ID": 3028,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_LYS_LevelStreaming_StupasDungeon.DA_LYS_LevelStreaming_StupasDungeon'"
+    },
+    {
+      "ID": 3029,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/Tortoise/DA_streaminglevel_frontmountain_base.DA_streaminglevel_frontmountain_base'"
+    },
+    {
+      "ID": 3030,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/Tortoise/DA_streaminglevel_frontmountain_loadfor_kaoan.DA_streaminglevel_frontmountain_loadfor_kaoan'"
+    },
+    {
+      "ID": 3031,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_levelstreaming_18diyu.DA_levelstreaming_18diyu'"
+    },
+    {
+      "ID": 3032,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_levelstreaming_18diyu_and_dilao.DA_levelstreaming_18diyu_and_dilao'"
+    },
+    {
+      "ID": 3040,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_lys_streaming_yangxianAnShen_on.DA_lys_streaming_yangxianAnShen_on'"
+    },
+    {
+      "ID": 3041,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_lys_streaming_guatian.DA_lys_streaming_guatian'"
+    },
+    {
+      "ID": 3042,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_lys_streaming_guatian_normal.DA_lys_streaming_guatian_normal'"
+    },
+    {
+      "ID": 3043,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_levelstreaming_smallpalace.DA_levelstreaming_smallpalace'"
+    },
+    {
+      "ID": 3099,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_LYS_LevelStreaming_GlobalAreaSetting.DA_LYS_LevelStreaming_GlobalAreaSetting'"
+    },
+    {
+      "ID": 3820,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_LYS_LevelStreaming_NorthMountain_SeqGanShi.DA_LYS_LevelStreaming_NorthMountain_SeqGanShi'"
+    },
+    {
+      "ID": 3821,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/LYS/DA_LYS_LevelStreaming_NorthMountain_SeqGanShiUnload.DA_LYS_LevelStreaming_NorthMountain_SeqGanShiUnload'"
+    },
+    {
+      "ID": 4001,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_PSD_LevelStreaming_CaveBottom.DA_PSD_LevelStreaming_CaveBottom'"
+    },
+    {
+      "ID": 4002,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_PSD_LevelStreaming_Cave.DA_PSD_LevelStreaming_Cave'"
+    },
+    {
+      "ID": 4003,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_PSD_LevelStreaming_YouYan.DA_PSD_LevelStreaming_YouYan'"
+    },
+    {
+      "ID": 4004,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_PSD_LevelStreaming_IntoCave.DA_PSD_LevelStreaming_IntoCave'"
+    },
+    {
+      "ID": 4005,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_PSD_LevelStreaming_UptoHHG_p1.DA_PSD_LevelStreaming_UptoHHG_p1'"
+    },
+    {
+      "ID": 4006,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_PSD_LevelStreaming_UptoHHG_p2.DA_PSD_LevelStreaming_UptoHHG_p2'"
+    },
+    {
+      "ID": 4007,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_PSD_LevelStreaming_StartVillage.DA_PSD_LevelStreaming_StartVillage'"
+    },
+    {
+      "ID": 4008,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_PSD_LevelStreaming_HHG.DA_PSD_LevelStreaming_HHG'"
+    },
+    {
+      "ID": 4009,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_PSD_LevelStreaming_Persistent.DA_PSD_LevelStreaming_Persistent'"
+    },
+    {
+      "ID": 4010,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_PSD_LevelStreaming_Zizhuer_Unloaded.DA_PSD_LevelStreaming_Zizhuer_Unloaded'"
+    },
+    {
+      "ID": 4011,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_PSD_LevelStreaming_Zizhuer_Loaded.DA_PSD_LevelStreaming_Zizhuer_Loaded'"
+    },
+    {
+      "ID": 4012,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_PSD_LevelStreaming_IntoCave_LightChange.DA_PSD_LevelStreaming_IntoCave_LightChange'"
+    },
+    {
+      "ID": 4013,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_PSD_LevelStreaming_CaveBottom_Seq.DA_PSD_LevelStreaming_CaveBottom_Seq'"
+    },
+    {
+      "ID": 4014,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_psd_levelstreaming_zhuhai_on.DA_psd_levelstreaming_zhuhai_on'"
+    },
+    {
+      "ID": 4015,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_psd_levelstreaming_zhuhai_off.DA_psd_levelstreaming_zhuhai_off'"
+    },
+    {
+      "ID": 4016,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/PSD/DA_PSD_LevelStreaming_IntoCave_1s.DA_PSD_LevelStreaming_IntoCave_1s'"
+    },
+    {
+      "ID": 5001,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HYS/DA_HYS_LevelStreaming_BorderSwitch.DA_HYS_LevelStreaming_BorderSwitch'"
+    },
+    {
+      "ID": 5002,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HYS/DA_HYS_LevelStreaming_Persistent.DA_HYS_LevelStreaming_Persistent'"
+    },
+    {
+      "ID": 5003,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HYS/DA_hys_levelstreaming_hheseq.DA_hys_levelstreaming_hheseq'"
+    },
+    {
+      "ID": 5004,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HYS/DA_hys_levelstreaming_hheseq_seq020.DA_hys_levelstreaming_hheseq_seq020'"
+    },
+    {
+      "ID": 5005,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HYS/DA_hys_levelstreaming_hheseq_end.DA_hys_levelstreaming_hheseq_end'"
+    },
+    {
+      "ID": 5006,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HYS/DA_hys_levelstreaming_yyy.DA_hys_levelstreaming_yyy'"
+    },
+    {
+      "ID": 5007,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HYS/DA_hys_levelstreaming_yyy_yu.DA_hys_levelstreaming_yyy_yu'"
+    },
+    {
+      "ID": 1001,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFS/DA_HFS_LevelStreaming_HideRedundantLevels.DA_HFS_LevelStreaming_HideRedundantLevels'"
+    },
+    {
+      "ID": 1002,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFS/DA_HFS_LevelStreaming_GYCY.DA_HFS_LevelStreaming_GYCY'"
+    },
+    {
+      "ID": 1003,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFS/DA_HFS_LevelStreaming_GYCY_YKX.DA_HFS_LevelStreaming_GYCY_YKX'"
+    },
+    {
+      "ID": 1004,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFS/DA_HFS_LevelStreaming_Global.DA_HFS_LevelStreaming_Global'"
+    },
+    {
+      "ID": 1005,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFS/DA_hfs_streaming_qiaozhong.DA_hfs_streaming_qiaozhong'"
+    },
+    {
+      "ID": 1006,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFS/DA_HFS_LevelStreaming_Yuanjing.DA_HFS_LevelStreaming_Yuanjing'"
+    },
+    {
+      "ID": 1101,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/GYCY/DA_hfs_streaming_ykx_gycy.DA_hfs_streaming_ykx_gycy'"
+    },
+    {
+      "ID": 6200,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/EndB/DA_endb_levelstreaming_base.DA_endb_levelstreaming_base'"
+    },
+    {
+      "ID": 6201,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/EndB/DA_endb_levelstreaming_s.DA_endb_levelstreaming_s'"
+    },
+    {
+      "ID": 6202,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/EndB/DA_endb_levelstreaming_b.DA_endb_levelstreaming_b'"
+    },
+    {
+      "ID": 6203,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/EndB/DA_endb_levelstreaming_tianbing.DA_endb_levelstreaming_tianbing'"
+    },
+    {
+      "ID": 9800,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/BYS/DA_BYS_LevelStreaming_SGD_monster_hidden.DA_BYS_LevelStreaming_SGD_monster_hidden'"
+    },
+    {
+      "ID": 9801,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/BYS/DA_BYS_LevelStreaming_SGDshell_hidden.DA_BYS_LevelStreaming_SGDshell_hidden'"
+    },
+    {
+      "ID": 9802,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/BYS/DA_BYS_LevelStreaming_SGDshell.DA_BYS_LevelStreaming_SGDshell'"
+    },
+    {
+      "ID": 9803,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/BYS/DA_BYS_LevelStreaming_Houshan.DA_BYS_LevelStreaming_Houshan'"
+    },
+    {
+      "ID": 7001,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HYS/DA_bsd_levelstreaming_endseq.DA_bsd_levelstreaming_endseq'"
+    },
+    {
+      "ID": 8001,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/ZYS/DA_ZYS_LevelStreaming_Persistent.DA_ZYS_LevelStreaming_Persistent'"
+    },
+    {
+      "ID": 6101,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/EndA/DA_EndA02_LevelStreaming_Persistent.DA_EndA02_LevelStreaming_Persistent'"
+    },
+    {
+      "ID": 6001,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/EndA/DA_EndA01_LevelStreaming_Persistent.DA_EndA01_LevelStreaming_Persistent'"
+    }
+  ]
+}

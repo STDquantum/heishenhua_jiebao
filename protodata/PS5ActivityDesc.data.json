@@ -1,0 +1,95 @@
+{
+  "List": [
+    {
+      "Id": 100,
+      "Name": "起行",
+      "Category": 0,
+      "Description": "",
+      "EstimatedPlayTime": 30,
+      "IsRequiredForCompletion": 1,
+      "IsAvaliableByDefault": 0,
+      "IsHidden": 0,
+      "ChapterId": 1,
+      "LevelId": 13,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 200,
+      "Name": "穿林越岭",
+      "Category": 0,
+      "Description": "",
+      "EstimatedPlayTime": 120,
+      "IsRequiredForCompletion": 1,
+      "IsAvaliableByDefault": 0,
+      "IsHidden": 0,
+      "ChapterId": 10,
+      "LevelId": 10,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 300,
+      "Name": "飞砂走石",
+      "Category": 0,
+      "Description": "",
+      "EstimatedPlayTime": 180,
+      "IsRequiredForCompletion": 1,
+      "IsAvaliableByDefault": 0,
+      "IsHidden": 0,
+      "ChapterId": 20,
+      "LevelId": 20,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400,
+      "Name": "迎霜冒雪",
+      "Category": 0,
+      "Description": "",
+      "EstimatedPlayTime": 270,
+      "IsRequiredForCompletion": 1,
+      "IsAvaliableByDefault": 0,
+      "IsHidden": 0,
+      "ChapterId": 30,
+      "LevelId": 30,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 500,
+      "Name": "夜住晓行",
+      "Category": 0,
+      "Description": "",
+      "EstimatedPlayTime": 240,
+      "IsRequiredForCompletion": 1,
+      "IsAvaliableByDefault": 0,
+      "IsHidden": 0,
+      "ChapterId": 40,
+      "LevelId": 40,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 600,
+      "Name": "开山凿路",
+      "Category": 0,
+      "Description": "",
+      "EstimatedPlayTime": 180,
+      "IsRequiredForCompletion": 1,
+      "IsAvaliableByDefault": 0,
+      "IsHidden": 0,
+      "ChapterId": 50,
+      "LevelId": 50,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 700,
+      "Name": "斜辉返照",
+      "Category": 0,
+      "Description": "",
+      "EstimatedPlayTime": 180,
+      "IsRequiredForCompletion": 1,
+      "IsAvaliableByDefault": 0,
+      "IsHidden": 0,
+      "ChapterId": 60,
+      "LevelId": 98,
+      "LocalizationTag": 1
+    }
+  ]
+}

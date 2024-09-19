@@ -1,0 +1,2743 @@
+{
+  "List": [
+    {
+      "ID": 11240101,
+      "BuffID": 112401,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 0,
+      "EnterFX": [
+        {
+          "PSPath": "ParticleSystem'/Game/00Main/VFX/Characters/TianJiang/Particles/PS_TianJiang_Weapong_light_xunhuan.PS_TianJiang_Weapong_light_xunhuan'",
+          "Scale": 1.0,
+          "IsAttach": 1,
+          "AttachName": "FX_Sword_Top",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 11240601,
+      "BuffID": 112406,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/3rd/guansitest/Player_TianJiang/DBC_Player_TianJiang_01_loop.DBC_Player_TianJiang_01_loop'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 11240901,
+      "BuffID": 112409,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 0,
+      "EnterFX": [
+        {
+          "PSPath": "ParticleSystem'/Game/00Main/VFX/Characters/TianJiang/Particles/PS_TianJiang_Atk_Fast_06.PS_TianJiang_Atk_Fast_06'",
+          "Scale": 1.0,
+          "IsAttach": 1,
+          "AttachName": "weapon_l",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 11290101,
+      "BuffID": 112901,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_NuMuJingGang_L_1.DBC_BSD_NuMuJingGang_L_1'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 11290201,
+      "BuffID": 112902,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_NuMuJingGang_L_2.DBC_BSD_NuMuJingGang_L_2'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 11290301,
+      "BuffID": 112903,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_NuMuJingGang_R_1.DBC_BSD_NuMuJingGang_R_1'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 11290401,
+      "BuffID": 112904,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_NuMuJingGang_R_2.DBC_BSD_NuMuJingGang_R_2'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 11290501,
+      "BuffID": 112905,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_ICE_Accum_Lv1.DBC_Player_ICE_Accum_Lv1'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41101001,
+      "BuffID": 411010,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_JJS_Fire.DBC_BSD_JJS_Fire'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41101101,
+      "BuffID": 411011,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_JJS_Fire.DBC_BSD_JJS_Fire'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41101201,
+      "BuffID": 411012,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_JJS_Fire.DBC_BSD_JJS_Fire'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41101301,
+      "BuffID": 411013,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41101401,
+      "BuffID": 411014,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41101501,
+      "BuffID": 411015,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41103201,
+      "BuffID": 411032,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/3rd/cd9Test/VFX/DBC/DBC_sl_sgd_atk_13_bullet_switch.DBC_sl_sgd_atk_13_bullet_switch'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41105401,
+      "BuffID": 411054,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 0,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41105501,
+      "BuffID": 411055,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 0,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41106201,
+      "BuffID": 411062,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_JJS_Ice.DBC_BSD_JJS_Ice'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41105001,
+      "BuffID": 411050,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41105101,
+      "BuffID": 411051,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41105201,
+      "BuffID": 411052,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41110501,
+      "BuffID": 411105,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/3rd/cd9Test/VFX/DBC/DBC_sl_sgd_02.DBC_sl_sgd_02'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41191001,
+      "BuffID": 411910,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/3rd/cd9Test/VFX/DBC/DBC_CD9_test.DBC_CD9_test'",
+          "Scale": 1.0,
+          "IsAttach": 1,
+          "AttachName": "FX_HeadTop",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [
+        {
+          "FloatCurvePath": "CurveFloat'/Game/00Main/Animation/Player/Sunwukong/AnimCurve/C_Wukong_You.C_Wukong_You'",
+          "ParamName": "Liquid_MaskIntensity",
+          "CurvePosFitType": 0,
+          "IsResetOnEnd": 1,
+          "UsePrimitiveData": 1,
+          "DataIndex": 1
+        }
+      ],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41210501,
+      "BuffID": 412105,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_NuMuJingGang_L_1.DBC_BSD_NuMuJingGang_L_1'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41210601,
+      "BuffID": 412106,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_NuMuJingGang_L_2.DBC_BSD_NuMuJingGang_L_2'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41212901,
+      "BuffID": 412129,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_NuMuJingGang_L_1.DBC_BSD_NuMuJingGang_L_1'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41218801,
+      "BuffID": 412188,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41218901,
+      "BuffID": 412189,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41219001,
+      "BuffID": 412190,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41219101,
+      "BuffID": 412191,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41219201,
+      "BuffID": 412192,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41219301,
+      "BuffID": 412193,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41219401,
+      "BuffID": 412194,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41219501,
+      "BuffID": 412195,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41212201,
+      "BuffID": 412122,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_SGD/DBC/DBC_MGD_SGD_ruodian_die.DBC_MGD_SGD_ruodian_die'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41212301,
+      "BuffID": 412123,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_SGD/DBC/DBC_MGD_SGD_ruodian_hit.DBC_MGD_SGD_ruodian_hit'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 412310,
+      "BuffID": 412310,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Fire_Trigger_Lv1.DBC_Player_Fire_Trigger_Lv1'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41259801,
+      "BuffID": 412598,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41256501,
+      "BuffID": 412565,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_shujing_03/DBC_szlc_shujing_03_warning.DBC_szlc_shujing_03_warning'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41280201,
+      "BuffID": 412802,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/Design/AI/BTs/Online/SL_shixianfeng/SL_mini_sxf/DBC_shuwang_test.DBC_shuwang_test'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41287001,
+      "BuffID": 412870,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_shijing_01a/DBC_szlc_shijing_01a_benti_buff.DBC_szlc_shijing_01a_benti_buff'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41287101,
+      "BuffID": 412871,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_shijing_01a/DBC_szlc_shijing_01a_fenshen_buff.DBC_szlc_shijing_01a_fenshen_buff'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41288601,
+      "BuffID": 412886,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/Talent/DBC_wukong_recoverblood_anshenshu.DBC_wukong_recoverblood_anshenshu'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41289301,
+      "BuffID": 412893,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/3rd/guansitest/Maps/Quest/DBC_challenge_test01.DBC_challenge_test01'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41289401,
+      "BuffID": 412894,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "/Game/00Main/VFX/Characters/sunwukong/Niagara/HuiFu/BackBlood/DBC_WuKong_HeYao_BackBlood.DBC_WuKong_HeYao_BackBlood",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41289701,
+      "BuffID": 412897,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/3rd/guansitest/Maps/Quest/DBC_challenge_test01.DBC_challenge_test01'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41289901,
+      "BuffID": 412899,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/3rd/guansitest/Maps/Quest/DBC_challenge_test01.DBC_challenge_test01'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41285301,
+      "BuffID": 412853,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_shijing_01a/DBC_szlc_shijing_01a_enter.DBC_szlc_shijing_01a_enter'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41281001,
+      "BuffID": 412810,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_shijing_01a/DBC_szlc_shijing_01a_benti.DBC_szlc_shijing_01a_benti'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41281101,
+      "BuffID": 412811,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_shijing_01a/DBC_szlc_shijing_01a_fenshen.DBC_szlc_shijing_01a_fenshen'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41301101,
+      "BuffID": 413011,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Fire_Trigger_Lv1.DBC_Player_Fire_Trigger_Lv1'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41303101,
+      "BuffID": 413031,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Fire_Trigger_Lv1.DBC_Player_Fire_Trigger_Lv1'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41305101,
+      "BuffID": 413051,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "/Game/00Main/VFX/Characters/sunwukong/Niagara/HuiFu/BackBlood/DBC_WuKong_HeYao_BackBlood.DBC_WuKong_HeYao_BackBlood",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41306101,
+      "BuffID": 413061,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SL_suolian/DBC_sl_suolian.DBC_sl_suolian'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41308101,
+      "BuffID": 413081,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SL_suolian/DBC_sl_suolian_02.DBC_sl_suolian_02'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41311101,
+      "BuffID": 413111,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Fire_Trigger_Lv1.DBC_Player_Fire_Trigger_Lv1'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41313101,
+      "BuffID": 413131,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Fire_Trigger_Lv1.DBC_Player_Fire_Trigger_Lv1'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41330501,
+      "BuffID": 413305,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SL/SL_heimoshou/DBC_wa_hfm_snowman.DBC_wa_hfm_snowman'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47050101,
+      "BuffID": 470501,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47050501,
+      "BuffID": 470505,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/Common/DBC_yinshen_common.DBC_yinshen_common'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47050601,
+      "BuffID": 470506,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47050701,
+      "BuffID": 470507,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47050801,
+      "BuffID": 470508,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_yingzuilu_01/DBC_szlc_yingzuilu_01_change_23.DBC_szlc_yingzuilu_01_change_23'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47052101,
+      "BuffID": 470521,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_yingzuilu_01/DBC_slcz_yingzuilu_02_Invisible.DBC_slcz_yingzuilu_02_Invisible'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47060001,
+      "BuffID": 470600,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47061101,
+      "BuffID": 470611,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BHL/BHL_gushoufsq_01/DBC/DBC_bhl_gushoufsq_01_xy_01.DBC_bhl_gushoufsq_01_xy_01'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41659001,
+      "BuffID": 416590,
+      "CasterResID": 0,
+      "OwnerResID": 4165,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_baiyanmojun_01/DBC_szlc_baiyanmojun_01_human_invisible.DBC_szlc_baiyanmojun_01_human_invisible'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41669901,
+      "BuffID": 416699,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_baiyanmojun_01/DBC_szlc_baiyanmojun_chong_ocean_debuff.DBC_szlc_baiyanmojun_chong_ocean_debuff'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41699001,
+      "BuffID": 416990,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_baiyanmojun_01/DBC_szlc_baiyanmojun_01_demon_invisible.DBC_szlc_baiyanmojun_01_demon_invisible'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41699501,
+      "BuffID": 416995,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_baiyanmojun_01/DBC_szlc_baiyanmojun_chong_ocean_enter.DBC_szlc_baiyanmojun_chong_ocean_enter'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41699601,
+      "BuffID": 416996,
+      "CasterResID": 0,
+      "OwnerResID": 4169,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_baiyanmojun_01/DBC_szlc_baiyanmojun_01_demon_leechocean.DBC_szlc_baiyanmojun_01_demon_leechocean'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41690101,
+      "BuffID": 416901,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_baiyanmojun_01/DBC_szlc_baiyanmojun_chong_ocean_debuff.DBC_szlc_baiyanmojun_chong_ocean_debuff'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41719901,
+      "BuffID": 417199,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_baiyanmojun_01/DBC_szlc_baiyanmojun_chong_ocean_ball_debuff.DBC_szlc_baiyanmojun_chong_ocean_ball_debuff'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41720101,
+      "BuffID": 417201,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SL/SL_tianjiang_01/DBC_tianbing_opacity.DBC_tianbing_opacity'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 91204706,
+      "BuffID": 912000,
+      "CasterResID": 0,
+      "OwnerResID": 4706,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BHL/BHL_gushoufsq_01/DBC/DBC_bhl_gushoufsq_01_debuff_fire.DBC_bhl_gushoufsq_01_debuff_fire'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 1,
+          "SkelMeshParamName": "VertSurfaceActor",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47070001,
+      "BuffID": 470700,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47070101,
+      "BuffID": 470701,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_xiniu_01/DBC_szlc_xiniu_01_shorthorn.DBC_szlc_xiniu_01_shorthorn'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47070201,
+      "BuffID": 470702,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47070901,
+      "BuffID": 470709,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47071001,
+      "BuffID": 470710,
+      "CasterResID": 0,
+      "OwnerResID": 10,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_xiniu_01/DBC_szlc_xiniu_01_fullhorn_td_d.DBC_szlc_xiniu_01_fullhorn_td_d'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47071201,
+      "BuffID": 470712,
+      "CasterResID": 0,
+      "OwnerResID": 4707,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_xiniu_01/DBC_szlc_xiniu_01_fullhorn_td_j.DBC_szlc_xiniu_01_fullhorn_td_j'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47122001,
+      "BuffID": 471220,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_wagnlingguan_01/DBC_szlc_wanglingguan_block_l.DBC_szlc_wanglingguan_block_l'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47122201,
+      "BuffID": 471222,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_wagnlingguan_01/DBC_szlc_wanglingguan_block_r.DBC_szlc_wanglingguan_block_r'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47130201,
+      "BuffID": 471302,
+      "CasterResID": 0,
+      "OwnerResID": 4713,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_tanglang_01/DBC_SZLC_tanglang_P2.DBC_SZLC_tanglang_P2'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47130301,
+      "BuffID": 471303,
+      "CasterResID": 0,
+      "OwnerResID": 4713,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_tanglang_01/DBC_SZLC_tanglang_WeaponDamage.DBC_SZLC_tanglang_WeaponDamage'",
+          "Scale": 1.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47090201,
+      "BuffID": 470902,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_yingzuilu_01/DBC_slcz_yingzuilu_01_Invisible.DBC_slcz_yingzuilu_01_Invisible'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 1029801,
+      "BuffID": 10298,
+      "CasterResID": 0,
+      "OwnerResID": 10,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Cloud/DBC_wukong_cloud.DBC_wukong_cloud'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 1029301,
+      "BuffID": 10293,
+      "CasterResID": 0,
+      "OwnerResID": 10,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Cloud/DBC_wukong_cloud_rush_camerashake.DBC_wukong_cloud_rush_camerashake'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 1029201,
+      "BuffID": 10292,
+      "CasterResID": 0,
+      "OwnerResID": 10,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Cloud/DBC_wukong_cloud_rush_camerashake.DBC_wukong_cloud_rush_camerashake'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 1029001,
+      "BuffID": 10290,
+      "CasterResID": 0,
+      "OwnerResID": 10,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Cloud/DBC_wukong_cloud_rush.DBC_wukong_cloud_rush'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 1028701,
+      "BuffID": 10287,
+      "CasterResID": 0,
+      "OwnerResID": 10,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Cloud/DBC_wukong_cloud_run_camerashake.DBC_wukong_cloud_run_camerashake'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 1028601,
+      "BuffID": 10286,
+      "CasterResID": 0,
+      "OwnerResID": 10,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Cloud/DBC_wukong_cloud_run_camerashake.DBC_wukong_cloud_run_camerashake'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47120201,
+      "BuffID": 471202,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_wagnlingguan_01/DBC_szlc_wanglingguan_01_weapon_01.DBC_szlc_wanglingguan_01_weapon_01'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41340501,
+      "BuffID": 413405,
+      "CasterResID": 0,
+      "OwnerResID": 4134,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_tianjiang/DBC/DBC_MGD_tianjian_weapon_Lightning.DBC_MGD_tianjian_weapon_Lightning'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 50541001,
+      "BuffID": 505410,
+      "CasterResID": 0,
+      "OwnerResID": 5054,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_wa_01/DBC_psd_wa_01_p2_buff.DBC_psd_wa_01_p2_buff'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 44500201,
+      "BuffID": 445002,
+      "CasterResID": 0,
+      "OwnerResID": 4450,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_wa_01/DBC_hys_wa_01_p2_buff.DBC_hys_wa_01_p2_buff'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 22100201,
+      "BuffID": 221002,
+      "CasterResID": 0,
+      "OwnerResID": 2210,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFM/HFM_wa_01/DBC_hfm_wa_01_p2_buff.DBC_hfm_wa_01_p2_buff'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41630801,
+      "BuffID": 416308,
+      "CasterResID": 0,
+      "OwnerResID": 4163,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_HGS_Wa_TurnStone.DBC_HGS_Wa_TurnStone'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41638001,
+      "BuffID": 416380,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SL/SZLC_wa_01/DBC/DBC_szlc_wa_01_shetou.DBC_szlc_wa_01_shetou'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41631701,
+      "BuffID": 416317,
+      "CasterResID": 0,
+      "OwnerResID": 4163,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_HGS_Wa_OutStone.DBC_HGS_Wa_OutStone'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 41637301,
+      "BuffID": 416373,
+      "CasterResID": 0,
+      "OwnerResID": 4163,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_HGS_Wa_TurnStone_Enter.DBC_HGS_Wa_TurnStone_Enter'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 47098001,
+      "BuffID": 470980,
+      "CasterResID": 0,
+      "OwnerResID": 3011,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_FSYS/DBC/DBC_LYS_FSYS_vfx_buff.DBC_LYS_FSYS_vfx_buff'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 50102,
+      "BuffID": 501,
+      "CasterResID": 0,
+      "OwnerResID": 1888,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Refresh/DBC/DBC_Refresh_for_mgd_tianbing_01.DBC_Refresh_for_mgd_tianbing_01'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 50103,
+      "BuffID": 501,
+      "CasterResID": 0,
+      "OwnerResID": 1889,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Refresh/DBC/DBC_Refresh_for_mgd_tianbing_03.DBC_Refresh_for_mgd_tianbing_03'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 50104,
+      "BuffID": 501,
+      "CasterResID": 0,
+      "OwnerResID": 4134,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Refresh/DBC/DBC_Refresh_for_sl_tianjiang_01.DBC_Refresh_for_sl_tianjiang_01'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 48100501,
+      "BuffID": 481005,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Cutscenes/HGS/DBC/DBC_HGS_SEQ_Upwear_USE_Dissolve.DBC_HGS_SEQ_Upwear_USE_Dissolve'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 48100601,
+      "BuffID": 481006,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SL/SL_xishuai/DBC/DBC_SEQ_Opacity.DBC_SEQ_Opacity'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 48100701,
+      "BuffID": 481007,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SL/SL_xishuai/DBC/DBC_sl_xishuai_fire.DBC_sl_xishuai_fire'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    },
+    {
+      "ID": 50105,
+      "BuffID": 501,
+      "CasterResID": 0,
+      "OwnerResID": 4133,
+      "IsUseDispConfig": 1,
+      "EnterFX": [
+        {
+          "PSPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Refresh/DBC/DBC_Refresh_for_szlc_hms.DBC_Refresh_for_szlc_hms'",
+          "Scale": 0.0,
+          "IsAttach": 0,
+          "AttachName": "",
+          "WorldOffsetX": 0.0,
+          "WorldOffsetY": 0.0,
+          "WorldOffsetZ": 0.0,
+          "UseScaleFit": 0,
+          "IsAttachToSkin": 0,
+          "SkelMeshParamName": "",
+          "AddTags": ""
+        }
+      ],
+      "TickingCurveParam": [],
+      "AlmostLeaveFX": [],
+      "LeaveFX": [],
+      "DamageFXSetting": [],
+      "MaterialSetting": [],
+      "ForceDisplay": 0
+    }
+  ]
+}

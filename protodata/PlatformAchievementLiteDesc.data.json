@@ -1,0 +1,292 @@
+{
+  "List": [
+    {
+      "Id": 83,
+      "IsHidden": 0,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 1
+    },
+    {
+      "Id": 75,
+      "IsHidden": 0,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 2
+    },
+    {
+      "Id": 78,
+      "IsHidden": 0,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 3
+    },
+    {
+      "Id": 77,
+      "IsHidden": 0,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 4
+    },
+    {
+      "Id": 80,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 5
+    },
+    {
+      "Id": 82,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 6
+    },
+    {
+      "Id": 3,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 7
+    },
+    {
+      "Id": 18,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 8
+    },
+    {
+      "Id": 8,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 9
+    },
+    {
+      "Id": 19,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 10
+    },
+    {
+      "Id": 11,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 11
+    },
+    {
+      "Id": 14,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 12
+    },
+    {
+      "Id": 20,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 13
+    },
+    {
+      "Id": 16,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 14
+    },
+    {
+      "Id": 21,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 15
+    },
+    {
+      "Id": 22,
+      "IsHidden": 1,
+      "Grade": 0,
+      "Ps5TrophyPoint": 90,
+      "EpicXp": 100,
+      "SortId": 16
+    },
+    {
+      "Id": 17,
+      "IsHidden": 1,
+      "Grade": 0,
+      "Ps5TrophyPoint": 90,
+      "EpicXp": 100,
+      "SortId": 17
+    },
+    {
+      "Id": 31,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 10,
+      "SortId": 18
+    },
+    {
+      "Id": 32,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 10,
+      "SortId": 19
+    },
+    {
+      "Id": 64,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 20
+    },
+    {
+      "Id": 69,
+      "IsHidden": 1,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 5,
+      "SortId": 21
+    },
+    {
+      "Id": 41,
+      "IsHidden": 1,
+      "Grade": 0,
+      "Ps5TrophyPoint": 90,
+      "EpicXp": 100,
+      "SortId": 22
+    },
+    {
+      "Id": 74,
+      "IsHidden": 0,
+      "Grade": 0,
+      "Ps5TrophyPoint": 90,
+      "EpicXp": 100,
+      "SortId": 23
+    },
+    {
+      "Id": 42,
+      "IsHidden": 1,
+      "Grade": 1,
+      "Ps5TrophyPoint": 30,
+      "EpicXp": 50,
+      "SortId": 24
+    },
+    {
+      "Id": 43,
+      "IsHidden": 0,
+      "Grade": 1,
+      "Ps5TrophyPoint": 30,
+      "EpicXp": 50,
+      "SortId": 25
+    },
+    {
+      "Id": 48,
+      "IsHidden": 1,
+      "Grade": 1,
+      "Ps5TrophyPoint": 30,
+      "EpicXp": 50,
+      "SortId": 26
+    },
+    {
+      "Id": 49,
+      "IsHidden": 0,
+      "Grade": 1,
+      "Ps5TrophyPoint": 30,
+      "EpicXp": 50,
+      "SortId": 27
+    },
+    {
+      "Id": 50,
+      "IsHidden": 0,
+      "Grade": 1,
+      "Ps5TrophyPoint": 30,
+      "EpicXp": 50,
+      "SortId": 28
+    },
+    {
+      "Id": 51,
+      "IsHidden": 0,
+      "Grade": 1,
+      "Ps5TrophyPoint": 30,
+      "EpicXp": 50,
+      "SortId": 29
+    },
+    {
+      "Id": 52,
+      "IsHidden": 0,
+      "Grade": 1,
+      "Ps5TrophyPoint": 30,
+      "EpicXp": 50,
+      "SortId": 30
+    },
+    {
+      "Id": 58,
+      "IsHidden": 0,
+      "Grade": 1,
+      "Ps5TrophyPoint": 30,
+      "EpicXp": 50,
+      "SortId": 31
+    },
+    {
+      "Id": 59,
+      "IsHidden": 0,
+      "Grade": 1,
+      "Ps5TrophyPoint": 30,
+      "EpicXp": 50,
+      "SortId": 32
+    },
+    {
+      "Id": 46,
+      "IsHidden": 0,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 15,
+      "SortId": 33
+    },
+    {
+      "Id": 47,
+      "IsHidden": 0,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 15,
+      "SortId": 34
+    },
+    {
+      "Id": 76,
+      "IsHidden": 0,
+      "Grade": 2,
+      "Ps5TrophyPoint": 15,
+      "EpicXp": 15,
+      "SortId": 35
+    },
+    {
+      "Id": 85,
+      "IsHidden": 0,
+      "Grade": 3,
+      "Ps5TrophyPoint": 0,
+      "EpicXp": 0,
+      "SortId": 36
+    }
+  ]
+}

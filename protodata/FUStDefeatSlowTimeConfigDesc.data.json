@@ -1,0 +1,1040 @@
+{
+  "List": [
+    {
+      "ID": 100201,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 1501,
+      "TriggerType": 3,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 103101,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        10113201
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 1,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 102301,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        11110201
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 1,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 102401,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 390101,
+      "TotalTime": 2.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        10210042
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 102501,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 100801,
+      "TotalTime": 3.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        10108201
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime_baiyi.DefeatSlowTime_baiyi'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou_light"
+    },
+    {
+      "ID": 102801,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        10108301
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 103701,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        10111201
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 101101,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 100301,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 201101,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        20111112
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 1,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 600101,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        25102501
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 1,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 600102,
+      "TotalTime": 1.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        25102400
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 0,
+      "DefeatedSound": ""
+    },
+    {
+      "ID": 202201,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        20106211
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 220501,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 201201,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 302501,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        20220013
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 202501,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 1506,
+      "TriggerType": 2,
+      "SeqIDList": [
+        20103211,
+        20103221
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 201401,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 201901,
+      "TotalTime": 2.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        20220031
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 210201,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 200101,
+      "TotalTime": 2.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        25102201
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 380001,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        30105401
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 1,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 390001,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        30105200
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 302301,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        30101501
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 340101,
+      "TotalTime": 2.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        30103401
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 301901,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        30102201
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 302901,
+      "TotalTime": 2.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        30230042
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Maps/LYS/Sequence/Quest/SeqDelayCurve_shenlong_die.SeqDelayCurve_shenlong_die'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 301301,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 301303,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        30105301
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 302201,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 301401,
+      "TotalTime": 2.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        30230142
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Maps/LYS/Sequence/Quest/SeqDelayCurve_shenlong_die.SeqDelayCurve_shenlong_die'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 302101,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        30230032
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 301201,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 301202,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 3,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou_light"
+    },
+    {
+      "ID": 300501,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 201701,
+      "TotalTime": 2.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        30230023
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 302001,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 302801,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 301601,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        40240032
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 500501,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        40104201
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 1,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 470601,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        80005030
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 1,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 470602,
+      "TotalTime": 2.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        80005050,
+        80005020
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou_light"
+    },
+    {
+      "ID": 500301,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        40103401
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 500302,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        40103301
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 50030101,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        40103351
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou_light"
+    },
+    {
+      "ID": 500801,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        40103601
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 499901,
+      "TotalTime": 2.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 501401,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        40101301
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 540602,
+      "TotalTime": 1.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        40240024
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou_light"
+    },
+    {
+      "ID": 500102,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        40240022
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 500103,
+      "TotalTime": 2.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        40240023
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou_light"
+    },
+    {
+      "ID": 502001,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 488801,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        40102401
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 431101,
+      "TotalTime": 2.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        80004030
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou_light"
+    },
+    {
+      "ID": 500912,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        80004040
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 440101,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        50109201
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou_light"
+    },
+    {
+      "ID": 440501,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        50110101
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 1,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 411001,
+      "TotalTime": 2.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        70001003,
+        70001004,
+        70001005
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 1,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 200201,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        50107201
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou_light"
+    },
+    {
+      "ID": 440701,
+      "TotalTime": 2.0,
+      "UnitDefeatedType": "妖王 · ",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        50107301
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 402001,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 3,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 401901,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 1507,
+      "TriggerType": 2,
+      "SeqIDList": [
+        50104201
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 400501,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 1503,
+      "TriggerType": 3,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 405301,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 440201,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 1502,
+      "TriggerType": 3,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 740101,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        61102101
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou_light"
+    },
+    {
+      "ID": 700101,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        61104101
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 471201,
+      "TotalTime": 3.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        90002020
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 412101,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        90000012
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 416301,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "头目 · ",
+      "UIWordId": 0,
+      "TriggerType": 1,
+      "SeqIDList": [],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 470501,
+      "TotalTime": 3.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        90006031
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 470701,
+      "TotalTime": 3.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        90003020
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 471301,
+      "TotalTime": 2.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        90006021
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 0,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    },
+    {
+      "ID": 800001,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        62102101
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou_light"
+    },
+    {
+      "ID": 199901,
+      "TotalTime": 5.0,
+      "UnitDefeatedType": "",
+      "UIWordId": 0,
+      "TriggerType": 2,
+      "SeqIDList": [
+        62104101
+      ],
+      "TimeDilationCurve": "CurveFloat'/Game/00Main/Design/Curve/DefeatSlowTime.DefeatSlowTime'",
+      "DefeatUIShowType": 2,
+      "LocalizationTag": 1,
+      "DefeatedSound": "EVT_ui_kill_jisha_manjingtou"
+    }
+  ]
+}

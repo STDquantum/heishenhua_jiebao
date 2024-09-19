@@ -1,0 +1,14 @@
+{
+  "List": [
+    {
+      "Id": 1,
+      "Quality": 0,
+      "Type": 0,
+      "Position": 0,
+      "OnlyEffective": 0,
+      "TalentId": 0,
+      "EquipAttrId": 0,
+      "Desc": ""
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "List": [
+    {
+      "ID": 2001,
+      "TargetFilter": 1,
+      "SurfaceType": 9,
+      "SurfaceBuffList": [
+        10005
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 3001,
+      "TargetFilter": 1,
+      "SurfaceType": 10,
+      "SurfaceBuffList": [
+        10001
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 3002,
+      "TargetFilter": 1,
+      "SurfaceType": 0,
+      "SurfaceBuffList": [],
+      "EnvironmentAbnormalEffectDA": "/Game/00Main/Maps/LYS/DataAssets/EAEC_lys_02.EAEC_lys_02"
+    },
+    {
+      "ID": 3003,
+      "TargetFilter": 1,
+      "SurfaceType": 16,
+      "SurfaceBuffList": [
+        10002
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 3004,
+      "TargetFilter": 1,
+      "SurfaceType": 2,
+      "SurfaceBuffList": [
+        39004
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 4001,
+      "TargetFilter": 1,
+      "SurfaceType": 3,
+      "SurfaceBuffList": [
+        488815,
+        193
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 4002,
+      "TargetFilter": 1,
+      "SurfaceType": 18,
+      "SurfaceBuffList": [
+        500395
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 5001,
+      "TargetFilter": 1,
+      "SurfaceType": 12,
+      "SurfaceBuffList": [
+        461,
+        462,
+        463
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 5002,
+      "TargetFilter": 1,
+      "SurfaceType": 12,
+      "SurfaceBuffList": [
+        461,
+        464,
+        465
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 5101,
+      "TargetFilter": 1,
+      "SurfaceType": 17,
+      "SurfaceBuffList": [
+        10003
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 8001,
+      "TargetFilter": 1,
+      "SurfaceType": 11,
+      "SurfaceBuffList": [
+        411048
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 8002,
+      "TargetFilter": 1,
+      "SurfaceType": 12,
+      "SurfaceBuffList": [
+        411049,
+        411061
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 8003,
+      "TargetFilter": 1,
+      "SurfaceType": 12,
+      "SurfaceBuffList": [
+        461,
+        464,
+        465
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 8004,
+      "TargetFilter": 1,
+      "SurfaceType": 12,
+      "SurfaceBuffList": [
+        461,
+        411151,
+        411152
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 8005,
+      "TargetFilter": 1,
+      "SurfaceType": 17,
+      "SurfaceBuffList": [
+        10002
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 1001,
+      "TargetFilter": 1,
+      "SurfaceType": 3,
+      "SurfaceBuffList": [
+        103108
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    },
+    {
+      "ID": 9901,
+      "TargetFilter": 1,
+      "SurfaceType": 19,
+      "SurfaceBuffList": [
+        158
+      ],
+      "EnvironmentAbnormalEffectDA": ""
+    }
+  ]
+}

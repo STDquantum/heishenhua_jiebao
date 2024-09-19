@@ -1,0 +1,32 @@
+{
+  "List": [
+    {
+      "TipsType": 1,
+      "BaseWeight": 1000,
+      "DeathAddWeight": 9000,
+      "TransferAddWeight": 0,
+      "UnitKillAddWeight": 0
+    },
+    {
+      "TipsType": 2,
+      "BaseWeight": 1000,
+      "DeathAddWeight": 0,
+      "TransferAddWeight": 9000,
+      "UnitKillAddWeight": 0
+    },
+    {
+      "TipsType": 3,
+      "BaseWeight": 1000,
+      "DeathAddWeight": 0,
+      "TransferAddWeight": 9000,
+      "UnitKillAddWeight": 0
+    },
+    {
+      "TipsType": 4,
+      "BaseWeight": 100,
+      "DeathAddWeight": 0,
+      "TransferAddWeight": 0,
+      "UnitKillAddWeight": 12000
+    }
+  ]
+}

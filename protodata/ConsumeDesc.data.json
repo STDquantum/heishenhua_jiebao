@@ -1,0 +1,1291 @@
+{
+  "List": [
+    {
+      "Id": 2001,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92001
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2002,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92002
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2003,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92003
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2004,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92004
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2005,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92005
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2006,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92006
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2007,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92007
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2008,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92008
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2009,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92009
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2816
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2010,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92010
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2011,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92024
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 92011
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2012,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92012
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2019,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92019
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2020,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92020
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2021,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92021
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2022,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92022
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 92025
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2023,
+      "Type": 1,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92023
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2301,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92301
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2302,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92302
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2303,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92303
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 2,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2304,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92304
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2305,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92305
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2306,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92306
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2307,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92307
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2308,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92308
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2309,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92309
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2310,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92310
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2311,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92311
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2312,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92312
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2313,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92313
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 3,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2314,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92314
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 2,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2315,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92315
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 3,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2316,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92316
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 1,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2317,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92317
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 92327
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 92328
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2318,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92318
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2319,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92319
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2320,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92320
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2321,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92321
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2322,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92322
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 4,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2323,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92323
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2324,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92329
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2325,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92330
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2326,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92331
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2327,
+      "Type": 5,
+      "SkillId": 0,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92332
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 2,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2401,
+      "Type": 0,
+      "SkillId": 10912,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 0
+        }
+      ],
+      "SkipAutoWear": 1,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 1
+    },
+    {
+      "Id": 2402,
+      "Type": 0,
+      "SkillId": 10909,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 0
+        }
+      ],
+      "SkipAutoWear": 1,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 1
+    },
+    {
+      "Id": 2403,
+      "Type": 0,
+      "SkillId": 10439,
+      "ConsumeEffect": [],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 1
+    },
+    {
+      "Id": 2204,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92204
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2205,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92205
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2206,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92206
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2207,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92207
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2208,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92208
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2210,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92209
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2211,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92211
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2213,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92213
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2215,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92215
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2218,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92218
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2221,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92221
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2224,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92224
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2227,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92227
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2230,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92230
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2234,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92234
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2236,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92236
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2245,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92245
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2247,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92247
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2251,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92251
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2252,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92252
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    },
+    {
+      "Id": 2253,
+      "Type": 4,
+      "SkillId": 10913,
+      "ConsumeEffect": [
+        {
+          "EffectType": 0,
+          "EffectId": 92253
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 2191
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 1103
+        },
+        {
+          "EffectType": 0,
+          "EffectId": 21065
+        }
+      ],
+      "SkipAutoWear": 0,
+      "IsMedicinalMaterials": 0,
+      "WinePartnerTrigger": 0,
+      "CantUseInBossRoom": 0
+    }
+  ]
+}

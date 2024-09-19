@@ -1,0 +1,14 @@
+{
+  "List": [
+    {
+      "ID": 10,
+      "HardMoveSpeedNormal": 100.0,
+      "HardMoveSpeedFast": 150.0
+    },
+    {
+      "ID": 10011,
+      "HardMoveSpeedNormal": 100.0,
+      "HardMoveSpeedFast": 150.0
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "List": [
+    {
+      "ID": 998301,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/02_X2Main/Animation/TianJiang_01/Montage/AM_HGS_TianJiang_01_hit01.AM_HGS_TianJiang_01_hit01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/02_X2Main/Animation/TianJiang_01/Montage/AM_HGS_TianJiang_01_hit01.AM_HGS_TianJiang_01_hit01'",
+      "Guard": "AnimMontage'/Game/02_X2Main/Animation/TianJiang_01/Montage/AM_HGS_TianJiang_01_hit01.AM_HGS_TianJiang_01_hit01'"
+    },
+    {
+      "ID": 998401,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/02_X2Main/Animation/TianBing_02/Montage/X2_TianBing_02_hit01.X2_TianBing_02_hit01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/02_X2Main/Animation/TianBing_02/Montage/X2_TianBing_02_hit01.X2_TianBing_02_hit01'",
+      "Guard": "AnimMontage'/Game/02_X2Main/Animation/TianBing_02/Montage/X2_TianBing_02_hit01.X2_TianBing_02_hit01'"
+    },
+    {
+      "ID": 998501,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/02_X2Main/Animation/TianBing_01/Montage/X2_tianbing_01_hit01.X2_tianbing_01_hit01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/02_X2Main/Animation/TianBing_01/Montage/X2_tianbing_01_hit01.X2_tianbing_01_hit01'",
+      "Guard": "AnimMontage'/Game/02_X2Main/Animation/TianBing_01/Montage/X2_tianbing_01_hit01.X2_tianbing_01_hit01'"
+    },
+    {
+      "ID": 998601,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_Hit_Slow_Torso_R_01.X2_GuiShiWei_01_Hit_Slow_Torso_R_01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_Hit_Slow_Torso_R_01.X2_GuiShiWei_01_Hit_Slow_Torso_R_01'",
+      "Guard": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_Hit_Slow_Torso_R_01.X2_GuiShiWei_01_Hit_Slow_Torso_R_01'"
+    },
+    {
+      "ID": 998101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 996101,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 996201,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 996301,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 996401,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 996501,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 996601,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 996701,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "",
+      "UnitBeAttackedConfigPath": "",
+      "Guard": ""
+    },
+    {
+      "ID": 998701,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/02_X2Main/Animation/Heroes/Taishici/Montage/AM_Taishici_hit_EX_Fly01.AM_Taishici_hit_EX_Fly01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/02_X2Main/Animation/Heroes/Taishici/Montage/AM_Taishici_hit_EX_Fly01.AM_Taishici_hit_EX_Fly01'",
+      "Guard": "AnimMontage'/Game/02_X2Main/Animation/Heroes/Taishici/Montage/AM_Taishici_hit_EX_Fly01.AM_Taishici_hit_EX_Fly01'"
+    },
+    {
+      "ID": 998201,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/02_X2Main/Animation/Heroes/SunQuan/Montage/AM_sunquan_EX_flyhit01.AM_sunquan_EX_flyhit01'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/02_X2Main/Animation/Heroes/SunQuan/Montage/AM_sunquan_EX_flyhit01.AM_sunquan_EX_flyhit01'",
+      "Guard": "AnimMontage'/Game/02_X2Main/Animation/Heroes/SunQuan/Montage/AM_sunquan_EX_flyhit01.AM_sunquan_EX_flyhit01'"
+    },
+    {
+      "ID": 996801,
+      "UnitBeAttackedBlendType": 0,
+      "PhysAnimImpulseScale": 0.0,
+      "MinHitIntoCliffLevel": 0,
+      "MaxHitIntoCliffLevel": 0,
+      "BeAttackedPhysAnimAsset": "AnimMontage'/Game/02_X2Main/Animation/Heroes/LiuBei/Montage/AM_liubei_hit.AM_liubei_hit'",
+      "UnitBeAttackedConfigPath": "AnimMontage'/Game/02_X2Main/Animation/Heroes/LiuBei/Montage/AM_liubei_hit.AM_liubei_hit'",
+      "Guard": "AnimMontage'/Game/02_X2Main/Animation/Heroes/LiuBei/Montage/AM_liubei_hit.AM_liubei_hit'"
+    }
+  ]
+}

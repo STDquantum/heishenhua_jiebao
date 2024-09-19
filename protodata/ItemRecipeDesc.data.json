@@ -1,0 +1,603 @@
+{
+  "List": [
+    {
+      "Id": 1104,
+      "TargetItem": {
+        "Id": 2204,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3205,
+          "Num": 1
+        },
+        {
+          "Id": 3216,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1105,
+      "TargetItem": {
+        "Id": 2205,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3207,
+          "Num": 1
+        },
+        {
+          "Id": 3216,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1106,
+      "TargetItem": {
+        "Id": 2206,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3206,
+          "Num": 1
+        },
+        {
+          "Id": 3216,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1107,
+      "TargetItem": {
+        "Id": 2207,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3204,
+          "Num": 1
+        },
+        {
+          "Id": 3208,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1108,
+      "TargetItem": {
+        "Id": 2208,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3203,
+          "Num": 1
+        },
+        {
+          "Id": 3216,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1110,
+      "TargetItem": {
+        "Id": 2210,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3205,
+          "Num": 1
+        },
+        {
+          "Id": 3215,
+          "Num": 1
+        },
+        {
+          "Id": 3218,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1111,
+      "TargetItem": {
+        "Id": 2211,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3205,
+          "Num": 1
+        },
+        {
+          "Id": 3219,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1113,
+      "TargetItem": {
+        "Id": 2213,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3214,
+          "Num": 1
+        },
+        {
+          "Id": 3208,
+          "Num": 1
+        },
+        {
+          "Id": 3218,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1115,
+      "TargetItem": {
+        "Id": 2215,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3214,
+          "Num": 1
+        },
+        {
+          "Id": 3211,
+          "Num": 1
+        },
+        {
+          "Id": 3212,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1118,
+      "TargetItem": {
+        "Id": 2218,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3201,
+          "Num": 1
+        },
+        {
+          "Id": 3209,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1121,
+      "TargetItem": {
+        "Id": 2221,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3208,
+          "Num": 1
+        },
+        {
+          "Id": 3201,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1124,
+      "TargetItem": {
+        "Id": 2224,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3217,
+          "Num": 1
+        },
+        {
+          "Id": 3202,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1127,
+      "TargetItem": {
+        "Id": 2227,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3217,
+          "Num": 1
+        },
+        {
+          "Id": 3204,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1130,
+      "TargetItem": {
+        "Id": 2230,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3201,
+          "Num": 1
+        },
+        {
+          "Id": 3203,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1134,
+      "TargetItem": {
+        "Id": 2234,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3217,
+          "Num": 1
+        },
+        {
+          "Id": 3206,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1136,
+      "TargetItem": {
+        "Id": 2236,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3219,
+          "Num": 1
+        },
+        {
+          "Id": 3209,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1142,
+      "TargetItem": {
+        "Id": 2245,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3212,
+          "Num": 1
+        },
+        {
+          "Id": 3204,
+          "Num": 1
+        },
+        {
+          "Id": 3202,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1144,
+      "TargetItem": {
+        "Id": 2247,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3201,
+          "Num": 1
+        },
+        {
+          "Id": 3216,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1147,
+      "TargetItem": {
+        "Id": 1156,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [],
+      "IsAttrItem": 1,
+      "CostMoney": 360,
+      "KeyItemId": 3003,
+      "KeyItemNum": 2
+    },
+    {
+      "Id": 1148,
+      "TargetItem": {
+        "Id": 1157,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [],
+      "IsAttrItem": 1,
+      "CostMoney": 360,
+      "KeyItemId": 3003,
+      "KeyItemNum": 2
+    },
+    {
+      "Id": 1149,
+      "TargetItem": {
+        "Id": 1158,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [],
+      "IsAttrItem": 1,
+      "CostMoney": 540,
+      "KeyItemId": 3003,
+      "KeyItemNum": 3
+    },
+    {
+      "Id": 1150,
+      "TargetItem": {
+        "Id": 1159,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [],
+      "IsAttrItem": 1,
+      "CostMoney": 180,
+      "KeyItemId": 3003,
+      "KeyItemNum": 1
+    },
+    {
+      "Id": 1151,
+      "TargetItem": {
+        "Id": 1160,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [],
+      "IsAttrItem": 1,
+      "CostMoney": 180,
+      "KeyItemId": 3003,
+      "KeyItemNum": 1
+    },
+    {
+      "Id": 1152,
+      "TargetItem": {
+        "Id": 1161,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [],
+      "IsAttrItem": 1,
+      "CostMoney": 180,
+      "KeyItemId": 3003,
+      "KeyItemNum": 1
+    },
+    {
+      "Id": 1153,
+      "TargetItem": {
+        "Id": 1162,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [],
+      "IsAttrItem": 1,
+      "CostMoney": 180,
+      "KeyItemId": 3003,
+      "KeyItemNum": 1
+    },
+    {
+      "Id": 1154,
+      "TargetItem": {
+        "Id": 1163,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [],
+      "IsAttrItem": 1,
+      "CostMoney": 180,
+      "KeyItemId": 3003,
+      "KeyItemNum": 1
+    },
+    {
+      "Id": 1155,
+      "TargetItem": {
+        "Id": 1164,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [],
+      "IsAttrItem": 1,
+      "CostMoney": 180,
+      "KeyItemId": 3003,
+      "KeyItemNum": 1
+    },
+    {
+      "Id": 1166,
+      "TargetItem": {
+        "Id": 2251,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3201,
+          "Num": 1
+        },
+        {
+          "Id": 3211,
+          "Num": 1
+        },
+        {
+          "Id": 3207,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1167,
+      "TargetItem": {
+        "Id": 2252,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3201,
+          "Num": 1
+        },
+        {
+          "Id": 3202,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    },
+    {
+      "Id": 1168,
+      "TargetItem": {
+        "Id": 2253,
+        "Num": 1
+      },
+      "SuccessRate": 10000,
+      "MaterialList": [
+        {
+          "Id": 3212,
+          "Num": 1
+        },
+        {
+          "Id": 3204,
+          "Num": 1
+        }
+      ],
+      "IsAttrItem": 0,
+      "CostMoney": 0,
+      "KeyItemId": 0,
+      "KeyItemNum": 0
+    }
+  ]
+}

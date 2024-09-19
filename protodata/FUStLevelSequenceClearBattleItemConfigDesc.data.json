@@ -1,0 +1,114 @@
+{
+  "List": [
+    {
+      "ID": 1001,
+      "ProjectileID": 50059901,
+      "SummonID": 0
+    },
+    {
+      "ID": 1002,
+      "ProjectileID": 50051001,
+      "SummonID": 0
+    },
+    {
+      "ID": 1003,
+      "ProjectileID": 50051002,
+      "SummonID": 0
+    },
+    {
+      "ID": 1004,
+      "ProjectileID": 50051003,
+      "SummonID": 0
+    },
+    {
+      "ID": 1005,
+      "ProjectileID": 50051004,
+      "SummonID": 0
+    },
+    {
+      "ID": 1006,
+      "ProjectileID": 50051012,
+      "SummonID": 0
+    },
+    {
+      "ID": 1007,
+      "ProjectileID": 50051020,
+      "SummonID": 0
+    },
+    {
+      "ID": 1008,
+      "ProjectileID": 50051021,
+      "SummonID": 0
+    },
+    {
+      "ID": 1009,
+      "ProjectileID": 50051022,
+      "SummonID": 0
+    },
+    {
+      "ID": 1010,
+      "ProjectileID": 50051023,
+      "SummonID": 0
+    },
+    {
+      "ID": 1011,
+      "ProjectileID": 50051024,
+      "SummonID": 0
+    },
+    {
+      "ID": 1012,
+      "ProjectileID": 50051025,
+      "SummonID": 0
+    },
+    {
+      "ID": 1013,
+      "ProjectileID": 50051026,
+      "SummonID": 0
+    },
+    {
+      "ID": 1014,
+      "ProjectileID": 50051027,
+      "SummonID": 0
+    },
+    {
+      "ID": 1015,
+      "ProjectileID": 50051028,
+      "SummonID": 0
+    },
+    {
+      "ID": 1016,
+      "ProjectileID": 50051030,
+      "SummonID": 0
+    },
+    {
+      "ID": 1017,
+      "ProjectileID": 50051031,
+      "SummonID": 0
+    },
+    {
+      "ID": 1018,
+      "ProjectileID": 50051032,
+      "SummonID": 0
+    },
+    {
+      "ID": 1019,
+      "ProjectileID": 50051033,
+      "SummonID": 0
+    },
+    {
+      "ID": 1020,
+      "ProjectileID": 50051034,
+      "SummonID": 0
+    },
+    {
+      "ID": 1021,
+      "ProjectileID": 50051099,
+      "SummonID": 0
+    },
+    {
+      "ID": 1022,
+      "ProjectileID": 40260001,
+      "SummonID": 0
+    }
+  ]
+}

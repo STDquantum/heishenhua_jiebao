@@ -1,0 +1,594 @@
+{
+  "List": [
+    {
+      "ID": 0,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 1,
+      "LockTargetTag": "UGuid.HYS.Fox",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 1,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WeakPerform",
+      "ExitDelayTime": 1.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 2,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 0,
+      "LockTargetTag": "",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 3,
+      "IsDisableXAxisMove": 1,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "test111",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 100001,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_TeachRP",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 100101,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_GYCY",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 100102,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_GYCY_TuDi",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 12.0
+    },
+    {
+      "ID": 100103,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_MountainTop",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 100104,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_LLXZ",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 100105,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 1,
+      "LockTargetTag": "UGuid.FTT.Tudipo.NPC",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 200101,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_SXF",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 200102,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 1,
+      "LockType": 1,
+      "LockTargetTag": "UGuid.HFM.PaoHuoShu",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 200103,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_SMC",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 200104,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_LZY",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 200105,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_Xugou",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 200106,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_XHY",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 200107,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_WHS",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 200108,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_HFZ",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 250001,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_SHLG",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 300101,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 0,
+      "LockType": 1,
+      "LockTargetTag": "UGuid.LYS.XueHou.NM",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 300102,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 0,
+      "LockType": 1,
+      "LockTargetTag": "UGuid.LYS.SengMian",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 300103,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_tudipo_lys",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 300104,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_Mo3_Fly",
+      "ExitDelayTime": 4.5,
+      "DurationTime": 5.0
+    },
+    {
+      "ID": 300105,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 1,
+      "LockTargetTag": "UGuid.LYS.Mo2",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 300106,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 0,
+      "LockType": 1,
+      "LockTargetTag": "UGuid.LYS.Mile.NPC",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 2.5
+    },
+    {
+      "ID": 300107,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_XSJ",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 300108,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_LYS",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 340101,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 1,
+      "LockTargetTag": "UGuid.NPC.ZhuBaJie.GB",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 400101,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_4JDX",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 400102,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_YouYan",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 400103,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 1,
+      "LockType": 1,
+      "LockTargetTag": "UGuid.PSD.BaiYanMoJun",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 400104,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_NG_Bajie",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 400105,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_tudipo_psd",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 400106,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_HHG",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 431001,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_ZYS",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 431002,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_ZYS2",
+      "ExitDelayTime": 3.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 431003,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_ZYS3",
+      "ExitDelayTime": 3.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 431101,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "ZYS_DuChong",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 499901,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "ZYS_XieZi",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 26.0
+    },
+    {
+      "ID": 410101,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_MRXG",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 500101,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "FoxPoint",
+      "ExitDelayTime": 1.0,
+      "DurationTime": 60.0
+    },
+    {
+      "ID": 500102,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "Yumian",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 8.0
+    },
+    {
+      "ID": 500103,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "BaGuaZhen",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 500104,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "WP_HLG_1",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 509901,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "PSD_TouTing",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 10.0
+    },
+    {
+      "ID": 509902,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "PSD_XueJi",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 509903,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "ZBJ_CZ",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 200199,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_houhu",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 9.0
+    },
+    {
+      "ID": 800001,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_JJS",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 800002,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_BSD",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 900001,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_WLG",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 488801,
+      "IsDisableXAxisMove": 1,
+      "IsDisableMoveBack": 0,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "psd_foshouchong",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 399001,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "XS_01",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 399002,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 0,
+      "LockType": 2,
+      "LockTargetTag": "XS_02",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 980001,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_houshan",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 980002,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_hgs_wlg",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 3.8
+    },
+    {
+      "ID": 980003,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_hgs_shiluan",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 980004,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_hgs_shuilian",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    },
+    {
+      "ID": 980005,
+      "IsDisableXAxisMove": 0,
+      "IsDisableMoveBack": 1,
+      "IsDisableInteract": 1,
+      "LockType": 2,
+      "LockTargetTag": "WP_jingubang",
+      "ExitDelayTime": 0.0,
+      "DurationTime": 0.0
+    }
+  ]
+}

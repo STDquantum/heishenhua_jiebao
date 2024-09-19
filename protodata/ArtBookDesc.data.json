@@ -1,0 +1,1147 @@
+{
+  "List": [
+    {
+      "Id": 101001,
+      "SortId": 0,
+      "Name": "黑风山",
+      "LevelId": 10,
+      "Type": 1,
+      "ChapterId": 10,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 101002,
+      "SortId": 0,
+      "Name": "黑风山",
+      "LevelId": 10,
+      "Type": 1,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 101003,
+      "SortId": 0,
+      "Name": "黑风山",
+      "LevelId": 10,
+      "Type": 1,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 101004,
+      "SortId": 0,
+      "Name": "黑风山",
+      "LevelId": 10,
+      "Type": 1,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 101005,
+      "SortId": 0,
+      "Name": "黑风山",
+      "LevelId": 10,
+      "Type": 1,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 101006,
+      "SortId": 0,
+      "Name": "黑风山",
+      "LevelId": 10,
+      "Type": 1,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 101007,
+      "SortId": 0,
+      "Name": "黑风山",
+      "LevelId": 10,
+      "Type": 1,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 101008,
+      "SortId": 0,
+      "Name": "黑风山",
+      "LevelId": 10,
+      "Type": 1,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 101009,
+      "SortId": 0,
+      "Name": "黑风山",
+      "LevelId": 10,
+      "Type": 1,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 102001,
+      "SortId": 0,
+      "Name": "黑风山妖众",
+      "LevelId": 10,
+      "Type": 2,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 102002,
+      "SortId": 0,
+      "Name": "黑风山妖众",
+      "LevelId": 10,
+      "Type": 2,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 102003,
+      "SortId": 0,
+      "Name": "黑风山妖众",
+      "LevelId": 10,
+      "Type": 2,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 102004,
+      "SortId": 0,
+      "Name": "黑风山妖众",
+      "LevelId": 10,
+      "Type": 2,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 102005,
+      "SortId": 0,
+      "Name": "黑风山妖众",
+      "LevelId": 10,
+      "Type": 2,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 102006,
+      "SortId": 0,
+      "Name": "黑风山妖众",
+      "LevelId": 10,
+      "Type": 2,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 102007,
+      "SortId": 0,
+      "Name": "黑风山妖众",
+      "LevelId": 10,
+      "Type": 2,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 102008,
+      "SortId": 0,
+      "Name": "黑风山妖众",
+      "LevelId": 10,
+      "Type": 2,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 102009,
+      "SortId": 0,
+      "Name": "黑风山妖众",
+      "LevelId": 10,
+      "Type": 2,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 103001,
+      "SortId": 0,
+      "Name": "黑风山实机渲染",
+      "LevelId": 10,
+      "Type": 3,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 103002,
+      "SortId": 0,
+      "Name": "黑风山实机渲染",
+      "LevelId": 10,
+      "Type": 3,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 103003,
+      "SortId": 0,
+      "Name": "黑风山实机渲染",
+      "LevelId": 10,
+      "Type": 3,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 103004,
+      "SortId": 0,
+      "Name": "黑风山实机渲染",
+      "LevelId": 10,
+      "Type": 3,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 103005,
+      "SortId": 0,
+      "Name": "黑风山实机渲染",
+      "LevelId": 10,
+      "Type": 3,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 103006,
+      "SortId": 0,
+      "Name": "黑风山实机渲染",
+      "LevelId": 10,
+      "Type": 3,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 103007,
+      "SortId": 0,
+      "Name": "黑风山实机渲染",
+      "LevelId": 10,
+      "Type": 3,
+      "ChapterId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 201001,
+      "SortId": 0,
+      "Name": "黄风庙",
+      "LevelId": 20,
+      "Type": 1,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 201002,
+      "SortId": 0,
+      "Name": "黄风庙",
+      "LevelId": 20,
+      "Type": 1,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 201003,
+      "SortId": 0,
+      "Name": "黄风庙",
+      "LevelId": 20,
+      "Type": 1,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 201004,
+      "SortId": 0,
+      "Name": "黄风庙",
+      "LevelId": 20,
+      "Type": 1,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 201005,
+      "SortId": 0,
+      "Name": "黄风庙",
+      "LevelId": 20,
+      "Type": 1,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 201006,
+      "SortId": 0,
+      "Name": "黄风庙",
+      "LevelId": 20,
+      "Type": 1,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 201007,
+      "SortId": 0,
+      "Name": "黄风庙",
+      "LevelId": 20,
+      "Type": 1,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 201008,
+      "SortId": 0,
+      "Name": "黄风庙",
+      "LevelId": 20,
+      "Type": 1,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 201009,
+      "SortId": 0,
+      "Name": "黄风庙",
+      "LevelId": 20,
+      "Type": 1,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 202001,
+      "SortId": 0,
+      "Name": "黄风庙妖众",
+      "LevelId": 20,
+      "Type": 2,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 202002,
+      "SortId": 0,
+      "Name": "黄风庙妖众",
+      "LevelId": 20,
+      "Type": 2,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 202003,
+      "SortId": 0,
+      "Name": "黄风庙妖众",
+      "LevelId": 20,
+      "Type": 2,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 202004,
+      "SortId": 0,
+      "Name": "黄风庙妖众",
+      "LevelId": 20,
+      "Type": 2,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 202005,
+      "SortId": 0,
+      "Name": "黄风庙妖众",
+      "LevelId": 20,
+      "Type": 2,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 202006,
+      "SortId": 0,
+      "Name": "黄风庙妖众",
+      "LevelId": 20,
+      "Type": 2,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 202007,
+      "SortId": 0,
+      "Name": "黄风庙妖众",
+      "LevelId": 20,
+      "Type": 2,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 202008,
+      "SortId": 0,
+      "Name": "黄风庙妖众",
+      "LevelId": 20,
+      "Type": 2,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 202009,
+      "SortId": 0,
+      "Name": "黄风庙妖众",
+      "LevelId": 20,
+      "Type": 2,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 203001,
+      "SortId": 0,
+      "Name": "黄风庙实机渲染",
+      "LevelId": 20,
+      "Type": 3,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 203002,
+      "SortId": 0,
+      "Name": "黄风庙实机渲染",
+      "LevelId": 20,
+      "Type": 3,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 203003,
+      "SortId": 0,
+      "Name": "黄风庙实机渲染",
+      "LevelId": 20,
+      "Type": 3,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 203004,
+      "SortId": 0,
+      "Name": "黄风庙实机渲染",
+      "LevelId": 20,
+      "Type": 3,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 203005,
+      "SortId": 0,
+      "Name": "黄风庙实机渲染",
+      "LevelId": 20,
+      "Type": 3,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 203006,
+      "SortId": 0,
+      "Name": "黄风庙实机渲染",
+      "LevelId": 20,
+      "Type": 3,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 203007,
+      "SortId": 0,
+      "Name": "黄风庙实机渲染",
+      "LevelId": 20,
+      "Type": 3,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 203008,
+      "SortId": 0,
+      "Name": "黄风庙实机渲染",
+      "LevelId": 20,
+      "Type": 3,
+      "ChapterId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 301001,
+      "SortId": 0,
+      "Name": "雷音寺",
+      "LevelId": 30,
+      "Type": 1,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 301002,
+      "SortId": 0,
+      "Name": "雷音寺",
+      "LevelId": 30,
+      "Type": 1,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 301003,
+      "SortId": 0,
+      "Name": "雷音寺",
+      "LevelId": 30,
+      "Type": 1,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 301004,
+      "SortId": 0,
+      "Name": "雷音寺",
+      "LevelId": 30,
+      "Type": 1,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 301005,
+      "SortId": 0,
+      "Name": "雷音寺",
+      "LevelId": 30,
+      "Type": 1,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 301006,
+      "SortId": 0,
+      "Name": "雷音寺",
+      "LevelId": 30,
+      "Type": 1,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 301007,
+      "SortId": 0,
+      "Name": "雷音寺",
+      "LevelId": 30,
+      "Type": 1,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 301008,
+      "SortId": 0,
+      "Name": "雷音寺",
+      "LevelId": 30,
+      "Type": 1,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 301009,
+      "SortId": 0,
+      "Name": "雷音寺",
+      "LevelId": 30,
+      "Type": 1,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 302001,
+      "SortId": 0,
+      "Name": "雷音寺妖众",
+      "LevelId": 30,
+      "Type": 2,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 302002,
+      "SortId": 0,
+      "Name": "雷音寺妖众",
+      "LevelId": 30,
+      "Type": 2,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 302003,
+      "SortId": 0,
+      "Name": "雷音寺妖众",
+      "LevelId": 30,
+      "Type": 2,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 302004,
+      "SortId": 0,
+      "Name": "雷音寺妖众",
+      "LevelId": 30,
+      "Type": 2,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 302005,
+      "SortId": 0,
+      "Name": "雷音寺妖众",
+      "LevelId": 30,
+      "Type": 2,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 302006,
+      "SortId": 0,
+      "Name": "雷音寺妖众",
+      "LevelId": 30,
+      "Type": 2,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 302007,
+      "SortId": 0,
+      "Name": "雷音寺妖众",
+      "LevelId": 30,
+      "Type": 2,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 302008,
+      "SortId": 0,
+      "Name": "雷音寺妖众",
+      "LevelId": 30,
+      "Type": 2,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 302009,
+      "SortId": 0,
+      "Name": "雷音寺妖众",
+      "LevelId": 30,
+      "Type": 2,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 303001,
+      "SortId": 0,
+      "Name": "雷音寺实机渲染",
+      "LevelId": 30,
+      "Type": 3,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 303002,
+      "SortId": 0,
+      "Name": "雷音寺实机渲染",
+      "LevelId": 30,
+      "Type": 3,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 303003,
+      "SortId": 0,
+      "Name": "雷音寺实机渲染",
+      "LevelId": 30,
+      "Type": 3,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 303004,
+      "SortId": 0,
+      "Name": "雷音寺实机渲染",
+      "LevelId": 30,
+      "Type": 3,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 303005,
+      "SortId": 0,
+      "Name": "雷音寺实机渲染",
+      "LevelId": 30,
+      "Type": 3,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 303006,
+      "SortId": 0,
+      "Name": "雷音寺实机渲染",
+      "LevelId": 30,
+      "Type": 3,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 303007,
+      "SortId": 0,
+      "Name": "雷音寺实机渲染",
+      "LevelId": 30,
+      "Type": 3,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 303008,
+      "SortId": 0,
+      "Name": "雷音寺实机渲染",
+      "LevelId": 30,
+      "Type": 3,
+      "ChapterId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 401001,
+      "SortId": 0,
+      "Name": "盘丝洞",
+      "LevelId": 40,
+      "Type": 1,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 401002,
+      "SortId": 0,
+      "Name": "盘丝洞",
+      "LevelId": 40,
+      "Type": 1,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 401003,
+      "SortId": 0,
+      "Name": "盘丝洞",
+      "LevelId": 40,
+      "Type": 1,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 401004,
+      "SortId": 0,
+      "Name": "盘丝洞",
+      "LevelId": 40,
+      "Type": 1,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 401005,
+      "SortId": 0,
+      "Name": "盘丝洞",
+      "LevelId": 40,
+      "Type": 1,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 401006,
+      "SortId": 0,
+      "Name": "盘丝洞",
+      "LevelId": 40,
+      "Type": 1,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 401007,
+      "SortId": 0,
+      "Name": "盘丝洞",
+      "LevelId": 40,
+      "Type": 1,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 401008,
+      "SortId": 0,
+      "Name": "盘丝洞",
+      "LevelId": 40,
+      "Type": 1,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 401009,
+      "SortId": 0,
+      "Name": "盘丝洞",
+      "LevelId": 40,
+      "Type": 1,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 402001,
+      "SortId": 0,
+      "Name": "盘丝洞妖众",
+      "LevelId": 40,
+      "Type": 2,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 402002,
+      "SortId": 0,
+      "Name": "盘丝洞妖众",
+      "LevelId": 40,
+      "Type": 2,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 402003,
+      "SortId": 0,
+      "Name": "盘丝洞妖众",
+      "LevelId": 40,
+      "Type": 2,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 402004,
+      "SortId": 0,
+      "Name": "盘丝洞妖众",
+      "LevelId": 40,
+      "Type": 2,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 402005,
+      "SortId": 0,
+      "Name": "盘丝洞妖众",
+      "LevelId": 40,
+      "Type": 2,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 402006,
+      "SortId": 0,
+      "Name": "盘丝洞妖众",
+      "LevelId": 40,
+      "Type": 2,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 402007,
+      "SortId": 0,
+      "Name": "盘丝洞妖众",
+      "LevelId": 40,
+      "Type": 2,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 402008,
+      "SortId": 0,
+      "Name": "盘丝洞妖众",
+      "LevelId": 40,
+      "Type": 2,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 402009,
+      "SortId": 0,
+      "Name": "盘丝洞妖众",
+      "LevelId": 40,
+      "Type": 2,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 403001,
+      "SortId": 0,
+      "Name": "盘丝洞实机渲染",
+      "LevelId": 40,
+      "Type": 3,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 403002,
+      "SortId": 0,
+      "Name": "盘丝洞实机渲染",
+      "LevelId": 40,
+      "Type": 3,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 403003,
+      "SortId": 0,
+      "Name": "盘丝洞实机渲染",
+      "LevelId": 40,
+      "Type": 3,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 403004,
+      "SortId": 0,
+      "Name": "盘丝洞实机渲染",
+      "LevelId": 40,
+      "Type": 3,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 403005,
+      "SortId": 0,
+      "Name": "盘丝洞实机渲染",
+      "LevelId": 40,
+      "Type": 3,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 403006,
+      "SortId": 0,
+      "Name": "盘丝洞实机渲染",
+      "LevelId": 40,
+      "Type": 3,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 403007,
+      "SortId": 0,
+      "Name": "盘丝洞实机渲染",
+      "LevelId": 40,
+      "Type": 3,
+      "ChapterId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 501001,
+      "SortId": 0,
+      "Name": "火焰山",
+      "LevelId": 50,
+      "Type": 1,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 501002,
+      "SortId": 0,
+      "Name": "火焰山",
+      "LevelId": 50,
+      "Type": 1,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 501003,
+      "SortId": 0,
+      "Name": "火焰山",
+      "LevelId": 50,
+      "Type": 1,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 501004,
+      "SortId": 0,
+      "Name": "火焰山",
+      "LevelId": 50,
+      "Type": 1,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 501005,
+      "SortId": 0,
+      "Name": "火焰山",
+      "LevelId": 50,
+      "Type": 1,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 501006,
+      "SortId": 0,
+      "Name": "火焰山",
+      "LevelId": 50,
+      "Type": 1,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 501007,
+      "SortId": 0,
+      "Name": "火焰山",
+      "LevelId": 50,
+      "Type": 1,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 501008,
+      "SortId": 0,
+      "Name": "火焰山",
+      "LevelId": 50,
+      "Type": 1,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 501009,
+      "SortId": 0,
+      "Name": "火焰山",
+      "LevelId": 50,
+      "Type": 1,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 502001,
+      "SortId": 0,
+      "Name": "火焰山妖众",
+      "LevelId": 50,
+      "Type": 2,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 502002,
+      "SortId": 0,
+      "Name": "火焰山妖众",
+      "LevelId": 50,
+      "Type": 2,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 502003,
+      "SortId": 0,
+      "Name": "火焰山妖众",
+      "LevelId": 50,
+      "Type": 2,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 502004,
+      "SortId": 0,
+      "Name": "火焰山妖众",
+      "LevelId": 50,
+      "Type": 2,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 502005,
+      "SortId": 0,
+      "Name": "火焰山妖众",
+      "LevelId": 50,
+      "Type": 2,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 502006,
+      "SortId": 0,
+      "Name": "火焰山妖众",
+      "LevelId": 50,
+      "Type": 2,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 502007,
+      "SortId": 0,
+      "Name": "火焰山妖众",
+      "LevelId": 50,
+      "Type": 2,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 502008,
+      "SortId": 0,
+      "Name": "火焰山妖众",
+      "LevelId": 50,
+      "Type": 2,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 502009,
+      "SortId": 0,
+      "Name": "火焰山妖众",
+      "LevelId": 50,
+      "Type": 2,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 503001,
+      "SortId": 0,
+      "Name": "火焰山实机渲染",
+      "LevelId": 50,
+      "Type": 3,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 503002,
+      "SortId": 0,
+      "Name": "火焰山实机渲染",
+      "LevelId": 50,
+      "Type": 3,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 503003,
+      "SortId": 0,
+      "Name": "火焰山实机渲染",
+      "LevelId": 50,
+      "Type": 3,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 503004,
+      "SortId": 0,
+      "Name": "火焰山实机渲染",
+      "LevelId": 50,
+      "Type": 3,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 503005,
+      "SortId": 0,
+      "Name": "火焰山实机渲染",
+      "LevelId": 50,
+      "Type": 3,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 503006,
+      "SortId": 0,
+      "Name": "火焰山实机渲染",
+      "LevelId": 50,
+      "Type": 3,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 503007,
+      "SortId": 0,
+      "Name": "火焰山实机渲染",
+      "LevelId": 50,
+      "Type": 3,
+      "ChapterId": 50,
+      "LocalizationTag": 0
+    }
+  ]
+}

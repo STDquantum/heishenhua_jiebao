@@ -1,0 +1,938 @@
+{
+  "List": [
+    {
+      "ID": 10,
+      "DurationMs": 8000,
+      "AlmostEndAheadTimeMs": 3000,
+      "MinimalDurationMs": 1000,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "TargetCount": 1,
+      "RangeRadius": 1200,
+      "RepeatedImmobilizedDef": 2000,
+      "GreatSageTalentActiveBuff": 1089,
+      "BeginEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 1025
+        },
+        {
+          "EffectType": 3,
+          "TargetBaseType": 1,
+          "Value": 1064
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 0
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 0
+        }
+      ],
+      "EndEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 0
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 201
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        }
+      ],
+      "BreakEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 0
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 201
+        },
+        {
+          "EffectType": 1,
+          "TargetBaseType": 1,
+          "Value": 1099906
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 2181
+        }
+      ],
+      "DeadEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 0
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 2181
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        }
+      ],
+      "BeginFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_Loop.DBC_Dingshen_Loop'"
+        },
+        {
+          "ResID": 0,
+          "FXPathByDBC": ""
+        }
+      ],
+      "AlmostEndFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_AlmostEnd.DBC_Dingshen_AlmostEnd'"
+        },
+        {
+          "ResID": 0,
+          "FXPathByDBC": ""
+        }
+      ],
+      "EndFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_End.DBC_Dingshen_End'"
+        }
+      ],
+      "QuickEndFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_QuickEnd.DBC_Dingshen_QuickEnd'"
+        }
+      ],
+      "FailedFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_End.DBC_Dingshen_End'"
+        }
+      ],
+      "BreakingFXsTriggerRatio": 5000,
+      "BreakingFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": ""
+        }
+      ]
+    },
+    {
+      "ID": 1,
+      "DurationMs": 12000,
+      "AlmostEndAheadTimeMs": 3000,
+      "MinimalDurationMs": 4000,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "TargetCount": 1,
+      "RangeRadius": 1200,
+      "RepeatedImmobilizedDef": 2000,
+      "GreatSageTalentActiveBuff": 1089,
+      "BeginEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 1025
+        },
+        {
+          "EffectType": 3,
+          "TargetBaseType": 1,
+          "Value": 1064
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 1027
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 0
+        }
+      ],
+      "EndEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 0
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 201
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        }
+      ],
+      "BreakEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 0
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 201
+        },
+        {
+          "EffectType": 1,
+          "TargetBaseType": 1,
+          "Value": 1099906
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 2181
+        }
+      ],
+      "DeadEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 0
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 2181
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        }
+      ],
+      "BeginFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_Loop.DBC_Dingshen_Loop'"
+        },
+        {
+          "ResID": 0,
+          "FXPathByDBC": ""
+        }
+      ],
+      "AlmostEndFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_AlmostEnd.DBC_Dingshen_AlmostEnd'"
+        },
+        {
+          "ResID": 0,
+          "FXPathByDBC": ""
+        }
+      ],
+      "EndFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_End.DBC_Dingshen_End'"
+        }
+      ],
+      "QuickEndFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_QuickEnd.DBC_Dingshen_QuickEnd'"
+        }
+      ],
+      "FailedFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_End.DBC_Dingshen_End'"
+        }
+      ],
+      "BreakingFXsTriggerRatio": 5000,
+      "BreakingFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": ""
+        }
+      ]
+    },
+    {
+      "ID": 11,
+      "DurationMs": 12000,
+      "AlmostEndAheadTimeMs": 3000,
+      "MinimalDurationMs": 4000,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "TargetCount": 1,
+      "RangeRadius": 1200,
+      "RepeatedImmobilizedDef": 2000,
+      "GreatSageTalentActiveBuff": 1089,
+      "BeginEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 1025
+        },
+        {
+          "EffectType": 3,
+          "TargetBaseType": 1,
+          "Value": 1064
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 1027
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 0
+        }
+      ],
+      "EndEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 0
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 201
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        }
+      ],
+      "BreakEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 0
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 201
+        },
+        {
+          "EffectType": 1,
+          "TargetBaseType": 1,
+          "Value": 1099906
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 2181
+        }
+      ],
+      "DeadEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 0
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 2181
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        }
+      ],
+      "BeginFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/Equip/Qingtong/DBC/DBC_Dingshen_Loop_Qingtong.DBC_Dingshen_Loop_Qingtong'"
+        },
+        {
+          "ResID": 0,
+          "FXPathByDBC": ""
+        }
+      ],
+      "AlmostEndFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/Equip/Qingtong/DBC/DBC_Dingshen_AlmostEnd_Qingtong.DBC_Dingshen_AlmostEnd_Qingtong'"
+        },
+        {
+          "ResID": 0,
+          "FXPathByDBC": ""
+        }
+      ],
+      "EndFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/Equip/Qingtong/DBC/DBC_Dingshen_End_Qingtong.DBC_Dingshen_End_Qingtong'"
+        }
+      ],
+      "QuickEndFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/Equip/Qingtong/DBC/DBC_Dingshen_QuickEnd_Qingtong.DBC_Dingshen_QuickEnd_Qingtong'"
+        }
+      ],
+      "FailedFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/Equip/Qingtong/DBC/DBC_Dingshen_End_Qingtong.DBC_Dingshen_End_Qingtong'"
+        }
+      ],
+      "BreakingFXsTriggerRatio": 5000,
+      "BreakingFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": ""
+        }
+      ]
+    },
+    {
+      "ID": 12,
+      "DurationMs": 4000,
+      "AlmostEndAheadTimeMs": 3000,
+      "MinimalDurationMs": 1000,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "TargetCount": 1,
+      "RangeRadius": 1200,
+      "RepeatedImmobilizedDef": 2000,
+      "GreatSageTalentActiveBuff": 1089,
+      "BeginEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 1025
+        },
+        {
+          "EffectType": 3,
+          "TargetBaseType": 1,
+          "Value": 1064
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 0
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 0
+        }
+      ],
+      "EndEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 0
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 201
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        }
+      ],
+      "BreakEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 0
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 201
+        },
+        {
+          "EffectType": 1,
+          "TargetBaseType": 1,
+          "Value": 1099906
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 2181
+        }
+      ],
+      "DeadEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 0
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 2181
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        }
+      ],
+      "BeginFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_Loop.DBC_Dingshen_Loop'"
+        },
+        {
+          "ResID": 0,
+          "FXPathByDBC": ""
+        }
+      ],
+      "AlmostEndFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_AlmostEnd.DBC_Dingshen_AlmostEnd'"
+        },
+        {
+          "ResID": 0,
+          "FXPathByDBC": ""
+        }
+      ],
+      "EndFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_End.DBC_Dingshen_End'"
+        }
+      ],
+      "QuickEndFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_QuickEnd.DBC_Dingshen_QuickEnd'"
+        }
+      ],
+      "FailedFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_End.DBC_Dingshen_End'"
+        }
+      ],
+      "BreakingFXsTriggerRatio": 5000,
+      "BreakingFXs": [
+        {
+          "ResID": 10,
+          "FXPathByDBC": ""
+        }
+      ]
+    },
+    {
+      "ID": 10011,
+      "DurationMs": 4000,
+      "AlmostEndAheadTimeMs": 3000,
+      "MinimalDurationMs": 1000,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "TargetCount": 1,
+      "RangeRadius": 1200,
+      "RepeatedImmobilizedDef": 2000,
+      "GreatSageTalentActiveBuff": 0,
+      "BeginEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 1025
+        },
+        {
+          "EffectType": 3,
+          "TargetBaseType": 1,
+          "Value": 1064
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 1037
+        },
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 0
+        }
+      ],
+      "EndEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        }
+      ],
+      "BreakEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 1,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        }
+      ],
+      "DeadEffects": [
+        {
+          "EffectType": 2,
+          "TargetBaseType": 2,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        }
+      ],
+      "BeginFXs": [
+        {
+          "ResID": 10011,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_Loop.DBC_Dingshen_Loop'"
+        },
+        {
+          "ResID": 0,
+          "FXPathByDBC": ""
+        }
+      ],
+      "AlmostEndFXs": [
+        {
+          "ResID": 10011,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_AlmostEnd.DBC_Dingshen_AlmostEnd'"
+        }
+      ],
+      "EndFXs": [
+        {
+          "ResID": 10011,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_End.DBC_Dingshen_End'"
+        }
+      ],
+      "QuickEndFXs": [
+        {
+          "ResID": 10011,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_QuickEnd.DBC_Dingshen_QuickEnd'"
+        }
+      ],
+      "FailedFXs": [
+        {
+          "ResID": 10011,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_End.DBC_Dingshen_End'"
+        }
+      ],
+      "BreakingFXsTriggerRatio": 0,
+      "BreakingFXs": []
+    },
+    {
+      "ID": 7001,
+      "DurationMs": 5000,
+      "AlmostEndAheadTimeMs": 3000,
+      "MinimalDurationMs": 1000,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "TargetCount": 8,
+      "RangeRadius": 1200,
+      "RepeatedImmobilizedDef": 2000,
+      "GreatSageTalentActiveBuff": 0,
+      "BeginEffects": [],
+      "EndEffects": [],
+      "BreakEffects": [
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        }
+      ],
+      "DeadEffects": [],
+      "BeginFXs": [
+        {
+          "ResID": 7001,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS/DBC/DBC_JSDS_Dingshen_Loop.DBC_JSDS_Dingshen_Loop'"
+        },
+        {
+          "ResID": 0,
+          "FXPathByDBC": ""
+        }
+      ],
+      "AlmostEndFXs": [
+        {
+          "ResID": 7001,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS/DBC/DBC_JSDS_Dingshen_AlmostEnd.DBC_JSDS_Dingshen_AlmostEnd'"
+        }
+      ],
+      "EndFXs": [
+        {
+          "ResID": 0,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS/DBC/DBC_JSDS_Dingshen_End.DBC_JSDS_Dingshen_End'"
+        }
+      ],
+      "QuickEndFXs": [
+        {
+          "ResID": 7001,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS/DBC/DBC_JSDS_Dingshen_QuickEnd.DBC_JSDS_Dingshen_QuickEnd'"
+        }
+      ],
+      "FailedFXs": [],
+      "BreakingFXsTriggerRatio": 0,
+      "BreakingFXs": []
+    },
+    {
+      "ID": 8000,
+      "DurationMs": 5000,
+      "AlmostEndAheadTimeMs": 3000,
+      "MinimalDurationMs": 1000,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "TargetCount": 8,
+      "RangeRadius": 1200,
+      "RepeatedImmobilizedDef": 2000,
+      "GreatSageTalentActiveBuff": 0,
+      "BeginEffects": [],
+      "EndEffects": [],
+      "BreakEffects": [
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        }
+      ],
+      "DeadEffects": [],
+      "BeginFXs": [
+        {
+          "ResID": 8000,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS/DBC/DBC_JSDS_Dingshen_Loop.DBC_JSDS_Dingshen_Loop'"
+        }
+      ],
+      "AlmostEndFXs": [
+        {
+          "ResID": 8000,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS/DBC/DBC_JSDS_Dingshen_AlmostEnd.DBC_JSDS_Dingshen_AlmostEnd'"
+        }
+      ],
+      "EndFXs": [
+        {
+          "ResID": 8000,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS/DBC/DBC_JSDS_Dingshen_End.DBC_JSDS_Dingshen_End'"
+        }
+      ],
+      "QuickEndFXs": [
+        {
+          "ResID": 8000,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS/DBC/DBC_JSDS_Dingshen_QuickEnd.DBC_JSDS_Dingshen_QuickEnd'"
+        }
+      ],
+      "FailedFXs": [
+        {
+          "ResID": 8000,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS/DBC/DBC_JSDS_Dingshen_End.DBC_JSDS_Dingshen_End'"
+        }
+      ],
+      "BreakingFXsTriggerRatio": 0,
+      "BreakingFXs": []
+    },
+    {
+      "ID": 50,
+      "DurationMs": 10000,
+      "AlmostEndAheadTimeMs": 3000,
+      "MinimalDurationMs": 1000,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "TargetCount": 12,
+      "RangeRadius": 1600,
+      "RepeatedImmobilizedDef": 2000,
+      "GreatSageTalentActiveBuff": 0,
+      "BeginEffects": [],
+      "EndEffects": [],
+      "BreakEffects": [
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        },
+        {
+          "EffectType": 0,
+          "TargetBaseType": 0,
+          "Value": 0
+        }
+      ],
+      "DeadEffects": [],
+      "BeginFXs": [
+        {
+          "ResID": 50,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_Loop.DBC_Dingshen_Loop'"
+        },
+        {
+          "ResID": 0,
+          "FXPathByDBC": ""
+        }
+      ],
+      "AlmostEndFXs": [
+        {
+          "ResID": 50,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_AlmostEnd.DBC_Dingshen_AlmostEnd'"
+        }
+      ],
+      "EndFXs": [
+        {
+          "ResID": 50,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_End.DBC_Dingshen_End'"
+        }
+      ],
+      "QuickEndFXs": [
+        {
+          "ResID": 50,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_QuickEnd.DBC_Dingshen_QuickEnd'"
+        }
+      ],
+      "FailedFXs": [
+        {
+          "ResID": 50,
+          "FXPathByDBC": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/DingShenShu/DBC/DBC_Dingshen_End.DBC_Dingshen_End'"
+        }
+      ],
+      "BreakingFXsTriggerRatio": 0,
+      "BreakingFXs": []
+    }
+  ]
+}

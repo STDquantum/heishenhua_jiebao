@@ -1,0 +1,2402 @@
+{
+  "List": [
+    {
+      "Id": 1,
+      "Name": "青牛精",
+      "LevelId": 10,
+      "Type": 0,
+      "Position": {
+        "PosX": -39242.0,
+        "PosY": -2498.0,
+        "PosZ": -1904.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -4.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -4.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 2,
+      "Name": "幽魂",
+      "LevelId": 10,
+      "Type": 0,
+      "Position": {
+        "PosX": 16632.0,
+        "PosY": -15804.0,
+        "PosZ": 4663.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 15.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 356.0,
+        "PosY": 33.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 3,
+      "Name": "火刀狼",
+      "LevelId": 10,
+      "Type": 0,
+      "Position": {
+        "PosX": 29580.0,
+        "PosY": -20613.0,
+        "PosZ": 5327.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -63.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 354.0,
+        "PosY": 296.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 4,
+      "Name": "大白狼",
+      "LevelId": 10,
+      "Type": 0,
+      "Position": {
+        "PosX": -2388.0,
+        "PosY": 12617.0,
+        "PosZ": 1558.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 131.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 2.0,
+        "PosY": 131.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 5,
+      "Name": "大青蛙",
+      "LevelId": 10,
+      "Type": 0,
+      "Position": {
+        "PosX": 9500.0,
+        "PosY": 53119.0,
+        "PosZ": 2410.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -78.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 351.0,
+        "PosY": 286.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 6,
+      "Name": "蛇书记",
+      "LevelId": 10,
+      "Type": 0,
+      "Position": {
+        "PosX": 14358.0,
+        "PosY": 70191.0,
+        "PosZ": -413.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 88.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 356.0,
+        "PosY": 102.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 7,
+      "Name": "白衣秀士",
+      "LevelId": 10,
+      "Type": 0,
+      "Position": {
+        "PosX": -15917.0,
+        "PosY": 62884.0,
+        "PosZ": -2129.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 139.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 139.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 8,
+      "Name": "黑风大王",
+      "LevelId": 10,
+      "Type": 0,
+      "Position": {
+        "PosX": -64162.0,
+        "PosY": 64114.0,
+        "PosZ": -1481.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -142.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 343.0,
+        "PosY": 218.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 9,
+      "Name": "黑熊精",
+      "LevelId": 10,
+      "Type": 0,
+      "Position": {
+        "PosX": -68425.0,
+        "PosY": 28087.0,
+        "PosZ": 9710.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -149.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 357.0,
+        "PosY": 159.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 10,
+      "Name": "金池长老",
+      "LevelId": 11,
+      "Type": 0,
+      "Position": {
+        "PosX": -2445.0,
+        "PosY": 12674.0,
+        "PosZ": 1567.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 133.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 348.0,
+        "PosY": 131.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 11,
+      "Name": "赤髯龙",
+      "LevelId": 12,
+      "Type": 0,
+      "Position": {
+        "PosX": -95050.0,
+        "PosY": -34398.0,
+        "PosZ": -5069.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 100.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 100.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 12,
+      "Name": "父子鼠",
+      "LevelId": 20,
+      "Type": 0,
+      "Position": {
+        "PosX": -40645.0,
+        "PosY": -15631.0,
+        "PosZ": 1757.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 147.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 147.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 13,
+      "Name": "锁阳精",
+      "LevelId": 20,
+      "Type": 0,
+      "Position": {
+        "PosX": -30713.0,
+        "PosY": -28371.0,
+        "PosZ": 1669.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -131.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -131.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 14,
+      "Name": "双头鼠：村里",
+      "LevelId": 20,
+      "Type": 0,
+      "Position": {
+        "PosX": -32436.0,
+        "PosY": -19346.0,
+        "PosZ": 1714.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 81.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 81.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 15,
+      "Name": "黄袍猪",
+      "LevelId": 20,
+      "Type": 0,
+      "Position": {
+        "PosX": -134980.0,
+        "PosY": -13786.0,
+        "PosZ": 4864.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -170.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -170.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 16,
+      "Name": "虎先锋",
+      "LevelId": 20,
+      "Type": 0,
+      "Position": {
+        "PosX": -59563.0,
+        "PosY": 28408.0,
+        "PosZ": -151.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 91.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 342.0,
+        "PosY": 91.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 17,
+      "Name": "沙无量",
+      "LevelId": 20,
+      "Type": 0,
+      "Position": {
+        "PosX": -94525.0,
+        "PosY": 17358.0,
+        "PosZ": 2504.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -87.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 358.0,
+        "PosY": 271.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 18,
+      "Name": "石先锋",
+      "LevelId": 20,
+      "Type": 0,
+      "Position": {
+        "PosX": -122635.0,
+        "PosY": -10216.0,
+        "PosZ": 5177.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 70.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 356.0,
+        "PosY": 67.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 19,
+      "Name": "千眼猴",
+      "LevelId": 20,
+      "Type": 0,
+      "Position": {
+        "PosX": -65735.0,
+        "PosY": 29997.0,
+        "PosZ": -6197.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 29.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 29.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 20,
+      "Name": "黄风大圣",
+      "LevelId": 20,
+      "Type": 0,
+      "Position": {
+        "PosX": -76513.0,
+        "PosY": 20053.0,
+        "PosZ": -9253.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 124.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 345.0,
+        "PosY": 124.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 21,
+      "Name": "巴山虎",
+      "LevelId": 22,
+      "Type": 0,
+      "Position": {
+        "PosX": 27424.0,
+        "PosY": -18243.0,
+        "PosZ": 4555.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -91.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -91.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 22,
+      "Name": "战车：阵营混战区",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": 125167.0,
+        "PosY": -124459.0,
+        "PosZ": 28176.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -156.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 357.0,
+        "PosY": 247.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 23,
+      "Name": "金大升",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": 125378.0,
+        "PosY": -117973.0,
+        "PosZ": 26300.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -114.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 356.0,
+        "PosY": 299.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 24,
+      "Name": "黑貘兽",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": 86506.0,
+        "PosY": -92500.0,
+        "PosZ": 29198.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -4.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 352.0,
+        "PosY": 356.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 25,
+      "Name": "战车：灰烬林下层",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": 100975.0,
+        "PosY": -89408.0,
+        "PosZ": 22499.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 53.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 342.0,
+        "PosY": 116.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 26,
+      "Name": "急如火&快如风",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": 96130.0,
+        "PosY": -75964.0,
+        "PosZ": 22173.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 101.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 352.0,
+        "PosY": 100.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 27,
+      "Name": "云里雾&雾里云",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": 25705.0,
+        "PosY": 9747.0,
+        "PosZ": 11798.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 167.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 352.0,
+        "PosY": 169.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 28,
+      "Name": "土地公-触发剧情入口",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": 2174.0,
+        "PosY": 31182.0,
+        "PosZ": 18665.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 91.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 358.0,
+        "PosY": 115.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 29,
+      "Name": "阴阳鱼-重新交互入口",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": -6110.0,
+        "PosY": 38467.0,
+        "PosZ": 19011.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 347.0,
+        "PosY": 180.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 30,
+      "Name": "战车：罗刹宫上方",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": 7722.0,
+        "PosY": 59542.0,
+        "PosZ": 24972.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -127.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -127.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 31,
+      "Name": "铁球环道",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": 33577.0,
+        "PosY": 56477.0,
+        "PosZ": 35975.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -65.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -65.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 32,
+      "Name": "熔岩石统领",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": 36636.0,
+        "PosY": 15054.0,
+        "PosZ": 6960.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -59.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -59.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 33,
+      "Name": "火灵砂王",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": -4395.0,
+        "PosY": -2987.0,
+        "PosZ": 28860.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -138.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 340.0,
+        "PosY": 216.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 34,
+      "Name": "红孩儿&夜叉王",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": -30840.0,
+        "PosY": 85648.0,
+        "PosZ": 39160.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 16.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 357.0,
+        "PosY": 79.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 35,
+      "Name": "二姐",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 121514.0,
+        "PosY": -91491.0,
+        "PosZ": 30436.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 140.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 36,
+      "Name": "百足虫",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 145245.0,
+        "PosY": -72522.0,
+        "PosZ": -1892.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 74.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 37,
+      "Name": "佛手虫",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 155792.0,
+        "PosY": -54289.0,
+        "PosZ": -526.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 162.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 38,
+      "Name": "猪八戒一阶段",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 127189.0,
+        "PosY": -44324.0,
+        "PosZ": -11900.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -22.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 39,
+      "Name": "猪八戒二阶段",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 110101.0,
+        "PosY": -35619.0,
+        "PosZ": -11410.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 161.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 40,
+      "Name": "老蜘蛛",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 113764.0,
+        "PosY": 7301.0,
+        "PosZ": -4581.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -136.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 41,
+      "Name": "绝想崖撕符",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 157794.0,
+        "PosY": -61452.0,
+        "PosZ": -1162.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -113.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 42,
+      "Name": "祥龙壁撕符",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 137817.0,
+        "PosY": -37575.0,
+        "PosZ": 1555.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 11.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 43,
+      "Name": "村庄撕符",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 111686.0,
+        "PosY": -57990.0,
+        "PosZ": 1488.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -7.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 44,
+      "Name": "PSD吴龙",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 147049.0,
+        "PosY": -40470.0,
+        "PosZ": 9441.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -70.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 45,
+      "Name": "蝉蛹宝宝",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 107500.0,
+        "PosY": -33021.0,
+        "PosZ": 364.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 156.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 46,
+      "Name": "儡蜱士精魄",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 144543.0,
+        "PosY": -56032.0,
+        "PosZ": -11064.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 48.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 47,
+      "Name": "神龙大哥",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 149836.0,
+        "PosY": -20858.0,
+        "PosZ": 5.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -153.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 48,
+      "Name": "双刀虫精魄",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 144148.0,
+        "PosY": -28027.0,
+        "PosZ": 183.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 179.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 49,
+      "Name": "毒蛙",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 151064.0,
+        "PosY": -42235.0,
+        "PosZ": -9166.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 142.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 50,
+      "Name": "射手精魄",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 102264.0,
+        "PosY": -2087.0,
+        "PosZ": -10274.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 19.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 51,
+      "Name": "罐罐蛇精魄",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 151077.0,
+        "PosY": 87886.0,
+        "PosZ": 44052.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 3.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 52,
+      "Name": "甲虫总兵",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 139174.0,
+        "PosY": 102319.0,
+        "PosZ": 45689.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -93.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 53,
+      "Name": "老虎精魄",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 104283.0,
+        "PosY": 109881.0,
+        "PosZ": 50293.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -91.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 54,
+      "Name": "蘑菇王",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 98950.0,
+        "PosY": 91589.0,
+        "PosZ": 54346.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 73.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 55,
+      "Name": "黄花观吴龙",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 88432.0,
+        "PosY": 111779.0,
+        "PosZ": 53033.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 132.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 56,
+      "Name": "王灵官",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 101569.0,
+        "PosY": 150962.0,
+        "PosZ": 52872.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 78.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 57,
+      "Name": "道士支线",
+      "LevelId": 80,
+      "Type": 0,
+      "Position": {
+        "PosX": 13643.0,
+        "PosY": 13434.0,
+        "PosZ": 3932.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 54.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 58,
+      "Name": "毒敌大王",
+      "LevelId": 80,
+      "Type": 0,
+      "Position": {
+        "PosX": -16547.0,
+        "PosY": -4882.0,
+        "PosZ": 1982.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -173.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 59,
+      "Name": "晦月魔君",
+      "LevelId": 80,
+      "Type": 0,
+      "Position": {
+        "PosX": 11760.0,
+        "PosY": 32387.0,
+        "PosZ": 7863.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 87.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 60,
+      "Name": "百眼魔君",
+      "LevelId": 40,
+      "Type": 0,
+      "Position": {
+        "PosX": 97963.0,
+        "PosY": 141545.0,
+        "PosZ": 51812.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -175.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 61,
+      "Name": "雪猴",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": 406933.4,
+        "PosY": -571019.7,
+        "PosZ": -21180.97
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 117.9897,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 117.9897,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 62,
+      "Name": "亢金龙_龙",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": 407534.2,
+        "PosY": -369388.3,
+        "PosZ": -17309.57
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 94.30923,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 94.30923,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 63,
+      "Name": "魔04",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": 81478.74,
+        "PosY": 66044.92,
+        "PosZ": -33644.93
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -95.0159,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -95.0159,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 64,
+      "Name": "魔01",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": 101689.8,
+        "PosY": 72811.81,
+        "PosZ": -27097.52
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -151.5716,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -151.5716,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 65,
+      "Name": "雪猴_安身寺",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": 49785.34,
+        "PosY": 7270.274,
+        "PosZ": -15381.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -72.37548,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -72.37548,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 66,
+      "Name": "亢金龙_人",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": 53939.15,
+        "PosY": -35956.39,
+        "PosZ": -11630.23
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -95.54803,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -95.54803,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 67,
+      "Name": "龙剑使",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": 18736.96,
+        "PosY": -175751.3,
+        "PosZ": -16866.66
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 47.26234,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 47.26234,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 68,
+      "Name": "如意龙",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": -1590.565,
+        "PosY": -245140.0,
+        "PosZ": -30251.78
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 135.4081,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 135.4081,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 69,
+      "Name": "风虎",
+      "LevelId": 31,
+      "Type": 0,
+      "Position": {
+        "PosX": -10014.64,
+        "PosY": 89594.38,
+        "PosZ": -1629.203
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 18.01198,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 18.01198,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 70,
+      "Name": "魔03",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": 55911.5,
+        "PosY": -252684.1,
+        "PosZ": -30264.57
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -35.04417,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 354.3588,
+        "PosY": 324.2737,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 71,
+      "Name": "僧面",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": -31520.95,
+        "PosY": -315282.2,
+        "PosZ": -6871.033
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -128.2589,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 351.211,
+        "PosY": 230.2223,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 72,
+      "Name": "冰蛤",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": -100531.1,
+        "PosY": -275283.4,
+        "PosZ": -31092.95
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -66.69115,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 347.6695,
+        "PosY": 283.2148,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 73,
+      "Name": "环武者",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": -158662.8,
+        "PosY": -272224.8,
+        "PosZ": -45450.81
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -114.906,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -114.906,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 74,
+      "Name": "人参精王",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": -142697.5,
+        "PosY": -253431.0,
+        "PosZ": -33229.96
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -114.0597,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 348.4702,
+        "PosY": 246.2273,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 75,
+      "Name": "腿僧",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": -166380.1,
+        "PosY": -236647.8,
+        "PosZ": -26814.91
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 120.0223,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 120.0223,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 76,
+      "Name": "魔02",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": -164393.3,
+        "PosY": -197097.1,
+        "PosZ": -23600.35
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 126.6891,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 126.6891,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 77,
+      "Name": "扶桑妖僧",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": -223629.8,
+        "PosY": -172453.3,
+        "PosZ": -19076.87
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 44.91755,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 44.91755,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 78,
+      "Name": "老僧",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": -174051.2,
+        "PosY": -127118.5,
+        "PosZ": -16445.08
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 30.41475,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 30.41475,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 79,
+      "Name": "戒铲僧",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": -229217.9,
+        "PosY": -134742.6,
+        "PosZ": -18746.97
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -153.0482,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -153.0482,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 80,
+      "Name": "黄眉_大殿",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": -229236.8,
+        "PosY": -109483.2,
+        "PosZ": -14481.03
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 121.0284,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 121.0284,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 81,
+      "Name": "雪猴_人种袋",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": -68649.73,
+        "PosY": 515388.2,
+        "PosZ": 634.5157
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 34.94972,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 34.94972,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 82,
+      "Name": "黄眉_mini",
+      "LevelId": 30,
+      "Type": 0,
+      "Position": {
+        "PosX": 30993.43,
+        "PosY": 496526.9,
+        "PosZ": -3781.826
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 2.062011,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 2.062011,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 83,
+      "Name": "雷蛙",
+      "LevelId": 20,
+      "Type": 0,
+      "Position": {
+        "PosX": -58314.0,
+        "PosY": -34288.0,
+        "PosZ": -2026.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 127.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 127.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 84,
+      "Name": "石母",
+      "LevelId": 20,
+      "Type": 0,
+      "Position": {
+        "PosX": -103325.0,
+        "PosY": -9071.0,
+        "PosZ": 7509.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 9.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 9.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 85,
+      "Name": "鼠王",
+      "LevelId": 20,
+      "Type": 0,
+      "Position": {
+        "PosX": -50772.0,
+        "PosY": -1392.0,
+        "PosZ": -148.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 90.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 90.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 86,
+      "Name": "吼虎",
+      "LevelId": 25,
+      "Type": 0,
+      "Position": {
+        "PosX": 37866.0,
+        "PosY": 23532.0,
+        "PosZ": -319.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -154.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -154.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 87,
+      "Name": "独角仙",
+      "LevelId": 25,
+      "Type": 0,
+      "Position": {
+        "PosX": 10576.0,
+        "PosY": 13108.0,
+        "PosZ": -2088.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -127.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -127.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 88,
+      "Name": "双锤龙",
+      "LevelId": 24,
+      "Type": 0,
+      "Position": {
+        "PosX": -46244.0,
+        "PosY": -54726.0,
+        "PosZ": -279.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 148.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 148.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 89,
+      "Name": "熔岩石先锋",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": 1619.0,
+        "PosY": 14935.0,
+        "PosZ": 33416.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 142.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 142.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 90,
+      "Name": "五色战车王",
+      "LevelId": 50,
+      "Type": 0,
+      "Position": {
+        "PosX": 45089.0,
+        "PosY": -10205.0,
+        "PosZ": 26395.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 38.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": 38.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 91,
+      "Name": "兴烘掀&掀烘兴",
+      "LevelId": 70,
+      "Type": 0,
+      "Position": {
+        "PosX": 203512.0,
+        "PosY": -42524.0,
+        "PosZ": 32737.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -139.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -139.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 92,
+      "Name": "碧水金睛兽",
+      "LevelId": 70,
+      "Type": 0,
+      "Position": {
+        "PosX": 97730.0,
+        "PosY": -72267.0,
+        "PosZ": 21090.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -83.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -83.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 93,
+      "Name": "杨戬",
+      "LevelId": 62,
+      "Type": 0,
+      "Position": {
+        "PosX": 112.0,
+        "PosY": -3032.0,
+        "PosZ": 6717.0
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -87.0,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 0.0,
+        "PosY": -87.0,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 94,
+      "Name": "王灵官（获得筋斗云）",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": 106368.9,
+        "PosY": 102576.8,
+        "PosZ": 14556.34
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -91.75731,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 359.6557,
+        "PosY": 268.0274,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 95,
+      "Name": "翼火蛇",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": 58794.09,
+        "PosY": 70059.01,
+        "PosZ": 259.2348
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -16.43869,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 346.8309,
+        "PosY": 341.7441,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 96,
+      "Name": "石统领1",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": 147740.1,
+        "PosY": 31627.1,
+        "PosZ": 23465.68
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 44.06558,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 355.448,
+        "PosY": 43.41242,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 97,
+      "Name": "石统领2",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": 956.6478,
+        "PosY": -89531.19,
+        "PosZ": 10154.02
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -45.82031,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 356.167,
+        "PosY": 314.6102,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 98,
+      "Name": "石统领3",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": 32066.39,
+        "PosY": 123823.9,
+        "PosZ": 6707.526
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -108.4411,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 352.0673,
+        "PosY": 252.8201,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 99,
+      "Name": "石统领4",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": 1685.0,
+        "PosY": 1385.0,
+        "PosZ": -482.02
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -45.82031,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 356.167,
+        "PosY": 314.6102,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 100,
+      "Name": "犀牛",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": 71885.43,
+        "PosY": -14451.61,
+        "PosZ": 15425.94
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -6.694,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 343.5146,
+        "PosY": 335.38,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 101,
+      "Name": "神鹿",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": -41698.41,
+        "PosY": -71826.16,
+        "PosZ": 7251.787
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -114.4744,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 351.4325,
+        "PosY": 249.7624,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 102,
+      "Name": "蟋蟀（复活后用，等刷新）",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": 30410.17,
+        "PosY": 199591.2,
+        "PosZ": -2534.728
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 177.8406,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 1.214933,
+        "PosY": 182.3031,
+        "PosZ": 9.179E-08
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 103,
+      "Name": "血螳螂（过完牛，鹿，蟀后）",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": -25036.0,
+        "PosY": 130721.9,
+        "PosZ": -2773.153
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 144.1189,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 342.2457,
+        "PosY": 102.5974,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 104,
+      "Name": "石蛙",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": 35210.11,
+        "PosY": -19896.37,
+        "PosZ": -3674.88
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -90.01635,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 352.6411,
+        "PosY": 268.0233,
+        "PosZ": 1.864866E-08
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 105,
+      "Name": "河马",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": 25973.42,
+        "PosY": 184928.0,
+        "PosZ": -2519.75
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 25.60114,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 351.1138,
+        "PosY": 14.02264,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 106,
+      "Name": "黑貘兽",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": -29468.11,
+        "PosY": 69440.84,
+        "PosZ": 1986.654
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -2.00827,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 350.6021,
+        "PosY": 1.957653,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 107,
+      "Name": "大石敢当",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": -94856.3,
+        "PosY": -18329.91,
+        "PosZ": 9827.42
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": -151.4501,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 348.3491,
+        "PosY": 210.3813,
+        "PosZ": 5.207666E-08
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 108,
+      "Name": "僵尸大圣（与石头交互）",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": -129936.1,
+        "PosY": 337883.3,
+        "PosZ": 42923.94
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 114.1656,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 348.3811,
+        "PosY": 120.013,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    },
+    {
+      "Id": 109,
+      "Name": "齐天大圣（击杀僵尸大圣后）98",
+      "LevelId": 98,
+      "Type": 0,
+      "Position": {
+        "PosX": -129936.1,
+        "PosY": 337883.3,
+        "PosZ": 42923.94
+      },
+      "Rotation": {
+        "PosX": 0.0,
+        "PosY": 114.1656,
+        "PosZ": 0.0
+      },
+      "CameraRotation": {
+        "PosX": 348.3811,
+        "PosY": 120.013,
+        "PosZ": 0.0
+      },
+      "ArchiveName": ""
+    }
+  ]
+}

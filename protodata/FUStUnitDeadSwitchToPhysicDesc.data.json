@@ -1,0 +1,10 @@
+{
+  "List": [
+    {
+      "ID": 2004,
+      "DefaultEnableAutoSwitch": 1,
+      "DefaultEnableWeaponAutoSwitch": 1,
+      "Guard": "Guard"
+    }
+  ]
+}

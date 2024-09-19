@@ -1,0 +1,22 @@
+{
+  "List": [
+    {
+      "ID": 31,
+      "DisplayName": "的史诗冰箱",
+      "ResPath": "/Game/00MainHZ/Characters/Nianhui2019/DianBingXiang/DropItem_BingXiang.DropItem_BingXiang_C",
+      "QualityColor": 3
+    },
+    {
+      "ID": 37,
+      "DisplayName": "的王者电暖器",
+      "ResPath": "/Game/00MainHZ/Characters/Nianhui2019/YouDeng/DropItem_YouDeng.DropItem_YouDeng_C",
+      "QualityColor": 4
+    },
+    {
+      "ID": 33,
+      "DisplayName": "的至尊电饭煲",
+      "ResPath": "/Game/00MainHZ/Characters/Nianhui2019/DianFanBao/DropItem_DianFanBao.DropItem_DianFanBao_C",
+      "QualityColor": 5
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "NameEn": "aikin",
+      "NameCn": "袁明亮",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/aikin.aikin"
+    },
+    {
+      "ID": 2,
+      "NameEn": "alec",
+      "NameCn": "马浩然",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/alec.alec"
+    },
+    {
+      "ID": 3,
+      "NameEn": "alen",
+      "NameCn": "张镇林",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/alen.alen"
+    },
+    {
+      "ID": 4,
+      "NameEn": "ameng",
+      "NameCn": "潘立蒙",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/ameng.ameng"
+    },
+    {
+      "ID": 5,
+      "NameEn": "anew",
+      "NameCn": "赖勇生",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/anew.anew"
+    },
+    {
+      "ID": 6,
+      "NameEn": "anna",
+      "NameCn": "邱博雅",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/anna.anna"
+    },
+    {
+      "ID": 7,
+      "NameEn": "blue",
+      "NameCn": "张鑫鹏",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/blue.blue"
+    },
+    {
+      "ID": 8,
+      "NameEn": "cd9",
+      "NameCn": "黄璟",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/cd9.cd9"
+    },
+    {
+      "ID": 9,
+      "NameEn": "charlie",
+      "NameCn": "沈中誉",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/charlie.charlie"
+    },
+    {
+      "ID": 10,
+      "NameEn": "chelsea",
+      "NameCn": "黄希晨",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/chelsea.chelsea"
+    },
+    {
+      "ID": 11,
+      "NameEn": "chris",
+      "NameCn": "李扬帆",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/chris.chris"
+    },
+    {
+      "ID": 12,
+      "NameEn": "derek",
+      "NameCn": "刘有德",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/derek.derek"
+    },
+    {
+      "ID": 13,
+      "NameEn": "eason",
+      "NameCn": "钟以琛",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/eason.eason"
+    },
+    {
+      "ID": 14,
+      "NameEn": "ebba",
+      "NameCn": "陆璐",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/ebba.ebba"
+    },
+    {
+      "ID": 15,
+      "NameEn": "ellen",
+      "NameCn": "彭笔戎",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/ellen.ellen"
+    },
+    {
+      "ID": 16,
+      "NameEn": "goosegogyev",
+      "NameCn": "杨钧驿",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/goosegogyev.goosegogyev"
+    },
+    {
+      "ID": 17,
+      "NameEn": "guansi",
+      "NameCn": "黄冠斯",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/guansi.guansi"
+    },
+    {
+      "ID": 18,
+      "NameEn": "guiqiang",
+      "NameCn": "何贵强",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/guiqiang.guiqiang"
+    },
+    {
+      "ID": 19,
+      "NameEn": "hatum",
+      "NameCn": "韩亮",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/hatum.hatum"
+    },
+    {
+      "ID": 20,
+      "NameEn": "hex",
+      "NameCn": "彭恒",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/hex.hex"
+    },
+    {
+      "ID": 21,
+      "NameEn": "hongyang",
+      "NameCn": "牟红阳",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/hongyang.hongyang"
+    },
+    {
+      "ID": 22,
+      "NameEn": "jason",
+      "NameCn": "孔德佳",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/jason.jason"
+    },
+    {
+      "ID": 23,
+      "NameEn": "jasonwu",
+      "NameCn": "吴靖欣",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/jasonwu.jasonwu"
+    },
+    {
+      "ID": 24,
+      "NameEn": "jiangshaowei",
+      "NameCn": "江绍威",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/jiangshaowei.jiangshaowei"
+    },
+    {
+      "ID": 25,
+      "NameEn": "kaiyuzhang",
+      "NameCn": "张凯宇",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/kaiyuzhang.kaiyuzhang"
+    },
+    {
+      "ID": 26,
+      "NameEn": "loki",
+      "NameCn": "高奇",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/loki.loki"
+    },
+    {
+      "ID": 27,
+      "NameEn": "lyle",
+      "NameCn": "付强",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/lyle.lyle"
+    },
+    {
+      "ID": 28,
+      "NameEn": "martin",
+      "NameCn": "曾超",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/martin.martin"
+    },
+    {
+      "ID": 29,
+      "NameEn": "mengshuo",
+      "NameCn": "陈孟硕",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/mengshuo.mengshuo"
+    },
+    {
+      "ID": 30,
+      "NameEn": "migge",
+      "NameCn": "陈伟建",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/migge.migge"
+    },
+    {
+      "ID": 31,
+      "NameEn": "nave",
+      "NameCn": "杨帆",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/nave.nave"
+    },
+    {
+      "ID": 32,
+      "NameEn": "quentin",
+      "NameCn": "王栎",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/quentin.quentin"
+    },
+    {
+      "ID": 33,
+      "NameEn": "riddle",
+      "NameCn": "陈迪源",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/riddle.riddle"
+    },
+    {
+      "ID": 34,
+      "NameEn": "sybli",
+      "NameCn": "颜希真",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/sybli.sybli"
+    },
+    {
+      "ID": 35,
+      "NameEn": "vincent",
+      "NameCn": "余伟森",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/vincent.vincent"
+    },
+    {
+      "ID": 36,
+      "NameEn": "wanlu",
+      "NameCn": "赵宛露",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/wanlu.wanlu"
+    },
+    {
+      "ID": 37,
+      "NameEn": "weiyi",
+      "NameCn": "蓝为一",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/weiyi.weiyi"
+    },
+    {
+      "ID": 38,
+      "NameEn": "wenyong",
+      "NameCn": "招文勇",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/wenyong.wenyong"
+    },
+    {
+      "ID": 39,
+      "NameEn": "will",
+      "NameCn": "郑怀宇",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/will.will"
+    },
+    {
+      "ID": 40,
+      "NameEn": "wood",
+      "NameCn": "郑润宗",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/wood.wood"
+    },
+    {
+      "ID": 41,
+      "NameEn": "woody",
+      "NameCn": "徐亮亮",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/woody.woody"
+    },
+    {
+      "ID": 42,
+      "NameEn": "yocar",
+      "NameCn": "冯骥",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/yocar.yocar"
+    },
+    {
+      "ID": 43,
+      "NameEn": "yuki",
+      "NameCn": "伍进",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/yuki.yuki"
+    },
+    {
+      "ID": 44,
+      "NameEn": "zhouleilei",
+      "NameCn": "周磊磊",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/zhouleilei.zhouleilei"
+    },
+    {
+      "ID": 45,
+      "NameEn": "air",
+      "NameCn": "杨永鑫",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/air.air"
+    },
+    {
+      "ID": 46,
+      "NameEn": "azha",
+      "NameCn": "章益恩",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/azha.azha"
+    },
+    {
+      "ID": 47,
+      "NameEn": "bwen",
+      "NameCn": "林必文",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/bwen.bwen"
+    },
+    {
+      "ID": 48,
+      "NameEn": "daiwei",
+      "NameCn": "戴巍",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/daiwei.daiwei"
+    },
+    {
+      "ID": 49,
+      "NameEn": "fjay",
+      "NameCn": "付佳",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/fjay.fjay"
+    },
+    {
+      "ID": 50,
+      "NameEn": "hasa",
+      "NameCn": "江栢村",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/hasa.hasa"
+    },
+    {
+      "ID": 51,
+      "NameEn": "houxiaojun",
+      "NameCn": "侯晓军",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/houxiaojun.houxiaojun"
+    },
+    {
+      "ID": 52,
+      "NameEn": "huihanli",
+      "NameCn": "李会寒",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/huihanli.huihanli"
+    },
+    {
+      "ID": 53,
+      "NameEn": "jiating",
+      "NameCn": "丁嘉婷",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/jiating.jiating"
+    },
+    {
+      "ID": 54,
+      "NameEn": "josephliu",
+      "NameCn": "柳舟",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/josephliu.josephliu"
+    },
+    {
+      "ID": 55,
+      "NameEn": "justin",
+      "NameCn": "罗晓波",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/justin.justin"
+    },
+    {
+      "ID": 56,
+      "NameEn": "luoyao",
+      "NameCn": "罗耀",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/luoyao.luoyao"
+    },
+    {
+      "ID": 57,
+      "NameEn": "maozhe",
+      "NameCn": "茅哲",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/maozhe.maozhe"
+    },
+    {
+      "ID": 58,
+      "NameEn": "meteorahyk",
+      "NameCn": "黄裕康",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/meteorahyk.meteorahyk"
+    },
+    {
+      "ID": 59,
+      "NameEn": "ocean",
+      "NameCn": "冯海洋",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/ocean.ocean"
+    },
+    {
+      "ID": 60,
+      "NameEn": "polygon",
+      "NameCn": "裴赢",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/polygon.polygon"
+    },
+    {
+      "ID": 61,
+      "NameEn": "refain",
+      "NameCn": "张祺",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/refain.refain"
+    },
+    {
+      "ID": 62,
+      "NameEn": "sheep",
+      "NameCn": "尹志扬",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/sheep.sheep"
+    },
+    {
+      "ID": 63,
+      "NameEn": "tenzhun",
+      "NameCn": "滕军",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/tenzhun.tenzhun"
+    },
+    {
+      "ID": 64,
+      "NameEn": "wangchen",
+      "NameCn": "王琛",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/wangchen.wangchen"
+    },
+    {
+      "ID": 65,
+      "NameEn": "wanghao",
+      "NameCn": "王昊",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/wanghao.wanghao"
+    },
+    {
+      "ID": 66,
+      "NameEn": "yangqi",
+      "NameCn": "杨奇",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/yangqi.yangqi"
+    },
+    {
+      "ID": 67,
+      "NameEn": "zhangweiyan",
+      "NameCn": "张炜琰",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/zhangweiyan.zhangweiyan"
+    },
+    {
+      "ID": 68,
+      "NameEn": "zhangzheng",
+      "NameCn": "张政",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/zhangzheng.zhangzheng"
+    },
+    {
+      "ID": 69,
+      "NameEn": "ziggyzhu",
+      "NameCn": "朱玮玮",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/ziggyzhu.ziggyzhu"
+    },
+    {
+      "ID": 70,
+      "NameEn": "zongzhanshan",
+      "NameCn": "宗占山",
+      "Texture": "/Game/00Main/Design/Units/Nianhui2020/FaceTexture/zongzhanshan.zongzhanshan"
+    }
+  ]
+}

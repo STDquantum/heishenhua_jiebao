@@ -1,0 +1,3343 @@
+{
+  "List": [
+    {
+      "ID": 10,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 12,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 155.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 45.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 13,
+      "Scale": 1.0,
+      "MeshHeight": 520.0,
+      "CapsuleHalfHeight": 260.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 55.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 14,
+      "Scale": 1.0,
+      "MeshHeight": 380.0,
+      "CapsuleHalfHeight": 190.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 105.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 15,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 170.0,
+      "PelvisHeight": 180.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 16,
+      "Scale": 1.0,
+      "MeshHeight": 330.0,
+      "CapsuleHalfHeight": 165.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 17,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 200.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 18,
+      "Scale": 0.66,
+      "MeshHeight": 350.0,
+      "CapsuleHalfHeight": 175.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 35.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 19,
+      "Scale": 0.67,
+      "MeshHeight": 460.0,
+      "CapsuleHalfHeight": 230.0,
+      "PelvisHeight": 230.0,
+      "RearFootOffset": 65.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 23,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 210.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 105.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 24,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 210.0,
+      "PelvisHeight": 210.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8011,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8012,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8013,
+      "Scale": 0.7222222,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 220.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8014,
+      "Scale": 1.0,
+      "MeshHeight": 320.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8015,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8017,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8018,
+      "Scale": 1.0,
+      "MeshHeight": 510.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 210.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8020,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 20.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8022,
+      "Scale": 0.65,
+      "MeshHeight": 800.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8024,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8025,
+      "Scale": 1.0,
+      "MeshHeight": 370.0,
+      "CapsuleHalfHeight": 240.0,
+      "PelvisHeight": 75.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8026,
+      "Scale": 1.0,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 220.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8027,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8028,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8029,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8030,
+      "Scale": 1.0,
+      "MeshHeight": 420.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8031,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 410.0,
+      "RearFootOffset": 130.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8032,
+      "Scale": 1.0,
+      "MeshHeight": 380.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 190.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8033,
+      "Scale": 0.6753247,
+      "MeshHeight": 770.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 270.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8034,
+      "Scale": 1.0,
+      "MeshHeight": 380.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8035,
+      "Scale": 1.0,
+      "MeshHeight": 490.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 95.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8036,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8037,
+      "Scale": 0.62650603,
+      "MeshHeight": 830.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 230.0,
+      "RearFootOffset": 10.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8038,
+      "Scale": 0.8125,
+      "MeshHeight": 640.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 280.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8039,
+      "Scale": 0.83870965,
+      "MeshHeight": 620.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 410.0,
+      "RearFootOffset": 0.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8040,
+      "Scale": 1.0,
+      "MeshHeight": 390.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8041,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8042,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8061,
+      "Scale": 1.0,
+      "MeshHeight": 220.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8062,
+      "Scale": 0.852459,
+      "MeshHeight": 610.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 170.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8063,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8064,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8065,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8066,
+      "Scale": 1.0,
+      "MeshHeight": 210.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 90.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8067,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8068,
+      "Scale": 1.0,
+      "MeshHeight": 290.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8069,
+      "Scale": 1.0,
+      "MeshHeight": 210.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 100.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8070,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 140.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8071,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8072,
+      "Scale": 1.0,
+      "MeshHeight": 390.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 210.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8073,
+      "Scale": 1.0,
+      "MeshHeight": 200.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 80.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8074,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 150.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8075,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8076,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8077,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 100.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8078,
+      "Scale": 1.0,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8079,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 80.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8081,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 90.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8083,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8084,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8085,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8086,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8087,
+      "Scale": 1.0,
+      "MeshHeight": 440.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8088,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8092,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 20.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8095,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8096,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8097,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8098,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8099,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8111,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8112,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8113,
+      "Scale": 0.7222222,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 220.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8114,
+      "Scale": 1.0,
+      "MeshHeight": 320.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8115,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8117,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8118,
+      "Scale": 1.0,
+      "MeshHeight": 510.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 210.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8120,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 20.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8122,
+      "Scale": 0.65,
+      "MeshHeight": 800.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8124,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8125,
+      "Scale": 1.0,
+      "MeshHeight": 370.0,
+      "CapsuleHalfHeight": 240.0,
+      "PelvisHeight": 75.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8126,
+      "Scale": 1.0,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 220.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8127,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8128,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8129,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8130,
+      "Scale": 1.0,
+      "MeshHeight": 420.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8131,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 410.0,
+      "RearFootOffset": 130.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8132,
+      "Scale": 1.0,
+      "MeshHeight": 380.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 190.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8133,
+      "Scale": 0.6753247,
+      "MeshHeight": 770.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 270.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8134,
+      "Scale": 1.0,
+      "MeshHeight": 380.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8135,
+      "Scale": 1.0,
+      "MeshHeight": 490.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 95.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8136,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8137,
+      "Scale": 0.62650603,
+      "MeshHeight": 830.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 230.0,
+      "RearFootOffset": 10.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8138,
+      "Scale": 0.8125,
+      "MeshHeight": 640.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 280.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8139,
+      "Scale": 0.83870965,
+      "MeshHeight": 620.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 410.0,
+      "RearFootOffset": 0.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8140,
+      "Scale": 1.0,
+      "MeshHeight": 390.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8141,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8142,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8161,
+      "Scale": 1.0,
+      "MeshHeight": 220.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8162,
+      "Scale": 0.852459,
+      "MeshHeight": 610.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 170.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8163,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8164,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8165,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8166,
+      "Scale": 1.0,
+      "MeshHeight": 210.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 90.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8167,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8168,
+      "Scale": 1.0,
+      "MeshHeight": 290.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8169,
+      "Scale": 1.0,
+      "MeshHeight": 210.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 100.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8170,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 140.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8171,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8172,
+      "Scale": 1.0,
+      "MeshHeight": 390.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 210.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8173,
+      "Scale": 1.0,
+      "MeshHeight": 200.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 80.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8174,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 150.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8175,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8176,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8177,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 100.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8178,
+      "Scale": 1.0,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8179,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 80.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8181,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 90.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8183,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8184,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8185,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8186,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8187,
+      "Scale": 1.0,
+      "MeshHeight": 440.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8188,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8192,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 20.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8195,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8196,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8197,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8198,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8199,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8211,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8212,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8213,
+      "Scale": 0.7222222,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 220.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8214,
+      "Scale": 1.0,
+      "MeshHeight": 320.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8215,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8217,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8218,
+      "Scale": 1.0,
+      "MeshHeight": 510.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 210.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8220,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 20.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8222,
+      "Scale": 0.65,
+      "MeshHeight": 800.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8224,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8225,
+      "Scale": 1.0,
+      "MeshHeight": 370.0,
+      "CapsuleHalfHeight": 240.0,
+      "PelvisHeight": 75.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8226,
+      "Scale": 1.0,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 220.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8227,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8228,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8229,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8230,
+      "Scale": 1.0,
+      "MeshHeight": 420.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8231,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 410.0,
+      "RearFootOffset": 130.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8232,
+      "Scale": 1.0,
+      "MeshHeight": 380.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 190.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8233,
+      "Scale": 0.6753247,
+      "MeshHeight": 770.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 270.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8234,
+      "Scale": 1.0,
+      "MeshHeight": 380.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8235,
+      "Scale": 1.0,
+      "MeshHeight": 490.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 95.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8236,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8237,
+      "Scale": 0.62650603,
+      "MeshHeight": 830.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 230.0,
+      "RearFootOffset": 10.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8238,
+      "Scale": 0.8125,
+      "MeshHeight": 640.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 280.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8239,
+      "Scale": 0.83870965,
+      "MeshHeight": 620.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 410.0,
+      "RearFootOffset": 0.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8240,
+      "Scale": 1.0,
+      "MeshHeight": 390.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8241,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8242,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8261,
+      "Scale": 1.0,
+      "MeshHeight": 220.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8262,
+      "Scale": 0.852459,
+      "MeshHeight": 610.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 170.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8263,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8264,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8265,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8266,
+      "Scale": 1.0,
+      "MeshHeight": 210.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 90.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8267,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8268,
+      "Scale": 1.0,
+      "MeshHeight": 290.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8269,
+      "Scale": 1.0,
+      "MeshHeight": 210.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 100.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8270,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 140.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8271,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8272,
+      "Scale": 1.0,
+      "MeshHeight": 390.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 210.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8273,
+      "Scale": 1.0,
+      "MeshHeight": 200.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 80.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8274,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 150.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8275,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8276,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8277,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 100.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8278,
+      "Scale": 1.0,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8279,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 80.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8281,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 90.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8283,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8284,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8285,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8286,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8287,
+      "Scale": 1.0,
+      "MeshHeight": 440.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8288,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8292,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 20.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8295,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8296,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8297,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8298,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8299,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8311,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8312,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8313,
+      "Scale": 0.7222222,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 220.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8314,
+      "Scale": 1.0,
+      "MeshHeight": 320.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8315,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8317,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8318,
+      "Scale": 1.0,
+      "MeshHeight": 510.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 210.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8320,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 20.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8322,
+      "Scale": 0.65,
+      "MeshHeight": 800.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8324,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8325,
+      "Scale": 1.0,
+      "MeshHeight": 370.0,
+      "CapsuleHalfHeight": 240.0,
+      "PelvisHeight": 75.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8326,
+      "Scale": 1.0,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 220.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8327,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8328,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8329,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8330,
+      "Scale": 1.0,
+      "MeshHeight": 420.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8331,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 410.0,
+      "RearFootOffset": 130.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8332,
+      "Scale": 1.0,
+      "MeshHeight": 380.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 190.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8333,
+      "Scale": 0.6753247,
+      "MeshHeight": 770.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 270.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8334,
+      "Scale": 1.0,
+      "MeshHeight": 380.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8335,
+      "Scale": 1.0,
+      "MeshHeight": 490.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 95.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8336,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8337,
+      "Scale": 0.62650603,
+      "MeshHeight": 830.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 230.0,
+      "RearFootOffset": 10.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8338,
+      "Scale": 0.8125,
+      "MeshHeight": 640.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 280.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8339,
+      "Scale": 0.83870965,
+      "MeshHeight": 620.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 410.0,
+      "RearFootOffset": 0.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8340,
+      "Scale": 1.0,
+      "MeshHeight": 390.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8341,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8342,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8361,
+      "Scale": 1.0,
+      "MeshHeight": 220.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8362,
+      "Scale": 0.852459,
+      "MeshHeight": 610.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 170.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8363,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8364,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8365,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8366,
+      "Scale": 1.0,
+      "MeshHeight": 210.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 90.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8367,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8368,
+      "Scale": 1.0,
+      "MeshHeight": 290.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8369,
+      "Scale": 1.0,
+      "MeshHeight": 210.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 100.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8370,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 140.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8371,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8372,
+      "Scale": 1.0,
+      "MeshHeight": 390.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 210.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8373,
+      "Scale": 1.0,
+      "MeshHeight": 200.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 80.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8374,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 150.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8375,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8376,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8377,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 100.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8378,
+      "Scale": 1.0,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8379,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 80.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8381,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 90.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8383,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8384,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8385,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8386,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8387,
+      "Scale": 1.0,
+      "MeshHeight": 440.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8388,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8392,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 20.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8395,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8396,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8397,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8398,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8399,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8411,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8412,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8413,
+      "Scale": 0.7222222,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 220.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8414,
+      "Scale": 1.0,
+      "MeshHeight": 320.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8415,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8417,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8418,
+      "Scale": 1.0,
+      "MeshHeight": 510.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 210.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8420,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 20.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8422,
+      "Scale": 0.65,
+      "MeshHeight": 800.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8424,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8425,
+      "Scale": 1.0,
+      "MeshHeight": 370.0,
+      "CapsuleHalfHeight": 240.0,
+      "PelvisHeight": 75.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8426,
+      "Scale": 1.0,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 220.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8427,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8428,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8429,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8430,
+      "Scale": 1.0,
+      "MeshHeight": 420.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8431,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 410.0,
+      "RearFootOffset": 130.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8432,
+      "Scale": 1.0,
+      "MeshHeight": 380.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 190.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8433,
+      "Scale": 0.6753247,
+      "MeshHeight": 770.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 270.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8434,
+      "Scale": 1.0,
+      "MeshHeight": 380.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8435,
+      "Scale": 1.0,
+      "MeshHeight": 490.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 95.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8436,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8437,
+      "Scale": 0.62650603,
+      "MeshHeight": 830.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 230.0,
+      "RearFootOffset": 10.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8438,
+      "Scale": 0.8125,
+      "MeshHeight": 640.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 280.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8439,
+      "Scale": 0.83870965,
+      "MeshHeight": 620.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 410.0,
+      "RearFootOffset": 0.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8440,
+      "Scale": 1.0,
+      "MeshHeight": 390.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8441,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8442,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8461,
+      "Scale": 1.0,
+      "MeshHeight": 220.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8462,
+      "Scale": 0.852459,
+      "MeshHeight": 610.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 170.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8463,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8464,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8465,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8466,
+      "Scale": 1.0,
+      "MeshHeight": 210.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 90.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8467,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8468,
+      "Scale": 1.0,
+      "MeshHeight": 290.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8469,
+      "Scale": 1.0,
+      "MeshHeight": 210.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 100.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8470,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 140.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8471,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8472,
+      "Scale": 1.0,
+      "MeshHeight": 390.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 210.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8473,
+      "Scale": 1.0,
+      "MeshHeight": 200.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 80.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8474,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 150.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8475,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8476,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8477,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 100.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8478,
+      "Scale": 1.0,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8479,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 80.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8481,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 90.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8483,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8484,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8485,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8486,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8487,
+      "Scale": 1.0,
+      "MeshHeight": 440.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8488,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8492,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 20.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8495,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8496,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8497,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8498,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8499,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8511,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8512,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8513,
+      "Scale": 0.7222222,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 220.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8514,
+      "Scale": 1.0,
+      "MeshHeight": 320.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8515,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8517,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8518,
+      "Scale": 1.0,
+      "MeshHeight": 510.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 210.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8520,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 20.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8522,
+      "Scale": 0.65,
+      "MeshHeight": 800.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8524,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8525,
+      "Scale": 1.0,
+      "MeshHeight": 370.0,
+      "CapsuleHalfHeight": 240.0,
+      "PelvisHeight": 75.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8526,
+      "Scale": 1.0,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 220.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8527,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8528,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8529,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8530,
+      "Scale": 1.0,
+      "MeshHeight": 420.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8531,
+      "Scale": 1.0,
+      "MeshHeight": 280.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 410.0,
+      "RearFootOffset": 130.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8532,
+      "Scale": 1.0,
+      "MeshHeight": 380.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 190.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8533,
+      "Scale": 0.6753247,
+      "MeshHeight": 770.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 270.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8534,
+      "Scale": 1.0,
+      "MeshHeight": 380.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8535,
+      "Scale": 1.0,
+      "MeshHeight": 490.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 95.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8536,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8537,
+      "Scale": 0.62650603,
+      "MeshHeight": 830.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 230.0,
+      "RearFootOffset": 10.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8538,
+      "Scale": 0.8125,
+      "MeshHeight": 640.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 280.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8539,
+      "Scale": 0.83870965,
+      "MeshHeight": 620.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 410.0,
+      "RearFootOffset": 0.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8540,
+      "Scale": 1.0,
+      "MeshHeight": 390.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8541,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8542,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8561,
+      "Scale": 1.0,
+      "MeshHeight": 220.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8562,
+      "Scale": 0.852459,
+      "MeshHeight": 610.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 170.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8563,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8564,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 110.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8565,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8566,
+      "Scale": 1.0,
+      "MeshHeight": 210.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 90.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8567,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8568,
+      "Scale": 1.0,
+      "MeshHeight": 290.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8569,
+      "Scale": 1.0,
+      "MeshHeight": 210.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 100.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8570,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 140.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8571,
+      "Scale": 1.0,
+      "MeshHeight": 340.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 150.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8572,
+      "Scale": 1.0,
+      "MeshHeight": 390.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 210.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8573,
+      "Scale": 1.0,
+      "MeshHeight": 200.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 80.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8574,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 150.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8575,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 120.0,
+      "RearFootOffset": 30.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8576,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 160.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8577,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 100.0,
+      "RearFootOffset": 40.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8578,
+      "Scale": 1.0,
+      "MeshHeight": 450.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 250.0,
+      "RearFootOffset": 80.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8579,
+      "Scale": 1.0,
+      "MeshHeight": 230.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 80.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8581,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 90.0,
+      "RearFootOffset": 110.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8583,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 90.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8584,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 130.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8585,
+      "Scale": 1.0,
+      "MeshHeight": 400.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 60.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8586,
+      "Scale": 1.0,
+      "MeshHeight": 260.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 50.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8587,
+      "Scale": 1.0,
+      "MeshHeight": 440.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 190.0,
+      "RearFootOffset": 100.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8588,
+      "Scale": 1.0,
+      "MeshHeight": 360.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 170.0,
+      "RearFootOffset": 70.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8592,
+      "Scale": 1.0,
+      "MeshHeight": 300.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 140.0,
+      "RearFootOffset": 20.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8595,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8596,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8597,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8598,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    },
+    {
+      "ID": 8599,
+      "Scale": 1.0,
+      "MeshHeight": 310.0,
+      "CapsuleHalfHeight": 120.0,
+      "PelvisHeight": 200.0,
+      "RearFootOffset": 120.0,
+      "BlendTime": 0.033333335
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "List": [
+    {
+      "Id": 19001,
+      "CastSkillId": 10991,
+      "HasBuff": "",
+      "Duration": 40000.0,
+      "CastEnergy": 100.0,
+      "CastBuffId": [
+        10131,
+        10133
+      ],
+      "CarryBuffId": [
+        10132
+      ],
+      "CarryBuffActiveWhenCasting": 0,
+      "CarryEffectDesc": [
+        "较大增加火焚耐性且不受熔岩地面造成的焚伤"
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 19002,
+      "CastSkillId": 10992,
+      "HasBuff": "",
+      "Duration": 20000.0,
+      "CastEnergy": 100.0,
+      "CastBuffId": [
+        10141,
+        10144
+      ],
+      "CarryBuffId": [
+        10143
+      ],
+      "CarryBuffActiveWhenCasting": 1,
+      "CarryEffectDesc": [
+        "些微增加伤害减免"
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 19004,
+      "CastSkillId": 10994,
+      "HasBuff": "",
+      "Duration": 30000.0,
+      "CastEnergy": 130.0,
+      "CastBuffId": [
+        10145
+      ],
+      "CarryBuffId": [],
+      "CarryBuffActiveWhenCasting": 1,
+      "CarryEffectDesc": [
+        "些微增加暴击率和暴击伤害"
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 19005,
+      "CastSkillId": 10995,
+      "HasBuff": "",
+      "Duration": 12000.0,
+      "CastEnergy": 130.0,
+      "CastBuffId": [],
+      "CarryBuffId": [],
+      "CarryBuffActiveWhenCasting": 1,
+      "CarryEffectDesc": [
+        "少许增加气力恢复速度"
+      ],
+      "LocalizationTag": 1
+    }
+  ]
+}

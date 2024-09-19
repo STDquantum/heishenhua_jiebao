@@ -1,0 +1,130 @@
+{
+  "List": [
+    {
+      "Id": 1,
+      "DropGroupId": 10101,
+      "CanRepeatDrop": 0,
+      "CanRepeatGenerate": 0,
+      "DropDistanceLimit": 2000
+    },
+    {
+      "Id": 2,
+      "DropGroupId": 9901,
+      "CanRepeatDrop": 0,
+      "CanRepeatGenerate": 1,
+      "DropDistanceLimit": 2000
+    },
+    {
+      "Id": 3,
+      "DropGroupId": 9902,
+      "CanRepeatDrop": 1,
+      "CanRepeatGenerate": 1,
+      "DropDistanceLimit": 2000
+    },
+    {
+      "Id": 1001,
+      "DropGroupId": 91000,
+      "CanRepeatDrop": 0,
+      "CanRepeatGenerate": 0,
+      "DropDistanceLimit": -1
+    },
+    {
+      "Id": 1021,
+      "DropGroupId": 91000,
+      "CanRepeatDrop": 0,
+      "CanRepeatGenerate": 0,
+      "DropDistanceLimit": -1
+    },
+    {
+      "Id": 1031,
+      "DropGroupId": 91000,
+      "CanRepeatDrop": 0,
+      "CanRepeatGenerate": 0,
+      "DropDistanceLimit": -1
+    },
+    {
+      "Id": 1032,
+      "DropGroupId": 91000,
+      "CanRepeatDrop": 0,
+      "CanRepeatGenerate": 0,
+      "DropDistanceLimit": -1
+    },
+    {
+      "Id": 1041,
+      "DropGroupId": 91000,
+      "CanRepeatDrop": 0,
+      "CanRepeatGenerate": 0,
+      "DropDistanceLimit": -1
+    },
+    {
+      "Id": 1042,
+      "DropGroupId": 91000,
+      "CanRepeatDrop": 0,
+      "CanRepeatGenerate": 0,
+      "DropDistanceLimit": -1
+    },
+    {
+      "Id": 1051,
+      "DropGroupId": 91000,
+      "CanRepeatDrop": 0,
+      "CanRepeatGenerate": 0,
+      "DropDistanceLimit": -1
+    },
+    {
+      "Id": 1061,
+      "DropGroupId": 91000,
+      "CanRepeatDrop": 0,
+      "CanRepeatGenerate": 0,
+      "DropDistanceLimit": -1
+    },
+    {
+      "Id": 1062,
+      "DropGroupId": 91000,
+      "CanRepeatDrop": 0,
+      "CanRepeatGenerate": 0,
+      "DropDistanceLimit": -1
+    },
+    {
+      "Id": 2001,
+      "DropGroupId": 2059,
+      "CanRepeatDrop": 0,
+      "CanRepeatGenerate": 0,
+      "DropDistanceLimit": -1
+    },
+    {
+      "Id": 4001,
+      "DropGroupId": 4001,
+      "CanRepeatDrop": 0,
+      "CanRepeatGenerate": 0,
+      "DropDistanceLimit": 2000
+    },
+    {
+      "Id": 4002,
+      "DropGroupId": 4002,
+      "CanRepeatDrop": 1,
+      "CanRepeatGenerate": 1,
+      "DropDistanceLimit": 2000
+    },
+    {
+      "Id": 4014,
+      "DropGroupId": 4014,
+      "CanRepeatDrop": 1,
+      "CanRepeatGenerate": 1,
+      "DropDistanceLimit": 2000
+    },
+    {
+      "Id": 4015,
+      "DropGroupId": 941099,
+      "CanRepeatDrop": 1,
+      "CanRepeatGenerate": 1,
+      "DropDistanceLimit": 2000
+    },
+    {
+      "Id": 2002,
+      "DropGroupId": 0,
+      "CanRepeatDrop": 0,
+      "CanRepeatGenerate": 1,
+      "DropDistanceLimit": 2000
+    }
+  ]
+}

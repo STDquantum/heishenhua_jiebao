@@ -1,0 +1,424 @@
+{
+  "List": [
+    {
+      "ID": 700,
+      "BuffTips": "通用抓投-免疫硬直",
+      "BuffActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "BuffLayerCounterType": 0,
+      "BuffCategory": 0,
+      "CanRemoveWhenAttackHit": 0,
+      "CanRemoveWhenAttacked": 0,
+      "Delay": 0,
+      "Duration": -1,
+      "Interval": 0,
+      "AlmostEndAheadTime": 0,
+      "MaxLayer": 2,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "BuffEffects": [
+        {
+          "EffectTrigger": 1,
+          "EffectType": 7,
+          "EffectTargetSelectType": 0,
+          "EffectParamsString": [],
+          "EffectParams": [
+            17
+          ],
+          "EffectParamsFloat": []
+        }
+      ],
+      "IsExclusiveBuff": 0,
+      "CanBeInherited": 0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 701,
+      "BuffTips": "通用抓投-免疫定身",
+      "BuffActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "BuffLayerCounterType": 0,
+      "BuffCategory": 0,
+      "CanRemoveWhenAttackHit": 0,
+      "CanRemoveWhenAttacked": 0,
+      "Delay": 0,
+      "Duration": -1,
+      "Interval": 0,
+      "AlmostEndAheadTime": 0,
+      "MaxLayer": 2,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "BuffEffects": [
+        {
+          "EffectTrigger": 1,
+          "EffectType": 7,
+          "EffectTargetSelectType": 0,
+          "EffectParamsString": [],
+          "EffectParams": [
+            18
+          ],
+          "EffectParamsFloat": []
+        }
+      ],
+      "IsExclusiveBuff": 0,
+      "CanBeInherited": 0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 702,
+      "BuffTips": "通用抓投-免疫冰（仅免疫积累）",
+      "BuffActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "BuffLayerCounterType": 0,
+      "BuffCategory": 0,
+      "CanRemoveWhenAttackHit": 0,
+      "CanRemoveWhenAttacked": 0,
+      "Delay": 0,
+      "Duration": -1,
+      "Interval": 0,
+      "AlmostEndAheadTime": 0,
+      "MaxLayer": 2,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "BuffEffects": [
+        {
+          "EffectTrigger": 1,
+          "EffectType": 7,
+          "EffectTargetSelectType": 0,
+          "EffectParamsString": [],
+          "EffectParams": [
+            11
+          ],
+          "EffectParamsFloat": []
+        }
+      ],
+      "IsExclusiveBuff": 0,
+      "CanBeInherited": 0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 703,
+      "BuffTips": "通用抓投-免疫火",
+      "BuffActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "BuffLayerCounterType": 0,
+      "BuffCategory": 0,
+      "CanRemoveWhenAttackHit": 0,
+      "CanRemoveWhenAttacked": 0,
+      "Delay": 0,
+      "Duration": -1,
+      "Interval": 0,
+      "AlmostEndAheadTime": 0,
+      "MaxLayer": 2,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "BuffEffects": [
+        {
+          "EffectTrigger": 1,
+          "EffectType": 7,
+          "EffectTargetSelectType": 0,
+          "EffectParamsString": [],
+          "EffectParams": [
+            84
+          ],
+          "EffectParamsFloat": []
+        }
+      ],
+      "IsExclusiveBuff": 0,
+      "CanBeInherited": 0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 704,
+      "BuffTips": "通用抓投-免疫毒",
+      "BuffActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "BuffLayerCounterType": 0,
+      "BuffCategory": 0,
+      "CanRemoveWhenAttackHit": 0,
+      "CanRemoveWhenAttacked": 0,
+      "Delay": 0,
+      "Duration": -1,
+      "Interval": 0,
+      "AlmostEndAheadTime": 0,
+      "MaxLayer": 2,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "BuffEffects": [
+        {
+          "EffectTrigger": 1,
+          "EffectType": 7,
+          "EffectTargetSelectType": 0,
+          "EffectParamsString": [],
+          "EffectParams": [
+            85
+          ],
+          "EffectParamsFloat": []
+        }
+      ],
+      "IsExclusiveBuff": 0,
+      "CanBeInherited": 0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 705,
+      "BuffTips": "通用抓投-免疫雷",
+      "BuffActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "BuffLayerCounterType": 0,
+      "BuffCategory": 0,
+      "CanRemoveWhenAttackHit": 0,
+      "CanRemoveWhenAttacked": 0,
+      "Delay": 0,
+      "Duration": -1,
+      "Interval": 0,
+      "AlmostEndAheadTime": 0,
+      "MaxLayer": 2,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "BuffEffects": [
+        {
+          "EffectTrigger": 1,
+          "EffectType": 7,
+          "EffectTargetSelectType": 0,
+          "EffectParamsString": [],
+          "EffectParams": [
+            86
+          ],
+          "EffectParamsFloat": []
+        }
+      ],
+      "IsExclusiveBuff": 0,
+      "CanBeInherited": 0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 706,
+      "BuffTips": "通用抓投-无法死亡（锁一血）",
+      "BuffActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "BuffLayerCounterType": 0,
+      "BuffCategory": 0,
+      "CanRemoveWhenAttackHit": 0,
+      "CanRemoveWhenAttacked": 0,
+      "Delay": 0,
+      "Duration": -1,
+      "Interval": 0,
+      "AlmostEndAheadTime": 0,
+      "MaxLayer": 2,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "BuffEffects": [
+        {
+          "EffectTrigger": 1,
+          "EffectType": 7,
+          "EffectTargetSelectType": 0,
+          "EffectParamsString": [],
+          "EffectParams": [
+            15
+          ],
+          "EffectParamsFloat": []
+        }
+      ],
+      "IsExclusiveBuff": 0,
+      "CanBeInherited": 0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 707,
+      "BuffTips": "通用抓投-免疫伤害",
+      "BuffActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "BuffLayerCounterType": 0,
+      "BuffCategory": 0,
+      "CanRemoveWhenAttackHit": 0,
+      "CanRemoveWhenAttacked": 0,
+      "Delay": 0,
+      "Duration": -1,
+      "Interval": 0,
+      "AlmostEndAheadTime": 0,
+      "MaxLayer": 2,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "BuffEffects": [
+        {
+          "EffectTrigger": 1,
+          "EffectType": 7,
+          "EffectTargetSelectType": 0,
+          "EffectParamsString": [],
+          "EffectParams": [
+            1
+          ],
+          "EffectParamsFloat": []
+        }
+      ],
+      "IsExclusiveBuff": 0,
+      "CanBeInherited": 0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 708,
+      "BuffTips": "通用抓投-免疫非属性伤害",
+      "BuffActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "BuffLayerCounterType": 0,
+      "BuffCategory": 0,
+      "CanRemoveWhenAttackHit": 0,
+      "CanRemoveWhenAttacked": 0,
+      "Delay": 0,
+      "Duration": -1,
+      "Interval": 0,
+      "AlmostEndAheadTime": 0,
+      "MaxLayer": 2,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "BuffEffects": [
+        {
+          "EffectTrigger": 1,
+          "EffectType": 7,
+          "EffectTargetSelectType": 0,
+          "EffectParamsString": [],
+          "EffectParams": [
+            10
+          ],
+          "EffectParamsFloat": []
+        }
+      ],
+      "IsExclusiveBuff": 0,
+      "CanBeInherited": 0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 709,
+      "BuffTips": "通用抓投-无视所有输入",
+      "BuffActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "BuffLayerCounterType": 0,
+      "BuffCategory": 0,
+      "CanRemoveWhenAttackHit": 0,
+      "CanRemoveWhenAttacked": 0,
+      "Delay": 0,
+      "Duration": -1,
+      "Interval": 0,
+      "AlmostEndAheadTime": 0,
+      "MaxLayer": 2,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "BuffEffects": [
+        {
+          "EffectTrigger": 1,
+          "EffectType": 7,
+          "EffectTargetSelectType": 0,
+          "EffectParamsString": [],
+          "EffectParams": [
+            6
+          ],
+          "EffectParamsFloat": []
+        }
+      ],
+      "IsExclusiveBuff": 0,
+      "CanBeInherited": 0,
+      "Guard": "Guard"
+    }
+  ]
+}

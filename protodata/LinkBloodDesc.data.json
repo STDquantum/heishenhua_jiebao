@@ -1,0 +1,24 @@
+{
+  "List": [
+    {
+      "Id": 0,
+      "Guid": [
+        "",
+        "1710254425254-e2aebe334d2d971b3d5e02a9eecb38ae-TAMER_gycy_baiyi_03_C_0"
+      ],
+      "GroupName": "四大天王",
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 1,
+      "Guid": [
+        "UGuid.EndB.ZZTW",
+        "UGuid.EndB.CGTW",
+        "UGuid.EndB.DWTW",
+        "UGuid.EndB.GMTW"
+      ],
+      "GroupName": "四大天王",
+      "LocalizationTag": 1
+    }
+  ]
+}

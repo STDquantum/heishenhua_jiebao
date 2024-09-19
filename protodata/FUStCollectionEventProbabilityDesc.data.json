@@ -1,0 +1,70 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "MonsterRate": 10000,
+      "PlusMonsterRate": 0,
+      "ChiefRate": 0
+    },
+    {
+      "ID": 2,
+      "MonsterRate": 0,
+      "PlusMonsterRate": 10000,
+      "ChiefRate": 0
+    },
+    {
+      "ID": 3,
+      "MonsterRate": 0,
+      "PlusMonsterRate": 0,
+      "ChiefRate": 10000
+    },
+    {
+      "ID": 4,
+      "MonsterRate": 0,
+      "PlusMonsterRate": 0,
+      "ChiefRate": 10000
+    },
+    {
+      "ID": 5,
+      "MonsterRate": 10000,
+      "PlusMonsterRate": 0,
+      "ChiefRate": 0
+    },
+    {
+      "ID": 6,
+      "MonsterRate": 500,
+      "PlusMonsterRate": 0,
+      "ChiefRate": 0
+    },
+    {
+      "ID": 7,
+      "MonsterRate": 0,
+      "PlusMonsterRate": 0,
+      "ChiefRate": 0
+    },
+    {
+      "ID": 8,
+      "MonsterRate": 1000,
+      "PlusMonsterRate": 300,
+      "ChiefRate": 0
+    },
+    {
+      "ID": 9,
+      "MonsterRate": 5000,
+      "PlusMonsterRate": 2500,
+      "ChiefRate": 2500
+    },
+    {
+      "ID": 10,
+      "MonsterRate": 1000,
+      "PlusMonsterRate": 0,
+      "ChiefRate": 0
+    },
+    {
+      "ID": 11,
+      "MonsterRate": 5000,
+      "PlusMonsterRate": 0,
+      "ChiefRate": 0
+    }
+  ]
+}

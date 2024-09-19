@@ -1,0 +1,1494 @@
+{
+  "List": [
+    {
+      "ID": 0,
+      "LockGroupID": 401500,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 401500,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "SoulFocus",
+      "SoulFocusZSocket": "SoulFocus"
+    },
+    {
+      "ID": 1,
+      "LockGroupID": 401500,
+      "LockSocket": "CAMERA_LOCK_HAND_L",
+      "CameraID": 401501,
+      "PelvisSocket": "CAMERA_LOCK_HAND_L",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 2,
+      "LockGroupID": 401500,
+      "LockSocket": "CAMERA_LOCK_HAND_R",
+      "CameraID": 401501,
+      "PelvisSocket": "CAMERA_LOCK_HAND_R",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 3,
+      "LockGroupID": 401501,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 401502,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "SoulFocus",
+      "SoulFocusZSocket": "SoulFocus"
+    },
+    {
+      "ID": 4,
+      "LockGroupID": 401501,
+      "LockSocket": "CAMERA_LOCK_HAND_L",
+      "CameraID": 401503,
+      "PelvisSocket": "CAMERA_LOCK_HAND_L",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 5,
+      "LockGroupID": 401501,
+      "LockSocket": "CAMERA_LOCK_HAND_R",
+      "CameraID": 401503,
+      "PelvisSocket": "CAMERA_LOCK_HAND_R",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 6,
+      "LockGroupID": 401502,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 401505,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "SoulFocus",
+      "SoulFocusZSocket": "SoulFocus"
+    },
+    {
+      "ID": 7,
+      "LockGroupID": 401502,
+      "LockSocket": "CAMERA_LOCK_HAND_L",
+      "CameraID": 401504,
+      "PelvisSocket": "CAMERA_LOCK_HAND_L",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 8,
+      "LockGroupID": 401502,
+      "LockSocket": "CAMERA_LOCK_HAND_R",
+      "CameraID": 401504,
+      "PelvisSocket": "CAMERA_LOCK_HAND_R",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 9,
+      "LockGroupID": 401200,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 401202,
+      "PelvisSocket": "pelvis",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 10,
+      "LockGroupID": 401200,
+      "LockSocket": "CAMERA_LOCK_FOOT_R",
+      "CameraID": 401200,
+      "PelvisSocket": "CAMERA_LOCK_FOOT_R",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 11,
+      "LockGroupID": 401200,
+      "LockSocket": "CAMERA_LOCK_FOOT_L",
+      "CameraID": 401200,
+      "PelvisSocket": "CAMERA_LOCK_FOOT_L",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 12,
+      "LockGroupID": 401201,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 401201,
+      "PelvisSocket": "pelvis",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 13,
+      "LockGroupID": 401201,
+      "LockSocket": "CAMERA_LOCK_FOOT_R",
+      "CameraID": 401203,
+      "PelvisSocket": "CAMERA_LOCK_FOOT_R",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 14,
+      "LockGroupID": 401201,
+      "LockSocket": "CAMERA_LOCK_FOOT_L",
+      "CameraID": 401203,
+      "PelvisSocket": "CAMERA_LOCK_FOOT_L",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 15,
+      "LockGroupID": 401100,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 401100,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": "CAMERA_LOCK"
+    },
+    {
+      "ID": 16,
+      "LockGroupID": 401100,
+      "LockSocket": "CAMERA_LOCK_BONE",
+      "CameraID": 401103,
+      "PelvisSocket": "CAMERA_LOCK_BONE",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 17,
+      "LockGroupID": 401103,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 401100,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 18,
+      "LockGroupID": 401103,
+      "LockSocket": "CAMERA_LOCK_BONE",
+      "CameraID": 401103,
+      "PelvisSocket": "CAMERA_LOCK_BONE",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 19,
+      "LockGroupID": 402600,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 402600,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 20,
+      "LockGroupID": 402600,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 402600,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 21,
+      "LockGroupID": 402601,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 402601,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 22,
+      "LockGroupID": 402601,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 402601,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 23,
+      "LockGroupID": 488800,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 488800,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 24,
+      "LockGroupID": 488800,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 488801,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 25,
+      "LockGroupID": 488802,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 488802,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 26,
+      "LockGroupID": 488802,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 488802,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 27,
+      "LockGroupID": 488803,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 488803,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 28,
+      "LockGroupID": 488803,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 488803,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 29,
+      "LockGroupID": 488804,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 488804,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 30,
+      "LockGroupID": 488804,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 488804,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 31,
+      "LockGroupID": 301900,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 30190000,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 32,
+      "LockGroupID": 301900,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 30190000,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 33,
+      "LockGroupID": 301901,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 30190001,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 34,
+      "LockGroupID": 301901,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 30190000,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 35,
+      "LockGroupID": 301902,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 30190002,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 36,
+      "LockGroupID": 301902,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 30190000,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 37,
+      "LockGroupID": 301903,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 30190003,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 38,
+      "LockGroupID": 301903,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 30190003,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 39,
+      "LockGroupID": 301904,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 30190004,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 40,
+      "LockGroupID": 301904,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 30190004,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 41,
+      "LockGroupID": 301905,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 30190005,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 42,
+      "LockGroupID": 301905,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 30190000,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 43,
+      "LockGroupID": 301906,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 30190006,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 44,
+      "LockGroupID": 301906,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 30190000,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 45,
+      "LockGroupID": 301907,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 30190007,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 46,
+      "LockGroupID": 301907,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 30190007,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 47,
+      "LockGroupID": 301911,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 30190011,
+      "PelvisSocket": "CAMERA_LOCK_HEAD",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 48,
+      "LockGroupID": 301911,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 30190011,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 49,
+      "LockGroupID": 412800,
+      "LockSocket": "CAMERA_LOCK_SZLC",
+      "CameraID": 412800,
+      "PelvisSocket": "pelvis",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 50,
+      "LockGroupID": 413301,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 413301,
+      "PelvisSocket": "pelvis",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 51,
+      "LockGroupID": 413301,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 413302,
+      "PelvisSocket": "pelvis",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 52,
+      "LockGroupID": 800000,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 800000,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 53,
+      "LockGroupID": 800000,
+      "LockSocket": "CAMERA_LOCK_FAKE",
+      "CameraID": 800000,
+      "PelvisSocket": "CAMERA_LOCK_24",
+      "RootSocket": "root",
+      "SoulFocusSocket": "CAMERA_LOCK_24",
+      "SoulFocusZSocket": "CAMERA_LOCK_24"
+    },
+    {
+      "ID": 54,
+      "LockGroupID": 800001,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 800001,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 55,
+      "LockGroupID": 800001,
+      "LockSocket": "CAMERA_LOCK_FAKE",
+      "CameraID": 800001,
+      "PelvisSocket": "CAMERA_LOCK_24",
+      "RootSocket": "root",
+      "SoulFocusSocket": "CAMERA_LOCK_24",
+      "SoulFocusZSocket": "CAMERA_LOCK_24"
+    },
+    {
+      "ID": 56,
+      "LockGroupID": 800002,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 800002,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 57,
+      "LockGroupID": 800002,
+      "LockSocket": "CAMERA_LOCK_FAKE",
+      "CameraID": 800002,
+      "PelvisSocket": "CAMERA_LOCK_24",
+      "RootSocket": "root",
+      "SoulFocusSocket": "CAMERA_LOCK_24",
+      "SoulFocusZSocket": "CAMERA_LOCK_24"
+    },
+    {
+      "ID": 58,
+      "LockGroupID": 8000001,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 8000001,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 59,
+      "LockGroupID": 8000001,
+      "LockSocket": "CAMERA_LOCK_FAKE",
+      "CameraID": 8000001,
+      "PelvisSocket": "CAMERA_LOCK_24",
+      "RootSocket": "root",
+      "SoulFocusSocket": "CAMERA_LOCK_24",
+      "SoulFocusZSocket": "CAMERA_LOCK_24"
+    },
+    {
+      "ID": 60,
+      "LockGroupID": 700100,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 700100,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 61,
+      "LockGroupID": 700100,
+      "LockSocket": "CAMERA_LOCK_FAKE",
+      "CameraID": 700100,
+      "PelvisSocket": "CAMERA_LOCK_15",
+      "RootSocket": "root",
+      "SoulFocusSocket": "CAMERA_LOCK_15",
+      "SoulFocusZSocket": "CAMERA_LOCK_15"
+    },
+    {
+      "ID": 62,
+      "LockGroupID": 700100,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 700101,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 63,
+      "LockGroupID": 700100,
+      "LockSocket": "CAMERA_LOCK_FAKE",
+      "CameraID": 700101,
+      "PelvisSocket": "CAMERA_LOCK_15",
+      "RootSocket": "root",
+      "SoulFocusSocket": "CAMERA_LOCK_15",
+      "SoulFocusZSocket": "CAMERA_LOCK_15"
+    },
+    {
+      "ID": 64,
+      "LockGroupID": 199100,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 19910000,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 65,
+      "LockGroupID": 199100,
+      "LockSocket": "CAMERA_LOCK_SAN",
+      "CameraID": 19910000,
+      "PelvisSocket": "CAMERA_LOCK_SAN",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 66,
+      "LockGroupID": 1991001,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 19910100,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 67,
+      "LockGroupID": 1991001,
+      "LockSocket": "CAMERA_LOCK_SAN",
+      "CameraID": 19910100,
+      "PelvisSocket": "CAMERA_LOCK_SAN",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 68,
+      "LockGroupID": 1991171,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 19911700,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 69,
+      "LockGroupID": 1991171,
+      "LockSocket": "CAMERA_LOCK_SAN",
+      "CameraID": 19911700,
+      "PelvisSocket": "CAMERA_LOCK_SAN",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 70,
+      "LockGroupID": 1991181,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 19911800,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 71,
+      "LockGroupID": 1991181,
+      "LockSocket": "CAMERA_LOCK_SAN",
+      "CameraID": 19911800,
+      "PelvisSocket": "CAMERA_LOCK_SAN",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 72,
+      "LockGroupID": 1991182,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 19911802,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 73,
+      "LockGroupID": 1991182,
+      "LockSocket": "CAMERA_LOCK_SAN",
+      "CameraID": 19911802,
+      "PelvisSocket": "CAMERA_LOCK_SAN",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 74,
+      "LockGroupID": 199119,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 19911901,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 75,
+      "LockGroupID": 199119,
+      "LockSocket": "CAMERA_LOCK_SAN",
+      "CameraID": 19911901,
+      "PelvisSocket": "CAMERA_LOCK_SAN",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 76,
+      "LockGroupID": 1991144,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 19914400,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 77,
+      "LockGroupID": 1991144,
+      "LockSocket": "CAMERA_LOCK_SAN",
+      "CameraID": 19914400,
+      "PelvisSocket": "CAMERA_LOCK_SAN",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 78,
+      "LockGroupID": 199000,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 199000,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 79,
+      "LockGroupID": 199000,
+      "LockSocket": "CAMERA_LOCK_BLADE",
+      "CameraID": 199000,
+      "PelvisSocket": "CAMERA_LOCK_BLADE",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 80,
+      "LockGroupID": 199002,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 199002,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 81,
+      "LockGroupID": 199002,
+      "LockSocket": "CAMERA_LOCK_BLADE",
+      "CameraID": 199002,
+      "PelvisSocket": "CAMERA_LOCK_BLADE",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 82,
+      "LockGroupID": 199010,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 199010,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 83,
+      "LockGroupID": 199010,
+      "LockSocket": "CAMERA_LOCK_BLADE",
+      "CameraID": 199010,
+      "PelvisSocket": "CAMERA_LOCK_BLADE",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 84,
+      "LockGroupID": 600100,
+      "LockSocket": "CAMERA_LOCK_HANDR",
+      "CameraID": 60010000,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 85,
+      "LockGroupID": 600100,
+      "LockSocket": "CAMERA_LOCK_HANDL",
+      "CameraID": 60010000,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 86,
+      "LockGroupID": 600100,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 60010000,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 87,
+      "LockGroupID": 600101,
+      "LockSocket": "CAMERA_LOCK_HANDR",
+      "CameraID": 60010001,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 88,
+      "LockGroupID": 600101,
+      "LockSocket": "CAMERA_LOCK_HANDL",
+      "CameraID": 60010001,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 89,
+      "LockGroupID": 600101,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 60010001,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 90,
+      "LockGroupID": 600102,
+      "LockSocket": "CAMERA_LOCK_HANDR",
+      "CameraID": 60010002,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 91,
+      "LockGroupID": 600102,
+      "LockSocket": "CAMERA_LOCK_HANDL",
+      "CameraID": 60010002,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 92,
+      "LockGroupID": 600102,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 60010002,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 93,
+      "LockGroupID": 600103,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 60010003,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 94,
+      "LockGroupID": 600103,
+      "LockSocket": "CAMERA_LOCK_HANDR",
+      "CameraID": 60010000,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 95,
+      "LockGroupID": 600103,
+      "LockSocket": "CAMERA_LOCK_HANDL",
+      "CameraID": 60010000,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 96,
+      "LockGroupID": 600109,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 60010009,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 97,
+      "LockGroupID": 600109,
+      "LockSocket": "CAMERA_LOCK_HANDR",
+      "CameraID": 60010009,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 98,
+      "LockGroupID": 600109,
+      "LockSocket": "CAMERA_LOCK_HANDL",
+      "CameraID": 60010009,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 99,
+      "LockGroupID": 600138,
+      "LockSocket": "CAMERA_LOCK_HANDR",
+      "CameraID": 60010010,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 100,
+      "LockGroupID": 600138,
+      "LockSocket": "CAMERA_LOCK_HANDL",
+      "CameraID": 60010010,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 101,
+      "LockGroupID": 600138,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 60010010,
+      "PelvisSocket": "root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 102,
+      "LockGroupID": 412100,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 412100,
+      "PelvisSocket": "head",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 103,
+      "LockGroupID": 412100,
+      "LockSocket": "CAMERA_LOCK_HAND_L",
+      "CameraID": 412100,
+      "PelvisSocket": "CAMERA_LOCK_HAND_L",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 104,
+      "LockGroupID": 412100,
+      "LockSocket": "CAMERA_LOCK_HAND_R",
+      "CameraID": 412100,
+      "PelvisSocket": "CAMERA_LOCK_HAND_R",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 105,
+      "LockGroupID": 412102,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 412102,
+      "PelvisSocket": "head",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 106,
+      "LockGroupID": 412102,
+      "LockSocket": "CAMERA_LOCK_HAND_L",
+      "CameraID": 412102,
+      "PelvisSocket": "CAMERA_LOCK_HAND_L",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 107,
+      "LockGroupID": 412102,
+      "LockSocket": "CAMERA_LOCK_HAND_R",
+      "CameraID": 412102,
+      "PelvisSocket": "CAMERA_LOCK_HAND_R",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 108,
+      "LockGroupID": 390100,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 390100,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 109,
+      "LockGroupID": 390100,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 390100,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 110,
+      "LockGroupID": 390101,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 390101,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 111,
+      "LockGroupID": 390101,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 390101,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 112,
+      "LockGroupID": 390102,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 390102,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 113,
+      "LockGroupID": 390102,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 390102,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 114,
+      "LockGroupID": 390103,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 390103,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 115,
+      "LockGroupID": 390103,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 390103,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 116,
+      "LockGroupID": 390104,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 390104,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 117,
+      "LockGroupID": 390104,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 390104,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 118,
+      "LockGroupID": 302300,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 302300,
+      "PelvisSocket": "SoulFocus",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 119,
+      "LockGroupID": 302300,
+      "LockSocket": "CAMERA_LOCK_SPINE",
+      "CameraID": 302300,
+      "PelvisSocket": "SoulFocusSpine",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 120,
+      "LockGroupID": 302300,
+      "LockSocket": "CAMERA_LOCK_TAIL",
+      "CameraID": 302300,
+      "PelvisSocket": "CAMERA_LOCK_TAIL",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 121,
+      "LockGroupID": 302301,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 302301,
+      "PelvisSocket": "SoulFocus",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 122,
+      "LockGroupID": 302301,
+      "LockSocket": "CAMERA_LOCK_SPINE",
+      "CameraID": 302301,
+      "PelvisSocket": "SoulFocusSpine",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 123,
+      "LockGroupID": 302301,
+      "LockSocket": "CAMERA_LOCK_TAIL",
+      "CameraID": 302301,
+      "PelvisSocket": "CAMERA_LOCK_TAIL",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 124,
+      "LockGroupID": 302302,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 302302,
+      "PelvisSocket": "SoulFocus",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 125,
+      "LockGroupID": 302302,
+      "LockSocket": "CAMERA_LOCK_SPINE",
+      "CameraID": 302302,
+      "PelvisSocket": "SoulFocusSpine",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 126,
+      "LockGroupID": 302302,
+      "LockSocket": "CAMERA_LOCK_TAIL",
+      "CameraID": 302302,
+      "PelvisSocket": "CAMERA_LOCK_TAIL",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 127,
+      "LockGroupID": 302303,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 302303,
+      "PelvisSocket": "SoulFocus",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 128,
+      "LockGroupID": 302303,
+      "LockSocket": "CAMERA_LOCK_SPINE",
+      "CameraID": 302303,
+      "PelvisSocket": "SoulFocusSpine",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 129,
+      "LockGroupID": 302303,
+      "LockSocket": "CAMERA_LOCK_TAIL",
+      "CameraID": 302303,
+      "PelvisSocket": "CAMERA_LOCK_TAIL",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 130,
+      "LockGroupID": 302304,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 302304,
+      "PelvisSocket": "SoulFocus",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 131,
+      "LockGroupID": 302304,
+      "LockSocket": "CAMERA_LOCK_SPINE",
+      "CameraID": 302304,
+      "PelvisSocket": "SoulFocusSpine",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 132,
+      "LockGroupID": 302304,
+      "LockSocket": "CAMERA_LOCK_TAIL",
+      "CameraID": 302304,
+      "PelvisSocket": "CAMERA_LOCK_TAIL",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 133,
+      "LockGroupID": 302305,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 302305,
+      "PelvisSocket": "SoulFocus",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 134,
+      "LockGroupID": 302305,
+      "LockSocket": "CAMERA_LOCK_SPINE",
+      "CameraID": 302305,
+      "PelvisSocket": "SoulFocusSpine",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 135,
+      "LockGroupID": 302305,
+      "LockSocket": "CAMERA_LOCK_TAIL",
+      "CameraID": 302305,
+      "PelvisSocket": "CAMERA_LOCK_TAIL",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 136,
+      "LockGroupID": 471400,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 471400,
+      "PelvisSocket": "spine_03",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 137,
+      "LockGroupID": 471400,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 471400,
+      "PelvisSocket": "head",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 138,
+      "LockGroupID": 505400,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 505400,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 139,
+      "LockGroupID": 505400,
+      "LockSocket": "CAMERA_LOCK_HAND",
+      "CameraID": 505400,
+      "PelvisSocket": "CAMERA_LOCK_HAND",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 140,
+      "LockGroupID": 471401,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 471401,
+      "PelvisSocket": "spine_03",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 141,
+      "LockGroupID": 471401,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 471401,
+      "PelvisSocket": "head",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 142,
+      "LockGroupID": 412101,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 412101,
+      "PelvisSocket": "head",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 143,
+      "LockGroupID": 412101,
+      "LockSocket": "CAMERA_LOCK_HAND_L",
+      "CameraID": 412101,
+      "PelvisSocket": "CAMERA_LOCK_HAND_L",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 144,
+      "LockGroupID": 412101,
+      "LockSocket": "CAMERA_LOCK_HAND_R",
+      "CameraID": 412101,
+      "PelvisSocket": "CAMERA_LOCK_HAND_R",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 145,
+      "LockGroupID": 471402,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 471401,
+      "PelvisSocket": "spine_03",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 146,
+      "LockGroupID": 471402,
+      "LockSocket": "CAMERA_LOCK_HEAD",
+      "CameraID": 471401,
+      "PelvisSocket": "head",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 147,
+      "LockGroupID": 1000,
+      "LockSocket": "CAMERA_LOCK",
+      "CameraID": 0,
+      "PelvisSocket": "CAMERA_LOCK",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    },
+    {
+      "ID": 148,
+      "LockGroupID": 1000,
+      "LockSocket": "CAMERA_LOCK_Root",
+      "CameraID": 0,
+      "PelvisSocket": "CAMERA_LOCK_Root",
+      "RootSocket": "root",
+      "SoulFocusSocket": "",
+      "SoulFocusZSocket": ""
+    }
+  ]
+}

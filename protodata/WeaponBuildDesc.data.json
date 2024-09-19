@@ -1,0 +1,698 @@
+{
+  "List": [
+    {
+      "Id": 15005,
+      "RequireWeapon": 0,
+      "CostItem": [],
+      "TransformItem": [
+        {
+          "Id": 1002,
+          "Num": 100
+        }
+      ],
+      "SeriesId": 1,
+      "HiddenByDefault": 0,
+      "KeyItemList": [],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15003,
+      "RequireWeapon": 15005,
+      "CostItem": [
+        {
+          "Id": 3958,
+          "Num": 8
+        },
+        {
+          "Id": 1002,
+          "Num": 2700
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3958,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 360
+        }
+      ],
+      "SeriesId": 1,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3901,
+          "Num": 1
+        }
+      ],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15004,
+      "RequireWeapon": 15005,
+      "CostItem": [
+        {
+          "Id": 3959,
+          "Num": 4
+        },
+        {
+          "Id": 3958,
+          "Num": 8
+        },
+        {
+          "Id": 1002,
+          "Num": 8100
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3959,
+          "Num": 1
+        },
+        {
+          "Id": 3958,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 720
+        }
+      ],
+      "SeriesId": 1,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3902,
+          "Num": 1
+        }
+      ],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15006,
+      "RequireWeapon": 0,
+      "CostItem": [
+        {
+          "Id": 3960,
+          "Num": 4
+        },
+        {
+          "Id": 3959,
+          "Num": 8
+        },
+        {
+          "Id": 1002,
+          "Num": 20000
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3960,
+          "Num": 1
+        },
+        {
+          "Id": 3959,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 1200
+        }
+      ],
+      "SeriesId": 2,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3929,
+          "Num": 1
+        }
+      ],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15007,
+      "RequireWeapon": 15006,
+      "CostItem": [
+        {
+          "Id": 3961,
+          "Num": 4
+        },
+        {
+          "Id": 3960,
+          "Num": 8
+        },
+        {
+          "Id": 1002,
+          "Num": 30000
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3960,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 1500
+        }
+      ],
+      "SeriesId": 2,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3907,
+          "Num": 1
+        }
+      ],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15008,
+      "RequireWeapon": 0,
+      "CostItem": [
+        {
+          "Id": 3959,
+          "Num": 4
+        },
+        {
+          "Id": 3958,
+          "Num": 8
+        },
+        {
+          "Id": 1002,
+          "Num": 8100
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3959,
+          "Num": 1
+        },
+        {
+          "Id": 3958,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 720
+        }
+      ],
+      "SeriesId": 3,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3903,
+          "Num": 1
+        }
+      ],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15009,
+      "RequireWeapon": 15004,
+      "CostItem": [
+        {
+          "Id": 3960,
+          "Num": 4
+        },
+        {
+          "Id": 3959,
+          "Num": 8
+        },
+        {
+          "Id": 1002,
+          "Num": 21000
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3960,
+          "Num": 1
+        },
+        {
+          "Id": 3959,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 1200
+        }
+      ],
+      "SeriesId": 1,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3904,
+          "Num": 1
+        }
+      ],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15010,
+      "RequireWeapon": 15003,
+      "CostItem": [
+        {
+          "Id": 3960,
+          "Num": 4
+        },
+        {
+          "Id": 1002,
+          "Num": 21000
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3960,
+          "Num": 1
+        },
+        {
+          "Id": 3959,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 1200
+        }
+      ],
+      "SeriesId": 1,
+      "HiddenByDefault": 1,
+      "KeyItemList": [
+        {
+          "Id": 3919,
+          "Num": 1
+        },
+        {
+          "Id": 3920,
+          "Num": 1
+        }
+      ],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15012,
+      "RequireWeapon": 0,
+      "CostItem": [
+        {
+          "Id": 3961,
+          "Num": 4
+        },
+        {
+          "Id": 3960,
+          "Num": 8
+        },
+        {
+          "Id": 1002,
+          "Num": 30000
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3960,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 1500
+        }
+      ],
+      "SeriesId": 0,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3923,
+          "Num": 1
+        }
+      ],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15013,
+      "RequireWeapon": 15006,
+      "CostItem": [
+        {
+          "Id": 3961,
+          "Num": 4
+        },
+        {
+          "Id": 3960,
+          "Num": 8
+        },
+        {
+          "Id": 1002,
+          "Num": 30000
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3960,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 1500
+        }
+      ],
+      "SeriesId": 2,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3906,
+          "Num": 1
+        }
+      ],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15011,
+      "RequireWeapon": 15008,
+      "CostItem": [
+        {
+          "Id": 3961,
+          "Num": 4
+        },
+        {
+          "Id": 1002,
+          "Num": 30000
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3960,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 1500
+        }
+      ],
+      "SeriesId": 3,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3905,
+          "Num": 3
+        }
+      ],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15014,
+      "RequireWeapon": 15003,
+      "CostItem": [
+        {
+          "Id": 3960,
+          "Num": 4
+        },
+        {
+          "Id": 3959,
+          "Num": 8
+        },
+        {
+          "Id": 1002,
+          "Num": 21000
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3960,
+          "Num": 1
+        },
+        {
+          "Id": 3959,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 1200
+        }
+      ],
+      "SeriesId": 1,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3916,
+          "Num": 1
+        }
+      ],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15015,
+      "RequireWeapon": 15010,
+      "CostItem": [
+        {
+          "Id": 3962,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 45000
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3960,
+          "Num": 3
+        },
+        {
+          "Id": 1002,
+          "Num": 1800
+        }
+      ],
+      "SeriesId": 1,
+      "HiddenByDefault": 1,
+      "KeyItemList": [
+        {
+          "Id": 3917,
+          "Num": 1
+        },
+        {
+          "Id": 3918,
+          "Num": 1
+        }
+      ],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15017,
+      "RequireWeapon": 15014,
+      "CostItem": [
+        {
+          "Id": 3961,
+          "Num": 4
+        },
+        {
+          "Id": 3962,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 45000
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3960,
+          "Num": 3
+        },
+        {
+          "Id": 1002,
+          "Num": 3000
+        }
+      ],
+      "SeriesId": 0,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3921,
+          "Num": 9
+        }
+      ],
+      "AvailableGameplus": 2
+    },
+    {
+      "Id": 15018,
+      "RequireWeapon": 15013,
+      "CostItem": [
+        {
+          "Id": 3961,
+          "Num": 4
+        },
+        {
+          "Id": 3962,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 45000
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3960,
+          "Num": 3
+        },
+        {
+          "Id": 1002,
+          "Num": 3000
+        }
+      ],
+      "SeriesId": 2,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3925,
+          "Num": 4
+        }
+      ],
+      "AvailableGameplus": 2
+    },
+    {
+      "Id": 15019,
+      "RequireWeapon": 15009,
+      "CostItem": [
+        {
+          "Id": 3961,
+          "Num": 4
+        },
+        {
+          "Id": 3960,
+          "Num": 8
+        },
+        {
+          "Id": 1002,
+          "Num": 30000
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3960,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 1500
+        }
+      ],
+      "SeriesId": 1,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3924,
+          "Num": 1
+        }
+      ],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15102,
+      "RequireWeapon": 0,
+      "CostItem": [
+        {
+          "Id": 3960,
+          "Num": 4
+        },
+        {
+          "Id": 3959,
+          "Num": 8
+        },
+        {
+          "Id": 1002,
+          "Num": 21000
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3960,
+          "Num": 1
+        },
+        {
+          "Id": 3959,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 1200
+        }
+      ],
+      "SeriesId": 0,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3144,
+          "Num": 1
+        }
+      ],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15002,
+      "RequireWeapon": 0,
+      "CostItem": [],
+      "TransformItem": [],
+      "SeriesId": 0,
+      "HiddenByDefault": 0,
+      "KeyItemList": [],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15016,
+      "RequireWeapon": 15011,
+      "CostItem": [
+        {
+          "Id": 3961,
+          "Num": 4
+        },
+        {
+          "Id": 3962,
+          "Num": 2
+        },
+        {
+          "Id": 1002,
+          "Num": 45000
+        }
+      ],
+      "TransformItem": [
+        {
+          "Id": 3960,
+          "Num": 3
+        },
+        {
+          "Id": 1002,
+          "Num": 3000
+        }
+      ],
+      "SeriesId": 3,
+      "HiddenByDefault": 0,
+      "KeyItemList": [
+        {
+          "Id": 3927,
+          "Num": 2
+        }
+      ],
+      "AvailableGameplus": 2
+    },
+    {
+      "Id": 15101,
+      "RequireWeapon": 0,
+      "CostItem": [],
+      "TransformItem": [],
+      "SeriesId": 0,
+      "HiddenByDefault": 0,
+      "KeyItemList": [],
+      "AvailableGameplus": 0
+    },
+    {
+      "Id": 15001,
+      "RequireWeapon": 0,
+      "CostItem": [],
+      "TransformItem": [],
+      "SeriesId": 0,
+      "HiddenByDefault": 0,
+      "KeyItemList": [],
+      "AvailableGameplus": 0
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "List": [
+    {
+      "NpcId": 5,
+      "RebirthPointId": 1010,
+      "SortId": 0,
+      "ShowTaskStageId": 1313002,
+      "ShowStage": 1,
+      "HideTaskStageId": 3014004,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 2,
+      "RebirthPointId": 2002,
+      "SortId": 0,
+      "ShowTaskStageId": 2004101,
+      "ShowStage": 1,
+      "HideTaskStageId": 2004301,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 2,
+      "RebirthPointId": 2012,
+      "SortId": 0,
+      "ShowTaskStageId": 2004601,
+      "ShowStage": 0,
+      "HideTaskStageId": 3014004,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 1,
+      "RebirthPointId": 3014,
+      "SortId": 2,
+      "ShowTaskStageId": 3333000,
+      "ShowStage": 1,
+      "HideTaskStageId": 3333002,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 1,
+      "RebirthPointId": 3023,
+      "SortId": 1,
+      "ShowTaskStageId": 3333006,
+      "ShowStage": 1,
+      "HideTaskStageId": 3333007,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 9,
+      "RebirthPointId": 3014,
+      "SortId": 1,
+      "ShowTaskStageId": 3014002,
+      "ShowStage": 1,
+      "HideTaskStageId": 3014004,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 9,
+      "RebirthPointId": 3102,
+      "SortId": 1,
+      "ShowTaskStageId": 3100001,
+      "ShowStage": 1,
+      "HideTaskStageId": 0,
+      "HideStage": 0
+    },
+    {
+      "NpcId": 5,
+      "RebirthPointId": 3102,
+      "SortId": 2,
+      "ShowTaskStageId": 1313005,
+      "ShowStage": 1,
+      "HideTaskStageId": 0,
+      "HideStage": 0
+    },
+    {
+      "NpcId": 2,
+      "RebirthPointId": 3102,
+      "SortId": 3,
+      "ShowTaskStageId": 3100200,
+      "ShowStage": 1,
+      "HideTaskStageId": 0,
+      "HideStage": 0
+    },
+    {
+      "NpcId": 11,
+      "RebirthPointId": 3102,
+      "SortId": 4,
+      "ShowTaskStageId": 3100300,
+      "ShowStage": 1,
+      "HideTaskStageId": 0,
+      "HideStage": 0
+    },
+    {
+      "NpcId": 3,
+      "RebirthPointId": 3005,
+      "SortId": 0,
+      "ShowTaskStageId": 3031004,
+      "ShowStage": 1,
+      "HideTaskStageId": 3031003,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 4,
+      "RebirthPointId": 2011,
+      "SortId": 0,
+      "ShowTaskStageId": 2002101,
+      "ShowStage": 0,
+      "HideTaskStageId": 0,
+      "HideStage": 0
+    },
+    {
+      "NpcId": 6,
+      "RebirthPointId": 8004,
+      "SortId": 1,
+      "ShowTaskStageId": 8002001,
+      "ShowStage": 1,
+      "HideTaskStageId": 8002004,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 6,
+      "RebirthPointId": 8004,
+      "SortId": 1,
+      "ShowTaskStageId": 0,
+      "ShowStage": 0,
+      "HideTaskStageId": 8004002,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 7,
+      "RebirthPointId": 1011,
+      "SortId": 1,
+      "ShowTaskStageId": 2222001,
+      "ShowStage": 0,
+      "HideTaskStageId": 2222002,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 7,
+      "RebirthPointId": 1011,
+      "SortId": 1,
+      "ShowTaskStageId": 0,
+      "ShowStage": 0,
+      "HideTaskStageId": 2222009,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 7,
+      "RebirthPointId": 2002,
+      "SortId": 1,
+      "ShowTaskStageId": 2222003,
+      "ShowStage": 0,
+      "HideTaskStageId": 2222003,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 7,
+      "RebirthPointId": 2002,
+      "SortId": 1,
+      "ShowTaskStageId": 0,
+      "ShowStage": 0,
+      "HideTaskStageId": 2222009,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 7,
+      "RebirthPointId": 3024,
+      "SortId": 1,
+      "ShowTaskStageId": 2222004,
+      "ShowStage": 0,
+      "HideTaskStageId": 2222004,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 7,
+      "RebirthPointId": 3024,
+      "SortId": 1,
+      "ShowTaskStageId": 0,
+      "ShowStage": 0,
+      "HideTaskStageId": 2222009,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 7,
+      "RebirthPointId": 4012,
+      "SortId": 1,
+      "ShowTaskStageId": 2222005,
+      "ShowStage": 0,
+      "HideTaskStageId": 2222005,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 7,
+      "RebirthPointId": 4012,
+      "SortId": 1,
+      "ShowTaskStageId": 0,
+      "ShowStage": 0,
+      "HideTaskStageId": 2222009,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 7,
+      "RebirthPointId": 5005,
+      "SortId": 1,
+      "ShowTaskStageId": 5002101,
+      "ShowStage": 1,
+      "HideTaskStageId": 5002105,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 10,
+      "RebirthPointId": 2009,
+      "SortId": 1,
+      "ShowTaskStageId": 2003101,
+      "ShowStage": 1,
+      "HideTaskStageId": 2003102,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 10,
+      "RebirthPointId": 2005,
+      "SortId": 1,
+      "ShowTaskStageId": 2003103,
+      "ShowStage": 1,
+      "HideTaskStageId": 2003105,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 10,
+      "RebirthPointId": 2009,
+      "SortId": 1,
+      "ShowTaskStageId": 2003112,
+      "ShowStage": 1,
+      "HideTaskStageId": 0,
+      "HideStage": 0
+    },
+    {
+      "NpcId": 10,
+      "RebirthPointId": 2009,
+      "SortId": 1,
+      "ShowTaskStageId": 2003121,
+      "ShowStage": 1,
+      "HideTaskStageId": 2003113,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 8,
+      "RebirthPointId": 5002,
+      "SortId": 1,
+      "ShowTaskStageId": 5001201,
+      "ShowStage": 1,
+      "HideTaskStageId": 5001207,
+      "HideStage": 1
+    },
+    {
+      "NpcId": 8,
+      "RebirthPointId": 5011,
+      "SortId": 1,
+      "ShowTaskStageId": 5001208,
+      "ShowStage": 1,
+      "HideTaskStageId": 5001209,
+      "HideStage": 1
+    }
+  ]
+}

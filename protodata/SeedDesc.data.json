@@ -1,0 +1,139 @@
+{
+  "List": [
+    {
+      "Id": 6001,
+      "OutputList": [
+        {
+          "OutputItemId": 3216,
+          "OutputInterval": 8,
+          "OutputMaxCount": 8
+        }
+      ]
+    },
+    {
+      "Id": 6002,
+      "OutputList": [
+        {
+          "OutputItemId": 3204,
+          "OutputInterval": 8,
+          "OutputMaxCount": 8
+        },
+        {
+          "OutputItemId": 3214,
+          "OutputInterval": 60,
+          "OutputMaxCount": 1
+        }
+      ]
+    },
+    {
+      "Id": 6003,
+      "OutputList": [
+        {
+          "OutputItemId": 3217,
+          "OutputInterval": 8,
+          "OutputMaxCount": 8
+        },
+        {
+          "OutputItemId": 3212,
+          "OutputInterval": 60,
+          "OutputMaxCount": 1
+        }
+      ]
+    },
+    {
+      "Id": 6004,
+      "OutputList": [
+        {
+          "OutputItemId": 3203,
+          "OutputInterval": 8,
+          "OutputMaxCount": 8
+        }
+      ]
+    },
+    {
+      "Id": 6005,
+      "OutputList": [
+        {
+          "OutputItemId": 3205,
+          "OutputInterval": 8,
+          "OutputMaxCount": 8
+        }
+      ]
+    },
+    {
+      "Id": 6006,
+      "OutputList": [
+        {
+          "OutputItemId": 3207,
+          "OutputInterval": 8,
+          "OutputMaxCount": 8
+        }
+      ]
+    },
+    {
+      "Id": 6007,
+      "OutputList": [
+        {
+          "OutputItemId": 3208,
+          "OutputInterval": 30,
+          "OutputMaxCount": 2
+        }
+      ]
+    },
+    {
+      "Id": 6012,
+      "OutputList": [
+        {
+          "OutputItemId": 3201,
+          "OutputInterval": 8,
+          "OutputMaxCount": 8
+        }
+      ]
+    },
+    {
+      "Id": 6015,
+      "OutputList": [
+        {
+          "OutputItemId": 3218,
+          "OutputInterval": 30,
+          "OutputMaxCount": 2
+        }
+      ]
+    },
+    {
+      "Id": 6016,
+      "OutputList": [
+        {
+          "OutputItemId": 3202,
+          "OutputInterval": 8,
+          "OutputMaxCount": 8
+        },
+        {
+          "OutputItemId": 3211,
+          "OutputInterval": 30,
+          "OutputMaxCount": 2
+        }
+      ]
+    },
+    {
+      "Id": 6017,
+      "OutputList": [
+        {
+          "OutputItemId": 3206,
+          "OutputInterval": 8,
+          "OutputMaxCount": 8
+        }
+      ]
+    },
+    {
+      "Id": 6018,
+      "OutputList": [
+        {
+          "OutputItemId": 3219,
+          "OutputInterval": 8,
+          "OutputMaxCount": 8
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "List": [
+    {
+      "ID": 100901,
+      "MagicBPTemplatePath": "",
+      "MagicFieldGenType": 0,
+      "IsDestroyWithCaster": 0,
+      "DestroyTimer": 12.0,
+      "MagicFieldMoveModeType": 0,
+      "AttachBuffID": [
+        100901,
+        100902
+      ]
+    },
+    {
+      "ID": 101704,
+      "MagicBPTemplatePath": "",
+      "MagicFieldGenType": 0,
+      "IsDestroyWithCaster": 0,
+      "DestroyTimer": 5.0,
+      "MagicFieldMoveModeType": 0,
+      "AttachBuffID": [
+        101701
+      ]
+    }
+  ]
+}

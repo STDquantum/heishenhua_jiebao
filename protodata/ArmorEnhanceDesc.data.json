@@ -1,0 +1,49 @@
+{
+  "List": [
+    {
+      "Id": 10302,
+      "SeriesId": 10302,
+      "NextArmorId": 10312
+    },
+    {
+      "Id": 10303,
+      "SeriesId": 10303,
+      "NextArmorId": 10313
+    },
+    {
+      "Id": 10304,
+      "SeriesId": 10304,
+      "NextArmorId": 10314
+    },
+    {
+      "Id": 10312,
+      "SeriesId": 10302,
+      "NextArmorId": 10322
+    },
+    {
+      "Id": 10313,
+      "SeriesId": 10303,
+      "NextArmorId": 10323
+    },
+    {
+      "Id": 10314,
+      "SeriesId": 10304,
+      "NextArmorId": 10324
+    },
+    {
+      "Id": 10322,
+      "SeriesId": 10302,
+      "NextArmorId": 10332
+    },
+    {
+      "Id": 10323,
+      "SeriesId": 10303,
+      "NextArmorId": 10333
+    },
+    {
+      "Id": 10324,
+      "SeriesId": 10304,
+      "NextArmorId": 10334
+    }
+  ]
+}

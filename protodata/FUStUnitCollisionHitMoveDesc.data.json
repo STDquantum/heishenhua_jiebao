@@ -1,0 +1,5056 @@
+{
+  "List": [
+    {
+      "ID": 10,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "ID": 11,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": ""
+        },
+        {
+          "CollisionName": ""
+        }
+      ]
+    },
+    {
+      "ID": 12,
+      "UnitHitMoveWeight": 500.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 13,
+      "UnitHitMoveWeight": 50000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Left"
+        },
+        {
+          "CollisionName": "Collision_Right"
+        }
+      ]
+    },
+    {
+      "ID": 14,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Defend"
+        }
+      ]
+    },
+    {
+      "ID": 15,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 16,
+      "UnitHitMoveWeight": 500.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 17,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 18,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 19,
+      "UnitHitMoveWeight": 500.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 23,
+      "UnitHitMoveWeight": 5000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 24,
+      "UnitHitMoveWeight": 5000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_ArmL"
+        },
+        {
+          "CollisionName": "Collision_ArmR"
+        },
+        {
+          "CollisionName": "Collision_LegL"
+        },
+        {
+          "CollisionName": "Collision_LegR"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 25,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_ArmL"
+        },
+        {
+          "CollisionName": "Collision_ArmR"
+        },
+        {
+          "CollisionName": "Collision_LegL"
+        },
+        {
+          "CollisionName": "Collision_LegR"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 29,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 30,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 31,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 32,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 33,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 34,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 35,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 36,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 37,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 38,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 39,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 40,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 50,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "ID": 1001,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1002,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1003,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Jump"
+        }
+      ]
+    },
+    {
+      "ID": 1004,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 1005,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1006,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Jump"
+        }
+      ]
+    },
+    {
+      "ID": 1007,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1008,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1009,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Jump"
+        }
+      ]
+    },
+    {
+      "ID": 1010,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1011,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Jump"
+        }
+      ]
+    },
+    {
+      "ID": 1012,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1013,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_HandL"
+        },
+        {
+          "CollisionName": "Collision_LegL"
+        },
+        {
+          "CollisionName": "Collision_ThighL"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_HandR"
+        },
+        {
+          "CollisionName": "Collision_LegR"
+        },
+        {
+          "CollisionName": "Collision_ThighR"
+        }
+      ]
+    },
+    {
+      "ID": 1014,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1015,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1016,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1017,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 1018,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1019,
+      "UnitHitMoveWeight": 3000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 1020,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 1021,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1023,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Foot"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 1024,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Foot"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 1025,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Arm_L"
+        },
+        {
+          "CollisionName": "Collision_Arm_R"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Body_1"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 1027,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1028,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1029,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1030,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 1031,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Arm"
+        },
+        {
+          "CollisionName": "Collision_Foot"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1035,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Leg"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_spine"
+        },
+        {
+          "CollisionName": "Collision_tail"
+        }
+      ]
+    },
+    {
+      "ID": 1036,
+      "UnitHitMoveWeight": 500.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Arm_L"
+        },
+        {
+          "CollisionName": "Collision_Arm_R"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Body_1"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 1037,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 1038,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1039,
+      "UnitHitMoveWeight": 10.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1101,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 1110,
+      "UnitHitMoveWeight": 10.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1111,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1114,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1119,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1124,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 1126,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Sculpture"
+        },
+        {
+          "CollisionName": "Collision_Horn"
+        },
+        {
+          "CollisionName": "Collision_Arm_L"
+        },
+        {
+          "CollisionName": "Collision_Arm_R"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Leg_L"
+        },
+        {
+          "CollisionName": "Collision_Leg_R"
+        },
+        {
+          "CollisionName": "Collision_Horn2"
+        }
+      ]
+    },
+    {
+      "ID": 1127,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_LHand"
+        },
+        {
+          "CollisionName": "Collision_RHand"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_LLeg"
+        },
+        {
+          "CollisionName": "Collision_RLeg"
+        },
+        {
+          "CollisionName": "Collision_LFoot"
+        },
+        {
+          "CollisionName": "Collision_RFoot"
+        },
+        {
+          "CollisionName": "Collision_LThigh"
+        },
+        {
+          "CollisionName": "Collision_RThigh"
+        }
+      ]
+    },
+    {
+      "ID": 1401,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1402,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1888,
+      "UnitHitMoveWeight": 10.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1889,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1990,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 1,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_body_01"
+        }
+      ]
+    },
+    {
+      "ID": 1991,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 1,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_body_01"
+        }
+      ]
+    },
+    {
+      "ID": 1992,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 1,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_body_01"
+        }
+      ]
+    },
+    {
+      "ID": 1993,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 1,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_body_01"
+        }
+      ]
+    },
+    {
+      "ID": 1996,
+      "UnitHitMoveWeight": 10.0,
+      "DisableBattleURO": 1,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 1999,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 1,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Torso"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 2001,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Torso"
+        },
+        {
+          "CollisionName": "Collision_Atk"
+        },
+        {
+          "CollisionName": "Collision_Hand"
+        }
+      ]
+    },
+    {
+      "ID": 2002,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_LegL"
+        },
+        {
+          "CollisionName": "Collision_LegR"
+        },
+        {
+          "CollisionName": "Collision_HandR"
+        },
+        {
+          "CollisionName": "Collision_HandL"
+        }
+      ]
+    },
+    {
+      "ID": 2003,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 2004,
+      "UnitHitMoveWeight": 500.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 2005,
+      "UnitHitMoveWeight": 3000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 2006,
+      "UnitHitMoveWeight": 500.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 2007,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Torso"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 2008,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 2009,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 2010,
+      "UnitHitMoveWeight": 500.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 2011,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Foot"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 2012,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_LFoot"
+        },
+        {
+          "CollisionName": "Collision_LHand"
+        },
+        {
+          "CollisionName": "Collision_RHand"
+        },
+        {
+          "CollisionName": "Collision_Rfoot"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Ass"
+        }
+      ]
+    },
+    {
+      "ID": 2013,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 2014,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Arm_L"
+        },
+        {
+          "CollisionName": "Collision_Arm_R"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Leg_L"
+        },
+        {
+          "CollisionName": "Collision_Leg_R"
+        }
+      ]
+    },
+    {
+      "ID": 2015,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 2016,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_LHand"
+        },
+        {
+          "CollisionName": "Collision_RHand"
+        },
+        {
+          "CollisionName": "Collision_LArm"
+        },
+        {
+          "CollisionName": "Collision_RArm"
+        },
+        {
+          "CollisionName": "Collision_LFoot"
+        },
+        {
+          "CollisionName": "Collision_RFoot"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 2017,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 2018,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "ID": 2019,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_ArmL"
+        },
+        {
+          "CollisionName": "Collision_ArmR"
+        }
+      ]
+    },
+    {
+      "ID": 2020,
+      "UnitHitMoveWeight": 500.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "ID": 2022,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_ArmR"
+        }
+      ]
+    },
+    {
+      "ID": 2023,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 2024,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 2025,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 2027,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Fly"
+        }
+      ]
+    },
+    {
+      "ID": 2028,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_LegL"
+        },
+        {
+          "CollisionName": "Collision_Arm"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 2029,
+      "UnitHitMoveWeight": 3000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Dun"
+        },
+        {
+          "CollisionName": "Collision_Dash"
+        }
+      ]
+    },
+    {
+      "ID": 2030,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 2102,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_hand"
+        },
+        {
+          "CollisionName": "Collision_Leg"
+        },
+        {
+          "CollisionName": "Collision_Torso"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 2201,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 2202,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 2203,
+      "UnitHitMoveWeight": 5000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 2204,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 2205,
+      "UnitHitMoveWeight": 2500000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Arm"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Leg"
+        },
+        {
+          "CollisionName": "Collision_Back"
+        }
+      ]
+    },
+    {
+      "ID": 2210,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_HandL"
+        },
+        {
+          "CollisionName": "Collision_LegL"
+        },
+        {
+          "CollisionName": "Collision_ThighL"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_HandR"
+        },
+        {
+          "CollisionName": "Collision_LegR"
+        },
+        {
+          "CollisionName": "Collision_ThighR"
+        }
+      ]
+    },
+    {
+      "ID": 2211,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Pelvis"
+        },
+        {
+          "CollisionName": "Collision_Foot"
+        },
+        {
+          "CollisionName": "Collision_Calf"
+        },
+        {
+          "CollisionName": "Collision_Hand"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 2501,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 2503,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 2504,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 2505,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 2601,
+      "UnitHitMoveWeight": 3200.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_calf_fanzu_r"
+        },
+        {
+          "CollisionName": "Collision_thigh_l"
+        },
+        {
+          "CollisionName": "Collision_thigh_r"
+        },
+        {
+          "CollisionName": "Collision_upperarm_r"
+        },
+        {
+          "CollisionName": "Collision_upperarm_l"
+        },
+        {
+          "CollisionName": "Collision_lowerarm_r"
+        },
+        {
+          "CollisionName": "Collision_lowerarm_l"
+        },
+        {
+          "CollisionName": "Collision_calf_fanzu_l"
+        }
+      ]
+    },
+    {
+      "ID": 3001,
+      "UnitHitMoveWeight": 500.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Jump"
+        }
+      ]
+    },
+    {
+      "ID": 3002,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 3003,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 3004,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_foot_1"
+        },
+        {
+          "CollisionName": "Collision_foot_2"
+        },
+        {
+          "CollisionName": "Collision_foot_3"
+        },
+        {
+          "CollisionName": "Collision_foot_4"
+        }
+      ]
+    },
+    {
+      "ID": 3005,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 3006,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 3007,
+      "UnitHitMoveWeight": 1200.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 3008,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 3009,
+      "UnitHitMoveWeight": 500.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 3010,
+      "UnitHitMoveWeight": 150000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 3011,
+      "UnitHitMoveWeight": 500.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 3012,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 3013,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 3014,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Tail"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 3016,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "ID": 3017,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 3018,
+      "UnitHitMoveWeight": 500.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 3019,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Arm"
+        },
+        {
+          "CollisionName": "Collision_Foot"
+        },
+        {
+          "CollisionName": "Collision_Hand"
+        },
+        {
+          "CollisionName": "Collision_Foot"
+        },
+        {
+          "CollisionName": "Collision_head"
+        }
+      ]
+    },
+    {
+      "ID": 3020,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Leg_L"
+        },
+        {
+          "CollisionName": "Collision_Leg_R"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Thigh_L"
+        },
+        {
+          "CollisionName": "Collision_Thigh_R"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 3021,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 3022,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 3023,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Neck"
+        },
+        {
+          "CollisionName": "Collision_Spine"
+        },
+        {
+          "CollisionName": "Collision_Tail"
+        },
+        {
+          "CollisionName": "Collision_Arm"
+        },
+        {
+          "CollisionName": "Collision_Leg"
+        }
+      ]
+    },
+    {
+      "ID": 3024,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 3025,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Arm"
+        },
+        {
+          "CollisionName": "Collision_Tail"
+        },
+        {
+          "CollisionName": "Collision_Weapon"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 3026,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Hit"
+        }
+      ]
+    },
+    {
+      "ID": 3027,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 3028,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 3029,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 3030,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 3031,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 3051,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_HandL"
+        },
+        {
+          "CollisionName": "Collision_LegL"
+        },
+        {
+          "CollisionName": "Collision_ThighL"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_HandR"
+        },
+        {
+          "CollisionName": "Collision_LegR"
+        },
+        {
+          "CollisionName": "Collision_ThighR"
+        }
+      ]
+    },
+    {
+      "ID": 3056,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 3057,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 3058,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 3060,
+      "UnitHitMoveWeight": 1200.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 3070,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 3103,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_HandL"
+        },
+        {
+          "CollisionName": "Collision_HandR"
+        },
+        {
+          "CollisionName": "Collision_LegL"
+        },
+        {
+          "CollisionName": "Collision_LegR"
+        }
+      ]
+    },
+    {
+      "ID": 3108,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_HandL"
+        },
+        {
+          "CollisionName": "Collision_HandR"
+        },
+        {
+          "CollisionName": "Collision_FootL"
+        },
+        {
+          "CollisionName": "Collision_FootR"
+        }
+      ]
+    },
+    {
+      "ID": 3333,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Neck"
+        }
+      ]
+    },
+    {
+      "ID": 3401,
+      "UnitHitMoveWeight": 20000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 3402,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 3800,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        }
+      ]
+    },
+    {
+      "ID": 3900,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        }
+      ]
+    },
+    {
+      "ID": 3901,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_ArmL"
+        },
+        {
+          "CollisionName": "Collision_ArmR"
+        },
+        {
+          "CollisionName": "Collision_LegL"
+        },
+        {
+          "CollisionName": "Collision_LegR"
+        },
+        {
+          "CollisionName": "Collision_Tail"
+        },
+        {
+          "CollisionName": "Collision_Pod"
+        },
+        {
+          "CollisionName": "Collision_Torso"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 3991,
+      "UnitHitMoveWeight": 1200.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 3992,
+      "UnitHitMoveWeight": 1200.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4001,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Jaw"
+        }
+      ]
+    },
+    {
+      "ID": 4002,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4003,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_LFoot"
+        },
+        {
+          "CollisionName": "Collision_LHand"
+        },
+        {
+          "CollisionName": "Collision_RHand"
+        },
+        {
+          "CollisionName": "Collision_Rfoot"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Ass"
+        }
+      ]
+    },
+    {
+      "ID": 4004,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_LHand"
+        },
+        {
+          "CollisionName": "Collision_RHand"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_LLeg"
+        },
+        {
+          "CollisionName": "Collision_RLeg"
+        },
+        {
+          "CollisionName": "Collision_LFoot"
+        },
+        {
+          "CollisionName": "Collision_RFoot"
+        },
+        {
+          "CollisionName": "Collision_LThigh"
+        },
+        {
+          "CollisionName": "Collision_RThigh"
+        }
+      ]
+    },
+    {
+      "ID": 4005,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4006,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Tail"
+        },
+        {
+          "CollisionName": "Collision_Weapon"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Arm"
+        },
+        {
+          "CollisionName": "Collision_Leg"
+        }
+      ]
+    },
+    {
+      "ID": 4007,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4008,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4009,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4010,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 4011,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Pelvis"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Calf_L"
+        },
+        {
+          "CollisionName": "Collision_Calf_R"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 4012,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Hand"
+        },
+        {
+          "CollisionName": "Collision_Foot"
+        },
+        {
+          "CollisionName": "Collision_Leg"
+        },
+        {
+          "CollisionName": "Collision_Arm"
+        },
+        {
+          "CollisionName": "Collision_Spine"
+        }
+      ]
+    },
+    {
+      "ID": 4013,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4014,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 4015,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_LHand"
+        },
+        {
+          "CollisionName": "Collision_RHand"
+        },
+        {
+          "CollisionName": "Collision_LArm"
+        },
+        {
+          "CollisionName": "Collision_RArm"
+        },
+        {
+          "CollisionName": "Collision_LFoot"
+        },
+        {
+          "CollisionName": "Collision_RFoot"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_NHRoot"
+        }
+      ]
+    },
+    {
+      "ID": 4017,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4018,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 4019,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_JiaoL"
+        },
+        {
+          "CollisionName": "Collision_JiaoR"
+        },
+        {
+          "CollisionName": "Collision_ToothL"
+        },
+        {
+          "CollisionName": "Collision_ToothR"
+        }
+      ]
+    },
+    {
+      "ID": 4020,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 4021,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4022,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 4023,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_tail_03"
+        },
+        {
+          "CollisionName": "Collision_tail_06"
+        }
+      ]
+    },
+    {
+      "ID": 4024,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4025,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 4026,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Spine"
+        },
+        {
+          "CollisionName": "Collision_Neck"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Push"
+        }
+      ]
+    },
+    {
+      "ID": 4050,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Arm_L"
+        },
+        {
+          "CollisionName": "Collision_Arm_R"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Root_2"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 4051,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Arm_L"
+        },
+        {
+          "CollisionName": "Collision_Arm_R"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Root_2"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 4052,
+      "UnitHitMoveWeight": 1E+09,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Arm_L"
+        },
+        {
+          "CollisionName": "Collision_Arm_R"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Root_2"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 4053,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Arm_L"
+        },
+        {
+          "CollisionName": "Collision_Arm_R"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Root_2"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 4055,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4056,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Fly"
+        }
+      ]
+    },
+    {
+      "ID": 4057,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4099,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4110,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 4114,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4116,
+      "UnitHitMoveWeight": 500.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 4117,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4118,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Arm_L"
+        },
+        {
+          "CollisionName": "Collision_Arm_R"
+        },
+        {
+          "CollisionName": "Collision_Leg_L"
+        },
+        {
+          "CollisionName": "Collision_Leg_R"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        }
+      ]
+    },
+    {
+      "ID": 4119,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Leg_L"
+        },
+        {
+          "CollisionName": "Collision_Leg_R"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Thigh_L"
+        },
+        {
+          "CollisionName": "Collision_Thigh_R"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 4120,
+      "UnitHitMoveWeight": 3000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 4121,
+      "UnitHitMoveWeight": 2500000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Arm"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_atk08_L"
+        },
+        {
+          "CollisionName": "Collision_atk08_R"
+        }
+      ]
+    },
+    {
+      "ID": 4123,
+      "UnitHitMoveWeight": 5000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 4124,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Hand"
+        },
+        {
+          "CollisionName": "Collision_Foot"
+        },
+        {
+          "CollisionName": "Collision_Spine"
+        },
+        {
+          "CollisionName": "Collision_Neck"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 4126,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_LHand"
+        },
+        {
+          "CollisionName": "Collision_RHand"
+        },
+        {
+          "CollisionName": "Collision_LArm"
+        },
+        {
+          "CollisionName": "Collision_RArm"
+        },
+        {
+          "CollisionName": "Collision_LFoot"
+        },
+        {
+          "CollisionName": "Collision_RFoot"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4127,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 4128,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 4129,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 4132,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 4133,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Pelvis"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Calf_L"
+        },
+        {
+          "CollisionName": "Collision_Calf_R"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Bodyblock"
+        }
+      ]
+    },
+    {
+      "ID": 4134,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Shield"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 4163,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_LegL"
+        },
+        {
+          "CollisionName": "Collision_LegR"
+        },
+        {
+          "CollisionName": "Collision_HandR"
+        },
+        {
+          "CollisionName": "Collision_HandL"
+        },
+        {
+          "CollisionName": "Collision_ThighL"
+        },
+        {
+          "CollisionName": "Collision_ThighR"
+        }
+      ]
+    },
+    {
+      "ID": 4164,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Upper"
+        },
+        {
+          "CollisionName": "Collision_Hand"
+        },
+        {
+          "CollisionName": "Collision_Leg"
+        },
+        {
+          "CollisionName": "Collision_Tail"
+        },
+        {
+          "CollisionName": "Collision_Fly"
+        }
+      ]
+    },
+    {
+      "ID": 4166,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4167,
+      "UnitHitMoveWeight": 400.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4168,
+      "UnitHitMoveWeight": 550.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4169,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Upper"
+        },
+        {
+          "CollisionName": "Collision_Hand"
+        },
+        {
+          "CollisionName": "Collision_Leg"
+        },
+        {
+          "CollisionName": "Collision_Tail"
+        },
+        {
+          "CollisionName": "Collision_Fly"
+        }
+      ]
+    },
+    {
+      "ID": 4171,
+      "UnitHitMoveWeight": 400.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4172,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 4180,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4181,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Rfleg"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Rbleg"
+        },
+        {
+          "CollisionName": "Collision_Lfleg"
+        },
+        {
+          "CollisionName": "Collision_Lbleg"
+        }
+      ]
+    },
+    {
+      "ID": 4182,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4183,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4184,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Pelvis"
+        }
+      ]
+    },
+    {
+      "ID": 4185,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4301,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4309,
+      "UnitHitMoveWeight": 400.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4310,
+      "UnitHitMoveWeight": 400.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4311,
+      "UnitHitMoveWeight": 550.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4401,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 4402,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Shield"
+        }
+      ]
+    },
+    {
+      "ID": 4403,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Shield"
+        }
+      ]
+    },
+    {
+      "ID": 4404,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4405,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4406,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Tail"
+        }
+      ]
+    },
+    {
+      "ID": 4407,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 4441,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4442,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4443,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4444,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Shield"
+        }
+      ]
+    },
+    {
+      "ID": 4450,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_HandL"
+        },
+        {
+          "CollisionName": "Collision_LegL"
+        },
+        {
+          "CollisionName": "Collision_ThighL"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_HandR"
+        },
+        {
+          "CollisionName": "Collision_LegR"
+        },
+        {
+          "CollisionName": "Collision_ThighR"
+        }
+      ]
+    },
+    {
+      "ID": 4499,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4701,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4705,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_LHand"
+        },
+        {
+          "CollisionName": "Collision_RHand"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_LLeg"
+        },
+        {
+          "CollisionName": "Collision_RLeg"
+        },
+        {
+          "CollisionName": "Collision_LFoot"
+        },
+        {
+          "CollisionName": "Collision_RFoot"
+        },
+        {
+          "CollisionName": "Collision_LThigh"
+        },
+        {
+          "CollisionName": "Collision_RThigh"
+        }
+      ]
+    },
+    {
+      "ID": 4706,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_LHand"
+        },
+        {
+          "CollisionName": "Collision_RHand"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_RLeg"
+        },
+        {
+          "CollisionName": "Collision_LFoot"
+        },
+        {
+          "CollisionName": "Collision_RFoot"
+        },
+        {
+          "CollisionName": "Collision_Fly"
+        }
+      ]
+    },
+    {
+      "ID": 4707,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 4708,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4709,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 4711,
+      "UnitHitMoveWeight": 2500000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_ArmL1"
+        },
+        {
+          "CollisionName": "Collision_ArmL2"
+        },
+        {
+          "CollisionName": "Collision_ArmL3"
+        },
+        {
+          "CollisionName": "Collision_ArmR1"
+        },
+        {
+          "CollisionName": "Collision_ArmR2"
+        },
+        {
+          "CollisionName": "Collision_ArmR3"
+        }
+      ]
+    },
+    {
+      "ID": 4712,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": ""
+        }
+      ]
+    },
+    {
+      "ID": 4713,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Tail"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_HandR"
+        },
+        {
+          "CollisionName": "Collision_HandL"
+        },
+        {
+          "CollisionName": "Collision_FootR"
+        },
+        {
+          "CollisionName": "Collision_FootL"
+        },
+        {
+          "CollisionName": ""
+        },
+        {
+          "CollisionName": ""
+        }
+      ]
+    },
+    {
+      "ID": 4714,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 4888,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Tail"
+        },
+        {
+          "CollisionName": "Collision_hand"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Leg_L"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Leg_R"
+        },
+        {
+          "CollisionName": "Collision_Bug"
+        }
+      ]
+    },
+    {
+      "ID": 4997,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Torso"
+        },
+        {
+          "CollisionName": "Collision_Arm"
+        },
+        {
+          "CollisionName": "Collision_Tail"
+        },
+        {
+          "CollisionName": "Collision_Leg"
+        },
+        {
+          "CollisionName": "Collision_AtkHitmove"
+        }
+      ]
+    },
+    {
+      "ID": 4998,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Torso"
+        },
+        {
+          "CollisionName": "Collision_Arm"
+        },
+        {
+          "CollisionName": "Collision_Tail"
+        },
+        {
+          "CollisionName": "Collision_Leg"
+        },
+        {
+          "CollisionName": "Collision_AtkHitmove"
+        }
+      ]
+    },
+    {
+      "ID": 4999,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Torso"
+        },
+        {
+          "CollisionName": "Collision_Arm"
+        },
+        {
+          "CollisionName": "Collision_Tail"
+        },
+        {
+          "CollisionName": "Collision_Leg"
+        },
+        {
+          "CollisionName": "Collision_AtkHitmove"
+        }
+      ]
+    },
+    {
+      "ID": 5001,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 5002,
+      "UnitHitMoveWeight": 500.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 5003,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5005,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Upper"
+        },
+        {
+          "CollisionName": "Collision_Hand"
+        },
+        {
+          "CollisionName": "Collision_Leg"
+        },
+        {
+          "CollisionName": "Collision_Tail"
+        },
+        {
+          "CollisionName": "Collision_Fly"
+        }
+      ]
+    },
+    {
+      "ID": 5006,
+      "UnitHitMoveWeight": 200.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5007,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5008,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 5009,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 5010,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5011,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5012,
+      "UnitHitMoveWeight": 1000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 5013,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5014,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5015,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5016,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5017,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5018,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5019,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "ID": 5020,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Arm_L"
+        },
+        {
+          "CollisionName": "Collision_Arm_R"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Skill"
+        },
+        {
+          "CollisionName": "Collision_Roll"
+        }
+      ]
+    },
+    {
+      "ID": 5021,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5054,
+      "UnitHitMoveWeight": 1000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_HandL"
+        },
+        {
+          "CollisionName": "Collision_LegL"
+        },
+        {
+          "CollisionName": "Collision_ThighL"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_HandR"
+        },
+        {
+          "CollisionName": "Collision_LegR"
+        },
+        {
+          "CollisionName": "Collision_ThighR"
+        }
+      ]
+    },
+    {
+      "ID": 5099,
+      "UnitHitMoveWeight": 10.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5100,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 5401,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Arm"
+        }
+      ]
+    },
+    {
+      "ID": 5402,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5403,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5404,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5405,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": ""
+        }
+      ]
+    },
+    {
+      "ID": 5406,
+      "UnitHitMoveWeight": 100000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5407,
+      "UnitHitMoveWeight": 100000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 5408,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": ""
+        },
+        {
+          "CollisionName": ""
+        },
+        {
+          "CollisionName": ""
+        },
+        {
+          "CollisionName": ""
+        },
+        {
+          "CollisionName": ""
+        }
+      ]
+    },
+    {
+      "ID": 5555,
+      "UnitHitMoveWeight": 100000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Root_L"
+        },
+        {
+          "CollisionName": "Collision_Root_R"
+        }
+      ]
+    },
+    {
+      "ID": 5801,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 5802,
+      "UnitHitMoveWeight": 5000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 5803,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 5810,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Dun"
+        },
+        {
+          "CollisionName": "Collision_Dash"
+        }
+      ]
+    },
+    {
+      "ID": 5811,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Dun"
+        },
+        {
+          "CollisionName": "Collision_Dash"
+        },
+        {
+          "CollisionName": "Collision_feet"
+        },
+        {
+          "CollisionName": "Collision_head"
+        }
+      ]
+    },
+    {
+      "ID": 6001,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 1,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Sculpture"
+        },
+        {
+          "CollisionName": "Collision_Horn"
+        },
+        {
+          "CollisionName": "Collision_Arm_L"
+        },
+        {
+          "CollisionName": "Collision_Arm_R"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Leg_L"
+        },
+        {
+          "CollisionName": "Collision_Leg_R"
+        },
+        {
+          "CollisionName": "Collision_Horn2"
+        }
+      ]
+    },
+    {
+      "ID": 6006,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Thigh_L"
+        },
+        {
+          "CollisionName": "Collision_Thigh_R"
+        },
+        {
+          "CollisionName": "Collision_Calf_L"
+        },
+        {
+          "CollisionName": "Collision_Calf_R"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 6008,
+      "UnitHitMoveWeight": 100000.0,
+      "DisableBattleURO": 1,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Leg_R"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Leg_L"
+        }
+      ]
+    },
+    {
+      "ID": 7001,
+      "UnitHitMoveWeight": 5000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "ID": 7002,
+      "UnitHitMoveWeight": 5000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "ID": 7401,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Leg"
+        },
+        {
+          "CollisionName": "Collision_Stone"
+        },
+        {
+          "CollisionName": "Collision_ArmL"
+        },
+        {
+          "CollisionName": "Collision_ArmR"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "ID": 7402,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 7777,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 8000,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 8888,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Hit"
+        }
+      ]
+    },
+    {
+      "ID": 8899,
+      "UnitHitMoveWeight": 10000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 9001,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_Arm_L"
+        },
+        {
+          "CollisionName": "Collision_Arm_R"
+        },
+        {
+          "CollisionName": "Collision_Foot_L"
+        },
+        {
+          "CollisionName": "Collision_Foot_R"
+        },
+        {
+          "CollisionName": "Collision_Hand_L"
+        },
+        {
+          "CollisionName": "Collision_Hand_R"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        },
+        {
+          "CollisionName": "Collision_Leg_L"
+        },
+        {
+          "CollisionName": "Collision_Leg_R"
+        }
+      ]
+    },
+    {
+      "ID": 9991,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 9994,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 9995,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 9996,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 9997,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 9998,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 9999,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 10006,
+      "UnitHitMoveWeight": 10.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "ID": 10011,
+      "UnitHitMoveWeight": 100.0,
+      "DisableBattleURO": 1,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "ID": 202202,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Body"
+        },
+        {
+          "CollisionName": "Collision_ArmL"
+        },
+        {
+          "CollisionName": "Collision_ArmR"
+        },
+        {
+          "CollisionName": "Collision_LegR"
+        }
+      ]
+    },
+    {
+      "ID": 302001,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "ID": 302002,
+      "UnitHitMoveWeight": 10000000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": []
+    },
+    {
+      "ID": 24010,
+      "UnitHitMoveWeight": 5000.0,
+      "DisableBattleURO": 0,
+      "OtherCollisions": [
+        {
+          "CollisionName": "Collision_Root"
+        },
+        {
+          "CollisionName": "Collision_Repel"
+        },
+        {
+          "CollisionName": "Collision_ArmL"
+        },
+        {
+          "CollisionName": "Collision_ArmR"
+        },
+        {
+          "CollisionName": "Collision_LegL"
+        },
+        {
+          "CollisionName": "Collision_LegR"
+        },
+        {
+          "CollisionName": "Collision_Head"
+        }
+      ]
+    }
+  ]
+}

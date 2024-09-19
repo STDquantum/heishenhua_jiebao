@@ -1,0 +1,104 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "FixFunctionType": 2,
+      "Param1": 0,
+      "Param2": 154,
+      "Param3": 0,
+      "Param4": 0,
+      "Param5": 0,
+      "Param6": 0.15
+    },
+    {
+      "ID": 2,
+      "FixFunctionType": 2,
+      "Param1": 0,
+      "Param2": 152,
+      "Param3": 0,
+      "Param4": 0,
+      "Param5": 0,
+      "Param6": 0.12
+    },
+    {
+      "ID": 3,
+      "FixFunctionType": 5,
+      "Param1": 0,
+      "Param2": 0,
+      "Param3": 0,
+      "Param4": 0,
+      "Param5": 0,
+      "Param6": 400.0
+    },
+    {
+      "ID": 4,
+      "FixFunctionType": 4,
+      "Param1": 0,
+      "Param2": 0,
+      "Param3": 0,
+      "Param4": 0,
+      "Param5": 0,
+      "Param6": 24.0
+    },
+    {
+      "ID": 5,
+      "FixFunctionType": 2,
+      "Param1": 0,
+      "Param2": 191,
+      "Param3": 0,
+      "Param4": 0,
+      "Param5": 0,
+      "Param6": 35.0
+    },
+    {
+      "ID": 9,
+      "FixFunctionType": 3,
+      "Param1": 0,
+      "Param2": 4000,
+      "Param3": 4000,
+      "Param4": 4000,
+      "Param5": 0,
+      "Param6": 0.0
+    },
+    {
+      "ID": 10,
+      "FixFunctionType": 3,
+      "Param1": 0,
+      "Param2": 1000,
+      "Param3": 1000,
+      "Param4": 1000,
+      "Param5": 0,
+      "Param6": 0.0
+    },
+    {
+      "ID": 12,
+      "FixFunctionType": 2,
+      "Param1": 0,
+      "Param2": 158,
+      "Param3": 0,
+      "Param4": 0,
+      "Param5": 0,
+      "Param6": 3.0
+    },
+    {
+      "ID": 14,
+      "FixFunctionType": 2,
+      "Param1": 0,
+      "Param2": 152,
+      "Param3": 0,
+      "Param4": 0,
+      "Param5": 0,
+      "Param6": 0.02
+    },
+    {
+      "ID": 15,
+      "FixFunctionType": 2,
+      "Param1": 0,
+      "Param2": 152,
+      "Param3": 0,
+      "Param4": 0,
+      "Param5": 0,
+      "Param6": 0.02
+    }
+  ]
+}

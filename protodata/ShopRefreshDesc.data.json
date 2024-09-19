@@ -1,0 +1,380 @@
+{
+  "List": [
+    {
+      "Id": 2001,
+      "ShopId": 2000,
+      "GroupId": 1001,
+      "RefreshType": 0,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2002,
+      "ShopId": 2000,
+      "GroupId": 1002,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2003,
+      "ShopId": 2000,
+      "GroupId": 2001,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2004,
+      "ShopId": 2000,
+      "GroupId": 2002,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2005,
+      "ShopId": 2000,
+      "GroupId": 3001,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2006,
+      "ShopId": 2000,
+      "GroupId": 3002,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2007,
+      "ShopId": 2000,
+      "GroupId": 4001,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2008,
+      "ShopId": 2000,
+      "GroupId": 4002,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2009,
+      "ShopId": 2000,
+      "GroupId": 5001,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2010,
+      "ShopId": 2000,
+      "GroupId": 5002,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2101,
+      "ShopId": 2000,
+      "GroupId": 2101,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2102,
+      "ShopId": 2000,
+      "GroupId": 2102,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2103,
+      "ShopId": 2000,
+      "GroupId": 2103,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2104,
+      "ShopId": 2000,
+      "GroupId": 2104,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2105,
+      "ShopId": 2000,
+      "GroupId": 2105,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2501,
+      "ShopId": 2501,
+      "GroupId": 2501,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 250102,
+      "ShopId": 2501,
+      "GroupId": 250102,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 250103,
+      "ShopId": 2501,
+      "GroupId": 250103,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 250104,
+      "ShopId": 2501,
+      "GroupId": 250104,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 250105,
+      "ShopId": 2501,
+      "GroupId": 250105,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 250106,
+      "ShopId": 2501,
+      "GroupId": 250106,
+      "RefreshType": 0,
+      "LimitGameCountMin": 2,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 250107,
+      "ShopId": 2501,
+      "GroupId": 250107,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2507,
+      "ShopId": 2501,
+      "GroupId": 2507,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2503,
+      "ShopId": 2503,
+      "GroupId": 2503,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 2504,
+      "ShopId": 2504,
+      "GroupId": 2504,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 250401,
+      "ShopId": 2504,
+      "GroupId": 250401,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 250402,
+      "ShopId": 2504,
+      "GroupId": 250402,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 250403,
+      "ShopId": 2504,
+      "GroupId": 250403,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 250404,
+      "ShopId": 2504,
+      "GroupId": 250404,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 250405,
+      "ShopId": 2504,
+      "GroupId": 250405,
+      "RefreshType": 0,
+      "LimitGameCountMin": 2,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 310201,
+      "ShopId": 3102,
+      "GroupId": 310201,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 310203,
+      "ShopId": 3102,
+      "GroupId": 310203,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 310204,
+      "ShopId": 3102,
+      "GroupId": 310204,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 310205,
+      "ShopId": 3102,
+      "GroupId": 310205,
+      "RefreshType": 0,
+      "LimitGameCountMin": 2,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 9100,
+      "ShopId": 9100,
+      "GroupId": 9100,
+      "RefreshType": 0,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 9101,
+      "ShopId": 9100,
+      "GroupId": 9101,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 9150,
+      "ShopId": 9150,
+      "GroupId": 9150,
+      "RefreshType": 0,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 9200,
+      "ShopId": 9200,
+      "GroupId": 9200,
+      "RefreshType": 0,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 9250,
+      "ShopId": 9250,
+      "GroupId": 9250,
+      "RefreshType": 0,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 9300,
+      "ShopId": 9300,
+      "GroupId": 9300,
+      "RefreshType": 0,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 9400,
+      "ShopId": 9400,
+      "GroupId": 9400,
+      "RefreshType": 0,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 9450,
+      "ShopId": 9450,
+      "GroupId": 9450,
+      "RefreshType": 0,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 9500,
+      "ShopId": 9500,
+      "GroupId": 9500,
+      "RefreshType": 0,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 9550,
+      "ShopId": 9550,
+      "GroupId": 9550,
+      "RefreshType": 0,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 9600,
+      "ShopId": 9600,
+      "GroupId": 9600,
+      "RefreshType": 0,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 9650,
+      "ShopId": 9650,
+      "GroupId": 9650,
+      "RefreshType": 0,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    },
+    {
+      "Id": 3100,
+      "ShopId": 3100,
+      "GroupId": 2501,
+      "RefreshType": 1,
+      "LimitGameCountMin": 0,
+      "LimitGameCountMax": 0
+    }
+  ]
+}

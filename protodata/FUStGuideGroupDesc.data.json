@@ -1,0 +1,1001 @@
+{
+  "List": [
+    {
+      "ID": 10,
+      "GuideGroupType": 0,
+      "GuideId": [
+        1001
+      ],
+      "FinishType": 1,
+      "FinishParam": 6,
+      "GuideType": 1,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 11,
+      "GuideGroupType": 0,
+      "GuideId": [
+        1101
+      ],
+      "FinishType": 1,
+      "FinishParam": 6,
+      "GuideType": 1,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 12,
+      "GuideGroupType": 0,
+      "GuideId": [
+        1201
+      ],
+      "FinishType": 1,
+      "FinishParam": 6,
+      "GuideType": 1,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 13,
+      "GuideGroupType": 1,
+      "GuideId": [
+        1301,
+        1302
+      ],
+      "FinishType": 2,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 14,
+      "GuideGroupType": 0,
+      "GuideId": [
+        1401,
+        1402,
+        1403
+      ],
+      "FinishType": 1,
+      "FinishParam": 8,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 15,
+      "GuideGroupType": 0,
+      "GuideId": [
+        1501
+      ],
+      "FinishType": 2,
+      "FinishParam": 4,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 16,
+      "GuideGroupType": 0,
+      "GuideId": [
+        1601
+      ],
+      "FinishType": 1,
+      "FinishParam": 6,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 30,
+      "GuideGroupType": 2,
+      "GuideId": [
+        3001
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 1,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 31,
+      "GuideGroupType": 2,
+      "GuideId": [
+        3101,
+        3102
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 1,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 32,
+      "GuideGroupType": 2,
+      "GuideId": [
+        3201
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 1,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 33,
+      "GuideGroupType": 2,
+      "GuideId": [
+        3301,
+        3302
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 34,
+      "GuideGroupType": 2,
+      "GuideId": [
+        3401
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1001,
+      "GuideGroupType": 0,
+      "GuideId": [
+        100101,
+        100102
+      ],
+      "FinishType": 1,
+      "FinishParam": 6,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1002,
+      "GuideGroupType": 0,
+      "GuideId": [
+        100201
+      ],
+      "FinishType": 2,
+      "FinishParam": 5,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1003,
+      "GuideGroupType": 2,
+      "GuideId": [
+        100301
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 1004,
+      "GuideGroupType": 0,
+      "GuideId": [
+        100401
+      ],
+      "FinishType": 1,
+      "FinishParam": 5,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 1005,
+      "GuideGroupType": 2,
+      "GuideId": [
+        100502
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1006,
+      "GuideGroupType": 0,
+      "GuideId": [
+        100601
+      ],
+      "FinishType": 1,
+      "FinishParam": 5,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1007,
+      "GuideGroupType": 0,
+      "GuideId": [
+        100701
+      ],
+      "FinishType": 1,
+      "FinishParam": 3,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 1008,
+      "GuideGroupType": 2,
+      "GuideId": [
+        100801
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 1009,
+      "GuideGroupType": 0,
+      "GuideId": [
+        100901
+      ],
+      "FinishType": 1,
+      "FinishParam": 5,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1010,
+      "GuideGroupType": 0,
+      "GuideId": [
+        101001
+      ],
+      "FinishType": 1,
+      "FinishParam": 3,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 1011,
+      "GuideGroupType": 0,
+      "GuideId": [
+        101101
+      ],
+      "FinishType": 1,
+      "FinishParam": 8,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 1012,
+      "GuideGroupType": 2,
+      "GuideId": [
+        101201
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 1,
+      "IsCollected": 1,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 1013,
+      "GuideGroupType": 0,
+      "GuideId": [
+        101301
+      ],
+      "FinishType": 1,
+      "FinishParam": 6,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1014,
+      "GuideGroupType": 0,
+      "GuideId": [
+        101401
+      ],
+      "FinishType": 1,
+      "FinishParam": 6,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1015,
+      "GuideGroupType": 0,
+      "GuideId": [
+        101501
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 1016,
+      "GuideGroupType": 0,
+      "GuideId": [
+        101601
+      ],
+      "FinishType": 1,
+      "FinishParam": 6,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1017,
+      "GuideGroupType": 0,
+      "GuideId": [
+        101701
+      ],
+      "FinishType": 1,
+      "FinishParam": 6,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1018,
+      "GuideGroupType": 2,
+      "GuideId": [
+        101801
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 1019,
+      "GuideGroupType": 2,
+      "GuideId": [
+        101901
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 1020,
+      "GuideGroupType": 2,
+      "GuideId": [
+        102001
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 2001,
+      "GuideGroupType": 0,
+      "GuideId": [
+        200101
+      ],
+      "FinishType": 1,
+      "FinishParam": 6,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 2002,
+      "GuideGroupType": 2,
+      "GuideId": [
+        200201
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 2003,
+      "GuideGroupType": 2,
+      "GuideId": [
+        200301
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 1,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 2004,
+      "GuideGroupType": 0,
+      "GuideId": [
+        200401
+      ],
+      "FinishType": 1,
+      "FinishParam": 6,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 2005,
+      "GuideGroupType": 2,
+      "GuideId": [
+        200501
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 2006,
+      "GuideGroupType": 0,
+      "GuideId": [
+        200601
+      ],
+      "FinishType": 1,
+      "FinishParam": 6,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 2007,
+      "GuideGroupType": 2,
+      "GuideId": [
+        200701
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 2008,
+      "GuideGroupType": 0,
+      "GuideId": [
+        200801
+      ],
+      "FinishType": 1,
+      "FinishParam": 6,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 2009,
+      "GuideGroupType": 2,
+      "GuideId": [
+        200901
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 2010,
+      "GuideGroupType": 2,
+      "GuideId": [
+        201001,
+        201002
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 3001,
+      "GuideGroupType": 2,
+      "GuideId": [
+        300101,
+        300102
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 1,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 3002,
+      "GuideGroupType": 2,
+      "GuideId": [
+        300201
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 1,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 3003,
+      "GuideGroupType": 2,
+      "GuideId": [
+        300301
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 1,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 3004,
+      "GuideGroupType": 2,
+      "GuideId": [
+        300401
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 1,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 3005,
+      "GuideGroupType": 2,
+      "GuideId": [
+        300501
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 3006,
+      "GuideGroupType": 2,
+      "GuideId": [
+        300601
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 1,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 3007,
+      "GuideGroupType": 2,
+      "GuideId": [
+        300701
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 1,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 3008,
+      "GuideGroupType": 2,
+      "GuideId": [
+        300801
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 1,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 3009,
+      "GuideGroupType": 2,
+      "GuideId": [
+        300901
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 1,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 3010,
+      "GuideGroupType": 2,
+      "GuideId": [
+        301001
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 1,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 3011,
+      "GuideGroupType": 2,
+      "GuideId": [
+        301101
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 3012,
+      "GuideGroupType": 2,
+      "GuideId": [
+        301202
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 3013,
+      "GuideGroupType": 2,
+      "GuideId": [
+        301301
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 1,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 3101,
+      "GuideGroupType": 2,
+      "GuideId": [
+        310101
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 1,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 3102,
+      "GuideGroupType": 2,
+      "GuideId": [
+        310201
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 1,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 4000,
+      "GuideGroupType": 2,
+      "GuideId": [
+        400001
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 4001,
+      "GuideGroupType": 0,
+      "GuideId": [
+        400101
+      ],
+      "FinishType": 1,
+      "FinishParam": 8,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 4002,
+      "GuideGroupType": 2,
+      "GuideId": [
+        400201
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 4003,
+      "GuideGroupType": 2,
+      "GuideId": [
+        400301
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 4004,
+      "GuideGroupType": 2,
+      "GuideId": [
+        400401
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 4005,
+      "GuideGroupType": 0,
+      "GuideId": [
+        400501
+      ],
+      "FinishType": 1,
+      "FinishParam": 8,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 4006,
+      "GuideGroupType": 2,
+      "GuideId": [
+        400601
+      ],
+      "FinishType": 1,
+      "FinishParam": 1,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 0,
+      "SortId": 0
+    },
+    {
+      "ID": 4007,
+      "GuideGroupType": 0,
+      "GuideId": [
+        400701
+      ],
+      "FinishType": 1,
+      "FinishParam": 8,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 4008,
+      "GuideGroupType": 2,
+      "GuideId": [
+        400801,
+        400803
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1301,
+      "GuideGroupType": 0,
+      "GuideId": [
+        130101
+      ],
+      "FinishType": 2,
+      "FinishParam": 10,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1302,
+      "GuideGroupType": 0,
+      "GuideId": [
+        130201
+      ],
+      "FinishType": 2,
+      "FinishParam": 10,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1303,
+      "GuideGroupType": 0,
+      "GuideId": [
+        130301
+      ],
+      "FinishType": 2,
+      "FinishParam": 10,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1304,
+      "GuideGroupType": 0,
+      "GuideId": [
+        130401
+      ],
+      "FinishType": 2,
+      "FinishParam": 10,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 1305,
+      "GuideGroupType": 0,
+      "GuideId": [
+        130501
+      ],
+      "FinishType": 1,
+      "FinishParam": 12,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 3990,
+      "GuideGroupType": 1,
+      "GuideId": [
+        399001
+      ],
+      "FinishType": 2,
+      "FinishParam": 10,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 3991,
+      "GuideGroupType": 1,
+      "GuideId": [
+        399101
+      ],
+      "FinishType": 2,
+      "FinishParam": 10,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 9801,
+      "GuideGroupType": 2,
+      "GuideId": [
+        980101
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 9802,
+      "GuideGroupType": 0,
+      "GuideId": [
+        980201
+      ],
+      "FinishType": 1,
+      "FinishParam": 6,
+      "GuideType": 0,
+      "IsCollected": 0,
+      "IsShowHud": 1,
+      "SortId": 0
+    },
+    {
+      "ID": 9999,
+      "GuideGroupType": 2,
+      "GuideId": [
+        999901
+      ],
+      "FinishType": 0,
+      "FinishParam": 0,
+      "GuideType": 0,
+      "IsCollected": 1,
+      "IsShowHud": 1,
+      "SortId": 0
+    }
+  ]
+}

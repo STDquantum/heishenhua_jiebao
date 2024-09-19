@@ -1,0 +1,72 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "PreDaShengBeginTriggerEffectIDList": [],
+      "PreDaShengBeginTriggerBuffIDList": [],
+      "PreDaShengSustainTriggerBuffIDList": [
+        1999
+      ],
+      "DaShengBeginTriggerEffectIDList": [],
+      "DaShengBeginTriggerBuffIDList": [],
+      "DaShengSustainTriggerBuffIDList": [
+        601,
+        602
+      ],
+      "RelatedEquipIDList": [
+        12001,
+        12002,
+        12003,
+        12004,
+        15002
+      ],
+      "RelatedTalentIDList": [
+        200101,
+        200102,
+        200103,
+        200201,
+        200202,
+        200203,
+        200301,
+        200302,
+        200303,
+        200401,
+        200402,
+        200403,
+        200501,
+        200502,
+        200503,
+        200601,
+        200602,
+        200603,
+        100501,
+        100503,
+        100505
+      ]
+    },
+    {
+      "ID": 2,
+      "PreDaShengBeginTriggerEffectIDList": [],
+      "PreDaShengBeginTriggerBuffIDList": [],
+      "PreDaShengSustainTriggerBuffIDList": [],
+      "DaShengBeginTriggerEffectIDList": [],
+      "DaShengBeginTriggerBuffIDList": [],
+      "DaShengSustainTriggerBuffIDList": [
+        601,
+        602
+      ],
+      "RelatedEquipIDList": [
+        12001,
+        12002,
+        12003,
+        12004,
+        15002
+      ],
+      "RelatedTalentIDList": [
+        100501,
+        100503,
+        100505
+      ]
+    }
+  ]
+}

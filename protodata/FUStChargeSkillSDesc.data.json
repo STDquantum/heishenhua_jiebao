@@ -1,0 +1,4607 @@
+{
+  "List": [
+    {
+      "ID": 10505,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Fashu/TTTB/AM_Wukong_TTTB_02.AM_Wukong_TTTB_02",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 10506,
+      "EndSkillID": 10506,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 228,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 229,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 230,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10507,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Fashu/TTTB/AM_Wukong_TTTB_L_02.AM_Wukong_TTTB_L_02",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 10508,
+      "EndSkillID": 10508,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 228,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 229,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 230,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10509,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Fashu/TTTB/AM_Wukong_TTTB_R_02.AM_Wukong_TTTB_R_02",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 10510,
+      "EndSkillID": 10510,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 228,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 229,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 230,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10605,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Air/AM_wukong_atk_air_heavy_loop.AM_wukong_atk_air_heavy_loop",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 2.0,
+      "TriggerNextStageWhenOnLand": 1,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 10610,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10606,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Air/AM_wukong_atk_air_heavy_loop.AM_wukong_atk_air_heavy_loop",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 2.0,
+      "TriggerNextStageWhenOnLand": 1,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 10611,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 10821,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.1
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10607,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Air/AM_wukong_atk_air_heavy_loop.AM_wukong_atk_air_heavy_loop",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 2.0,
+      "TriggerNextStageWhenOnLand": 1,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 10612,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 10822,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.1
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10608,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Air/AM_wukong_atk_air_heavy_loop.AM_wukong_atk_air_heavy_loop",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 2.0,
+      "TriggerNextStageWhenOnLand": 1,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 10613,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 10823,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.1
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10609,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Air/AM_wukong_atk_air_heavy_loop.AM_wukong_atk_air_heavy_loop",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 2.0,
+      "TriggerNextStageWhenOnLand": 1,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 10614,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 10824,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.1
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10711,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboB/AM_wukong_combob_z_01_loop.AM_wukong_combob_z_01_loop",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 273,
+          "BeginTimeInBeginStage": 0.1,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10720,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_wukong_comboc_z_01_loop_weak.AM_wukong_comboc_z_01_loop_weak",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 271,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.4
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10721,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_wukong_comboc_z_01_loop.AM_wukong_comboc_z_01_loop",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 271,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.4
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10811,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_0.AM_Wukong_Xuli_C_loop_0",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 269,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 285,
+          "BeginTimeInBeginStage": -0.93,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 268,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.5
+        },
+        {
+          "BuffID": 275,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10812,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_1.AM_Wukong_Xuli_C_loop_1",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 269,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.1
+        },
+        {
+          "BuffID": 285,
+          "BeginTimeInBeginStage": -1.13,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 10841,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 268,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 1.0
+        },
+        {
+          "BuffID": 275,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10813,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_2.AM_Wukong_Xuli_C_loop_2",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 269,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.1
+        },
+        {
+          "BuffID": 285,
+          "BeginTimeInBeginStage": -1.15,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 10842,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 268,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 1.0
+        },
+        {
+          "BuffID": 275,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10814,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_3.AM_Wukong_Xuli_C_loop_3",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 269,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.1
+        },
+        {
+          "BuffID": 285,
+          "BeginTimeInBeginStage": -1.25,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 10843,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 268,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 1.0
+        },
+        {
+          "BuffID": 275,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10815,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_4.AM_Wukong_Xuli_C_loop_4",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 269,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.1
+        },
+        {
+          "BuffID": 285,
+          "BeginTimeInBeginStage": -1.25,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 10844,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 268,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 1.0
+        },
+        {
+          "BuffID": 275,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10865,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_1.AM_Wukong_Xuli_C_loop_1",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 269,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 285,
+          "BeginTimeInBeginStage": -0.53,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 10841,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 268,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 1.0
+        },
+        {
+          "BuffID": 275,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10866,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_2.AM_Wukong_Xuli_C_loop_2",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 269,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 285,
+          "BeginTimeInBeginStage": -0.55,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 10842,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 268,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 1.0
+        },
+        {
+          "BuffID": 275,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10867,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_3.AM_Wukong_Xuli_C_loop_3",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 269,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 285,
+          "BeginTimeInBeginStage": -0.67,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 10843,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 268,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 1.0
+        },
+        {
+          "BuffID": 275,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10835,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli/AM_Wukong_xuli_loop.AM_Wukong_xuli_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 249,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 246,
+          "BeginTimeInBeginStage": 0.7,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 250,
+          "BeginTimeInBeginStage": 0.2,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 0.9,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10836,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli/AM_Wukong_xuli_loop.AM_Wukong_xuli_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 249,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 246,
+          "BeginTimeInBeginStage": 0.7,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 250,
+          "BeginTimeInBeginStage": 0.2,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 0.9,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10837,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli/AM_Wukong_xuli_loop.AM_Wukong_xuli_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 249,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 246,
+          "BeginTimeInBeginStage": 0.7,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 250,
+          "BeginTimeInBeginStage": 0.2,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 0.9,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10838,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli/AM_Wukong_xuli_loop.AM_Wukong_xuli_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 249,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 246,
+          "BeginTimeInBeginStage": 0.7,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 250,
+          "BeginTimeInBeginStage": 0.2,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 0.9,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10839,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli/AM_Wukong_xuli_loop.AM_Wukong_xuli_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": 0.1,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 249,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 246,
+          "BeginTimeInBeginStage": 0.7,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 250,
+          "BeginTimeInBeginStage": 0.2,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 0.9,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10840,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli/AM_Wukong_xuli_loop.AM_Wukong_xuli_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": 0.1,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 249,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 246,
+          "BeginTimeInBeginStage": 0.7,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 250,
+          "BeginTimeInBeginStage": 0.2,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 0.9,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli_wugong.CLC_xuli_wugong'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10842,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_Wukong_ComboC_q_loop.AM_Wukong_ComboC_q_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 234,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10843,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_Wukong_ComboC_z_loop.AM_Wukong_ComboC_z_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 235,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10846,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_Wukong_ComboC_z_loop.AM_Wukong_ComboC_z_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 235,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10847,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_Wukong_ComboC_z_loop.AM_Wukong_ComboC_z_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 235,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10848,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_Wukong_ComboC_q_loop.AM_Wukong_ComboC_q_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 234,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10849,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_Wukong_ComboC_q_loop.AM_Wukong_ComboC_q_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 234,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10870,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B/AM_Wukong_xuli_B_loop_0.AM_Wukong_xuli_B_loop_0'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 286,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.4,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 1.4,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10871,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B/AM_Wukong_xuli_B_loop_0.AM_Wukong_xuli_B_loop_0'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 286,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.4,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 1.4,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10872,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B/AM_Wukong_xuli_B_loop_0.AM_Wukong_xuli_B_loop_0'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 286,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.4,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 1.4,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10873,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B/AM_Wukong_xuli_B_loop_0.AM_Wukong_xuli_B_loop_0'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 286,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.4,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 1.4,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10874,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B/AM_Wukong_xuli_B_loop_0.AM_Wukong_xuli_B_loop_0'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 286,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.4,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 2017,
+          "BeginTimeInBeginStage": 1.4,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10875,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B_Qiang/AM_wukong_qiang_xuli_b_loop_0.AM_wukong_qiang_xuli_b_loop_0'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 286,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.4,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10876,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B_Qiang/AM_wukong_qiang_xuli_b_loop_0.AM_wukong_qiang_xuli_b_loop_0'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 286,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.4,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10877,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B_Qiang/AM_wukong_qiang_xuli_b_loop_0.AM_wukong_qiang_xuli_b_loop_0'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 286,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.4,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10878,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B_Qiang/AM_wukong_qiang_xuli_b_loop_0.AM_wukong_qiang_xuli_b_loop_0'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 286,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.4,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 10879,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B_Qiang/AM_wukong_qiang_xuli_b_loop_0.AM_wukong_qiang_xuli_b_loop_0'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 286,
+          "BeginTimeInBeginStage": 1.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.4,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 13030,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_shi/Montage/Attack/01/AM_player_hfm_shi_R2_loop.AM_player_hfm_shi_R2_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 2.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_shi/CLC_player_hfm_shi_R1.CLC_player_hfm_shi_R1'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 14030,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_hu/Montage/Attack/AM_player_hfm_hu_R2_Loop.AM_player_hfm_hu_R2_Loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 30.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 14030,
+          "BeginTimeInBeginStage": 0.6,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/CLC_player_hfm_hu_R2.CLC_player_hfm_hu_R2'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 14031,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_hu/Montage/Attack/AM_player_hfm_hu_R2_Loop_01.AM_player_hfm_hu_R2_Loop_01'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 30.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 14030,
+          "BeginTimeInBeginStage": 0.6,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/CLC_player_hfm_hu_R2.CLC_player_hfm_hu_R2'",
+      "ChargeLevelConfigIndex": 1
+    },
+    {
+      "ID": 14034,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_hu/Montage/Attack/AM_player_hfm_hu_R2_Loop_01.AM_player_hfm_hu_R2_Loop_01'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 30.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 14030,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/CLC_player_hfm_hu_R2.CLC_player_hfm_hu_R2'",
+      "ChargeLevelConfigIndex": 1
+    },
+    {
+      "ID": 14050,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_hu/Montage/Attack/AM_player_hfm_hu_L2_Loop.AM_player_hfm_hu_L2_Loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 30.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/CLC_player_hfm_hu_L2.CLC_player_hfm_hu_L2'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 14051,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_hu/Montage/Attack/AM_player_hfm_hu_L2_Loop_01.AM_player_hfm_hu_L2_Loop_01'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 30.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/CLC_player_hfm_hu_L2.CLC_player_hfm_hu_L2'",
+      "ChargeLevelConfigIndex": 1
+    },
+    {
+      "ID": 14052,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_hu/Montage/Attack/AM_player_hfm_hu_L2_Loop_02.AM_player_hfm_hu_L2_Loop_02'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 30.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/CLC_player_hfm_hu_L2.CLC_player_hfm_hu_L2'",
+      "ChargeLevelConfigIndex": 2
+    },
+    {
+      "ID": 14053,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_hu/Montage/Attack/AM_player_hfm_hu_L2_Loop_03.AM_player_hfm_hu_L2_Loop_03'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 30.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/CLC_player_hfm_hu_L2.CLC_player_hfm_hu_L2'",
+      "ChargeLevelConfigIndex": 3
+    },
+    {
+      "ID": 15030,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_lys_shu/Montage/Attack/AM_player_lys_shu_R2_loop_Lv1.AM_player_lys_shu_R2_loop_Lv1'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 1.8,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 15030,
+          "BeginTimeInBeginStage": 0.8,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 15032,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_lys_shu/Montage/Attack/AM_player_lys_shu_R2_loop_Lv2.AM_player_lys_shu_R2_loop_Lv2'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 2.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 15030,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 15033,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_lys_shu/Montage/Attack/AM_player_lys_shu_R2_loop_Lv3.AM_player_lys_shu_R2_loop_Lv3'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 2.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 15030,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 15040,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_lys_shu/Montage/Attack/AM_player_lys_shu_R2_loop_Lv3.AM_player_lys_shu_R2_loop_Lv3'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 5.8,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 15030,
+          "BeginTimeInBeginStage": 0.8,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 18030,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_psd_chong/Montage/Attack/AM_player_psd_chong_R2_loop.AM_player_psd_chong_R2_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 24030,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_mgd_yuan/Montage/Attack/AM_player_mgd_yuan_R2_loop_Lv0.AM_player_mgd_yuan_R2_loop_Lv0'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 8.6,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_mgd_yuan/CLC_player_mgd_yuan_R2.CLC_player_mgd_yuan_R2'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 24031,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_mgd_yuan/Montage/Attack/AM_player_mgd_yuan_R2_loop_Lv1.AM_player_mgd_yuan_R2_loop_Lv1'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 7.0375,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_mgd_yuan/CLC_player_mgd_yuan_R2.CLC_player_mgd_yuan_R2'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 24032,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_mgd_yuan/Montage/Attack/AM_player_mgd_yuan_R2_loop_Lv2.AM_player_mgd_yuan_R2_loop_Lv2'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 5.31875,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_mgd_yuan/CLC_player_mgd_yuan_R2.CLC_player_mgd_yuan_R2'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 24033,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_mgd_yuan/Montage/Attack/AM_player_mgd_yuan_R2_loop_Lv3.AM_player_mgd_yuan_R2_loop_Lv3'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 3.44375,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_mgd_yuan/CLC_player_mgd_yuan_R2.CLC_player_mgd_yuan_R2'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 100907,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_Wa_02/Montage/AM_GYCY_Wa_02_Run_Start.AM_GYCY_Wa_02_Run_Start'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 25.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 100908,
+      "EndSkillID": 100908,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 101705,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_Seng_01/Montage/AM_GYCY_Seng_01_Run_loop.AM_GYCY_Seng_01_Run_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 7.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 101707,
+      "EndSkillID": 101706,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 102607,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/PSD/PSD_YouYan_01/Montage/AM_PSD_YouYan_01_Atk07_Loop.AM_PSD_YouYan_01_Atk07_Loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 102610,
+      "EndSkillID": 102610,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 103921,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_YouHun/Montage/AM_GYCY_YouHun_Run_loop.AM_GYCY_YouHun_Run_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 7.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 103922,
+      "EndSkillID": 103922,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 103923,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_YouHun/Montage/AM_GYCY_YouHun_Run_loop.AM_GYCY_YouHun_Run_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 12.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 103924,
+      "EndSkillID": 103924,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 103931,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_YouHun/Montage/AM_GYCY_YouHun_Sacrifice_loop.AM_GYCY_YouHun_Sacrifice_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": 99.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 103932,
+      "EndSkillID": 103932,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 112404,
+      "LoopTemplatePath": "AnimMontage'/Game/3rd/guansitest/Player_TianJiang/Montage/AM_Player_TianJiang_01_SU_loop.AM_Player_TianJiang_01_SU_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 9999.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 112405,
+      "EndSkillID": 112405,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 216,
+          "BeginTimeInBeginStage": 0.5,
+          "EndTimeInEndStage": 0.1
+        },
+        {
+          "BuffID": 112403,
+          "BeginTimeInBeginStage": 0.5,
+          "EndTimeInEndStage": 0.1
+        },
+        {
+          "BuffID": 112405,
+          "BeginTimeInBeginStage": 0.5,
+          "EndTimeInEndStage": 0.1
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 200331,
+      "LoopTemplatePath": "/Game/00Main/Animation/HFM/HFM_Shu_04a/Montage/AM_HFM_Shu_04_Atk_Fast_03_Loop.AM_HFM_Shu_04_Atk_Fast_03_Loop",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 3.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 200332,
+      "EndSkillID": 200332,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 200361,
+      "LoopTemplatePath": "/Game/00Main/Animation/HFM/HFM_Shu_04a/Montage/AM_HFM_Shu_04_Atk_Fast_01_Loop.AM_HFM_Shu_04_Atk_Fast_01_Loop",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 3.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 200362,
+      "EndSkillID": 200362,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 200371,
+      "LoopTemplatePath": "/Game/00Main/Animation/HFM/HFM_Shu_04a/Montage/AM_HFM_Shu_04_Atk_Fast_02_Loop.AM_HFM_Shu_04_Atk_Fast_02_Loop",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 3.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 200372,
+      "EndSkillID": 200372,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 200381,
+      "LoopTemplatePath": "/Game/00Main/Animation/HFM/HFM_Shu_04a/Montage/AM_HFM_Shu_04_Atk_Fast_03_Loop.AM_HFM_Shu_04_Atk_Fast_03_Loop",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 3.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 200382,
+      "EndSkillID": 200382,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 201003,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_LunZi/AM_HFM_LunZi_01a_Back_Loop.AM_HFM_LunZi_01a_Back_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 201004,
+      "EndSkillID": 201004,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 201616,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShiTongLing/Montage/AM_HFM_ShiTongLing_Atk_Fast_16_Loop.AM_HFM_ShiTongLing_Atk_Fast_16_Loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 15.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 2016161,
+      "EndSkillID": 2016161,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 201761,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_HuanWuZhe_01a/Montage/AM_HFM_HuanWuZhe_01a_Atk_Fast_06_loop.AM_HFM_HuanWuZhe_01a_Atk_Fast_06_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 7.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 201762,
+      "EndSkillID": 201762,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 201771,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_HuanWuZhe_01a/Montage/AM_HFM_HuanWuZhe_01a_Atk_Fast_07_loop.AM_HFM_HuanWuZhe_01a_Atk_Fast_07_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 7.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 201772,
+      "EndSkillID": 201772,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 201903,
+      "LoopTemplatePath": "/Game/00Main/Animation/HFM/HFM_HuangPaoZhu/Montage/AM_HFM_HuangPaoZhu_Atk_03_Loop.AM_HFM_HuangPaoZhu_Atk_03_Loop",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 4.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 201993,
+      "EndSkillID": 201993,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 10.0,
+        "SSABreakAssignedAnim": "AnimMontage'/Game/00Main/Animation/HFM/HFM_HuangPaoZhu/Montage/AM_HFM_HuangPaoZhu_ArmorBreak.AM_HFM_HuangPaoZhu_ArmorBreak'"
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 202914,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_MaGu_01A/Montage/AM_HFM_MaGu_01A_Atk_Fast_05_Loop.AM_HFM_MaGu_01A_Atk_Fast_05_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 8.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 202915,
+      "EndSkillID": 202915,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 202951,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_MaGu_01A/Montage/AM_HFM_MaGu_01A_Atk_Fast_05_Loop.AM_HFM_MaGu_01A_Atk_Fast_05_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 8.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 202952,
+      "EndSkillID": 202952,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 220302,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShanZhen_03/Montage/AM_HFM_ShanZhen_03_Atk_Fast_02_Loop.AM_HFM_ShanZhen_03_Atk_Fast_02_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 220361,
+      "EndSkillID": 220320,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 220306,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShanZhen_03/Montage/AM_HFM_ShanZhen_03_Atk_Fast_02_Loop.AM_HFM_ShanZhen_03_Atk_Fast_02_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 220361,
+      "EndSkillID": 220361,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 220324,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShanZhen_03/Montage/AM_HFM_ShanZhen_03_Atk_Fast_02_Loop.AM_HFM_ShanZhen_03_Atk_Fast_02_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 220325,
+      "EndSkillID": 220325,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 220376,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShanZhen_03/Montage/AM_HFM_ShanZhen_03_Atk_Fast_02_Loop.AM_HFM_ShanZhen_03_Atk_Fast_02_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 220361,
+      "EndSkillID": 220361,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 300255,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_TuiSeng/Montage/NewAM/AM_LYS_TuiSeng_01_Atk_Fast_05_02.AM_LYS_TuiSeng_01_Atk_Fast_05_02'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 4.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 300256,
+      "EndSkillID": 300256,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 300307,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_4ChiFu/Montage/AM_lys_4chifu_fly_loop.AM_lys_4chifu_fly_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 300308,
+      "EndSkillID": 300308,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 301061,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_JieDaoSeng/Montage/AM_LYS_JieDaoSeng_Charge_loop.AM_LYS_JieDaoSeng_Charge_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 10.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 301001,
+      "EndSkillID": 301002,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 301461,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_ShenLong_01a/Montage/AM_LYS_ShenLong_01A_Atk_06_Loop.AM_LYS_ShenLong_01A_Atk_06_Loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 60.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 301462,
+      "EndSkillID": 301462,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 301471,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_ShenLong_01a/Montage/AM_LYS_ShenLong_01A_Atk_07_Loop.AM_LYS_ShenLong_01A_Atk_07_Loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 8.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 301472,
+      "EndSkillID": 301472,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 301491,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_ShenLong_01a/Montage/AM_LYS_ShenLong_01A_Run_Loop.AM_LYS_ShenLong_01A_Run_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 99.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 301492,
+      "EndSkillID": 301492,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 301591,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_ShenLong_01a/Montage/AM_LYS_ShenLong_01A_Run_Loop.AM_LYS_ShenLong_01A_Run_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 99.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 301492,
+      "EndSkillID": 301492,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 301733,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_Xiaohou/Montage/AM_LYS_XiaoHou_Run_Loop.AM_LYS_XiaoHou_Run_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 301703,
+      "EndSkillID": 301703,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 301734,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_Xiaohou/Montage/AM_LYS_XiaoHou_Run_Loop.AM_LYS_XiaoHou_Run_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 301703,
+      "EndSkillID": 301703,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 301735,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_Xiaohou/Montage/AM_LYS_XiaoHou_Run_Loop.AM_LYS_XiaoHou_Run_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 301703,
+      "EndSkillID": 301703,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 301736,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_Xiaohou/Montage/AM_LYS_XiaoHou_Run_Loop.AM_LYS_XiaoHou_Run_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 301703,
+      "EndSkillID": 301703,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 301761,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_Xiaohou/Montage/AM_LYS_XiaoHou_Run_Loop.AM_LYS_XiaoHou_Run_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 301702,
+      "EndSkillID": 301702,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 301762,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_Xiaohou/Montage/AM_LYS_XiaoHou_Run_Loop.AM_LYS_XiaoHou_Run_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 301702,
+      "EndSkillID": 301702,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 301763,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_Xiaohou/Montage/AM_LYS_XiaoHou_Run_Loop.AM_LYS_XiaoHou_Run_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 301702,
+      "EndSkillID": 301702,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 302555,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_chuilong_01a_new/montage/AM_lys_chuilong_01a_attack_05_02.AM_lys_chuilong_01a_attack_05_02'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 302556,
+      "EndSkillID": 302556,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 302606,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/LYS_ChiFaGui_01A/Montage/AM_LYS_ChiFaGui_01A_Atk_06_loop.AM_LYS_ChiFaGui_01A_Atk_06_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 10.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 302633,
+      "EndSkillID": 302633,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 305604,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/PDS_lingzhijing_01a/Montage/AM_pds_lingzhijing_01a_atk04_loop.AM_pds_lingzhijing_01a_atk04_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 305641,
+      "EndSkillID": 305641,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 305704,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/PSD_lingzhijing_02a/Montage/AM_pds_lingzhijing_02a_atk04_loop.AM_pds_lingzhijing_02a_atk04_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 305741,
+      "EndSkillID": 305741,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 305804,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/PDS_lingzhijing_03a/Montage/AM_pds_lingzhijing_03a_atk04_loop.AM_pds_lingzhijing_03a_atk04_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 305841,
+      "EndSkillID": 305841,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 305820,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/PDS_lingzhijing_03a/Montage/AM_pds_lingzhijing_03a_atk10_loop.AM_pds_lingzhijing_03a_atk10_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 305811,
+      "EndSkillID": 305812,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 400208,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_HuiJing/Montage/AM_HYS_HuiJing_Atk_08_loop.AM_HYS_HuiJing_Atk_08_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 4.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 400218,
+      "EndSkillID": 400218,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 401974,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_KuaiRuFeng_01/Montage/AM_HYS_KuaiRuFeng_Atk_04_Loop.AM_HYS_KuaiRuFeng_Atk_04_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": 18.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 401975,
+      "EndSkillID": 401975,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 401915,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 1,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 500.0,
+        "SSABreakAssignedAnim": "AnimMontage'/Game/00Main/Animation/HYS/HYS_KuaiRuFeng_01/Montage/AM_HYS_KuaiRuFeng_KnockDown.AM_HYS_KuaiRuFeng_KnockDown'"
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 401985,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_KuaiRuFeng_01/Montage/AM_HYS_KuaiRuFeng_Atk_05_Loop.AM_HYS_KuaiRuFeng_Atk_05_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 8.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 401986,
+      "EndSkillID": 401986,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 401915,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 401913,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 1,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 10000.0,
+        "SSABreakAssignedAnim": "AnimMontage'/Game/00Main/Animation/HYS/HYS_KuaiRuFeng_01/Montage/AM_HYS_KuaiRuFeng_KnockDown.AM_HYS_KuaiRuFeng_KnockDown'"
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 401991,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_KuaiRuFeng_01/Montage/AM_HYS_KuaiRuFeng_Fly_Loop.AM_HYS_KuaiRuFeng_Fly_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 8.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 401992,
+      "EndSkillID": 401992,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 401915,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 401913,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 401914,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 1,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 10000.0,
+        "SSABreakAssignedAnim": "AnimMontage'/Game/00Main/Animation/HYS/HYS_KuaiRuFeng_01/Montage/AM_HYS_KuaiRuFeng_KnockDown.AM_HYS_KuaiRuFeng_KnockDown'"
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 402261,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_huolingsha_01/Montage/AM_hys_huolingsha_01_ct_loop.AM_hys_huolingsha_01_ct_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 402262,
+      "EndSkillID": 402262,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 1,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 402510,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_yinbingniumo_01/Montage/AM_hys_yinbingniumo_01_atk10_loop.AM_hys_yinbingniumo_01_atk10_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 3.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 402511,
+      "EndSkillID": 402511,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 1,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 405708,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_huijin_b/Montage/AM_hys_huijin_b_atk_08_loop.AM_hys_huijin_b_atk_08_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 7.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 405718,
+      "EndSkillID": 405718,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 412302,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Online/SL/SZLC_shujing_02/Montage/AM_szlc_shujing_02_atk_02_Loop.AM_szlc_shujing_02_atk_02_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 412320,
+      "EndSkillID": 412320,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 412306,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Online/SL/SZLC_shujing_02/Montage/AM_szlc_shujing_02_atk_02_Loop.AM_szlc_shujing_02_atk_02_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 412320,
+      "EndSkillID": 412320,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 431061,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/PSD/PSD_daoshi_02/Montage/AM_psd_daoshi_02_atk20_loop.AM_psd_daoshi_02_atk20_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 3.5,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 431031,
+      "EndSkillID": 431031,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 431062,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/PSD/PSD_daoshi_02/Montage/AM_psd_daoshi_02_atk20_loop.AM_psd_daoshi_02_atk20_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 3.5,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 431042,
+      "EndSkillID": 431042,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 431115,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/PSD/PSD_daoshi_04/ZiYunShanVersion/Montage/AM_psd_daoshi_04_atk_15_loop.AM_psd_daoshi_04_atk_15_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 431110,
+      "EndSkillID": 431116,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 440110,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_HongHaiEr_01A/Montage/AM_HYS_HongHaiEr_01A_Atk_10_02.AM_HYS_HongHaiEr_01A_Atk_10_02'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 32.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 440111,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 440112,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_HongHaiEr_01A/Montage/AM_HYS_HongHaiEr_01A_Atk_09_03.AM_HYS_HongHaiEr_01A_Atk_09_03'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 60.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 440113,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 440114,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_HongHaiEr_01A/Montage/AM_HYS_HongHaiEr_01A_Atk_12_02.AM_HYS_HongHaiEr_01A_Atk_12_02'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 60.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 0,
+          "BeginTimeInBeginStage": 2.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 440191,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_HongHaiEr_01A/Montage/AM_HYS_HongHaiEr_01A_Atk_09_03.AM_HYS_HongHaiEr_01A_Atk_09_03'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 20.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 440192,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 440502,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_HongHaiEr_02A/Montage/AM_HYS_HongHaiEr_02A_Atk_02_02.AM_HYS_HongHaiEr_02A_Atk_02_02'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 440522,
+      "EndSkillID": 440522,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 440798,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_TuDiGong_01A/fly/Montage/AM_hys_tudigong_01_bstd_fly.AM_hys_tudigong_01_bstd_fly'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 999.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 440796,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 440799,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_TuDiGong_01A/fly/Montage/AM_hys_tudigong_01_bstd_fly.AM_hys_tudigong_01_bstd_fly'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 999.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 440796,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 444106,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_TuDiGong_01A/YinBing/Montage/AM_HYS_HuiJing_Atk_08_loop_yang.AM_HYS_HuiJing_Atk_08_loop_yang'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 20.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 444107,
+      "EndSkillID": 444107,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 488842,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/PSD/PSD_foshouchong_02a/montage/AM_psd_foshouchong_02a_atk_42_loop.AM_psd_foshouchong_02a_atk_42_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 488844,
+      "EndSkillID": 488844,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 500605,
+      "LoopTemplatePath": "/Game/00Main/Animation/PSD/PSD_RenShenJing_01A/Montage/AM_PSD_RenShenJing_01A_Atk_05_Loop.AM_PSD_RenShenJing_01A_Atk_05_Loop",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 500606,
+      "EndSkillID": 500607,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 502112,
+      "LoopTemplatePath": "/Game/00Main/Animation/PSD/PSD_renshenjing_02a/Montage/AM_pds_renshenjing_02a_atk_12_loop.AM_pds_renshenjing_02a_atk_12_loop",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 10.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 502113,
+      "EndSkillID": 502113,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 500824,
+      "LoopTemplatePath": "/Game/00Main/Animation/PSD/PSD_ZiZhuEr_01/Montage/AM_psd_zizhuer_01_walk_loop.AM_psd_zizhuer_01_walk_loop",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 5.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 500825,
+      "EndSkillID": 500825,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 540441,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/PSD/PSD_daoshi_03/ZYS/Montage/AM_PSD_daoshi_03_zys_atk_09_loop.AM_PSD_daoshi_03_zys_atk_09_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 40.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 540442,
+      "EndSkillID": 540442,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 540461,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/PSD/PSD_daoshi_03/ZYS/Montage/AM_PSD_daoshi_03_zys_atk_09_loop.AM_PSD_daoshi_03_zys_atk_09_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 40.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 540462,
+      "EndSkillID": 540462,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 580202,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_Shanzhen_02/Montage/AM_hys_shanzhen_02_atk_fast_02_loop.AM_hys_shanzhen_02_atk_fast_02_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 580261,
+      "EndSkillID": 580220,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 580206,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_Shanzhen_02/Montage/AM_hys_shanzhen_02_atk_fast_02_loop.AM_hys_shanzhen_02_atk_fast_02_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 580261,
+      "EndSkillID": 580261,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 581051,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HYS/HYS_huijingrenou_03/Montage/Dual/AM_hys_huijingrenou_03_atk_fast_05_loop.AM_hys_huijingrenou_03_atk_fast_05_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 581052,
+      "EndSkillID": 581052,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 600141,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 9999.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 600131,
+      "EndSkillID": 600131,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 600181,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 9999.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 600182,
+      "EndSkillID": 600182,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 600142,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 9999.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 600132,
+      "EndSkillID": 600132,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 600143,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 9999.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 600133,
+      "EndSkillID": 600133,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 600144,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 9999.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 600134,
+      "EndSkillID": 600134,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 600145,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 9999.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 600131,
+      "EndSkillID": 600131,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 600146,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 9999.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 600136,
+      "EndSkillID": 600136,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 600147,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 9999.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 600137,
+      "EndSkillID": 600137,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 600148,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 9999.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 600138,
+      "EndSkillID": 600138,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 600150,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 9999.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 600140,
+      "EndSkillID": 600140,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 609901,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/EnvInteract/Online/AM_Wukong_JiGu_01_loop.AM_Wukong_JiGu_01_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 6.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 609902,
+      "EndSkillID": 609902,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 700193,
+      "LoopTemplatePath": "/Game/00Main/Animation/MGD/MGD_JSDS/Montage/AM_mgd_jsds_tttb_loop.AM_mgd_jsds_tttb_loop",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 1.9,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 700194,
+      "EndSkillID": 700195,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 700104,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 700103,
+          "BeginTimeInBeginStage": 0.15,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 700113,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 1,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 1001191,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Fashu/TTTB/AM_Wukong_TTTB_02_FS.AM_Wukong_TTTB_02_FS",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 1001194,
+      "EndSkillID": 1001197,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 1001102,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 230,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 1001103,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 1,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 1001192,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Fashu/TTTB/AM_Wukong_TTTB_L_02_FS.AM_Wukong_TTTB_L_02_FS",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 1001195,
+      "EndSkillID": 1001197,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 1001102,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 230,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 1001103,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 1,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 1001193,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Fashu/TTTB/AM_Wukong_TTTB_R_02_FS.AM_Wukong_TTTB_R_02_FS",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 1001196,
+      "EndSkillID": 1001197,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 1001102,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 230,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 1001103,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 1,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 3058100,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/LYS/PDS_lingzhijing_03a/Montage/AM_pds_lingzhijing_03a_atk10_loop.AM_pds_lingzhijing_03a_atk10_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 2.3,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 305811,
+      "EndSkillID": 305812,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 412807,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/Online/SL/SZLC_shijing_01a/Montage/AM_szlc_shijing_01a_heal_loop.AM_szlc_shijing_01a_heal_loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 10.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 412808,
+      "EndSkillID": 412808,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 740136,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/MGD/MGD_yuan/Montage/AM_mgd_yuan_fashu_04_Loop.AM_mgd_yuan_fashu_04_Loop'",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 2.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 740137,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 50025,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Xuli_A/AM_dasheng_xuli_loop.AM_dasheng_xuli_loop",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 50092,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 50091,
+          "BeginTimeInBeginStage": 0.7,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.2,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 50026,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Xuli_A/AM_dasheng_xuli_loop.AM_dasheng_xuli_loop",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 50092,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 50091,
+          "BeginTimeInBeginStage": 0.7,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.2,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 50027,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Xuli_A/AM_dasheng_xuli_loop.AM_dasheng_xuli_loop",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 50092,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 50091,
+          "BeginTimeInBeginStage": 0.7,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.2,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 50028,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Xuli_A/AM_dasheng_xuli_loop.AM_dasheng_xuli_loop",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 50092,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 50091,
+          "BeginTimeInBeginStage": 0.7,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.2,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 50029,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Xuli_A/AM_dasheng_xuli_loop.AM_dasheng_xuli_loop",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 1,
+      "MaxChargeTime": 0.1,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 0,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 50092,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 50091,
+          "BeginTimeInBeginStage": 0.7,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 248,
+          "BeginTimeInBeginStage": 0.2,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 50030,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Attack/Air/AM_dasheng_atk_air_heavy_loop.AM_dasheng_atk_air_heavy_loop",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 1,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 50034,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 50031,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Attack/Air/AM_dasheng_atk_air_heavy_loop.AM_dasheng_atk_air_heavy_loop",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 1,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 50035,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 10821,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.1
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 50032,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Attack/Air/AM_dasheng_atk_air_heavy_loop.AM_dasheng_atk_air_heavy_loop",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 1,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 50036,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 10822,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.1
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 50033,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Attack/Air/AM_dasheng_atk_air_heavy_loop.AM_dasheng_atk_air_heavy_loop",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": -1.0,
+      "TriggerNextStageWhenOnLand": 1,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 50037,
+      "EndSkillID": 0,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 10823,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.1
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 50103,
+      "LoopTemplatePath": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Fashu/AM_dasheng_tttb_loop.AM_dasheng_tttb_loop",
+      "LoopCanMove": 0,
+      "LoopCanRotate": 0,
+      "ChargeMoveSpeedRate": 0,
+      "MaxChargeTime": 2.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 0,
+      "NextStageSkillID": 50104,
+      "EndSkillID": 50104,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 50005,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        },
+        {
+          "BuffID": 50006,
+          "BeginTimeInBeginStage": 0.15,
+          "EndTimeInEndStage": 0.1
+        },
+        {
+          "BuffID": 224,
+          "BeginTimeInBeginStage": 0.5,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 1,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 199361,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HGS01/HGS_guangmu/Montage/AM_hgs_guangmu_run_loop.AM_hgs_guangmu_run_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 8.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 199368,
+      "EndSkillID": 199368,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 199316,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 199160,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HGS01/HGS_duowen/Montage/AM_HGS_duowen_run_loop.AM_HGS_duowen_run_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 8.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 199162,
+      "EndSkillID": 199162,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 199129,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    },
+    {
+      "ID": 199060,
+      "LoopTemplatePath": "AnimMontage'/Game/00Main/Animation/HGS01/HGS_zengzhang/Montage/AM_hgs_zengzhang_run_loop.AM_hgs_zengzhang_run_loop'",
+      "LoopCanMove": 1,
+      "LoopCanRotate": 1,
+      "ChargeMoveSpeedRate": 2,
+      "MaxChargeTime": 8.0,
+      "TriggerNextStageWhenOnLand": 0,
+      "TriggerNextStageUseFSM": 1,
+      "NextStageSkillID": 199062,
+      "EndSkillID": 199062,
+      "AutoEndWhenLockTarget": 0,
+      "ChargeSkillBuffInfoList": [
+        {
+          "BuffID": 199037,
+          "BeginTimeInBeginStage": 0.0,
+          "EndTimeInEndStage": 0.0
+        }
+      ],
+      "ChargeSkillSuperArmorInfo": {
+        "HasSuperArmor": 0,
+        "BeginTimeInBeginStage": 0.0,
+        "EndTimeInEndStage": 0.0,
+        "SkillSuperArmorValue": 0.0,
+        "SSABreakAssignedAnim": ""
+      },
+      "ChargeLevelConfigPath": "",
+      "ChargeLevelConfigIndex": 0
+    }
+  ]
+}

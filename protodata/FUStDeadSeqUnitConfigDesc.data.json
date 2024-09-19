@@ -1,0 +1,289 @@
+{
+  "List": [
+    {
+      "ID": 1000,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HFS.SHshe03_2"
+    },
+    {
+      "ID": 1001,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HFS.Baiyi0"
+    },
+    {
+      "ID": 1002,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HFS.BaiyiT2"
+    },
+    {
+      "ID": 1003,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HFS.XiongR0"
+    },
+    {
+      "ID": 1004,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HFS.XiongX0"
+    },
+    {
+      "ID": 1005,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HFS.WoodDragon"
+    },
+    {
+      "ID": 1006,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HFS.JCZL"
+    },
+    {
+      "ID": 2001,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HFM.FuZiShu.ZS0"
+    },
+    {
+      "ID": 2002,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HFM.HuXianFeng.Hu0"
+    },
+    {
+      "ID": 2003,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HFM.HFDS.H0"
+    },
+    {
+      "ID": 2004,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HFM.LiLong"
+    },
+    {
+      "ID": 2005,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.LSH.DuJiaoXian"
+    },
+    {
+      "ID": 2006,
+      "IsEnable": 0,
+      "UnitGuid": "UGuid.HFM.HuangPaoZhu.Battle"
+    },
+    {
+      "ID": 2007,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HFM.Hu.01"
+    },
+    {
+      "ID": 2008,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HFM.StoneMan.Fight"
+    },
+    {
+      "ID": 3001,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.LYS.KJL.Long"
+    },
+    {
+      "ID": 3002,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.LYS.Mo_01"
+    },
+    {
+      "ID": 3003,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.LYS.XueHou.AnShen"
+    },
+    {
+      "ID": 3004,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.LYS.KJL.Women"
+    },
+    {
+      "ID": 3005,
+      "IsEnable": 0,
+      "UnitGuid": "UGuid.LYS.HuangMei.Big"
+    },
+    {
+      "ID": 3006,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.LYS.RBM"
+    },
+    {
+      "ID": 3007,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.LYS.HuangMei.Small"
+    },
+    {
+      "ID": 3008,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.LYS.RuYiLong.01"
+    },
+    {
+      "ID": 3009,
+      "IsEnable": 0,
+      "UnitGuid": "UGuid.LYS.Hu_Wind_Battle.HZSJ"
+    },
+    {
+      "ID": 3010,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HFM.HuanWuZhe"
+    },
+    {
+      "ID": 3011,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.LYS.JianLong.Fight"
+    },
+    {
+      "ID": 3012,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.LYS.ShuangTS"
+    },
+    {
+      "ID": 3013,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.LYS.Mo3.FM"
+    },
+    {
+      "ID": 3014,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.LYS.TuiSeng.P1"
+    },
+    {
+      "ID": 4001,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.PSD.Erjie.Village"
+    },
+    {
+      "ID": 4002,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.PSD.FSC01.foshouchong"
+    },
+    {
+      "ID": 4003,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.PSD.BaJie.Mo"
+    },
+    {
+      "ID": 4004,
+      "IsEnable": 0,
+      "UnitGuid": "UGuid.PSD.BaJie.Mo2"
+    },
+    {
+      "ID": 4005,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.PSD.BaJie.Ye"
+    },
+    {
+      "ID": 4006,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.PSD.LaoZhiZhu"
+    },
+    {
+      "ID": 4007,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.PSD.BaiYanMoJun"
+    },
+    {
+      "ID": 4008,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.PSD.WuLong"
+    },
+    {
+      "ID": 4009,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.PSD.WuLong.4H"
+    },
+    {
+      "ID": 4010,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.PSD.Dage"
+    },
+    {
+      "ID": 4011,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.ZYS.DaoShi.Fight"
+    },
+    {
+      "ID": 4012,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.ZYS.Daoshi.P2"
+    },
+    {
+      "ID": 4013,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.ZYS.MRXG"
+    },
+    {
+      "ID": 5001,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HYS.TuDiGong.MaMian"
+    },
+    {
+      "ID": 5002,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HYS.TuDi.YS"
+    },
+    {
+      "ID": 5003,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HYS.HongHaiEr"
+    },
+    {
+      "ID": 5004,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.HYS.YeChaWang"
+    },
+    {
+      "ID": 5005,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.BSD.JJS"
+    },
+    {
+      "ID": 6001,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.BYS.WLG.01"
+    },
+    {
+      "ID": 6002,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.BYS.Xiniu"
+    },
+    {
+      "ID": 6003,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.BYS.Xuelu"
+    },
+    {
+      "ID": 6004,
+      "IsEnable": 0,
+      "UnitGuid": "UGuid.BYS.XueluP2"
+    },
+    {
+      "ID": 6005,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.BYS.TangLang"
+    },
+    {
+      "ID": 7001,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.MGD.Yuan"
+    },
+    {
+      "ID": 7002,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.MGD.JSDS"
+    },
+    {
+      "ID": 7003,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.MGD.JSDS.P2"
+    },
+    {
+      "ID": 7004,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.EndB.YangJian"
+    },
+    {
+      "ID": 7005,
+      "IsEnable": 1,
+      "UnitGuid": "UGuid.EndB.YangJian.FTXD"
+    }
+  ]
+}

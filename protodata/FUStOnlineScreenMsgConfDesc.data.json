@@ -1,0 +1,82 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "ScreenMsgType": 0,
+      "TipsWord": "<TeamWarnTips_Blue>{}</>倒下了",
+      "TipsDuration": 5000
+    },
+    {
+      "ID": 2,
+      "ScreenMsgType": 1,
+      "TipsWord": "剩余复活次数:{}次",
+      "TipsDuration": 5000
+    },
+    {
+      "ID": 3,
+      "ScreenMsgType": 3,
+      "TipsWord": "<TeamWarnTips_Blue>{}</>使用了<TeamWarnTips_Yellow>{}</>！",
+      "TipsDuration": 5000
+    },
+    {
+      "ID": 4,
+      "ScreenMsgType": 4,
+      "TipsWord": "<TeamWarnTips_Blue>{}</>离开了",
+      "TipsDuration": 5000
+    },
+    {
+      "ID": 5,
+      "ScreenMsgType": 5,
+      "TipsWord": "正在重连…",
+      "TipsDuration": 5000
+    },
+    {
+      "ID": 6,
+      "ScreenMsgType": 6,
+      "TipsWord": "<TeamWarnTips_Blue>{}</>正在重连…",
+      "TipsDuration": 5000
+    },
+    {
+      "ID": 7,
+      "ScreenMsgType": 7,
+      "TipsWord": "<TeamWarnTips_Blue>{}</>回到战斗",
+      "TipsDuration": 5000
+    },
+    {
+      "ID": 8,
+      "ScreenMsgType": 8,
+      "TipsWord": "感受到其他天命人的气息…",
+      "TipsDuration": 5000
+    },
+    {
+      "ID": 100,
+      "ScreenMsgType": 2,
+      "TipsWord": "某处的道路被打开了！",
+      "TipsDuration": 5000
+    },
+    {
+      "ID": 101,
+      "ScreenMsgType": 2,
+      "TipsWord": "<TeamWarnTips_Red>碧水金睛兽</>撞开了道路！",
+      "TipsDuration": 5000
+    },
+    {
+      "ID": 102,
+      "ScreenMsgType": 2,
+      "TipsWord": "<TeamWarnTips_Red>山岭妖气</>已被净化！",
+      "TipsDuration": 8000
+    },
+    {
+      "ID": 103,
+      "ScreenMsgType": 2,
+      "TipsWord": "随着时间流逝，骨兽越来越强…",
+      "TipsDuration": 10000
+    },
+    {
+      "ID": 104,
+      "ScreenMsgType": 2,
+      "TipsWord": "骨兽重生了！",
+      "TipsDuration": 8000
+    }
+  ]
+}

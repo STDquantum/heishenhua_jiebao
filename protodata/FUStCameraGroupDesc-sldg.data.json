@@ -1,0 +1,2368 @@
+{
+  "List": [
+    {
+      "ID": 19000,
+      "CameraGroupID": 0,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        401,
+        402,
+        403,
+        404,
+        409,
+        412,
+        415
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19001,
+      "CameraGroupID": 1,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        401,
+        102,
+        103,
+        104,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19002,
+      "CameraGroupID": 2,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        201101,
+        201101,
+        201101,
+        201101,
+        201101,
+        201101,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19003,
+      "CameraGroupID": 3,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        301,
+        302,
+        303,
+        304,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19004,
+      "CameraGroupID": 4,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        999,
+        0,
+        3,
+        0,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 2011,
+          "SoulCameraID": 201100
+        }
+      ]
+    },
+    {
+      "ID": 19005,
+      "CameraGroupID": 5,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        201,
+        202,
+        203,
+        204,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 2011,
+          "SoulCameraID": 201100
+        }
+      ]
+    },
+    {
+      "ID": 19006,
+      "CameraGroupID": 6,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        201111,
+        201112,
+        201113,
+        201114,
+        201116,
+        201117,
+        201118
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 2011,
+          "SoulCameraID": 201101
+        }
+      ]
+    },
+    {
+      "ID": 19007,
+      "CameraGroupID": 7,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        440101,
+        440102,
+        440103,
+        440104,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4401,
+          "SoulCameraID": 440101
+        }
+      ]
+    },
+    {
+      "ID": 19008,
+      "CameraGroupID": 8,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        440601,
+        440602,
+        440603,
+        440604,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19009,
+      "CameraGroupID": 9,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        440611,
+        440612,
+        440613,
+        440614,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4406,
+          "SoulCameraID": 440601
+        }
+      ]
+    },
+    {
+      "ID": 19010,
+      "CameraGroupID": 10,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        440621,
+        440622,
+        440623,
+        440624,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4406,
+          "SoulCameraID": 440602
+        }
+      ]
+    },
+    {
+      "ID": 19011,
+      "CameraGroupID": 11,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        390101,
+        390102,
+        390103,
+        390104,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3901,
+          "SoulCameraID": 390102
+        }
+      ]
+    },
+    {
+      "ID": 19012,
+      "CameraGroupID": 12,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        390111,
+        390112,
+        390113,
+        390114,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3901,
+          "SoulCameraID": 390103
+        }
+      ]
+    },
+    {
+      "ID": 19013,
+      "CameraGroupID": 13,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        401101,
+        401102,
+        401103,
+        401104,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19014,
+      "CameraGroupID": 14,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        412121,
+        412122,
+        412123,
+        412124,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4121,
+          "SoulCameraID": 412101
+        }
+      ]
+    },
+    {
+      "ID": 19015,
+      "CameraGroupID": 15,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        412111,
+        412112,
+        412113,
+        412114,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4121,
+          "SoulCameraID": 412101
+        }
+      ]
+    },
+    {
+      "ID": 19016,
+      "CameraGroupID": 16,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        400101,
+        400102,
+        400103,
+        400104,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4019,
+          "SoulCameraID": 401901
+        }
+      ]
+    },
+    {
+      "ID": 19017,
+      "CameraGroupID": 17,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        412121,
+        412122,
+        412123,
+        412124,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4121,
+          "SoulCameraID": 412100
+        }
+      ]
+    },
+    {
+      "ID": 19018,
+      "CameraGroupID": 18,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        401201,
+        401202,
+        401203,
+        401204,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4012,
+          "SoulCameraID": 401201
+        }
+      ]
+    },
+    {
+      "ID": 19019,
+      "CameraGroupID": 19,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        401901,
+        401902,
+        401903,
+        401904,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4001,
+          "SoulCameraID": 400101
+        },
+        {
+          "ResID": 4019,
+          "SoulCameraID": 401902
+        }
+      ]
+    },
+    {
+      "ID": 19020,
+      "CameraGroupID": 20,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        401,
+        402,
+        403,
+        404,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4888,
+          "SoulCameraID": 488801
+        }
+      ]
+    },
+    {
+      "ID": 19021,
+      "CameraGroupID": 21,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        301,
+        301,
+        301,
+        301,
+        301,
+        301,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19022,
+      "CameraGroupID": 22,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        220521,
+        220522,
+        220523,
+        220524,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4888,
+          "SoulCameraID": 488801
+        }
+      ]
+    },
+    {
+      "ID": 19023,
+      "CameraGroupID": 23,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        220531,
+        220532,
+        220533,
+        220534,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4888,
+          "SoulCameraID": 488801
+        }
+      ]
+    },
+    {
+      "ID": 19024,
+      "CameraGroupID": 24,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        220541,
+        220542,
+        220543,
+        220544,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4888,
+          "SoulCameraID": 488801
+        }
+      ]
+    },
+    {
+      "ID": 19025,
+      "CameraGroupID": 25,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        220551,
+        220552,
+        220553,
+        220554,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4888,
+          "SoulCameraID": 488801
+        }
+      ]
+    },
+    {
+      "ID": 19026,
+      "CameraGroupID": 26,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        220521,
+        220522,
+        220523,
+        220524,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4888,
+          "SoulCameraID": 488801
+        }
+      ]
+    },
+    {
+      "ID": 19027,
+      "CameraGroupID": 27,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        202241,
+        202242,
+        202243,
+        202244,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19028,
+      "CameraGroupID": 28,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        202231,
+        202232,
+        202233,
+        202234,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19029,
+      "CameraGroupID": 29,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        400101,
+        400102,
+        400103,
+        400104,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19030,
+      "CameraGroupID": 30,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        103101,
+        103102,
+        103103,
+        103104,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 1031,
+          "SoulCameraID": 103101
+        }
+      ]
+    },
+    {
+      "ID": 19031,
+      "CameraGroupID": 31,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        500501,
+        500502,
+        500503,
+        500504,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 5005,
+          "SoulCameraID": 500501
+        }
+      ]
+    },
+    {
+      "ID": 19032,
+      "CameraGroupID": 32,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        401,
+        402,
+        403,
+        404,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19033,
+      "CameraGroupID": 33,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        211,
+        212,
+        213,
+        214,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19034,
+      "CameraGroupID": 34,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        301401,
+        301402,
+        301403,
+        301404,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3014,
+          "SoulCameraID": 301410
+        }
+      ]
+    },
+    {
+      "ID": 19035,
+      "CameraGroupID": 58,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        499811,
+        499812,
+        499813,
+        499814,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19036,
+      "CameraGroupID": 59,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        210241,
+        210242,
+        210243,
+        210244,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19037,
+      "CameraGroupID": 60,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        412601,
+        412602,
+        412603,
+        412604,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4126,
+          "SoulCameraID": 412601
+        },
+        {
+          "ResID": 4124,
+          "SoulCameraID": 412601
+        }
+      ]
+    },
+    {
+      "ID": 19038,
+      "CameraGroupID": 61,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        500801,
+        500802,
+        500803,
+        500804,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 5008,
+          "SoulCameraID": 500801
+        }
+      ]
+    },
+    {
+      "ID": 19039,
+      "CameraGroupID": 62,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        301921,
+        301922,
+        301923,
+        301924,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19040,
+      "CameraGroupID": 63,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        412601,
+        412601,
+        412601,
+        412601,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4126,
+          "SoulCameraID": 412602
+        }
+      ]
+    },
+    {
+      "ID": 19041,
+      "CameraGroupID": 64,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        301911,
+        301912,
+        301913,
+        301914,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19042,
+      "CameraGroupID": 65,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        301941,
+        301942,
+        301943,
+        301944,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19043,
+      "CameraGroupID": 66,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        301951,
+        301952,
+        301953,
+        301954,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19044,
+      "CameraGroupID": 67,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        470601,
+        470602,
+        470603,
+        470604,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4706,
+          "SoulCameraID": 470602
+        }
+      ]
+    },
+    {
+      "ID": 19045,
+      "CameraGroupID": 68,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        499911,
+        499912,
+        499913,
+        499914,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19046,
+      "CameraGroupID": 69,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        499921,
+        499922,
+        499923,
+        499924,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19047,
+      "CameraGroupID": 70,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        499931,
+        499932,
+        499933,
+        499934,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19048,
+      "CameraGroupID": 71,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        499941,
+        499942,
+        499943,
+        499944,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19049,
+      "CameraGroupID": 72,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        499951,
+        499952,
+        499953,
+        499954,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19050,
+      "CameraGroupID": 73,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        302111,
+        302112,
+        302113,
+        302114,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3021,
+          "SoulCameraID": 302101
+        }
+      ]
+    },
+    {
+      "ID": 19051,
+      "CameraGroupID": 74,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        470611,
+        470612,
+        470613,
+        470614,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4706,
+          "SoulCameraID": 470603
+        }
+      ]
+    },
+    {
+      "ID": 19052,
+      "CameraGroupID": 75,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        470611,
+        470612,
+        470613,
+        470614,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4706,
+          "SoulCameraID": 470604
+        }
+      ]
+    },
+    {
+      "ID": 19053,
+      "CameraGroupID": 76,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        500811,
+        500812,
+        500813,
+        500814,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 5008,
+          "SoulCameraID": 500802
+        }
+      ]
+    },
+    {
+      "ID": 19054,
+      "CameraGroupID": 77,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        302511,
+        302512,
+        302513,
+        302514,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3025,
+          "SoulCameraID": 302501
+        }
+      ]
+    },
+    {
+      "ID": 19055,
+      "CameraGroupID": 78,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        470621,
+        470622,
+        470623,
+        470624,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4706,
+          "SoulCameraID": 470605
+        }
+      ]
+    },
+    {
+      "ID": 19056,
+      "CameraGroupID": 79,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        470631,
+        470632,
+        470633,
+        470634,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4706,
+          "SoulCameraID": 470606
+        }
+      ]
+    },
+    {
+      "ID": 19057,
+      "CameraGroupID": 80,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        499961,
+        499962,
+        499963,
+        499964,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19058,
+      "CameraGroupID": 81,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        470641,
+        470642,
+        470643,
+        470644,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4706,
+          "SoulCameraID": 470607
+        }
+      ]
+    },
+    {
+      "ID": 19059,
+      "CameraGroupID": 82,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        202251,
+        202252,
+        202253,
+        202254,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19060,
+      "CameraGroupID": 84,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        301311,
+        301312,
+        301313,
+        301314,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3013,
+          "SoulCameraID": 301300
+        }
+      ]
+    },
+    {
+      "ID": 19061,
+      "CameraGroupID": 85,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        499901,
+        499902,
+        499903,
+        499904,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19062,
+      "CameraGroupID": 86,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        499905,
+        499906,
+        499907,
+        499908,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19063,
+      "CameraGroupID": 87,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        421,
+        422,
+        423,
+        424,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19064,
+      "CameraGroupID": 88,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        470501,
+        470502,
+        470503,
+        470504,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4705,
+          "SoulCameraID": 470502
+        }
+      ]
+    },
+    {
+      "ID": 19065,
+      "CameraGroupID": 89,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        470511,
+        470512,
+        470513,
+        470514,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4705,
+          "SoulCameraID": 470503
+        }
+      ]
+    },
+    {
+      "ID": 19066,
+      "CameraGroupID": 90,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        501,
+        502,
+        503,
+        504,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3025,
+          "SoulCameraID": 302502
+        }
+      ]
+    },
+    {
+      "ID": 19067,
+      "CameraGroupID": 91,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        440511,
+        440512,
+        440513,
+        440514,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4405,
+          "SoulCameraID": 440501
+        }
+      ]
+    },
+    {
+      "ID": 19068,
+      "CameraGroupID": 92,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        302251,
+        302252,
+        302253,
+        302254,
+        302259,
+        302261,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3022,
+          "SoulCameraID": 302201
+        }
+      ]
+    },
+    {
+      "ID": 19069,
+      "CameraGroupID": 94,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        302201,
+        302202,
+        302203,
+        302204,
+        302209,
+        302212,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3022,
+          "SoulCameraID": 302200
+        }
+      ]
+    },
+    {
+      "ID": 19070,
+      "CameraGroupID": 95,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        302291,
+        302292,
+        302293,
+        302294,
+        302295,
+        302297,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3022,
+          "SoulCameraID": 302202
+        }
+      ]
+    },
+    {
+      "ID": 19071,
+      "CameraGroupID": 96,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        301611,
+        301612,
+        301613,
+        301614,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3016,
+          "SoulCameraID": 301601
+        }
+      ]
+    },
+    {
+      "ID": 19072,
+      "CameraGroupID": 97,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        470701,
+        470702,
+        470703,
+        470704,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4707,
+          "SoulCameraID": 470701
+        }
+      ]
+    },
+    {
+      "ID": 19073,
+      "CameraGroupID": 98,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        581111,
+        581112,
+        581113,
+        581114,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19074,
+      "CameraGroupID": 99,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        581121,
+        581122,
+        581123,
+        581124,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19075,
+      "CameraGroupID": 100,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        700101,
+        700102,
+        700103,
+        700104,
+        700109,
+        700112,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3022,
+          "SoulCameraID": 700100
+        }
+      ]
+    },
+    {
+      "ID": 19076,
+      "CameraGroupID": 101,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        401,
+        500512,
+        500513,
+        500514,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19077,
+      "CameraGroupID": 103,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        471101,
+        471102,
+        471103,
+        471104,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4110,
+          "SoulCameraID": 411001
+        }
+      ]
+    },
+    {
+      "ID": 19078,
+      "CameraGroupID": 104,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        451,
+        452,
+        453,
+        454,
+        454,
+        462,
+        454
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19079,
+      "CameraGroupID": 105,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        740111,
+        740112,
+        740113,
+        740114,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 7401,
+          "SoulCameraID": 740101
+        }
+      ]
+    },
+    {
+      "ID": 19080,
+      "CameraGroupID": 106,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        471301,
+        471302,
+        471303,
+        471304,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4713,
+          "SoulCameraID": 471302
+        }
+      ]
+    },
+    {
+      "ID": 19081,
+      "CameraGroupID": 107,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        471311,
+        471312,
+        471313,
+        471314,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4713,
+          "SoulCameraID": 471301
+        }
+      ]
+    },
+    {
+      "ID": 19082,
+      "CameraGroupID": 108,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        471321,
+        471322,
+        471323,
+        471324,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4713,
+          "SoulCameraID": 471302
+        }
+      ]
+    },
+    {
+      "ID": 19083,
+      "CameraGroupID": 109,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        471311,
+        471312,
+        471313,
+        471314,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4713,
+          "SoulCameraID": 471303
+        }
+      ]
+    },
+    {
+      "ID": 19084,
+      "CameraGroupID": 110,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        471201,
+        471202,
+        471203,
+        471204,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4712,
+          "SoulCameraID": 471204
+        }
+      ]
+    },
+    {
+      "ID": 19085,
+      "CameraGroupID": 111,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        471211,
+        471212,
+        471213,
+        471214,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4712,
+          "SoulCameraID": 471201
+        }
+      ]
+    },
+    {
+      "ID": 19086,
+      "CameraGroupID": 112,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        471221,
+        471222,
+        471223,
+        471224,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4712,
+          "SoulCameraID": 471202
+        }
+      ]
+    },
+    {
+      "ID": 19087,
+      "CameraGroupID": 113,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        471201,
+        471202,
+        471203,
+        471204,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4712,
+          "SoulCameraID": 471203
+        }
+      ]
+    },
+    {
+      "ID": 19088,
+      "CameraGroupID": 115,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        470711,
+        470712,
+        470713,
+        470714,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4707,
+          "SoulCameraID": 470702
+        }
+      ]
+    },
+    {
+      "ID": 19089,
+      "CameraGroupID": 116,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        470711,
+        470712,
+        470713,
+        470714,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4707,
+          "SoulCameraID": 470703
+        }
+      ]
+    },
+    {
+      "ID": 19090,
+      "CameraGroupID": 117,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        412101,
+        412102,
+        412103,
+        412104,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4121,
+          "SoulCameraID": 412102
+        }
+      ]
+    },
+    {
+      "ID": 19091,
+      "CameraGroupID": 34012,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        340111,
+        340112,
+        340113,
+        340114,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3401,
+          "SoulCameraID": 340101
+        }
+      ]
+    },
+    {
+      "ID": 19092,
+      "CameraGroupID": 34013,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        340116,
+        340117,
+        340118,
+        340119,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3401,
+          "SoulCameraID": 340101
+        }
+      ]
+    },
+    {
+      "ID": 19093,
+      "CameraGroupID": 34014,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        340121,
+        340122,
+        340123,
+        340124,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3401,
+          "SoulCameraID": 340101
+        }
+      ]
+    },
+    {
+      "ID": 19094,
+      "CameraGroupID": 34015,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        340126,
+        340127,
+        340128,
+        340129,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3401,
+          "SoulCameraID": 340101
+        }
+      ]
+    },
+    {
+      "ID": 19095,
+      "CameraGroupID": 51002,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        510011,
+        510012,
+        510013,
+        510014,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3401,
+          "SoulCameraID": 340101
+        }
+      ]
+    },
+    {
+      "ID": 19096,
+      "CameraGroupID": 51003,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        510016,
+        510017,
+        510018,
+        510019,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3401,
+          "SoulCameraID": 340101
+        }
+      ]
+    },
+    {
+      "ID": 19097,
+      "CameraGroupID": 101301,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        101311,
+        101312,
+        101313,
+        101314,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19098,
+      "CameraGroupID": 101302,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        101321,
+        101322,
+        101323,
+        101324,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19099,
+      "CameraGroupID": 102301,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        102301,
+        102302,
+        102303,
+        102304,
+        0,
+        0,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 1023,
+          "SoulCameraID": 102301
+        }
+      ]
+    },
+    {
+      "ID": 19100,
+      "CameraGroupID": 102401,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        102401,
+        102402,
+        102403,
+        102404,
+        0,
+        0,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 1024,
+          "SoulCameraID": 102401
+        }
+      ]
+    },
+    {
+      "ID": 19101,
+      "CameraGroupID": 103111,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        103111,
+        103112,
+        103113,
+        103114,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 1031,
+          "SoulCameraID": 103101
+        }
+      ]
+    },
+    {
+      "ID": 19102,
+      "CameraGroupID": 202834,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        202802,
+        202803,
+        202804,
+        202805,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19103,
+      "CameraGroupID": 202881,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        202881,
+        202882,
+        202883,
+        202884,
+        0,
+        0,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19104,
+      "CameraGroupID": 210221,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        210221,
+        210221,
+        210221,
+        210221,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    },
+    {
+      "ID": 19105,
+      "CameraGroupID": 301601,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        301601,
+        301602,
+        301603,
+        301604,
+        301609,
+        301612,
+        301615
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3016,
+          "SoulCameraID": 301602
+        }
+      ]
+    },
+    {
+      "ID": 19106,
+      "CameraGroupID": 301602,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        301601,
+        301602,
+        301603,
+        301604,
+        301609,
+        301612,
+        301615
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3016,
+          "SoulCameraID": 301603
+        }
+      ]
+    },
+    {
+      "ID": 19107,
+      "CameraGroupID": 302301,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        302311,
+        302312,
+        302313,
+        302314,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3023,
+          "SoulCameraID": 302301
+        }
+      ]
+    },
+    {
+      "ID": 19108,
+      "CameraGroupID": 302302,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        302331,
+        302332,
+        302333,
+        302334,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3023,
+          "SoulCameraID": 302302
+        }
+      ]
+    },
+    {
+      "ID": 19109,
+      "CameraGroupID": 302303,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        302321,
+        302322,
+        302323,
+        302324,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3023,
+          "SoulCameraID": 302303
+        }
+      ]
+    },
+    {
+      "ID": 19110,
+      "CameraGroupID": 302903,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        401,
+        302932,
+        302933,
+        404,
+        409,
+        412,
+        415
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3029,
+          "SoulCameraID": 302903
+        }
+      ]
+    },
+    {
+      "ID": 19111,
+      "CameraGroupID": 302905,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        401,
+        302952,
+        302953,
+        404,
+        409,
+        412,
+        415
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3029,
+          "SoulCameraID": 302905
+        }
+      ]
+    },
+    {
+      "ID": 19112,
+      "CameraGroupID": 390001,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        390001,
+        390002,
+        390003,
+        390004,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3900,
+          "SoulCameraID": 390000
+        }
+      ]
+    },
+    {
+      "ID": 19113,
+      "CameraGroupID": 390002,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        390011,
+        390012,
+        390013,
+        390014,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 3900,
+          "SoulCameraID": 390001
+        }
+      ]
+    },
+    {
+      "ID": 19114,
+      "CameraGroupID": 401501,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        401,
+        402,
+        403,
+        404,
+        409,
+        412,
+        415
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4015,
+          "SoulCameraID": 401501
+        }
+      ]
+    },
+    {
+      "ID": 19115,
+      "CameraGroupID": 405301,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        405301,
+        405302,
+        405303,
+        405304,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4053,
+          "SoulCameraID": 405301
+        }
+      ]
+    },
+    {
+      "ID": 19116,
+      "CameraGroupID": 405302,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        405301,
+        405302,
+        405303,
+        405304,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4053,
+          "SoulCameraID": 405302
+        }
+      ]
+    },
+    {
+      "ID": 19117,
+      "CameraGroupID": 413301,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        413301,
+        413302,
+        413303,
+        413304,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4133,
+          "SoulCameraID": 413301
+        }
+      ]
+    },
+    {
+      "ID": 19118,
+      "CameraGroupID": 413303,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        413305,
+        413306,
+        413307,
+        413308,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4133,
+          "SoulCameraID": 413301
+        }
+      ]
+    },
+    {
+      "ID": 19119,
+      "CameraGroupID": 488802,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        488801,
+        488802,
+        488803,
+        488804,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4888,
+          "SoulCameraID": 488802
+        }
+      ]
+    },
+    {
+      "ID": 19120,
+      "CameraGroupID": 488804,
+      "PlayerResID": 19,
+      "PlayerStateCameraIDList": [
+        488801,
+        488802,
+        488803,
+        488804,
+        409,
+        412,
+        0
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": [
+        {
+          "ResID": 4888,
+          "SoulCameraID": 488804
+        }
+      ]
+    }
+  ]
+}

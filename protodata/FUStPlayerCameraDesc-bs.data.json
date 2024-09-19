@@ -1,0 +1,43 @@
+{
+  "List": [
+    {
+      "ID": 1701,
+      "ResID": 17,
+      "CamID": 17034,
+      "ArmLengthDefault": 1290.0,
+      "ArmLengthClose": 500.0,
+      "ArmLengthMid": 500.0,
+      "ArmLengthFar": 1000.0,
+      "ArmLengthSpeed": 5.0,
+      "FreeCameraArmLengthMin": 300.0,
+      "FreeCameraArmLengthMax": 3000.0,
+      "ArmRelativeLocationX": 0.0,
+      "ArmRelativeLocationY": 0.0,
+      "ArmRelativeLocationZ": 0.0,
+      "ArmRelativeLocationSpeed": 3.0,
+      "ArmSocketOffsetX": 0.0,
+      "ArmSocketOffsetY": 0.0,
+      "ArmSocketOffsetZ": 0.0,
+      "ArmSocketOffsetSpeed": 30.0,
+      "InverseOffsetX": 75.0,
+      "InverseOffsetSpeedX": 2.5,
+      "InverseOffsetResetSpeedX": 4.0,
+      "InverseOffsetY": 90.0,
+      "InverseOffsetSpeedY": 2.5,
+      "InverseOffsetResetSpeedY": 4.0,
+      "InverseOffsetZ": 200.0,
+      "InverseOffsetSpeedZ": 5.0,
+      "InverseOffsetResetSpeedZ": 6.0,
+      "MeshZOffsetLimit": 0.0,
+      "FocalDistance": 0.0,
+      "DepthBlurKM": 1.0,
+      "DepthBlurRadius": 0.0,
+      "FOV": 65.0,
+      "FOVSpeed": 4.0,
+      "MinPitch": -80.0,
+      "MaxPitch": 80.0,
+      "MinYaw": 0.0,
+      "MaxYaw": 360.0
+    }
+  ]
+}

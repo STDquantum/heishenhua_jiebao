@@ -1,0 +1,53 @@
+{
+  "List": [
+    {
+      "Id": 1001,
+      "EchoName": "天命人",
+      "AiConversationId": 71001,
+      "LevelId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 1002,
+      "EchoName": "四渎神龙 其一",
+      "AiConversationId": 71002,
+      "LevelId": 10,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 2001,
+      "EchoName": "黄金古国 其一",
+      "AiConversationId": 72001,
+      "LevelId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 2002,
+      "EchoName": "四渎神龙 其二",
+      "AiConversationId": 72002,
+      "LevelId": 20,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 3001,
+      "EchoName": "四渎神龙 雷音寺 青背龙",
+      "AiConversationId": 73001,
+      "LevelId": 30,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 4001,
+      "EchoName": "云游 其一",
+      "AiConversationId": 74001,
+      "LevelId": 40,
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 5001,
+      "EchoName": "小狐狸 其一",
+      "AiConversationId": 75001,
+      "LevelId": 50,
+      "LocalizationTag": 0
+    }
+  ]
+}

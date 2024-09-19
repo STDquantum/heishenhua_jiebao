@@ -1,0 +1,252 @@
+{
+  "List": [
+    {
+      "ID": 1001,
+      "ConfigInfo": {
+        "AliasName": "GridSize",
+        "ConfigType": 1,
+        "ConfigValue": "2500"
+      }
+    },
+    {
+      "ID": 1002,
+      "ConfigInfo": {
+        "AliasName": "HugeRadius",
+        "ConfigType": 1,
+        "ConfigValue": "400"
+      }
+    },
+    {
+      "ID": 1003,
+      "ConfigInfo": {
+        "AliasName": "BigRadius",
+        "ConfigType": 1,
+        "ConfigValue": "300"
+      }
+    },
+    {
+      "ID": 1004,
+      "ConfigInfo": {
+        "AliasName": "MediumRadius",
+        "ConfigType": 1,
+        "ConfigValue": "200"
+      }
+    },
+    {
+      "ID": 1005,
+      "ConfigInfo": {
+        "AliasName": "CanDefeatTTTBAdditive",
+        "ConfigType": 1,
+        "ConfigValue": "99"
+      }
+    },
+    {
+      "ID": 1006,
+      "ConfigInfo": {
+        "AliasName": "ObjectPoolMaxCount",
+        "ConfigType": 0,
+        "ConfigValue": "300"
+      }
+    },
+    {
+      "ID": 1007,
+      "ConfigInfo": {
+        "AliasName": "TransitionLocomotionMaxDistance",
+        "ConfigType": 1,
+        "ConfigValue": "800"
+      }
+    },
+    {
+      "ID": 1008,
+      "ConfigInfo": {
+        "AliasName": "GlobalBuffDispMaxTriggerCountPerFrame",
+        "ConfigType": 0,
+        "ConfigValue": "10"
+      }
+    },
+    {
+      "ID": 1009,
+      "ConfigInfo": {
+        "AliasName": "BuffDispMaxTriggerCountPerFrame",
+        "ConfigType": 0,
+        "ConfigValue": "1"
+      }
+    },
+    {
+      "ID": 1010,
+      "ConfigInfo": {
+        "AliasName": "G4RotateSpeed",
+        "ConfigType": 1,
+        "ConfigValue": "1"
+      }
+    },
+    {
+      "ID": 1011,
+      "ConfigInfo": {
+        "AliasName": "AlchemyNpcCommunicationAwardIntervalSecond",
+        "ConfigType": 1,
+        "ConfigValue": "1800"
+      }
+    },
+    {
+      "ID": 1012,
+      "ConfigInfo": {
+        "AliasName": "YinYangDmgMultiplier_PlayerHitPlayer",
+        "ConfigType": 1,
+        "ConfigValue": "1"
+      }
+    },
+    {
+      "ID": 1013,
+      "ConfigInfo": {
+        "AliasName": "YinYangDmgMultiplier_MonsterHitPlayer",
+        "ConfigType": 1,
+        "ConfigValue": "1.25"
+      }
+    },
+    {
+      "ID": 1014,
+      "ConfigInfo": {
+        "AliasName": "YinYangDmgMultiplier_PlayerHitMonster",
+        "ConfigType": 1,
+        "ConfigValue": "2.5"
+      }
+    },
+    {
+      "ID": 1015,
+      "ConfigInfo": {
+        "AliasName": "YinYangDmgMultiplier_MonsterHitMonster",
+        "ConfigType": 1,
+        "ConfigValue": "1"
+      }
+    },
+    {
+      "ID": 1016,
+      "ConfigInfo": {
+        "AliasName": "WukongResID",
+        "ConfigType": 0,
+        "ConfigValue": "10"
+      }
+    },
+    {
+      "ID": 1017,
+      "ConfigInfo": {
+        "AliasName": "EnableVigourUnitDispItem",
+        "ConfigType": 0,
+        "ConfigValue": "4091"
+      }
+    },
+    {
+      "ID": 1018,
+      "ConfigInfo": {
+        "AliasName": "PausedCameraShakeContinueRequireRestTime",
+        "ConfigType": 1,
+        "ConfigValue": "0.5"
+      }
+    },
+    {
+      "ID": 1019,
+      "ConfigInfo": {
+        "AliasName": "PillarFormStateBuff",
+        "ConfigType": 0,
+        "ConfigValue": "275"
+      }
+    },
+    {
+      "ID": 1020,
+      "ConfigInfo": {
+        "AliasName": "PillarFormTerminatorBuff",
+        "ConfigType": 0,
+        "ConfigValue": "276"
+      }
+    },
+    {
+      "ID": 1021,
+      "ConfigInfo": {
+        "AliasName": "CanTriggerDeadAutoSwitch2PhysicMInQualityType",
+        "ConfigType": 0,
+        "ConfigValue": "5"
+      }
+    },
+    {
+      "ID": 1022,
+      "ConfigInfo": {
+        "AliasName": "DeadAutoSwitch2PhysicThresholds",
+        "ConfigType": 1,
+        "ConfigValue": "0.6"
+      }
+    },
+    {
+      "ID": 1023,
+      "ConfigInfo": {
+        "AliasName": "FoxTransResID",
+        "ConfigType": 0,
+        "ConfigValue": "39"
+      }
+    },
+    {
+      "ID": 1024,
+      "ConfigInfo": {
+        "AliasName": "PlayerAutoLockInputDegreeThreshold",
+        "ConfigType": 1,
+        "ConfigValue": "30"
+      }
+    },
+    {
+      "ID": 1025,
+      "ConfigInfo": {
+        "AliasName": "DaShengHeadEquipID",
+        "ConfigType": 0,
+        "ConfigValue": "12001"
+      }
+    },
+    {
+      "ID": 1026,
+      "ConfigInfo": {
+        "AliasName": "FoxTransQuestItemID",
+        "ConfigType": 0,
+        "ConfigValue": "2403"
+      }
+    },
+    {
+      "ID": 1027,
+      "ConfigInfo": {
+        "AliasName": "PigsyStory_PlayerOverDistInterrupt",
+        "ConfigType": 1,
+        "ConfigValue": "1000"
+      }
+    },
+    {
+      "ID": 1028,
+      "ConfigInfo": {
+        "AliasName": "PigsyStory_ListenNextStoryDist",
+        "ConfigType": 1,
+        "ConfigValue": "2000"
+      }
+    },
+    {
+      "ID": 1029,
+      "ConfigInfo": {
+        "AliasName": "SummonNavProtectDistLimit_ReverseCalc",
+        "ConfigType": 1,
+        "ConfigValue": "1500"
+      }
+    },
+    {
+      "ID": 1030,
+      "ConfigInfo": {
+        "AliasName": "BPAnimal_MaxNum",
+        "ConfigType": 0,
+        "ConfigValue": "10"
+      }
+    },
+    {
+      "ID": 1031,
+      "ConfigInfo": {
+        "AliasName": "BPAnimal_DestroyDist",
+        "ConfigType": 1,
+        "ConfigValue": "10000"
+      }
+    }
+  ]
+}

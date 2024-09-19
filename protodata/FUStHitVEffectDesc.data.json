@@ -1,0 +1,444 @@
+{
+  "List": [
+    {
+      "ID": 10,
+      "FreezeFrameGap": 0.0,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.15,
+      "HitSlowStartPlayRate": 0.1,
+      "HitSlowResumePlayRate": 0.1,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 11,
+      "FreezeFrameGap": 0.0,
+      "FreezeFrameTime": 0.05,
+      "HitSlowTime": 0.15,
+      "HitSlowStartPlayRate": 0.1,
+      "HitSlowResumePlayRate": 0.1,
+      "HitSlowResumeType": 1,
+      "CritFreezeFrameTime": 0.05
+    },
+    {
+      "ID": 20,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.066,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.066
+    },
+    {
+      "ID": 21,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.066,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.066
+    },
+    {
+      "ID": 22,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.033,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.033
+    },
+    {
+      "ID": 23,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.1,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.1
+    },
+    {
+      "ID": 24,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.1,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.1
+    },
+    {
+      "ID": 25,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.1,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.1
+    },
+    {
+      "ID": 26,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.1,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.1
+    },
+    {
+      "ID": 27,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.2,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.2
+    },
+    {
+      "ID": 30,
+      "FreezeFrameGap": 0.0,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.1,
+      "HitSlowResumePlayRate": 0.1,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 31,
+      "FreezeFrameGap": 0.2,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 32,
+      "FreezeFrameGap": 0.2,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 33,
+      "FreezeFrameGap": 0.2,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 34,
+      "FreezeFrameGap": 0.2,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 35,
+      "FreezeFrameGap": 0.2,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 36,
+      "FreezeFrameGap": 0.2,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 37,
+      "FreezeFrameGap": 0.2,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 38,
+      "FreezeFrameGap": 0.2,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 39,
+      "FreezeFrameGap": 0.2,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 40,
+      "FreezeFrameGap": 0.2,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 50,
+      "FreezeFrameGap": 0.3,
+      "FreezeFrameTime": 0.1,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.1
+    },
+    {
+      "ID": 51,
+      "FreezeFrameGap": 0.3,
+      "FreezeFrameTime": 0.1,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.1
+    },
+    {
+      "ID": 52,
+      "FreezeFrameGap": 0.3,
+      "FreezeFrameTime": 0.1,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.1
+    },
+    {
+      "ID": 53,
+      "FreezeFrameGap": 0.3,
+      "FreezeFrameTime": 0.15,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.15
+    },
+    {
+      "ID": 54,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 55,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 56,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 57,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 58,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 60,
+      "FreezeFrameGap": 0.0,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 61,
+      "FreezeFrameGap": 0.0,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 62,
+      "FreezeFrameGap": 0.0,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 63,
+      "FreezeFrameGap": 0.0,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 64,
+      "FreezeFrameGap": 0.0,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 65,
+      "FreezeFrameGap": 0.0,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 71,
+      "FreezeFrameGap": 0.0,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.1,
+      "HitSlowResumePlayRate": 0.1,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 91,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.083,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.083
+    },
+    {
+      "ID": 92,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.16,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.16
+    },
+    {
+      "ID": 93,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.083,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.083
+    },
+    {
+      "ID": 94,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.16,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.16
+    },
+    {
+      "ID": 99,
+      "FreezeFrameGap": 0.0,
+      "FreezeFrameTime": 0.065,
+      "HitSlowTime": 0.2,
+      "HitSlowStartPlayRate": 0.1,
+      "HitSlowResumePlayRate": 0.1,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.065
+    },
+    {
+      "ID": 100,
+      "FreezeFrameGap": 0.1,
+      "FreezeFrameTime": 0.0,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.0
+    },
+    {
+      "ID": 101,
+      "FreezeFrameGap": 0.2,
+      "FreezeFrameTime": 0.033,
+      "HitSlowTime": 0.0,
+      "HitSlowStartPlayRate": 0.0,
+      "HitSlowResumePlayRate": 0.0,
+      "HitSlowResumeType": 0,
+      "CritFreezeFrameTime": 0.033
+    }
+  ]
+}

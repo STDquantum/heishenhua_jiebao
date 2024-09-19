@@ -1,0 +1,57 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "BuffConfigID": 1,
+      "EliteStartPhase": 1,
+      "MaxEliteNum": 4,
+      "MaxEliteNumPerPoint": 1,
+      "BaseEliteChance": 0.001,
+      "EliteChanceIncrement": 0.06,
+      "MarginEliteChance": 0.16,
+      "SpecialStartPhase": 2,
+      "MaxSpecialNum": 1,
+      "MaxSpecialNumPerPoint": 1,
+      "BaseSpecialChance": 0.0001,
+      "SpecialChanceIncrement": 0.18,
+      "MarginSpecialChance": 1.0,
+      "PhaseConfig": [
+        {
+          "Thresholds": 0.25,
+          "SecondWaveChance": 0.0
+        },
+        {
+          "Thresholds": 0.5,
+          "SecondWaveChance": 0.8
+        },
+        {
+          "Thresholds": 0.7,
+          "SecondWaveChance": 1.0
+        }
+      ],
+      "GeneralMobConfig": [
+        {
+          "StrengthTag": 0,
+          "StartPhase": 0,
+          "BaseChance": 1.0,
+          "ChanceIncrement": -0.3,
+          "MarginChance": 0.0
+        },
+        {
+          "StrengthTag": 1,
+          "StartPhase": 1,
+          "BaseChance": 0.1,
+          "ChanceIncrement": 0.2,
+          "MarginChance": 0.6
+        },
+        {
+          "StrengthTag": 2,
+          "StartPhase": 2,
+          "BaseChance": 1.0,
+          "ChanceIncrement": 0.1,
+          "MarginChance": 1.0
+        }
+      ]
+    }
+  ]
+}

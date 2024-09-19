@@ -1,0 +1,46 @@
+{
+  "List": [
+    {
+      "ID": 10001,
+      "PhantomRushDuration": 10.0,
+      "PhantomRushSkillID": 10095,
+      "PhantomRushSummonID": 1001301,
+      "PhantomRushRelatedSkillConfigPath": "/Game/00Main/Design/Units/Player/DA_PhantomRushRelatedSkillConfig.DA_PhantomRushRelatedSkillConfig",
+      "PhantomRushEndTriggerEffectIDList": [
+        1009602,
+        1009606
+      ],
+      "PhantomRushBeginAddBuffIDList": [
+        118,
+        119,
+        122,
+        1056,
+        1059,
+        2093,
+        0,
+        0
+      ]
+    },
+    {
+      "ID": 10002,
+      "PhantomRushDuration": 10.0,
+      "PhantomRushSkillID": 10095,
+      "PhantomRushSummonID": 1001301,
+      "PhantomRushRelatedSkillConfigPath": "/Game/00Main/Design/Units/Player/DA_PhantomRushRelatedSkillConfig.DA_PhantomRushRelatedSkillConfig",
+      "PhantomRushEndTriggerEffectIDList": [
+        1009602,
+        1009606
+      ],
+      "PhantomRushBeginAddBuffIDList": [
+        118,
+        119,
+        122,
+        1056,
+        1059,
+        2092,
+        2093,
+        0
+      ]
+    }
+  ]
+}

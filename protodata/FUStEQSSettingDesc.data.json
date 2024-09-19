@@ -1,0 +1,66 @@
+{
+  "List": [
+    {
+      "ID": 0,
+      "EQSGenerator": 1,
+      "PointNum": 3,
+      "EQSPatternParams": [
+        -1.0,
+        50.0
+      ],
+      "EQSFilerParams": []
+    },
+    {
+      "ID": 1,
+      "EQSGenerator": 1,
+      "PointNum": 6,
+      "EQSPatternParams": [
+        500.0,
+        60.0
+      ],
+      "EQSFilerParams": []
+    },
+    {
+      "ID": 2,
+      "EQSGenerator": 4,
+      "PointNum": 3,
+      "EQSPatternParams": [
+        800.0,
+        50.0
+      ],
+      "EQSFilerParams": []
+    },
+    {
+      "ID": 3,
+      "EQSGenerator": 4,
+      "PointNum": 6,
+      "EQSPatternParams": [
+        1000.0,
+        50.0
+      ],
+      "EQSFilerParams": []
+    },
+    {
+      "ID": 4,
+      "EQSGenerator": 5,
+      "PointNum": 6,
+      "EQSPatternParams": [
+        950.0,
+        45.0,
+        50.0
+      ],
+      "EQSFilerParams": []
+    },
+    {
+      "ID": 5,
+      "EQSGenerator": 5,
+      "PointNum": 5,
+      "EQSPatternParams": [
+        450.0,
+        30.0,
+        60.0
+      ],
+      "EQSFilerParams": []
+    }
+  ]
+}

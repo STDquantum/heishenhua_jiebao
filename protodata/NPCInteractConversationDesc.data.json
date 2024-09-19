@@ -1,0 +1,636 @@
+{
+  "List": [
+    {
+      "Id": 6,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 12,
+      "Param2": 1140,
+      "AiConversationId": 240501
+    },
+    {
+      "Id": 310209,
+      "InteractId": 3102,
+      "TriggerType": 1,
+      "Param1": 0,
+      "Param2": 0,
+      "AiConversationId": 310209
+    },
+    {
+      "Id": 310210,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2003,
+      "Param2": 0,
+      "AiConversationId": 310210
+    },
+    {
+      "Id": 310215,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 0,
+      "AiConversationId": 310215
+    },
+    {
+      "Id": 310211,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2001,
+      "Param2": 0,
+      "AiConversationId": 310211
+    },
+    {
+      "Id": 310212,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 12,
+      "Param2": 0,
+      "AiConversationId": 310212
+    },
+    {
+      "Id": 310213,
+      "InteractId": 3102,
+      "TriggerType": 2,
+      "Param1": 1,
+      "Param2": 0,
+      "AiConversationId": 310213
+    },
+    {
+      "Id": 310214,
+      "InteractId": 3102,
+      "TriggerType": 2,
+      "Param1": 2,
+      "Param2": 0,
+      "AiConversationId": 310214
+    },
+    {
+      "Id": 301410,
+      "InteractId": 3014,
+      "TriggerType": 1,
+      "Param1": 0,
+      "Param2": 0,
+      "AiConversationId": 301470
+    },
+    {
+      "Id": 301411,
+      "InteractId": 3014,
+      "TriggerType": 2,
+      "Param1": 0,
+      "Param2": 0,
+      "AiConversationId": 301473
+    },
+    {
+      "Id": 310310,
+      "InteractId": 3103,
+      "TriggerType": 1,
+      "Param1": 0,
+      "Param2": 0,
+      "AiConversationId": 310310
+    },
+    {
+      "Id": 310311,
+      "InteractId": 3103,
+      "TriggerType": 0,
+      "Param1": 3001,
+      "Param2": 0,
+      "AiConversationId": 310311
+    },
+    {
+      "Id": 310312,
+      "InteractId": 3103,
+      "TriggerType": 0,
+      "Param1": 3002,
+      "Param2": 0,
+      "AiConversationId": 310312
+    },
+    {
+      "Id": 310313,
+      "InteractId": 3103,
+      "TriggerType": 0,
+      "Param1": 3015,
+      "Param2": 0,
+      "AiConversationId": 310313
+    },
+    {
+      "Id": 310314,
+      "InteractId": 3103,
+      "TriggerType": 2,
+      "Param1": 0,
+      "Param2": 0,
+      "AiConversationId": 310314
+    },
+    {
+      "Id": 200910,
+      "InteractId": 2009,
+      "TriggerType": 2,
+      "Param1": 0,
+      "Param2": 0,
+      "AiConversationId": 200910
+    },
+    {
+      "Id": 310110,
+      "InteractId": 3101,
+      "TriggerType": 2,
+      "Param1": 0,
+      "Param2": 0,
+      "AiConversationId": 310110
+    },
+    {
+      "Id": 310111,
+      "InteractId": 3101,
+      "TriggerType": 0,
+      "Param1": 1003,
+      "Param2": 0,
+      "AiConversationId": 310111
+    },
+    {
+      "Id": 310112,
+      "InteractId": 3101,
+      "TriggerType": 0,
+      "Param1": 1008,
+      "Param2": 0,
+      "AiConversationId": 310112
+    },
+    {
+      "Id": 3102001,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10342,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102002,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10343,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102003,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10344,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102004,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10441,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102005,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10442,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102006,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10443,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102007,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10444,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102008,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10622,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102009,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10623,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102010,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10624,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102011,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10711,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102012,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10712,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102013,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10713,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102014,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10714,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102015,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10822,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102016,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10823,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102017,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10824,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102018,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10932,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102019,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10933,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102020,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 10934,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102021,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11011,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102022,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11012,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102023,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11013,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102024,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11014,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102025,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11231,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102026,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11232,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102027,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11233,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102028,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11234,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102029,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11311,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102030,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11312,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102031,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11313,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102032,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11314,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102033,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11411,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102034,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11412,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102035,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11413,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102036,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11414,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102037,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11541,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102038,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11542,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102039,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11543,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102040,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11544,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102041,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11601,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102042,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11602,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102043,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11603,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102044,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11604,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102045,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11731,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102046,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11732,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102047,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11733,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102048,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11734,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102049,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11811,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102050,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11812,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102051,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11813,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102052,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11814,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102053,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11921,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102054,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11922,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102055,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11923,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102056,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 11924,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102057,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 12001,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102058,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 12002,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102059,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 12003,
+      "AiConversationId": 310216
+    },
+    {
+      "Id": 3102060,
+      "InteractId": 3102,
+      "TriggerType": 0,
+      "Param1": 2002,
+      "Param2": 12004,
+      "AiConversationId": 310216
+    }
+  ]
+}

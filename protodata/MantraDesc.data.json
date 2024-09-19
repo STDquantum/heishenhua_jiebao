@@ -1,0 +1,64 @@
+{
+  "List": [
+    {
+      "Id": 1,
+      "Quality": 1,
+      "Type": 1,
+      "Position": 0,
+      "OnlyEffective": 0,
+      "TalentId": 0,
+      "EquipAttrId": 0,
+      "Desc": ""
+    },
+    {
+      "Id": 2,
+      "Quality": 2,
+      "Type": 2,
+      "Position": 0,
+      "OnlyEffective": 0,
+      "TalentId": 0,
+      "EquipAttrId": 0,
+      "Desc": ""
+    },
+    {
+      "Id": 3,
+      "Quality": 3,
+      "Type": 3,
+      "Position": 0,
+      "OnlyEffective": 0,
+      "TalentId": 0,
+      "EquipAttrId": 0,
+      "Desc": ""
+    },
+    {
+      "Id": 4,
+      "Quality": 4,
+      "Type": 4,
+      "Position": 0,
+      "OnlyEffective": 0,
+      "TalentId": 0,
+      "EquipAttrId": 0,
+      "Desc": ""
+    },
+    {
+      "Id": 5,
+      "Quality": 5,
+      "Type": 5,
+      "Position": 0,
+      "OnlyEffective": 0,
+      "TalentId": 0,
+      "EquipAttrId": 0,
+      "Desc": ""
+    },
+    {
+      "Id": 6,
+      "Quality": 6,
+      "Type": 6,
+      "Position": 0,
+      "OnlyEffective": 0,
+      "TalentId": 0,
+      "EquipAttrId": 0,
+      "Desc": ""
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "List": [
+    {
+      "ID": 1803001,
+      "BuffID": 18030,
+      "CasterResID": 18,
+      "OwnerResID": 18,
+      "Config": [
+        {
+          "LayerIndex": 1,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_duchongsishi/DBC/DBC_psd_dcss_weapon_dubuff_lv1.DBC_psd_dcss_weapon_dubuff_lv1'"
+        },
+        {
+          "LayerIndex": 2,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_duchongsishi/DBC/DBC_psd_dcss_weapon_dubuff_lv2.DBC_psd_dcss_weapon_dubuff_lv2'"
+        },
+        {
+          "LayerIndex": 3,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_duchongsishi/DBC/DBC_psd_dcss_weapon_dubuff_lv2.DBC_psd_dcss_weapon_dubuff_lv2'"
+        },
+        {
+          "LayerIndex": 4,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_duchongsishi/DBC/DBC_psd_dcss_weapon_dubuff_lv3.DBC_psd_dcss_weapon_dubuff_lv3'"
+        }
+      ]
+    },
+    {
+      "ID": 30020101,
+      "BuffID": 302010,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "Config": [
+        {
+          "LayerIndex": 1,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo2/DBC/DBC_LYS_Mo2_xueDebuff_0.DBC_LYS_Mo2_xueDebuff_0'"
+        },
+        {
+          "LayerIndex": 6,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo2/DBC/DBC_LYS_Mo2_xueDebuff_1.DBC_LYS_Mo2_xueDebuff_1'"
+        },
+        {
+          "LayerIndex": 11,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo2/DBC/DBC_LYS_Mo2_xueDebuff_2.DBC_LYS_Mo2_xueDebuff_2'"
+        },
+        {
+          "LayerIndex": 16,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo2/DBC/DBC_LYS_Mo2_xueDebuff_3.DBC_LYS_Mo2_xueDebuff_3'"
+        }
+      ]
+    },
+    {
+      "ID": 30040101,
+      "BuffID": 300401,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "Config": [
+        {
+          "LayerIndex": 1,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_YuSaiGui_01A/DBC/DBC_hys_yusaigui_01a_debuff_yin1.DBC_hys_yusaigui_01a_debuff_yin1'"
+        },
+        {
+          "LayerIndex": 3,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_YuSaiGui_01A/DBC/DBC_hys_yusaigui_01a_debuff_yang1.DBC_hys_yusaigui_01a_debuff_yang1'"
+        },
+        {
+          "LayerIndex": 5,
+          "MixType": 1,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_YuSaiGui_01A/DBC/DBC_hys_yusaigui_01a_debuff_yin.DBC_hys_yusaigui_01a_debuff_yin'"
+        },
+        {
+          "LayerIndex": 8,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_YuSaiGui_01A/DBC/DBC_hys_yusaigui_01a_debuff_yang.DBC_hys_yusaigui_01a_debuff_yang'"
+        }
+      ]
+    },
+    {
+      "ID": 44060302,
+      "BuffID": 440603,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "Config": [
+        {
+          "LayerIndex": 6,
+          "MixType": 1,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_YuSaiGui_01A/DBC/DBC_HYS_YuSaiGui_01A_Buff_JuNeng_Yin.DBC_HYS_YuSaiGui_01A_Buff_JuNeng_Yin'"
+        }
+      ]
+    },
+    {
+      "ID": 44060402,
+      "BuffID": 440604,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "Config": [
+        {
+          "LayerIndex": 6,
+          "MixType": 1,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_YuSaiGui_01A/DBC/DBC_HYS_YuSaiGui_01A_Buff_JuNeng_Yang.DBC_HYS_YuSaiGui_01A_Buff_JuNeng_Yang'"
+        }
+      ]
+    },
+    {
+      "ID": 51003001,
+      "BuffID": 510030,
+      "CasterResID": 5100,
+      "OwnerResID": 5100,
+      "Config": [
+        {
+          "LayerIndex": 1,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_zhubajie_02a/DBC/DBC_PSD_Zhubajie_02a_Yuni_1.DBC_PSD_Zhubajie_02a_Yuni_1'"
+        },
+        {
+          "LayerIndex": 2,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_zhubajie_02a/DBC/DBC_PSD_Zhubajie_02a_Yuni_1.DBC_PSD_Zhubajie_02a_Yuni_1'"
+        },
+        {
+          "LayerIndex": 4,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_zhubajie_02a/DBC/DBC_PSD_Zhubajie_02a_Yuni_2.DBC_PSD_Zhubajie_02a_Yuni_2'"
+        },
+        {
+          "LayerIndex": 5,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_zhubajie_02a/DBC/DBC_PSD_Zhubajie_02a_Yuni_3.DBC_PSD_Zhubajie_02a_Yuni_3'"
+        }
+      ]
+    },
+    {
+      "ID": 29101,
+      "BuffID": 291,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "Config": [
+        {
+          "LayerIndex": 1,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/XuLi_A/DBC_XuLi_A_1.DBC_XuLi_A_1'"
+        },
+        {
+          "LayerIndex": 2,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/XuLi_A/DBC_XuLi_A_2.DBC_XuLi_A_2'"
+        },
+        {
+          "LayerIndex": 3,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/XuLi_A/DBC_XuLi_A_3.DBC_XuLi_A_3'"
+        },
+        {
+          "LayerIndex": 4,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/XuLi_A/DBC_XuLi_A_4.DBC_XuLi_A_4'"
+        }
+      ]
+    },
+    {
+      "ID": 281101,
+      "BuffID": 2811,
+      "CasterResID": 0,
+      "OwnerResID": 0,
+      "Config": [
+        {
+          "LayerIndex": 29,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/HuiFu/Hulu/DBC/DBC_WuKong_Hulu_Buff.DBC_WuKong_Hulu_Buff'"
+        }
+      ]
+    },
+    {
+      "ID": 107901,
+      "BuffID": 1079,
+      "CasterResID": 0,
+      "OwnerResID": 10011,
+      "Config": [
+        {
+          "LayerIndex": 1,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/XuliBaofa/DBC_XuLi_Baofa_1.DBC_XuLi_Baofa_1'"
+        },
+        {
+          "LayerIndex": 2,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/XuliBaofa/DBC_XuLi_Baofa_2.DBC_XuLi_Baofa_2'"
+        },
+        {
+          "LayerIndex": 3,
+          "MixType": 0,
+          "DBCPath": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/XuliBaofa/DBC_XuLi_Baofa_3.DBC_XuLi_Baofa_3'"
+        }
+      ]
+    }
+  ]
+}

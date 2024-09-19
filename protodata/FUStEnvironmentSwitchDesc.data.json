@@ -1,0 +1,11 @@
+{
+  "List": [
+    {
+      "ID": 101,
+      "EnvObjSelector": 1,
+      "EnvDataPath": "BGWDataAsset_EnvEHF'/Game/00Main/Design/EnvDataAssets/YanjianxiEHFog.YanjianxiEHFog'",
+      "EnvSwitchIntParams": [],
+      "EnvSwitchFloatParams": []
+    }
+  ]
+}

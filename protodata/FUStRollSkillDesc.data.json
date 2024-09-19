@@ -1,0 +1,291 @@
+{
+  "List": [
+    {
+      "EnableSkill": 1,
+      "ID": 10095,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 10301,
+      "NextRollSkillID": 10302,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 10302,
+      "NextRollSkillID": 10303,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 10303,
+      "NextRollSkillID": 10301,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 10304,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 10305,
+      "NextRollSkillID": 10302,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 0,
+      "ID": 10310,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 0,
+      "ID": 10311,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 50051,
+      "NextRollSkillID": 50052,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 50052,
+      "NextRollSkillID": 50053,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 50053,
+      "NextRollSkillID": 50051,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 0,
+      "ID": 50054,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 0,
+      "ID": 12050,
+      "NextRollSkillID": 12050,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 12060,
+      "NextRollSkillID": 12060,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 14060,
+      "NextRollSkillID": 14060,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 14160,
+      "NextRollSkillID": 14160,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 15060,
+      "NextRollSkillID": 15060,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 16050,
+      "NextRollSkillID": 16050,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 16060,
+      "NextRollSkillID": 16060,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 17050,
+      "NextRollSkillID": 17050,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 17060,
+      "NextRollSkillID": 17060,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 17350,
+      "NextRollSkillID": 17350,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 18060,
+      "NextRollSkillID": 18061,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 18061,
+      "NextRollSkillID": 18062,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 18062,
+      "NextRollSkillID": 18062,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 19060,
+      "NextRollSkillID": 19060,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 23060,
+      "NextRollSkillID": 23060,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 24060,
+      "NextRollSkillID": 24060,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 25060,
+      "NextRollSkillID": 25060,
+      "UseMultiRoll": 1,
+      "MultiJustInLock": 1
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 1001170,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 0,
+      "MultiJustInLock": 0
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 1001171,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 0,
+      "MultiJustInLock": 0
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 1001172,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 0,
+      "MultiJustInLock": 0
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 1001173,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 0,
+      "MultiJustInLock": 0
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 1001174,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 0,
+      "MultiJustInLock": 0
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 1001177,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 0,
+      "MultiJustInLock": 0
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 1001180,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 0,
+      "MultiJustInLock": 0
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 1001183,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 0,
+      "MultiJustInLock": 0
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 1001186,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 0,
+      "MultiJustInLock": 0
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 1001187,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 0,
+      "MultiJustInLock": 0
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 1001188,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 0,
+      "MultiJustInLock": 0
+    },
+    {
+      "EnableSkill": 1,
+      "ID": 1001189,
+      "NextRollSkillID": 0,
+      "UseMultiRoll": 0,
+      "MultiJustInLock": 0
+    }
+  ]
+}

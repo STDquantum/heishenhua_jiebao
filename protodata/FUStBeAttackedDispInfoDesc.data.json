@@ -1,0 +1,1744 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "ResID": 10,
+      "BeAttackedInfoID": 1002,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2,
+      "ResID": 10,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 1002,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3,
+      "ResID": 10,
+      "BeAttackedInfoID": 1001,
+      "PartRuleID": 1003,
+      "PartID": 0,
+      "HitItemFXType": 10,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4,
+      "ResID": 10,
+      "BeAttackedInfoID": 9901,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 8,
+      "HitItemAudioType": 8,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5,
+      "ResID": 13,
+      "BeAttackedInfoID": 1301,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 6,
+      "ResID": 13,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 1302,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 7,
+      "ResID": 14,
+      "BeAttackedInfoID": 1402,
+      "PartRuleID": 1402,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 8,
+      "ResID": 25,
+      "BeAttackedInfoID": 2501,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9,
+      "ResID": 50,
+      "BeAttackedInfoID": 5002,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 10,
+      "ResID": 50,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 5002,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 11,
+      "ResID": 1004,
+      "BeAttackedInfoID": 100401,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 4,
+      "HitItemAudioType": 4,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 12,
+      "ResID": 1016,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 101602,
+      "PartID": 1,
+      "HitItemFXType": 5,
+      "HitItemAudioType": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 13,
+      "ResID": 1021,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 102102,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 14,
+      "ResID": 1023,
+      "BeAttackedInfoID": 102301,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 15,
+      "ResID": 1024,
+      "BeAttackedInfoID": 102401,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 16,
+      "ResID": 1030,
+      "BeAttackedInfoID": 103001,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 10,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 17,
+      "ResID": 1126,
+      "BeAttackedInfoID": 112601,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 18,
+      "ResID": 2007,
+      "BeAttackedInfoID": 200701,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 19,
+      "ResID": 2009,
+      "BeAttackedInfoID": 200902,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 2,
+      "HitItemAudioType": 0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 20,
+      "ResID": 2009,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 200902,
+      "PartID": 1,
+      "HitItemFXType": 6,
+      "HitItemAudioType": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 21,
+      "ResID": 2012,
+      "BeAttackedInfoID": 201201,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 22,
+      "ResID": 2017,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 201702,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 23,
+      "ResID": 2020,
+      "BeAttackedInfoID": 202001,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 4,
+      "HitItemAudioType": 4,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 24,
+      "ResID": 2022,
+      "BeAttackedInfoID": 202202,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 25,
+      "ResID": 2029,
+      "BeAttackedInfoID": 202901,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 2,
+      "HitItemAudioType": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 26,
+      "ResID": 2029,
+      "BeAttackedInfoID": 202903,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 2,
+      "HitItemAudioType": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 27,
+      "ResID": 2029,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 202901,
+      "PartID": 0,
+      "HitItemFXType": 6,
+      "HitItemAudioType": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 28,
+      "ResID": 2029,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 202901,
+      "PartID": 1,
+      "HitItemFXType": 4,
+      "HitItemAudioType": 4,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 29,
+      "ResID": 2029,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 202902,
+      "PartID": 0,
+      "HitItemFXType": 4,
+      "HitItemAudioType": 4,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 30,
+      "ResID": 2202,
+      "BeAttackedInfoID": 220201,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 31,
+      "ResID": 2202,
+      "BeAttackedInfoID": 220202,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 32,
+      "ResID": 2203,
+      "BeAttackedInfoID": 220301,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 33,
+      "ResID": 2203,
+      "BeAttackedInfoID": 220302,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 34,
+      "ResID": 2203,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 220301,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 35,
+      "ResID": 2203,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 220302,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 36,
+      "ResID": 2204,
+      "BeAttackedInfoID": 220401,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 37,
+      "ResID": 2205,
+      "BeAttackedInfoID": 220501,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 38,
+      "ResID": 2205,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 220501,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 39,
+      "ResID": 2205,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 220502,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 40,
+      "ResID": 2205,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 220502,
+      "PartID": 1,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 41,
+      "ResID": 2205,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 220502,
+      "PartID": 2,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 42,
+      "ResID": 2205,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 220502,
+      "PartID": 3,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 43,
+      "ResID": 2205,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 220502,
+      "PartID": 4,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 44,
+      "ResID": 2205,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 220502,
+      "PartID": 5,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 45,
+      "ResID": 2205,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 220502,
+      "PartID": 6,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 46,
+      "ResID": 2205,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 220502,
+      "PartID": 7,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 47,
+      "ResID": 2211,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 48,
+      "ResID": 2503,
+      "BeAttackedInfoID": 250301,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 49,
+      "ResID": 3012,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 301202,
+      "PartID": 1,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 50,
+      "ResID": 3019,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 301901,
+      "PartID": 2,
+      "HitItemFXType": 8,
+      "HitItemAudioType": 8,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 51,
+      "ResID": 3019,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 301904,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 52,
+      "ResID": 3019,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 301904,
+      "PartID": 1,
+      "HitItemFXType": 9,
+      "HitItemAudioType": 9,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 53,
+      "ResID": 3019,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 301904,
+      "PartID": 2,
+      "HitItemFXType": 8,
+      "HitItemAudioType": 8,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 54,
+      "ResID": 3019,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 301904,
+      "PartID": 3,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 55,
+      "ResID": 3020,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 302002,
+      "PartID": 0,
+      "HitItemFXType": 9,
+      "HitItemAudioType": 9,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 56,
+      "ResID": 3021,
+      "BeAttackedInfoID": 302101,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 57,
+      "ResID": 3021,
+      "BeAttackedInfoID": 302103,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 58,
+      "ResID": 3022,
+      "BeAttackedInfoID": 302201,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 59,
+      "ResID": 3027,
+      "BeAttackedInfoID": 302701,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 60,
+      "ResID": 3056,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 305601,
+      "PartID": 0,
+      "HitItemFXType": 2,
+      "HitItemAudioType": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 61,
+      "ResID": 3402,
+      "BeAttackedInfoID": 340201,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 62,
+      "ResID": 3800,
+      "BeAttackedInfoID": 380002,
+      "PartRuleID": 380001,
+      "PartID": 1,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 63,
+      "ResID": 3901,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 390101,
+      "PartID": 1,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 64,
+      "ResID": 3901,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 390101,
+      "PartID": 2,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 65,
+      "ResID": 3901,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 390101,
+      "PartID": 3,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 66,
+      "ResID": 4001,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 400102,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 67,
+      "ResID": 4003,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 400301,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 68,
+      "ResID": 4004,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 400402,
+      "PartID": 1,
+      "HitItemFXType": 7,
+      "HitItemAudioType": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 69,
+      "ResID": 4008,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 400801,
+      "PartID": 1,
+      "HitItemFXType": 5,
+      "HitItemAudioType": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 70,
+      "ResID": 4011,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 401101,
+      "PartID": 1,
+      "HitItemFXType": 4,
+      "HitItemAudioType": 4,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 71,
+      "ResID": 4015,
+      "BeAttackedInfoID": 401501,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 72,
+      "ResID": 4015,
+      "BeAttackedInfoID": 401502,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 73,
+      "ResID": 4015,
+      "BeAttackedInfoID": 401503,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 74,
+      "ResID": 4015,
+      "BeAttackedInfoID": 401504,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 75,
+      "ResID": 4015,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 401501,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 76,
+      "ResID": 4015,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 401501,
+      "PartID": 1,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 77,
+      "ResID": 4015,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 401501,
+      "PartID": 2,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 78,
+      "ResID": 4015,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 401502,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 79,
+      "ResID": 4050,
+      "BeAttackedInfoID": 405001,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 80,
+      "ResID": 4050,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 405001,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 81,
+      "ResID": 4050,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 405001,
+      "PartID": 1,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 82,
+      "ResID": 4051,
+      "BeAttackedInfoID": 405101,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 83,
+      "ResID": 4051,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 405101,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 84,
+      "ResID": 4051,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 405101,
+      "PartID": 1,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 85,
+      "ResID": 4051,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 405102,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 86,
+      "ResID": 4051,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 405102,
+      "PartID": 1,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 87,
+      "ResID": 4052,
+      "BeAttackedInfoID": 405201,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 88,
+      "ResID": 4052,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 405201,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 89,
+      "ResID": 4052,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 405201,
+      "PartID": 1,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 90,
+      "ResID": 4053,
+      "BeAttackedInfoID": 405301,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 91,
+      "ResID": 4053,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 405301,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 92,
+      "ResID": 4053,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 405301,
+      "PartID": 1,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 93,
+      "ResID": 4109,
+      "BeAttackedInfoID": 410901,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 94,
+      "ResID": 4121,
+      "BeAttackedInfoID": 412101,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 95,
+      "ResID": 4121,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 412101,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 96,
+      "ResID": 4121,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 412101,
+      "PartID": 1,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 97,
+      "ResID": 4121,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 412101,
+      "PartID": 2,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 98,
+      "ResID": 4121,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 412102,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 99,
+      "ResID": 4122,
+      "BeAttackedInfoID": 412201,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 100,
+      "ResID": 4123,
+      "BeAttackedInfoID": 412301,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 2,
+      "HitItemAudioType": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 101,
+      "ResID": 4124,
+      "BeAttackedInfoID": 412401,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 2,
+      "HitItemAudioType": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 102,
+      "ResID": 4125,
+      "BeAttackedInfoID": 412501,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 103,
+      "ResID": 4126,
+      "BeAttackedInfoID": 412601,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 104,
+      "ResID": 4126,
+      "BeAttackedInfoID": 412602,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 105,
+      "ResID": 4126,
+      "BeAttackedInfoID": 412603,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 106,
+      "ResID": 4126,
+      "BeAttackedInfoID": 412604,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 107,
+      "ResID": 4126,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 412601,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 108,
+      "ResID": 4126,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 412601,
+      "PartID": 1,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 109,
+      "ResID": 4126,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 412601,
+      "PartID": 2,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 110,
+      "ResID": 4126,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 412602,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 111,
+      "ResID": 4127,
+      "BeAttackedInfoID": 412701,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 112,
+      "ResID": 4128,
+      "BeAttackedInfoID": 412801,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 113,
+      "ResID": 4129,
+      "BeAttackedInfoID": 412901,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 114,
+      "ResID": 4133,
+      "BeAttackedInfoID": 413301,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 115,
+      "ResID": 4133,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 413301,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 116,
+      "ResID": 4134,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 413401,
+      "PartID": 0,
+      "HitItemFXType": 5,
+      "HitItemAudioType": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 117,
+      "ResID": 4163,
+      "BeAttackedInfoID": 416302,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 118,
+      "ResID": 4190,
+      "BeAttackedInfoID": 419001,
+      "PartRuleID": 417001,
+      "PartID": 1,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 119,
+      "ResID": 4402,
+      "BeAttackedInfoID": 440203,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 120,
+      "ResID": 4402,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 440201,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 121,
+      "ResID": 4403,
+      "BeAttackedInfoID": 440303,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 122,
+      "ResID": 4403,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 440301,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 123,
+      "ResID": 4444,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 444401,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 124,
+      "ResID": 4444,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 444402,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 125,
+      "ResID": 4707,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 470701,
+      "PartID": 0,
+      "HitItemFXType": 0,
+      "HitItemAudioType": 0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 126,
+      "ResID": 4707,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 470701,
+      "PartID": 1,
+      "HitItemFXType": 5,
+      "HitItemAudioType": 0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 127,
+      "ResID": 4888,
+      "BeAttackedInfoID": 488801,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 10,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 128,
+      "ResID": 4888,
+      "BeAttackedInfoID": 488802,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 10,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 129,
+      "ResID": 4997,
+      "BeAttackedInfoID": 499701,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 9,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 130,
+      "ResID": 4998,
+      "BeAttackedInfoID": 499801,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 9,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 131,
+      "ResID": 4998,
+      "BeAttackedInfoID": 499802,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 9,
+      "HitItemAudioType": 9,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 132,
+      "ResID": 4999,
+      "BeAttackedInfoID": 499901,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 0,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 133,
+      "ResID": 5001,
+      "BeAttackedInfoID": 500101,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 9,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 134,
+      "ResID": 5001,
+      "BeAttackedInfoID": 500102,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 9,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 135,
+      "ResID": 5002,
+      "BeAttackedInfoID": 500201,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 9,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 136,
+      "ResID": 5005,
+      "BeAttackedInfoID": 500501,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 137,
+      "ResID": 5005,
+      "BeAttackedInfoID": 500502,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 138,
+      "ResID": 5005,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 500501,
+      "PartID": 1,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 139,
+      "ResID": 5005,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 500502,
+      "PartID": 1,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 140,
+      "ResID": 5006,
+      "BeAttackedInfoID": 500601,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 8,
+      "HitItemAudioType": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 141,
+      "ResID": 5008,
+      "BeAttackedInfoID": 500801,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 0,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 142,
+      "ResID": 5013,
+      "BeAttackedInfoID": 501301,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 0,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 143,
+      "ResID": 5014,
+      "BeAttackedInfoID": 501401,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 0,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 144,
+      "ResID": 5015,
+      "BeAttackedInfoID": 501501,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 0,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 145,
+      "ResID": 5017,
+      "BeAttackedInfoID": 501701,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 0,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 146,
+      "ResID": 5018,
+      "BeAttackedInfoID": 501801,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 0,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 147,
+      "ResID": 5020,
+      "BeAttackedInfoID": 502001,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 10,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 148,
+      "ResID": 5021,
+      "BeAttackedInfoID": 502101,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 8,
+      "HitItemAudioType": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 149,
+      "ResID": 5099,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 509902,
+      "PartID": 0,
+      "HitItemFXType": 8,
+      "HitItemAudioType": 8,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 150,
+      "ResID": 5100,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 510002,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 151,
+      "ResID": 5402,
+      "BeAttackedInfoID": 540201,
+      "PartRuleID": 540201,
+      "PartID": 0,
+      "HitItemFXType": 0,
+      "HitItemAudioType": 10,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 152,
+      "ResID": 5403,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 540302,
+      "PartID": 0,
+      "HitItemFXType": 5,
+      "HitItemAudioType": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 153,
+      "ResID": 5407,
+      "BeAttackedInfoID": 540701,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 9,
+      "HitItemAudioType": 9,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 154,
+      "ResID": 5408,
+      "BeAttackedInfoID": 540801,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 9,
+      "HitItemAudioType": 9,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 155,
+      "ResID": 5408,
+      "BeAttackedInfoID": 540802,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 9,
+      "HitItemAudioType": 9,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 156,
+      "ResID": 5408,
+      "BeAttackedInfoID": 540803,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 9,
+      "HitItemAudioType": 9,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 157,
+      "ResID": 5555,
+      "BeAttackedInfoID": 555501,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 158,
+      "ResID": 5555,
+      "BeAttackedInfoID": 555502,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 5,
+      "HitItemAudioType": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 159,
+      "ResID": 5801,
+      "BeAttackedInfoID": 580101,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 160,
+      "ResID": 5802,
+      "BeAttackedInfoID": 580201,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 161,
+      "ResID": 5802,
+      "BeAttackedInfoID": 580202,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 162,
+      "ResID": 5803,
+      "BeAttackedInfoID": 580301,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 163,
+      "ResID": 5810,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 581001,
+      "PartID": 0,
+      "HitItemFXType": 5,
+      "HitItemAudioType": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 164,
+      "ResID": 6001,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 600101,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 165,
+      "ResID": 6001,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 600101,
+      "PartID": 1,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 166,
+      "ResID": 6001,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 600102,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 167,
+      "ResID": 6001,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 600102,
+      "PartID": 1,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 168,
+      "ResID": 7401,
+      "BeAttackedInfoID": 740101,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 3,
+      "HitItemAudioType": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 169,
+      "ResID": 7401,
+      "BeAttackedInfoID": 740102,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 170,
+      "ResID": 8000,
+      "BeAttackedInfoID": 0,
+      "PartRuleID": 800003,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 171,
+      "ResID": 10011,
+      "BeAttackedInfoID": 1001102,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 172,
+      "ResID": 10013,
+      "BeAttackedInfoID": 1001301,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 8,
+      "HitItemAudioType": 8,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 173,
+      "ResID": 302001,
+      "BeAttackedInfoID": 30200101,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 174,
+      "ResID": 302002,
+      "BeAttackedInfoID": 30200201,
+      "PartRuleID": 0,
+      "PartID": 0,
+      "HitItemFXType": 1,
+      "HitItemAudioType": 1,
+      "Guard": "Guard"
+    }
+  ]
+}

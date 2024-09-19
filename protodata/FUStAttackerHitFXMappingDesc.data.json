@@ -1,0 +1,18 @@
+{
+  "List": [
+    {
+      "ID": 1001,
+      "HitItemType": 6,
+      "LowerHitPerformTypeCondition": 14,
+      "MappingHitPerformType": 15,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1002,
+      "HitItemType": 5,
+      "LowerHitPerformTypeCondition": 14,
+      "MappingHitPerformType": 15,
+      "Guard": "Guard"
+    }
+  ]
+}

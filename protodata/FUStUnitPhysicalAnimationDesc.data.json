@@ -1,0 +1,88 @@
+{
+  "List": [
+    {
+      "ID": 10,
+      "NormalPhysAnimDataAsset": "",
+      "BeCatchThrowPhysAnimDataAsset": "BGWBeCatchThrowPhysAnimDataAsset'/Game/00MainHZ/Characters/Sunwukong/PhysAnimConfig_Wukong_BeCatchThrow.PhysAnimConfig_Wukong_BeCatchThrow'",
+      "PhysMoveAnimDataAsset": "",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1017,
+      "NormalPhysAnimDataAsset": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "BeCatchThrowPhysAnimDataAsset": "",
+      "PhysMoveAnimDataAsset": "",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2027,
+      "NormalPhysAnimDataAsset": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "BeCatchThrowPhysAnimDataAsset": "",
+      "PhysMoveAnimDataAsset": "",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2102,
+      "NormalPhysAnimDataAsset": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "BeCatchThrowPhysAnimDataAsset": "",
+      "PhysMoveAnimDataAsset": "",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3003,
+      "NormalPhysAnimDataAsset": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "BeCatchThrowPhysAnimDataAsset": "",
+      "PhysMoveAnimDataAsset": "",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3013,
+      "NormalPhysAnimDataAsset": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "BeCatchThrowPhysAnimDataAsset": "",
+      "PhysMoveAnimDataAsset": "",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3014,
+      "NormalPhysAnimDataAsset": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "BeCatchThrowPhysAnimDataAsset": "",
+      "PhysMoveAnimDataAsset": "",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3015,
+      "NormalPhysAnimDataAsset": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "BeCatchThrowPhysAnimDataAsset": "",
+      "PhysMoveAnimDataAsset": "",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4001,
+      "NormalPhysAnimDataAsset": "",
+      "BeCatchThrowPhysAnimDataAsset": "",
+      "PhysMoveAnimDataAsset": "BGWPhysMoveAnimDataAsset'/Game/00MainHZ/Characters/Enemy/HYS/HYS_JiRuHuo/PhysAnimConfig_HYS_JiRuHuo_PhysMove.PhysAnimConfig_HYS_JiRuHuo_PhysMove'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4056,
+      "NormalPhysAnimDataAsset": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "BeCatchThrowPhysAnimDataAsset": "",
+      "PhysMoveAnimDataAsset": "",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4058,
+      "NormalPhysAnimDataAsset": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "BeCatchThrowPhysAnimDataAsset": "",
+      "PhysMoveAnimDataAsset": "",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5019,
+      "NormalPhysAnimDataAsset": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "BeCatchThrowPhysAnimDataAsset": "",
+      "PhysMoveAnimDataAsset": "",
+      "Guard": "Guard"
+    }
+  ]
+}

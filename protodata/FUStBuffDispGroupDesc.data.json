@@ -1,0 +1,216 @@
+{
+  "List": [
+    {
+      "ID": 1001,
+      "SingleBuffDisp": 1,
+      "GroupBuffDisp": 2,
+      "BuffList": [
+        91034,
+        91035,
+        91036,
+        91037,
+        92309,
+        92224,
+        92227,
+        92245,
+        92253,
+        96000,
+        1992,
+        1123,
+        1057,
+        1102,
+        2043,
+        2171,
+        2804,
+        1095,
+        2052,
+        2065,
+        2097,
+        10055,
+        2142,
+        20115,
+        1029,
+        1031,
+        2144,
+        96029,
+        1118,
+        1119,
+        1120,
+        1104,
+        20315,
+        20320,
+        21063,
+        21064,
+        21363,
+        21364,
+        21563,
+        21564,
+        96031,
+        2812,
+        2813,
+        2012
+      ]
+    },
+    {
+      "ID": 1002,
+      "SingleBuffDisp": 0,
+      "GroupBuffDisp": 2,
+      "BuffList": [
+        96003,
+        96020
+      ]
+    },
+    {
+      "ID": 1003,
+      "SingleBuffDisp": 3,
+      "GroupBuffDisp": 4,
+      "BuffList": [
+        92310,
+        92316,
+        92234,
+        92247,
+        1113,
+        10141,
+        21071,
+        21371,
+        21571,
+        92330
+      ]
+    },
+    {
+      "ID": 1004,
+      "SingleBuffDisp": 0,
+      "GroupBuffDisp": 4,
+      "BuffList": [
+        1071,
+        1085,
+        2164
+      ]
+    },
+    {
+      "ID": 1006,
+      "SingleBuffDisp": 5,
+      "GroupBuffDisp": 6,
+      "BuffList": []
+    },
+    {
+      "ID": 1007,
+      "SingleBuffDisp": 5,
+      "GroupBuffDisp": 0,
+      "BuffList": [
+        92230,
+        92211
+      ]
+    },
+    {
+      "ID": 1008,
+      "SingleBuffDisp": 0,
+      "GroupBuffDisp": 6,
+      "BuffList": [
+        92307,
+        92329
+      ]
+    },
+    {
+      "ID": 1009,
+      "SingleBuffDisp": 7,
+      "GroupBuffDisp": 8,
+      "BuffList": [
+        91070,
+        92236
+      ]
+    },
+    {
+      "ID": 1010,
+      "SingleBuffDisp": 7,
+      "GroupBuffDisp": 0,
+      "BuffList": [
+        92218,
+        1069,
+        1044,
+        2123,
+        92391
+      ]
+    },
+    {
+      "ID": 1011,
+      "SingleBuffDisp": 9,
+      "GroupBuffDisp": 10,
+      "BuffList": [
+        92308,
+        0
+      ]
+    },
+    {
+      "ID": 1012,
+      "SingleBuffDisp": 9,
+      "GroupBuffDisp": 0,
+      "BuffList": [
+        92207,
+        92213,
+        92221,
+        96007
+      ]
+    },
+    {
+      "ID": 1013,
+      "SingleBuffDisp": 13,
+      "GroupBuffDisp": 0,
+      "BuffList": [
+        92204,
+        92205,
+        92206,
+        92208,
+        92302,
+        92324
+      ]
+    },
+    {
+      "ID": 1014,
+      "SingleBuffDisp": 11,
+      "GroupBuffDisp": 0,
+      "BuffList": [
+        92252,
+        92331
+      ]
+    },
+    {
+      "ID": 1015,
+      "SingleBuffDisp": 12,
+      "GroupBuffDisp": 0,
+      "BuffList": [
+        92251
+      ]
+    },
+    {
+      "ID": 1016,
+      "SingleBuffDisp": 14,
+      "GroupBuffDisp": 0,
+      "BuffList": [
+        2005,
+        2006,
+        2007,
+        2008
+      ]
+    },
+    {
+      "ID": 1017,
+      "SingleBuffDisp": 15,
+      "GroupBuffDisp": 0,
+      "BuffList": [
+        2018,
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "ID": 1018,
+      "SingleBuffDisp": 505,
+      "GroupBuffDisp": 0,
+      "BuffList": [
+        96034
+      ]
+    }
+  ]
+}

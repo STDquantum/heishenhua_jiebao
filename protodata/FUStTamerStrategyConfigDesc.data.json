@@ -1,0 +1,355 @@
+{
+  "List": [
+    {
+      "ID": 0,
+      "UnitGuid": "UGuid.HYS.Ball.Round",
+      "BattleDist": 200,
+      "VisibleDist": 300,
+      "DestroyDist": 500,
+      "BattleZOffset": 50,
+      "DestroyZOffset": 100
+    },
+    {
+      "ID": 1,
+      "UnitGuid": "UGuid.HYS.JDS.01",
+      "BattleDist": 150,
+      "VisibleDist": 160,
+      "DestroyDist": 200,
+      "BattleZOffset": 50,
+      "DestroyZOffset": 100
+    },
+    {
+      "ID": 2,
+      "UnitGuid": "1664554757730-416c9da04ec763f985c80e9d12c8625d-UNIT_sl_sgd_p1_C_1",
+      "BattleDist": 1500,
+      "VisibleDist": 3000,
+      "DestroyDist": 10000,
+      "BattleZOffset": 50,
+      "DestroyZOffset": 100
+    },
+    {
+      "ID": 3,
+      "UnitGuid": "1656533985875-6b25c5f04b1967cd5863e485d95e3cd9-Unit_HYS_LuoChaGui_01_C_1",
+      "BattleDist": 180,
+      "VisibleDist": 220,
+      "DestroyDist": 300,
+      "BattleZOffset": 50,
+      "DestroyZOffset": 100
+    },
+    {
+      "ID": 4,
+      "UnitGuid": "1656534000647-6b25c5f04b1967cd5863e485d95e3cd9-Unit_HYS_LuoChaGui_01_C_2",
+      "BattleDist": 180,
+      "VisibleDist": 220,
+      "DestroyDist": 300,
+      "BattleZOffset": 50,
+      "DestroyZOffset": 100
+    },
+    {
+      "ID": 5,
+      "UnitGuid": "1660324111168-d28f9d86433095bb56ee95be5df5cd6b-Unit_HYS_LuoChaGui_01_C_0",
+      "BattleDist": 180,
+      "VisibleDist": 220,
+      "DestroyDist": 300,
+      "BattleZOffset": 50,
+      "DestroyZOffset": 100
+    },
+    {
+      "ID": 6,
+      "UnitGuid": "UGuid.HYS.ZhanChe.01b",
+      "BattleDist": 120,
+      "VisibleDist": 150,
+      "DestroyDist": 200,
+      "BattleZOffset": 100,
+      "DestroyZOffset": 150
+    },
+    {
+      "ID": 7,
+      "UnitGuid": "UGuid.SL.sgd",
+      "BattleDist": 950,
+      "VisibleDist": 950,
+      "DestroyDist": 1000,
+      "BattleZOffset": 950,
+      "DestroyZOffset": 950
+    },
+    {
+      "ID": 8,
+      "UnitGuid": "UGuid.SL.sgd.ruodian.l",
+      "BattleDist": 950,
+      "VisibleDist": 950,
+      "DestroyDist": 1000,
+      "BattleZOffset": 950,
+      "DestroyZOffset": 950
+    },
+    {
+      "ID": 9,
+      "UnitGuid": "UGuid.SL.sgd.ruodian.r",
+      "BattleDist": 950,
+      "VisibleDist": 950,
+      "DestroyDist": 1000,
+      "BattleZOffset": 950,
+      "DestroyZOffset": 950
+    },
+    {
+      "ID": 10,
+      "UnitGuid": "1670511958535-300717cf488640e2b17e11923408e46c-TAMER_sl_shanzhen_01_summon_C_1",
+      "BattleDist": 500,
+      "VisibleDist": 600,
+      "DestroyDist": 800,
+      "BattleZOffset": 50,
+      "DestroyZOffset": 100
+    },
+    {
+      "ID": 11,
+      "UnitGuid": "UGuid.PSD.EmptyUnit",
+      "BattleDist": 450,
+      "VisibleDist": 450,
+      "DestroyDist": 500,
+      "BattleZOffset": 450,
+      "DestroyZOffset": 500
+    },
+    {
+      "ID": 12,
+      "UnitGuid": "UGuid.HYS.Yumian.01",
+      "BattleDist": 100,
+      "VisibleDist": 110,
+      "DestroyDist": 300,
+      "BattleZOffset": 120,
+      "DestroyZOffset": 150
+    },
+    {
+      "ID": 13,
+      "UnitGuid": "UGuid.HFS.BaiyiT2",
+      "BattleDist": 150,
+      "VisibleDist": 160,
+      "DestroyDist": 200,
+      "BattleZOffset": 50,
+      "DestroyZOffset": 100
+    },
+    {
+      "ID": 14,
+      "UnitGuid": "UGuid.SL.yanjianxi",
+      "BattleDist": 300,
+      "VisibleDist": 400,
+      "DestroyDist": 500,
+      "BattleZOffset": 100,
+      "DestroyZOffset": 200
+    },
+    {
+      "ID": 15,
+      "UnitGuid": "UGuid.BSD.JJS",
+      "BattleDist": 1000,
+      "VisibleDist": 1100,
+      "DestroyDist": 1200,
+      "BattleZOffset": 100,
+      "DestroyZOffset": 200
+    },
+    {
+      "ID": 16,
+      "UnitGuid": "UGuid.LYS.KJL.Long",
+      "BattleDist": 1200,
+      "VisibleDist": 1500,
+      "DestroyDist": 2000,
+      "BattleZOffset": 50,
+      "DestroyZOffset": 100
+    },
+    {
+      "ID": 17,
+      "UnitGuid": "UGuid.LYS.HuangMei.Huge1",
+      "BattleDist": 300,
+      "VisibleDist": 400,
+      "DestroyDist": 550,
+      "BattleZOffset": 150,
+      "DestroyZOffset": 250
+    },
+    {
+      "ID": 18,
+      "UnitGuid": "UGuid.LYS.HuangMei.Huge2",
+      "BattleDist": 300,
+      "VisibleDist": 400,
+      "DestroyDist": 550,
+      "BattleZOffset": 150,
+      "DestroyZOffset": 250
+    },
+    {
+      "ID": 19,
+      "UnitGuid": "UGuid.BYS.Xuelu",
+      "BattleDist": 700,
+      "VisibleDist": 800,
+      "DestroyDist": 900,
+      "BattleZOffset": 300,
+      "DestroyZOffset": 500
+    },
+    {
+      "ID": 20,
+      "UnitGuid": "UGuid.BYS.Xiniu",
+      "BattleDist": 700,
+      "VisibleDist": 800,
+      "DestroyDist": 900,
+      "BattleZOffset": 300,
+      "DestroyZOffset": 500
+    },
+    {
+      "ID": 21,
+      "UnitGuid": "UGuid.BYS.Xuelu.NPC",
+      "BattleDist": 700,
+      "VisibleDist": 800,
+      "DestroyDist": 900,
+      "BattleZOffset": 300,
+      "DestroyZOffset": 500
+    },
+    {
+      "ID": 22,
+      "UnitGuid": "UGuid.BYS.HMS.01",
+      "BattleDist": 300,
+      "VisibleDist": 400,
+      "DestroyDist": 500,
+      "BattleZOffset": 300,
+      "DestroyZOffset": 500
+    },
+    {
+      "ID": 23,
+      "UnitGuid": "UGuid.BYS.hema.king",
+      "BattleDist": 500,
+      "VisibleDist": 500,
+      "DestroyDist": 550,
+      "BattleZOffset": 300,
+      "DestroyZOffset": 500
+    },
+    {
+      "ID": 24,
+      "UnitGuid": "UGuid.BYS.hema.01",
+      "BattleDist": 300,
+      "VisibleDist": 300,
+      "DestroyDist": 350,
+      "BattleZOffset": 300,
+      "DestroyZOffset": 500
+    },
+    {
+      "ID": 25,
+      "UnitGuid": "UGuid.BYS.hema.02",
+      "BattleDist": 300,
+      "VisibleDist": 300,
+      "DestroyDist": 350,
+      "BattleZOffset": 300,
+      "DestroyZOffset": 500
+    },
+    {
+      "ID": 26,
+      "UnitGuid": "UGuid.PSD.BaiYanMoJun",
+      "BattleDist": 280,
+      "VisibleDist": 320,
+      "DestroyDist": 380,
+      "BattleZOffset": 50,
+      "DestroyZOffset": 100
+    },
+    {
+      "ID": 27,
+      "UnitGuid": "UGuid.BYS.HMS.02",
+      "BattleDist": 300,
+      "VisibleDist": 400,
+      "DestroyDist": 500,
+      "BattleZOffset": 300,
+      "DestroyZOffset": 500
+    },
+    {
+      "ID": 28,
+      "UnitGuid": "UGuid.LYS.Mo2",
+      "BattleDist": 450,
+      "VisibleDist": 500,
+      "DestroyDist": 550,
+      "BattleZOffset": 70,
+      "DestroyZOffset": 120
+    },
+    {
+      "ID": 29,
+      "UnitGuid": "UGuid.HFM.HFDS.NPC",
+      "BattleDist": 300,
+      "VisibleDist": 400,
+      "DestroyDist": 500,
+      "BattleZOffset": 100,
+      "DestroyZOffset": 150
+    },
+    {
+      "ID": 30,
+      "UnitGuid": "UGuid.HFM.HFDS.Pre",
+      "BattleDist": 300,
+      "VisibleDist": 400,
+      "DestroyDist": 500,
+      "BattleZOffset": 100,
+      "DestroyZOffset": 150
+    },
+    {
+      "ID": 31,
+      "UnitGuid": "UGuid.LSH.DuJiaoXian",
+      "BattleDist": 400,
+      "VisibleDist": 500,
+      "DestroyDist": 600,
+      "BattleZOffset": 100,
+      "DestroyZOffset": 150
+    },
+    {
+      "ID": 32,
+      "UnitGuid": "UGuid.BYS.Baishe",
+      "BattleDist": 300,
+      "VisibleDist": 300,
+      "DestroyDist": 350,
+      "BattleZOffset": 300,
+      "DestroyZOffset": 500
+    },
+    {
+      "ID": 33,
+      "UnitGuid": "UGuid.PSD.YouYan",
+      "BattleDist": 50,
+      "VisibleDist": 100,
+      "DestroyDist": 200,
+      "BattleZOffset": 100,
+      "DestroyZOffset": 200
+    },
+    {
+      "ID": 34,
+      "UnitGuid": "UGuid.PSD.BaJie.Mo2",
+      "BattleDist": 100,
+      "VisibleDist": 120,
+      "DestroyDist": 150,
+      "BattleZOffset": 50,
+      "DestroyZOffset": 100
+    },
+    {
+      "ID": 35,
+      "UnitGuid": "UGuid.EndB.YangJian.FTXD",
+      "BattleDist": 300,
+      "VisibleDist": 400,
+      "DestroyDist": 500,
+      "BattleZOffset": 100,
+      "DestroyZOffset": 200
+    },
+    {
+      "ID": 36,
+      "UnitGuid": "UGuid.PSD.WuLong.4H",
+      "BattleDist": 200,
+      "VisibleDist": 220,
+      "DestroyDist": 240,
+      "BattleZOffset": 100,
+      "DestroyZOffset": 150
+    },
+    {
+      "ID": 37,
+      "UnitGuid": "UGuid.PSD.qingting.jingpo",
+      "BattleDist": 50,
+      "VisibleDist": 150,
+      "DestroyDist": 200,
+      "BattleZOffset": 80,
+      "DestroyZOffset": 120
+    },
+    {
+      "ID": 38,
+      "UnitGuid": "UGuid.HFS.Lang03.Start",
+      "BattleDist": 50,
+      "VisibleDist": 100,
+      "DestroyDist": 150,
+      "BattleZOffset": 50,
+      "DestroyZOffset": 100
+    }
+  ]
+}

@@ -1,0 +1,3452 @@
+{
+  "List": [
+    {
+      "ID": 100101,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "体健",
+          "EffectDesc": "每级少许减少疾奔时的气力消耗",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "体健",
+          "EffectDesc": "每级少许减少疾奔时的气力消耗",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100102,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "绵绵",
+          "EffectDesc": "气力竭尽时，些微减少恢复时间",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100103,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "定息存神",
+          "EffectDesc": "翻滚后，<SpellDetail_Desc_KW>轻棍</><IA>B1LightAttack</>可继续连招；闪身同效",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100104,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "身轻",
+          "EffectDesc": "跳跃时，大大减少气力消耗",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100105,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "调息",
+          "EffectDesc": "每级一定程度增加生命<SpellDetail_Desc_KW>过半</>时，气力的恢复速度",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "调息",
+          "EffectDesc": "每级一定程度增加生命<SpellDetail_Desc_KW>过半</>时，气力的恢复速度",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100106,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "猿捷",
+          "EffectDesc": "每级少许减少翻滚时的气力消耗",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "猿捷",
+          "EffectDesc": "每级少许减少翻滚时的气力消耗",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100107,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "任翻腾 ",
+          "EffectDesc": "第一段翻滚，更敏捷灵活 ",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100108,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "走险",
+          "EffectDesc": "每级少许增加<SpellDetail_Desc_KW>闪身</>时获得的棍势",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "志心",
+          "EffectDesc": "每级少许增加<SpellDetail_Desc_KW>闪身</>时获得的棍势",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100109,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "绝念",
+          "EffectDesc": "<SpellDetail_Desc_KW>闪身</>后短时间内，获得一定程度伤害减免",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100110,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "梦幻泡影",
+          "EffectDesc": "<SpellDetail_Desc_KW>闪身</>时，在原地留下身形泡影，顷刻后炸裂，震伤周围对手",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100201,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "直取",
+          "EffectDesc": "每级较大增加<SpellDetail_Desc_KW>轻棍第一式</>近身对手的距离",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "直取",
+          "EffectDesc": "每级较大增加<SpellDetail_Desc_KW>轻棍第一式</>近身对手的距离",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100202,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "接力",
+          "EffectDesc": "<SpellDetail_Desc_KW>轻棍第二式</>打中对手时，获得更多棍势",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100203,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "冲霄",
+          "EffectDesc": "疾奔片时后，<SpellDetail_Desc_KW>轻棍第一式</>可造成更多伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100204,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "捣蒜打",
+          "EffectDesc": "轻棍前四式若能打中对手六次，<SpellDetail_Desc_KW>轻棍终结式</>将造成额外范围伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100205,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "筋节",
+          "EffectDesc": "<SpellDetail_Desc_KW>轻棍终结式</>出招期间，获得较大伤害减免",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100206,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "气息不绝",
+          "EffectDesc": "气力竭尽后，仍可打出较弱的<SpellDetail_Desc_KW>轻棍终结式</>",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100207,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "棍花移步",
+          "EffectDesc": "<IA>B1Spin</> 可使出棍花\\n\\n棍花时<KB>W</><GP>Gamepad_Left2D</>向前移动，可打出<SpellDetail_Desc_KW>棍花移步</>\\n\\n棍在身周轮番旋舞，可抵住弹丸箭矢",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100208,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "方圆径寸",
+          "EffectDesc": "<SpellDetail_Desc_KW>棍花移步</>时，衔接重棍<IA>B1HeavyAttack</>可快速近身对手，并顺势顶他一个趔趄",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100209,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "化吉",
+          "EffectDesc": "<SpellDetail_Desc_KW>棍花</>挡住飞矢时，一定程度增加获得的棍势",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100210,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "应手",
+          "EffectDesc": "舞出<SpellDetail_Desc_KW>棍花</>时，较大减少气力消耗",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100211,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "得心",
+          "EffectDesc": "<SpellDetail_Desc_KW>棍花移步</>打中对手时，大大增加获得的棍势",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100301,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "五脏坚固",
+          "EffectDesc": "每级少许提升生命上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "五脏坚固",
+          "EffectDesc": "每级少许提升生命上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "五脏坚固",
+          "EffectDesc": "每级少许提升生命上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "五脏坚固",
+          "EffectDesc": "每级少许提升生命上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "五脏坚固",
+          "EffectDesc": "每级少许提升生命上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "五脏坚固",
+          "EffectDesc": "每级少许提升生命上限",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100302,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "气海充盈",
+          "EffectDesc": "每级少许提升气力上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "气海充盈",
+          "EffectDesc": "每级少许提升气力上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "气海充盈",
+          "EffectDesc": "每级少许提升气力上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "气海充盈",
+          "EffectDesc": "每级少许提升气力上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "气海充盈",
+          "EffectDesc": "每级少许提升气力上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "气海充盈",
+          "EffectDesc": "每级少许提升气力上限",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100303,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "灾苦消减",
+          "EffectDesc": "每级些微减少所有异常状态持续时间",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "灾苦消减",
+          "EffectDesc": "每级些微减少所有异常状态持续时间",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "灾苦消减",
+          "EffectDesc": "每级些微减少所有异常状态持续时间",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "灾苦消减",
+          "EffectDesc": "每级些微减少所有异常状态持续时间",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "灾苦消减",
+          "EffectDesc": "每级些微减少所有异常状态持续时间",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "灾苦消减",
+          "EffectDesc": "每级些微减少所有异常状态持续时间",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100304,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "怒相厚积",
+          "EffectDesc": "每级些微增加暴击率",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "怒相厚积",
+          "EffectDesc": "每级些微增加暴击率",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "怒相厚积",
+          "EffectDesc": "每级些微增加暴击率",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "怒相厚积",
+          "EffectDesc": "每级些微增加暴击率",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "怒相厚积",
+          "EffectDesc": "每级些微增加暴击率",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "怒相厚积",
+          "EffectDesc": "每级些微增加暴击率",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100305,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "皮肉粗糙",
+          "EffectDesc": "每级少许增加防御",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "皮肉粗糙",
+          "EffectDesc": "每级少许增加防御",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "皮肉粗糙",
+          "EffectDesc": "每级少许增加防御",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "皮肉粗糙",
+          "EffectDesc": "每级少许增加防御",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "皮肉粗糙",
+          "EffectDesc": "每级少许增加防御",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "皮肉粗糙",
+          "EffectDesc": "每级少许增加防御",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100306,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "法性贯通",
+          "EffectDesc": "每级少许提升法力上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "法性贯通",
+          "EffectDesc": "每级少许提升法力上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "法性贯通",
+          "EffectDesc": "每级少许提升法力上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "法性贯通",
+          "EffectDesc": "每级少许提升法力上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "法性贯通",
+          "EffectDesc": "每级少许提升法力上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "法性贯通",
+          "EffectDesc": "每级少许提升法力上限",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100307,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "吐纳绵长",
+          "EffectDesc": "每级少许增加气力恢复速度",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "吐纳绵长",
+          "EffectDesc": "每级少许增加气力恢复速度",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "吐纳绵长",
+          "EffectDesc": "每级少许增加气力恢复速度",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "吐纳绵长",
+          "EffectDesc": "每级少许增加气力恢复速度",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "吐纳绵长",
+          "EffectDesc": "每级少许增加气力恢复速度",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "吐纳绵长",
+          "EffectDesc": "每级少许增加气力恢复速度",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100308,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "攻势澎湃",
+          "EffectDesc": "每级些微增加攻击造成的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "攻势澎湃",
+          "EffectDesc": "每级些微增加攻击造成的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "攻势澎湃",
+          "EffectDesc": "每级些微增加攻击造成的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "攻势澎湃",
+          "EffectDesc": "每级些微增加攻击造成的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "攻势澎湃",
+          "EffectDesc": "每级些微增加攻击造成的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "攻势澎湃",
+          "EffectDesc": "每级些微增加攻击造成的伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100309,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "四灾忍耐",
+          "EffectDesc": "每级些微增加四灾耐性",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "四灾忍耐",
+          "EffectDesc": "每级些微增加四灾耐性",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "四灾忍耐",
+          "EffectDesc": "每级些微增加四灾耐性",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "四灾忍耐",
+          "EffectDesc": "每级些微增加四灾耐性",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "四灾忍耐",
+          "EffectDesc": "每级些微增加四灾耐性",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "四灾忍耐",
+          "EffectDesc": "每级些微增加四灾耐性",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100310,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "威能凶猛",
+          "EffectDesc": "每级少许增加暴击造成的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "威能凶猛",
+          "EffectDesc": "每级少许增加暴击造成的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "威能凶猛",
+          "EffectDesc": "每级少许增加暴击造成的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "威能凶猛",
+          "EffectDesc": "每级少许增加暴击造成的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "威能凶猛",
+          "EffectDesc": "每级少许增加暴击造成的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "威能凶猛",
+          "EffectDesc": "每级少许增加暴击造成的伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100501,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "棍势二段",
+          "EffectDesc": "棍势上限从一段增至二段",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100502,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "壮怀",
+          "EffectDesc": "每级些微增加消耗一段棍势后可恢复的<SpellDetail_Desc_KW>生命</>",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "壮怀",
+          "EffectDesc": "每级些微增加消耗一段棍势后可恢复的<SpellDetail_Desc_KW>生命</>",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "壮怀",
+          "EffectDesc": "每级些微增加消耗一段棍势后可恢复的<SpellDetail_Desc_KW>生命</>",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100503,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "棍势三段",
+          "EffectDesc": "棍势上限从二段增至三段",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100504,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "熟谙",
+          "EffectDesc": "每级少许减少打出所有蓄力重棍消耗的<SpellDetail_Desc_KW>气力</>",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "熟谙",
+          "EffectDesc": "每级少许减少打出所有蓄力重棍消耗的<SpellDetail_Desc_KW>气力</>",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "熟谙",
+          "EffectDesc": "每级少许减少打出所有蓄力重棍消耗的<SpellDetail_Desc_KW>气力</>",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100505,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "棍势四段",
+          "EffectDesc": "棍势上限从三段增至四段\\n第四段棍势无法久住，会随时间减削",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100506,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "通变",
+          "EffectDesc": "每级些微增加所有棍法切手技的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "通变",
+          "EffectDesc": "每级些微增加所有棍法切手技的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "通变",
+          "EffectDesc": "每级些微增加所有棍法切手技的伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100507,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "精壮",
+          "EffectDesc": "每级些微增加所有棍法的<SpellDetail_Desc_KW>蓄力速度</>",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "精壮",
+          "EffectDesc": "每级些微增加所有棍法的<SpellDetail_Desc_KW>蓄力速度</>",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "精壮",
+          "EffectDesc": "每级些微增加所有棍法的<SpellDetail_Desc_KW>蓄力速度</>",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "精壮",
+          "EffectDesc": "每级些微增加所有棍法的<SpellDetail_Desc_KW>蓄力速度</>",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100508,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "断筋",
+          "EffectDesc": "消耗棍势段数打出的重棍，将按对手<SpellDetail_Desc_KW>剩余的生命</>造成额外伤害 ",
+          "NextDesc": "造成更多额外伤害"
+        },
+        {
+          "Level": 2,
+          "Name": "断筋",
+          "EffectDesc": "消耗棍势段数打出的重棍，将按对手<SpellDetail_Desc_KW>剩余的生命</>造成额外伤害 ",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100509,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "心有余",
+          "EffectDesc": "棍势不足一段时，能勉力打出切手技，但伤害较大减削 ",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100601,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "展足",
+          "EffectDesc": "蓄力过程中可疾奔",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100602,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "克刚",
+          "EffectDesc": "每级一定程度增加劈出重棍时获得的<SpellDetail_Desc_KW>伤害减免</>",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "克刚",
+          "EffectDesc": "每级一定程度增加劈出重棍时获得的<SpellDetail_Desc_KW>伤害减免</>",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100603,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "压溃",
+          "EffectDesc": "每级些微增加蓄力劈棍造成的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "压溃",
+          "EffectDesc": "每级些微增加蓄力劈棍造成的伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100604,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "化险为夷",
+          "EffectDesc": "蓄力时若触发<SpellDetail_Desc_KW>闪身</>，可保留当前棍势",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100607,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "识破",
+          "EffectDesc": "轻棍衔接重棍<IA>B1HeavyAttack</>，<SpellDetail_Desc_KW>消耗一段棍势</>，可打出<SpellDetail_Desc_KW>破棍式</>\\n\\n使出<SpellDetail_Desc_KW>破棍式</>的同时，能<SpellDetail_Desc_KW>化解攻击</>，抵消伤害\\n\\n此时，更容易打退对手",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100608,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "贯索",
+          "EffectDesc": "识破对手出招时，衔接轻棍<IA>B1LightAttack</>，将从<SpellDetail_Desc_KW>轻棍第三式</>开始出招",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100609,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "斩棍式",
+          "EffectDesc": "破棍式打中对手后，衔接重棍<IA>B1HeavyAttack</>，<SpellDetail_Desc_KW>消耗一段棍势</>，打出<SpellDetail_Desc_KW>斩棍式</>\\n\\n天命人撑棍借前势，纵筋斗跳上高空，照对手顶门上着着实实打下",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100610,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "抖擞",
+          "EffectDesc": "<SpellDetail_Desc_KW>破棍式</>识破并打中对手，可获得大量棍势",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100611,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "乘胜追击",
+          "EffectDesc": "识破对手后，当前棍势段数越高，接续<SpellDetail_Desc_KW>斩棍式</>打出的伤害越高",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100701,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "立棍",
+          "EffectDesc": "切换至立棍法<IA>B1SwitchWeaponPoseProp</>，<SpellDetail_Desc_KW>按住重棍</><IA>B1HeavyAttack</>不放，可撑棍而起，躲开地面上的阵势\\n\\n棍势段数提升时则提升棍长\\n\\n若此时被对手打中棍身，则会消耗更多气力来稳住身形",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100702,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "铁树",
+          "EffectDesc": "每级少许减少棍身被打中时额外的气力消耗",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "铁树",
+          "EffectDesc": "每级少许减少棍身被打中时额外的气力消耗",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100703,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "悠哉",
+          "EffectDesc": "立在棍梢时，当棍势超过三段，可在杆头临风畅饮，悠然快哉",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100704,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "不动身",
+          "EffectDesc": "立在棍梢时，气力竭尽<SpellDetail_Desc_KW>不会跌落在地</>，而是将重棍顺势打出",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100705,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "风云转",
+          "EffectDesc": "轻棍衔接重棍<IA>B1HeavyAttack</>，<SpellDetail_Desc_KW>消耗一段棍势</>，可打出<SpellDetail_Desc_KW>风云转</>\\n\\n使棍支住地面，单手绰住棍身，旋身如轮，可用脚蹬倒周围的对手",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100706,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "拂痒",
+          "EffectDesc": "使出<SpellDetail_Desc_KW>风云转</>时，可获得一定程度的伤害减免",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100707,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "江海翻",
+          "EffectDesc": "风云转打中对手后，衔接重棍<IA>B1HeavyAttack</>，<SpellDetail_Desc_KW>消耗一段棍势</>，可打出<SpellDetail_Desc_KW>江海翻</>\\n\\n天命人借前势，把棒丢个撒花盖顶，恰好搅散周围的对手",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100708,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天地倾",
+          "EffectDesc": "<SpellDetail_Desc_KW>江海翻</>将耗尽全部棍势，并依此造成更多伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100801,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "戳棍",
+          "EffectDesc": "切换至戳棍法<IA>B1SwitchWeaponPosePoke</>，<SpellDetail_Desc_KW>按住重棍</><IA>B1HeavyAttack</>不放，可原地蓄力\\n\\n<SpellDetail_Desc_KW>松开重棍</>，单手将棍戳出，棍子顺势而长打在对手身上",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100802,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "借力",
+          "EffectDesc": "每级增加戳棍打中对手时恢复的气力",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "借力",
+          "EffectDesc": "每级增加戳棍打中对手时恢复的气力",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100803,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "搅阵",
+          "EffectDesc": "打出蓄力重棍或退寸、进尺后，<SpellDetail_Desc_KW>按住轻棍</><IA>B1LightAttack</>不放，可打出<SpellDetail_Desc_KW>搅阵</>\\n\\n跳步跃进，贴身对手，戳出棍棒，并不停搅打对手",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100804,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "骋势",
+          "EffectDesc": "<SpellDetail_Desc_KW>搅阵</>每打中一次对手，短时间内些微增加暴击率，可垒叠十五次",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100805,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "猛打",
+          "EffectDesc": "被打退的对手，将受到蓄力戳棍更多的伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100806,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "凤穿花",
+          "EffectDesc": "当有四段棍势时，<SpellDetail_Desc_KW>翻滚、闪身</>后的瞬息，可接续重棍<IA>B1HeavyAttack</>直接打出戳棍",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100807,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "退寸进尺",
+          "EffectDesc": "轻棍衔接重棍<IA>B1HeavyAttack</>，可打出<SpellDetail_Desc_KW>退寸</>\\n跳步后退，回守己身，厚积劲力，只待整备再发\\n\\n退寸衔接重棍<IA>B1HeavyAttack</>，<SpellDetail_Desc_KW>消耗一段棍势</>，可打出<SpellDetail_Desc_KW>进尺</>\\n双手以全身之力将棍戳出，棍子顺势而长直击对手面门",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100808,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "应变",
+          "EffectDesc": "<SpellDetail_Desc_KW>搅阵</>接续重棍<IA>B1HeavyAttack</>，可打出<SpellDetail_Desc_KW>退寸</>",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100809,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "赌胜",
+          "EffectDesc": "使出<SpellDetail_Desc_KW>退寸</>的同时，若化解攻击，接续重棍打出<SpellDetail_Desc_KW>进尺</>时获得短暂无敌",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100810,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "此消彼长",
+          "EffectDesc": "使出<SpellDetail_Desc_KW>退寸</>的同时，若化解攻击，一定时间内所有动作不消耗气力",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100901,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "脆断",
+          "EffectDesc": "每级少许增加打中被定身的对手时，造成的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "脆断",
+          "EffectDesc": "每级少许增加打中被定身的对手时，造成的伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100902,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "瞬机",
+          "EffectDesc": "在对手出招的瞬息，将其定住！可延长定身时间，且大大增加对手受到的伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100903,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "不破不立",
+          "EffectDesc": "粉碎对手的定身时，可恢复少许法力",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100904,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "假借须臾",
+          "EffectDesc": "多消耗少许法力来大大延长此法的定身时间",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100905,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "凝滞",
+          "EffectDesc": "轻棍打中对手时，可些微延长其下次被定身的时间\\n\\n每次定身最多垒叠五层定身延长",
+          "NextDesc": "每次定身最多可垒叠十层定身延长"
+        },
+        {
+          "Level": 2,
+          "Name": "凝滞",
+          "EffectDesc": "轻棍打中对手时，可些微延长其下次被定身的时间\\n\\n每次定身最多垒叠十层定身延长",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100906,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "欺身",
+          "EffectDesc": "使出定身法后，大大增加<SpellDetail_Desc_KW>轻棍第一式</>的近身距离",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100907,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "续真",
+          "EffectDesc": "使出定身法后，<SpellDetail_Desc_KW>轻棍</><IA>B1LightAttack</>可继续连招",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101001,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "纵横",
+          "EffectDesc": "化气时，少许增加移动速度",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101002,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "养气",
+          "EffectDesc": "每级些微增加化气的维持时间",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "养气",
+          "EffectDesc": "每级些微增加化气的维持时间",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101003,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "铁棒当头",
+          "EffectDesc": "化气时，可使用重棍蓄力<IA>B1HeavyAttack</>来代替轻棍造成破隐一击",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101004,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "破影一击",
+          "EffectDesc": "一定程度增加破隐一击的伤害\\n\\n参悟该天赋后，将少许增加此法的初始法力消耗",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101005,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "洞察",
+          "EffectDesc": "每级些微增加化气时每秒垒叠的破隐一击暴击率，最多可以垒叠十层",
+          "NextDesc": "增加每秒垒叠的暴击率"
+        },
+        {
+          "Level": 2,
+          "Name": "洞察",
+          "EffectDesc": "每级些微增加化气时每秒垒叠的破隐一击暴击率，最多可以垒叠十层",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101006,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "捣虚",
+          "EffectDesc": "每级一定程度增加假身的生命上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "捣虚",
+          "EffectDesc": "每级一定程度增加假身的生命上限",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101007,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "舍身",
+          "EffectDesc": "假身每被打中一次，都将产生范围震荡，攻击周围的对手\\n\\n震荡每秒仅可触发一次",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101101,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "疾返",
+          "EffectDesc": "化身铜头铁臂时，可主动解除该状态",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101102,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "知机",
+          "EffectDesc": "转震对手时，可获得一定棍势",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101103,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "厉无咎",
+          "EffectDesc": "转震对手，可恢复一定量法力；\\n\\n参悟该天赋后，会缩短铜头铁臂转震对手的时机",
+          "NextDesc": "进一步缩短转震对手的时机，但恢复更多法力"
+        },
+        {
+          "Level": 2,
+          "Name": "厉无咎",
+          "EffectDesc": "转震对手，可恢复较多法力；\\n\\n参悟该天赋后，将进一步缩短铜头铁臂转震对手的时机",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101104,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "先发",
+          "EffectDesc": "转震对手时，追击打出的<SpellDetail_Desc_KW>轻棍第一式</>可造成更多伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101105,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "频频",
+          "EffectDesc": "少许减少铜头铁臂的回转时间",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101106,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "巩固",
+          "EffectDesc": "转震对手后一定时间内，获得一定程度的伤害减免",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101201,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "存身",
+          "EffectDesc": "每级少许增加毛猴的维持时间",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "存身",
+          "EffectDesc": "每级少许增加毛猴的维持时间",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101202,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "合契",
+          "EffectDesc": "使出身外身法后，每次打中对手，可少许延长毛猴的维持时间\\n\\n最多可垒叠十次时间延长",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101203,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "毛吞大海",
+          "EffectDesc": "每级多消耗一定法力，来增加一个毛猴分身",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "毛吞大海",
+          "EffectDesc": "每级多消耗一定法力，来增加一个毛猴分身",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101204,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "应物随心",
+          "EffectDesc": "毛猴将在适当时机使用：定身法、安身法、铜头铁臂",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101205,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "同寿",
+          "EffectDesc": "少许增加毛猴的生命上限",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101206,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "仗势",
+          "EffectDesc": "少许增加围绕在天命人身旁的毛猴所造成的攻击",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101207,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "玄同",
+          "EffectDesc": "毛猴们每次轻棍打中对手，可为天命人增加少许棍势",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101208,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "浇油",
+          "EffectDesc": "使出身外身法后，天命人继续使出其他法术，可些微增加毛猴造成的攻击伤害",
+          "NextDesc": "进一步增加毛猴造成的攻击伤害"
+        },
+        {
+          "Level": 2,
+          "Name": "浇油",
+          "EffectDesc": "使出身外身法后，天命人继续使出其他法术，可少许增加毛猴造成的攻击伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101301,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "圆明",
+          "EffectDesc": "每级些微增加安身法阵势的维持时间",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "圆明",
+          "EffectDesc": "每级些微增加安身法阵势的维持时间",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "圆明",
+          "EffectDesc": "每级些微增加安身法阵势的维持时间",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101302,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "烈烈",
+          "EffectDesc": "身处阵势中，每秒可获得更多棍势",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101303,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "弥坚",
+          "EffectDesc": "身处阵势中，可缓慢恢复生命",
+          "NextDesc": "进一步增加恢复的生命"
+        },
+        {
+          "Level": 2,
+          "Name": "弥坚",
+          "EffectDesc": "身处阵势中，可缓慢恢复更多生命",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101304,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "无挂无碍",
+          "EffectDesc": "身处阵势中一定时间后，踏出阵外，可延长阵势带来的效果\\n\\n参悟该天赋后，将少许增加此法的法力消耗",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101305,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "昂扬",
+          "EffectDesc": "身处阵势中，将额外增加气力上限",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101306,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "归根",
+          "EffectDesc": "身处阵势中，将获得一定程度的伤害减免",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101401,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "回阳",
+          "EffectDesc": "打杀对手，可缩短救命毫毛的回转时间",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101402,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "不怯",
+          "EffectDesc": "使出救命毫毛后，立刻恢复两口葫芦的盛酒量",
+          "NextDesc": "恢复更多葫芦的盛酒量"
+        },
+        {
+          "Level": 2,
+          "Name": "不怯",
+          "EffectDesc": "使出救命毫毛后，立刻恢复三口葫芦的盛酒量",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101403,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "不增不减",
+          "EffectDesc": "使出救命毫毛后，立刻恢复少许法力",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101404,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "去来空",
+          "EffectDesc": "使出救命毫毛时，有少许概率不消耗救命毫毛的法术次数",
+          "NextDesc": "有更大概率不消耗救命毫毛的法术次数"
+        },
+        {
+          "Level": 2,
+          "Name": "去来空",
+          "EffectDesc": "使出救命毫毛时，有一定概率不消耗救命毫毛的法术次数",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101501,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "祸福",
+          "EffectDesc": "使出禁字法时，消解所有异常状态",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101502,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "不休",
+          "EffectDesc": "禁字法维持期间，少许降低所有行动的<SpellDetail_Desc_KW>气力消耗</>",
+          "NextDesc": "进一步降低气力消耗"
+        },
+        {
+          "Level": 2,
+          "Name": "不休",
+          "EffectDesc": "禁字法维持期间，一定程度降低所有行动的<SpellDetail_Desc_KW>气力消耗</>",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101503,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "智力高强",
+          "EffectDesc": "每级些微增加法力转化为攻击的比例",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "智力高强",
+          "EffectDesc": "每级些微增加法力转化为攻击的比例",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101504,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "放手一搏",
+          "EffectDesc": "使出禁字法，将耗尽当下的全部气力，将其转化为暴击率",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 101505,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "舍得",
+          "EffectDesc": "使出禁字法后，可恢复一定量生命",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 103001,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "旋风追击",
+          "EffectDesc": "往左、右方向闪避后，重攻击变为旋风追击，对敌人造成多段伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103002,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "强力追击",
+          "EffectDesc": "往前、后方向闪避后，重攻击变为强力追击，对敌人造成单次大量伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103003,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "迅捷步伐",
+          "EffectDesc": "若闪避无效化敌人攻击，2秒内下一次攻击的伤害增加",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103004,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "二段突进",
+          "EffectDesc": "重攻击突进在命中敌人后可进行二次突进",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103005,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "突进恢复",
+          "EffectDesc": "二次突进命中后，恢复少量生命值",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103101,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "巧技",
+          "EffectDesc": "右键硬化开始的短时间内首次受击会触发弹刀效果，触发弹刀时获得大幅特殊能量",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103102,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "无忧",
+          "EffectDesc": "右键硬化期间受击不再消耗变身能量",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103103,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "石化",
+          "EffectDesc": "右键硬化过程受击会恢复少量变身能量",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103104,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "残甲",
+          "EffectDesc": "如果变身期间特殊能量充满过，变身结束后一段时间获得30%伤害减免",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103105,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "回生",
+          "EffectDesc": "结束变身后的一段时间内，维持恢复悟空生命",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103201,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "持久之雾",
+          "EffectDesc": "油雾维持时间从10秒提升到15秒",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103202,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "雾中恶鬼",
+          "EffectDesc": "在油雾中获得20%的伤害减免",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103203,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "燃烧生命",
+          "EffectDesc": "引燃火焰状态下，近战攻击改为消耗生命值（8点）而非变身能量 且 所有近战攻击伤害增加30%",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103204,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "火焰吸收",
+          "EffectDesc": "引燃火焰状态下，在油雾中每次攻击到敌人时恢复少量生命值（5%）",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103205,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "白日焰火",
+          "EffectDesc": "以强力自爆结束双头鼠变身",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103501,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "完美蓄力",
+          "EffectDesc": "重攻击可以蓄力释放；如果在蓄力的特定时间段内释放，招式改变 且 伤害增加",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103502,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "完美追击",
+          "EffectDesc": "如果在轻攻击前3段后摇的特定时间段内触发轻攻击连招，下一段轻攻击的伤害增加",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103503,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "雷光",
+          "EffectDesc": "轻攻击命中目标时，使目标积累雷异常；重攻击命中处于雷异常的目标时，触发雷光效果（范围伤害）",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103504,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "多重雷光",
+          "EffectDesc": "完美蓄力释放的重攻击命中目标时，根据蓄力时长不同，最多触发3次雷光效果",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103505,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "雷光轰鸣",
+          "EffectDesc": "增加雷光效果的伤害范围；使被雷光命中的目标积累雷异常",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103601,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天赋1",
+          "EffectDesc": "待定天赋1",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103602,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天赋2",
+          "EffectDesc": "待定天赋2",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103603,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天赋3",
+          "EffectDesc": "待定天赋3",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103604,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天赋4",
+          "EffectDesc": "待定天赋4",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103605,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天赋5",
+          "EffectDesc": "待定天赋5",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103701,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天赋1",
+          "EffectDesc": "待定天赋1",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103702,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天赋2",
+          "EffectDesc": "待定天赋2",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103703,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天赋3",
+          "EffectDesc": "待定天赋3",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103704,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天赋4",
+          "EffectDesc": "待定天赋4",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103705,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天赋5",
+          "EffectDesc": "待定天赋5",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103801,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天赋1",
+          "EffectDesc": "待定天赋1",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103802,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天赋2",
+          "EffectDesc": "待定天赋2",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103803,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天赋3",
+          "EffectDesc": "待定天赋3",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103804,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "天赋4",
+          "EffectDesc": "待定天赋4",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 103805,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "尸爆",
+          "EffectDesc": "击杀敌人时，在其位置产生爆炸，造成毒伤",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 200101,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "见机强攻",
+          "EffectDesc": "轻棍若持续打中敌人，一定程度增加获得的棍势",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200102,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "眼乖手疾",
+          "EffectDesc": "当聚形散气破隐一击打中对手时，大大减少此法的回转时间",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200103,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "慧眼圆睁",
+          "EffectDesc": "一定程度增加暴击伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200104,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "<被动能力>",
+          "EffectDesc": "见貌辨色，恃才生恶。易于识破群妖中潜灵作怪的头领。",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200201,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "耳听八方",
+          "EffectDesc": "些微增加所有第一段切手技的无敌时间",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200202,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "如撞金钟",
+          "EffectDesc": "减少铜头铁臂可转震对手的时间，但成功转震后，将返还一半消耗的法力",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200203,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "耳畔风响",
+          "EffectDesc": "闪身后少时内，少许增加攻击",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200204,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "<被动能力>",
+          "EffectDesc": "聆音察理，知难行易。在机缘处可闻知昔日的余韵回声。",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200301,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "气味相投",
+          "EffectDesc": "释放法术后一段时间内，获得少许伤害加成",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200302,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "一鼓作气",
+          "EffectDesc": "安身法范围内可蓄力至四段重棍",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200303,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "屏气敛息",
+          "EffectDesc": "少许增加翻滚的无敌时间",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200304,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "<被动能力>",
+          "EffectDesc": "闻香逐气，入迷出奇。易于发现藏在山野中的灵草药苗。",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200401,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "丹满力足",
+          "EffectDesc": "取用丹药后，增加下一次攻击的暴击率",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200402,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "万称万应",
+          "EffectDesc": "定身法也对对手周遭的所有对手生效",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200403,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "遍尝百草",
+          "EffectDesc": "每装配一个泡酒物，都可些微提升酒的生命恢复量",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200404,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "<被动能力>",
+          "EffectDesc": "食髓知味，乐极生悲。增延丹药服食后的维持时间。",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200501,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "身轻体快",
+          "EffectDesc": "大大减少打出所有蓄力重棍消耗的气力",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200502,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "福寿长臻",
+          "EffectDesc": "一定程度提升生命上限",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200503,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "灾愆不侵",
+          "EffectDesc": "一定程度增加四灾耐性",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200504,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "<被动能力>",
+          "EffectDesc": "健体牢骨，生死未卜。能够大大消减坠落造成的冲击。",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200601,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "万相归真",
+          "EffectDesc": "少许增加轻棍造成的伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200602,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "合意同心",
+          "EffectDesc": "天命人使出部分强力招式时，在场毛猴会复制招式",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200603,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "不生不灭",
+          "EffectDesc": "触发救命毫毛后，一定时间内不会身亡且获得较大伤害加成",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 200604,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "<被动能力>",
+          "EffectDesc": "通圣通灵，长夜难明。可在忆念中重又踏上西行之路。",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301001,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "暗藏神妙",
+          "EffectDesc": "每级少许增加神力的上限 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "暗藏神妙",
+          "EffectDesc": "每级少许增加神力的上限 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "暗藏神妙",
+          "EffectDesc": "每级少许增加神力的上限 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "暗藏神妙",
+          "EffectDesc": "每级少许增加神力的上限 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "暗藏神妙",
+          "EffectDesc": "每级少许增加神力的上限 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "暗藏神妙",
+          "EffectDesc": "每级少许增加神力的上限 ",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301002,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "保养精神",
+          "EffectDesc": "每级少许减少变身随时间消耗的神力 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "保养精神",
+          "EffectDesc": "每级少许减少变身随时间消耗的神力 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "保养精神",
+          "EffectDesc": "每级少许减少变身随时间消耗的神力 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "保养精神",
+          "EffectDesc": "每级少许减少变身随时间消耗的神力 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "保养精神",
+          "EffectDesc": "每级少许减少变身随时间消耗的神力 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "保养精神",
+          "EffectDesc": "每级少许减少变身随时间消耗的神力 ",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301003,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "存神炼气",
+          "EffectDesc": "每级少许增加神力的恢复速度 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "存神炼气",
+          "EffectDesc": "每级少许增加神力的恢复速度 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "存神炼气",
+          "EffectDesc": "每级少许增加神力的恢复速度 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "存神炼气",
+          "EffectDesc": "每级少许增加神力的恢复速度 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "存神炼气",
+          "EffectDesc": "每级少许增加神力的恢复速度 ",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "存神炼气",
+          "EffectDesc": "每级少许增加神力的恢复速度 ",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301004,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "虚相凶猛",
+          "EffectDesc": "每级些微增加变身的攻击",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "虚相凶猛",
+          "EffectDesc": "每级些微增加变身的攻击",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "虚相凶猛",
+          "EffectDesc": "每级些微增加变身的攻击",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "虚相凶猛",
+          "EffectDesc": "每级些微增加变身的攻击",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "虚相凶猛",
+          "EffectDesc": "每级些微增加变身的攻击",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "虚相凶猛",
+          "EffectDesc": "每级些微增加变身的攻击",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301005,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "炼实返虚",
+          "EffectDesc": "每级少许增加变身的生命上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "炼实返虚",
+          "EffectDesc": "每级少许增加变身的生命上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "炼实返虚",
+          "EffectDesc": "每级少许增加变身的生命上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "炼实返虚",
+          "EffectDesc": "每级少许增加变身的生命上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "炼实返虚",
+          "EffectDesc": "每级少许增加变身的生命上限",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "炼实返虚",
+          "EffectDesc": "每级少许增加变身的生命上限",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301006,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "截伪续真",
+          "EffectDesc": "每级少许增加还原己身时留存的神力",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "截伪续真",
+          "EffectDesc": "每级少许增加还原己身时留存的神力",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "截伪续真",
+          "EffectDesc": "每级少许增加还原己身时留存的神力",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "截伪续真",
+          "EffectDesc": "每级少许增加还原己身时留存的神力",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "截伪续真",
+          "EffectDesc": "每级少许增加还原己身时留存的神力",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "截伪续真",
+          "EffectDesc": "每级少许增加还原己身时留存的神力",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301101,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "步月",
+          "EffectDesc": "每级少许增加闪身后下次攻击造成的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "步月",
+          "EffectDesc": "每级少许增加闪身后下次攻击造成的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "步月",
+          "EffectDesc": "每级少许增加闪身后下次攻击造成的伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301102,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "磊磊",
+          "EffectDesc": "每级少许增加防御",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "磊磊",
+          "EffectDesc": "每级少许增加防御",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "磊磊",
+          "EffectDesc": "每级少许增加防御",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "磊磊",
+          "EffectDesc": "每级少许增加防御",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "磊磊",
+          "EffectDesc": "每级少许增加防御",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "磊磊",
+          "EffectDesc": "每级少许增加防御",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301103,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "剪尾",
+          "EffectDesc": "少许降低所有身法的回转时间",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301104,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "爆躁",
+          "EffectDesc": "每级些微增加赋火攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "爆躁",
+          "EffectDesc": "每级些微增加赋火攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "爆躁",
+          "EffectDesc": "每级些微增加赋火攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "爆躁",
+          "EffectDesc": "每级些微增加赋火攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "爆躁",
+          "EffectDesc": "每级些微增加赋火攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "爆躁",
+          "EffectDesc": "每级些微增加赋火攻击的伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301105,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "霏霏",
+          "EffectDesc": "每级些微增加赋寒攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "霏霏",
+          "EffectDesc": "每级些微增加赋寒攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "霏霏",
+          "EffectDesc": "每级些微增加赋寒攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "霏霏",
+          "EffectDesc": "每级些微增加赋寒攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "霏霏",
+          "EffectDesc": "每级些微增加赋寒攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "霏霏",
+          "EffectDesc": "每级些微增加赋寒攻击的伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301106,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "红眼",
+          "EffectDesc": "打杀对手后，长时间内些微增加攻击，效果可垒叠二十层",
+          "NextDesc": "效果可垒叠更多层数"
+        },
+        {
+          "Level": 2,
+          "Name": "红眼",
+          "EffectDesc": "打杀对手后，长时间内些微增加攻击，效果可垒叠三十层",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301107,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "恶秽",
+          "EffectDesc": "每级些微增加赋毒攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "恶秽",
+          "EffectDesc": "每级些微增加赋毒攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "恶秽",
+          "EffectDesc": "每级些微增加赋毒攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "恶秽",
+          "EffectDesc": "每级些微增加赋毒攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "恶秽",
+          "EffectDesc": "每级些微增加赋毒攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "恶秽",
+          "EffectDesc": "每级些微增加赋毒攻击的伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301108,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "一闪",
+          "EffectDesc": "成功识破对手出招后，少许增加无敌时间",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301109,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "奔霄",
+          "EffectDesc": "每级些微增加赋雷攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 2,
+          "Name": "奔霄",
+          "EffectDesc": "每级些微增加赋雷攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 3,
+          "Name": "奔霄",
+          "EffectDesc": "每级些微增加赋雷攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 4,
+          "Name": "奔霄",
+          "EffectDesc": "每级些微增加赋雷攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 5,
+          "Name": "奔霄",
+          "EffectDesc": "每级些微增加赋雷攻击的伤害",
+          "NextDesc": ""
+        },
+        {
+          "Level": 6,
+          "Name": "奔霄",
+          "EffectDesc": "每级些微增加赋雷攻击的伤害",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 301110,
+      "InputDesc": "",
+      "DisplayCfg": [
+        {
+          "Level": 1,
+          "Name": "不坏身",
+          "EffectDesc": "一定程度增加四灾耐性",
+          "NextDesc": ""
+        }
+      ],
+      "TalentType": 2,
+      "LocalizationTag": 1
+    }
+  ]
+}

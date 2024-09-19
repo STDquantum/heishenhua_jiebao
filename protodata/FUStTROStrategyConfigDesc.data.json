@@ -1,0 +1,118 @@
+{
+  "List": [
+    {
+      "ID": 0,
+      "UnitGuid": "UGuid.NPC.ZhuBaJie.psdsv",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 1,
+      "UnitGuid": "UGuid.HYS.ZhanChe.01a",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 2,
+      "UnitGuid": "UGuid.HYS.TuDi.YS",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 1
+    },
+    {
+      "ID": 3,
+      "UnitGuid": "UGuid.LYS.TuDi",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 1
+    },
+    {
+      "ID": 4,
+      "UnitGuid": "UGuid.LYS.Mo3.Fly",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 5,
+      "UnitGuid": "UGuid.SZLC.XiShuai.01",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 6,
+      "UnitGuid": "UGuid.NPC.ZhuBaJie.GB",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 7,
+      "UnitGuid": "UGuid.HYS.Fox.01",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 8,
+      "UnitGuid": "UGuid.HYS.Fox.02",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 9,
+      "UnitGuid": "UGuid.BYS.Xiniu",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 10,
+      "UnitGuid": "UGuid.BYS.Xuelu",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 11,
+      "UnitGuid": "UGuid.BYS.Xuelu.NPC",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 12,
+      "UnitGuid": "UGuid.LYS.Mo3.OutsideTemple",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 13,
+      "UnitGuid": "UGuid.HYS.Fox.03",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 14,
+      "UnitGuid": "UGuid.HYS.Fox.04",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 15,
+      "UnitGuid": "UGuid.HFM.ShuWang_01a.SW0",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 16,
+      "UnitGuid": "UGuid.HFM.ShuWang_01a.SW1",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 17,
+      "UnitGuid": "UGuid.LYS.KJL.Long",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    },
+    {
+      "ID": 18,
+      "UnitGuid": "UGuid.LSH.DuJiaoXian",
+      "Disable": 1,
+      "DisableLineTraceOptimization": 0
+    }
+  ]
+}

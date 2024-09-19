@@ -1,0 +1,388 @@
+{
+  "List": [
+    {
+      "Id": 1006,
+      "Name": "苍狼林山亭内",
+      "MapId": 10,
+      "SceneName": "黑风山",
+      "SequenceId": 991014,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "AkAudioEvent'/Game/00Main/Audio/Sequence/DAZUO/EVT_sfx_seq_hfs_dazuo_bamboo.EVT_sfx_seq_hfs_dazuo_bamboo'",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 1007,
+      "Name": "翠竹林岩洞内",
+      "MapId": 10,
+      "SceneName": "黑风山",
+      "SequenceId": 991015,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 1004,
+      "Name": "黑风洞崖岸前",
+      "MapId": 10,
+      "SceneName": "黑风山",
+      "SequenceId": 991012,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2002,
+      "Name": "沙门村佛亭前",
+      "MapId": 20,
+      "SceneName": "黄风庙",
+      "SequenceId": 992012,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2001,
+      "Name": "碎石台谷壑前",
+      "MapId": 20,
+      "SceneName": "黄风庙",
+      "SequenceId": 992011,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2004,
+      "Name": "卧虎寺塑像底",
+      "MapId": 20,
+      "SceneName": "黄风庙",
+      "SequenceId": 992014,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2005,
+      "Name": "枕石坪枯松下",
+      "MapId": 20,
+      "SceneName": "黄风庙",
+      "SequenceId": 992015,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2003,
+      "Name": "黄风阵佛窟前",
+      "MapId": 20,
+      "SceneName": "黄风庙",
+      "SequenceId": 992013,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2006,
+      "Name": "沙门界石岩上",
+      "MapId": 20,
+      "SceneName": "黄风庙",
+      "SequenceId": 992016,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3001,
+      "Name": "照鉴湖雪树下",
+      "MapId": 30,
+      "SceneName": "小西天",
+      "SequenceId": 993001,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3002,
+      "Name": "浮屠界冰崖底",
+      "MapId": 30,
+      "SceneName": "小西天",
+      "SequenceId": 993002,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3003,
+      "Name": "戒语廊佛像前",
+      "MapId": 30,
+      "SceneName": "小西天",
+      "SequenceId": 993003,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3004,
+      "Name": "一念壁石道旁",
+      "MapId": 30,
+      "SceneName": "小西天",
+      "SequenceId": 993004,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3005,
+      "Name": "雷音寺佛殿内",
+      "MapId": 30,
+      "SceneName": "小西天",
+      "SequenceId": 993005,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4001,
+      "Name": "碎玉池摩崖前",
+      "MapId": 40,
+      "SceneName": "盘丝岭",
+      "SequenceId": 994001,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4002,
+      "Name": "中层幽阴树下",
+      "MapId": 40,
+      "SceneName": "盘丝岭",
+      "SequenceId": 994002,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4003,
+      "Name": "底层洞天深处",
+      "MapId": 40,
+      "SceneName": "盘丝岭",
+      "SequenceId": 994003,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4004,
+      "Name": "虎蛇虫林崖头",
+      "MapId": 40,
+      "SceneName": "盘丝岭",
+      "SequenceId": 994004,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4005,
+      "Name": "黄花观松柟间",
+      "MapId": 40,
+      "SceneName": "盘丝岭",
+      "SequenceId": 994005,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4006,
+      "Name": "紫云山巉岩上",
+      "MapId": 40,
+      "SceneName": "盘丝岭",
+      "SequenceId": 994006,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5001,
+      "Name": "翠云殿坐佛前",
+      "MapId": 50,
+      "SceneName": "火焰山",
+      "SequenceId": 995001,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5003,
+      "Name": "火燎三关崖前",
+      "MapId": 50,
+      "SceneName": "火焰山",
+      "SequenceId": 995003,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5002,
+      "Name": "春秋寨崖像前",
+      "MapId": 50,
+      "SceneName": "火焰山",
+      "SequenceId": 995002,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5004,
+      "Name": "炼魔坑石屏前",
+      "MapId": 50,
+      "SceneName": "火焰山",
+      "SequenceId": 995004,
+      "AwardList": [
+        {
+          "Id": 1006,
+          "Num": 1
+        }
+      ],
+      "Desc": "",
+      "AkEventPath": "",
+      "LocalizationTag": 1
+    }
+  ]
+}

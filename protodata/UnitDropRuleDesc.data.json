@@ -1,0 +1,933 @@
+{
+  "List": [
+    {
+      "Id": 1000,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3003,
+          "RandId": 1001
+        },
+        {
+          "ItemId": 3001,
+          "RandId": 1006
+        },
+        {
+          "ItemId": 3002,
+          "RandId": 1005
+        }
+      ]
+    },
+    {
+      "Id": 1001,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3001,
+          "RandId": 1008
+        }
+      ]
+    },
+    {
+      "Id": 1002,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3002,
+          "RandId": 1008
+        }
+      ]
+    },
+    {
+      "Id": 1003,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3003,
+          "RandId": 1005
+        }
+      ]
+    },
+    {
+      "Id": 1004,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3004,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 1005,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3005,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 1006,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3003,
+          "RandId": 1007
+        }
+      ]
+    },
+    {
+      "Id": 1007,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3004,
+          "RandId": 1005
+        },
+        {
+          "ItemId": 3007,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 1008,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 10302,
+          "RandId": 1001
+        },
+        {
+          "ItemId": 3005,
+          "RandId": 1005
+        },
+        {
+          "ItemId": 3006,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 1009,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3006,
+          "RandId": 1006
+        }
+      ]
+    },
+    {
+      "Id": 1010,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 10904,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 1011,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3007,
+          "RandId": 1005
+        },
+        {
+          "ItemId": 3008,
+          "RandId": 1002
+        }
+      ]
+    },
+    {
+      "Id": 1012,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 1002,
+          "RandId": 1010
+        }
+      ]
+    },
+    {
+      "Id": 1013,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 1002,
+          "RandId": 1015
+        }
+      ]
+    },
+    {
+      "Id": 1021,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 1003,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 1022,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 5001,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 1023,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 5101,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 1024,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 1003,
+          "RandId": 1001
+        },
+        {
+          "ItemId": 10302,
+          "RandId": 1001
+        },
+        {
+          "ItemId": 10303,
+          "RandId": 1001
+        },
+        {
+          "ItemId": 10304,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 1025,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 18002,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 1026,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 19001,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 1027,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 1004,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 1028,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 1005,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2001,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 10203,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 10701,
+          "RandId": 1012
+        }
+      ]
+    },
+    {
+      "Id": 2002,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 10702,
+          "RandId": 1013
+        },
+        {
+          "ItemId": 10703,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 10704,
+          "RandId": 1013
+        }
+      ]
+    },
+    {
+      "Id": 2003,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 10202,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 10203,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 10204,
+          "RandId": 1008
+        }
+      ]
+    },
+    {
+      "Id": 2004,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 10602,
+          "RandId": 1013
+        },
+        {
+          "ItemId": 10603,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 10604,
+          "RandId": 1013
+        }
+      ]
+    },
+    {
+      "Id": 2005,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 15003,
+          "RandId": 1001
+        },
+        {
+          "ItemId": 18903,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2006,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3025,
+          "RandId": 1005
+        }
+      ]
+    },
+    {
+      "Id": 2007,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3025,
+          "RandId": 1021
+        }
+      ]
+    },
+    {
+      "Id": 2008,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3025,
+          "RandId": 1022
+        }
+      ]
+    },
+    {
+      "Id": 2009,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3025,
+          "RandId": 1023
+        }
+      ]
+    },
+    {
+      "Id": 2012,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 4001,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2013,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 2013,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2014,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 2014,
+          "RandId": 0
+        }
+      ]
+    },
+    {
+      "Id": 2016,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 2016,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2017,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 18903,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2018,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 2014,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2020,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 4012,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2022,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 4002,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2023,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 4009,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2024,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 5006,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2026,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 4013,
+          "RandId": 1012
+        }
+      ]
+    },
+    {
+      "Id": 2027,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 4008,
+          "RandId": 1018
+        },
+        {
+          "ItemId": 4010,
+          "RandId": 1018
+        },
+        {
+          "ItemId": 0,
+          "RandId": 0
+        },
+        {
+          "ItemId": 0,
+          "RandId": 0
+        }
+      ]
+    },
+    {
+      "Id": 2028,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3015,
+          "RandId": 1019
+        },
+        {
+          "ItemId": 3017,
+          "RandId": 1019
+        },
+        {
+          "ItemId": 3018,
+          "RandId": 1014
+        },
+        {
+          "ItemId": 3019,
+          "RandId": 1018
+        }
+      ]
+    },
+    {
+      "Id": 2029,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3015,
+          "RandId": 1012
+        },
+        {
+          "ItemId": 3017,
+          "RandId": 1012
+        },
+        {
+          "ItemId": 3018,
+          "RandId": 1019
+        },
+        {
+          "ItemId": 3019,
+          "RandId": 1014
+        }
+      ]
+    },
+    {
+      "Id": 2030,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3016,
+          "RandId": 1019
+        },
+        {
+          "ItemId": 3020,
+          "RandId": 1019
+        },
+        {
+          "ItemId": 3021,
+          "RandId": 1014
+        },
+        {
+          "ItemId": 3022,
+          "RandId": 1018
+        }
+      ]
+    },
+    {
+      "Id": 2031,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3016,
+          "RandId": 1012
+        },
+        {
+          "ItemId": 3020,
+          "RandId": 1012
+        },
+        {
+          "ItemId": 3021,
+          "RandId": 1019
+        },
+        {
+          "ItemId": 3022,
+          "RandId": 1014
+        }
+      ]
+    },
+    {
+      "Id": 2032,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3035,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 3012,
+          "RandId": 1008
+        }
+      ]
+    },
+    {
+      "Id": 2033,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 2111,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 2113,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 3012,
+          "RandId": 1008
+        }
+      ]
+    },
+    {
+      "Id": 2034,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 2103,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 3009,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 3012,
+          "RandId": 1008
+        }
+      ]
+    },
+    {
+      "Id": 2035,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 2105,
+          "RandId": 1008
+        }
+      ]
+    },
+    {
+      "Id": 2036,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 2108,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 2106,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 3012,
+          "RandId": 1008
+        }
+      ]
+    },
+    {
+      "Id": 2037,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 2206,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2038,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 2106,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 2105,
+          "RandId": 1008
+        }
+      ]
+    },
+    {
+      "Id": 2039,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 2108,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 3012,
+          "RandId": 1008
+        }
+      ]
+    },
+    {
+      "Id": 2040,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3010,
+          "RandId": 1008
+        }
+      ]
+    },
+    {
+      "Id": 2041,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 2108,
+          "RandId": 1001
+        },
+        {
+          "ItemId": 1105,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2042,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 1107,
+          "RandId": 1001
+        },
+        {
+          "ItemId": 2205,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2043,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 2106,
+          "RandId": 1008
+        },
+        {
+          "ItemId": 2208,
+          "RandId": 1008
+        }
+      ]
+    },
+    {
+      "Id": 2044,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 1002,
+          "RandId": 1010
+        },
+        {
+          "ItemId": 1102,
+          "RandId": 1001
+        },
+        {
+          "ItemId": 3019,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2045,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 1002,
+          "RandId": 1010
+        },
+        {
+          "ItemId": 2202,
+          "RandId": 1001
+        },
+        {
+          "ItemId": 3019,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2046,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 11102,
+          "RandId": 1001
+        },
+        {
+          "ItemId": 2203,
+          "RandId": 1001
+        },
+        {
+          "ItemId": 3034,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2047,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 1002,
+          "RandId": 1015
+        },
+        {
+          "ItemId": 3019,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2048,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3023,
+          "RandId": 1001
+        },
+        {
+          "ItemId": 3022,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 2049,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": [
+        {
+          "ItemId": 3022,
+          "RandId": 1001
+        }
+      ]
+    },
+    {
+      "Id": 4006,
+      "LimitQuestId": 0,
+      "LimitQuestState": 0,
+      "Drop": []
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "List": [
+    {
+      "Id": 1,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/MGD/QuestAsset/Guide_mgd_tips.Guide_mgd_tips'",
+      "IsForDebug": 0
+    },
+    {
+      "Id": 2,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/EmptyTest/QuestAssets/Guide_debugroom_additem.Guide_debugroom_additem'",
+      "IsForDebug": 1
+    },
+    {
+      "Id": 3,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/EmptyTest/QuestAssets/Guide_debugroom_death.Guide_debugroom_death'",
+      "IsForDebug": 1
+    },
+    {
+      "Id": 4,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/EmptyTest/QuestAssets/Guide_debugroom_mian.Guide_debugroom_mian'",
+      "IsForDebug": 1
+    },
+    {
+      "Id": 5,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/LYS/QuestAsset/CGG_LYS_Xuansu.CGG_LYS_Xuansu'",
+      "IsForDebug": 0
+    },
+    {
+      "Id": 6,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/HFS01/QuestAssets/Guide/Guide_hfs_start.Guide_hfs_start'",
+      "IsForDebug": 0
+    },
+    {
+      "Id": 7,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/HFS01/QuestAssets/Guide/Guide_abnormalstarte_fire.Guide_abnormalstarte_fire'",
+      "IsForDebug": 0
+    },
+    {
+      "Id": 8,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/HFS01/QuestAssets/Guide/Guide_abnormalstate_cold.Guide_abnormalstate_cold'",
+      "IsForDebug": 0
+    },
+    {
+      "Id": 9,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/HFS01/QuestAssets/Guide/Guide_abnormalstate_poison.Guide_abnormalstate_poison'",
+      "IsForDebug": 0
+    },
+    {
+      "Id": 10,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/HFS01/QuestAssets/Guide/Guide_abnormalstate_thunder.Guide_abnormalstate_thunder'",
+      "IsForDebug": 0
+    },
+    {
+      "Id": 11,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/HFS01/QuestAssets/Guide/Guide_systemfunction.Guide_systemfunction'",
+      "IsForDebug": 0
+    },
+    {
+      "Id": 12,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/HFS01/QuestAssets/Guide/Guide_skill.Guide_skill'",
+      "IsForDebug": 0
+    },
+    {
+      "Id": 13,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/HFS01/QuestAssets/Guide/Guide_talent.Guide_talent'",
+      "IsForDebug": 0
+    },
+    {
+      "Id": 14,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/HFS01/QuestAssets/Guide/Guide_hfs_qieshouji.Guide_hfs_qieshouji'",
+      "IsForDebug": 0
+    },
+    {
+      "Id": 98,
+      "AssetPath": "BED_GuideAsset'/Game/00Main/Maps/BYS/Quest/CGG_BYS_Jdy_Guide.CGG_BYS_Jdy_Guide'",
+      "IsForDebug": 0
+    },
+    {
+      "Id": 101,
+      "AssetPath": "BED_GuideAsset'/Game/TestMaps/Jasonwutest/Guide_jasonwutesst.Guide_jasonwutesst'",
+      "IsForDebug": 1
+    }
+  ]
+}

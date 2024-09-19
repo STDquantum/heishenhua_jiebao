@@ -1,0 +1,224 @@
+{
+  "List": [
+    {
+      "Id": 1,
+      "ExtentBattleId": 402001,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hys_niumo1.TAMER_hys_niumo1_C",
+      "NameId": 45,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_hys_niumo_01_atk_09_loop1_Montage.AS_hys_niumo_01_atk_09_loop1_Montage'",
+      "WinnerSeqId": 990400010,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 2,
+      "ExtentBattleId": 201701,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_HFM_HuanWuZhe_01a1.TAMER_HFM_HuanWuZhe_01a1_C",
+      "NameId": 46,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HFM_HuanWuZhe_01a_Atk_Fast_06_Montage.AS_HFM_HuanWuZhe_01a_Atk_Fast_06_Montage'",
+      "WinnerSeqId": 990400020,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 3,
+      "ExtentBattleId": 100801,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_gycy_baiyi_06.TAMER_gycy_baiyi_06_C",
+      "NameId": 47,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_GYCY_BaiYi_01_Atk_Fast_12_Montage.AS_GYCY_BaiYi_01_Atk_Fast_12_Montage'",
+      "WinnerSeqId": 990400001,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 4,
+      "ExtentBattleId": 201901,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hfm_huangpaozhu1.TAMER_hfm_huangpaozhu1_C",
+      "NameId": 48,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HFM_HuangPaoZhu_Atk_12_Montage.AS_HFM_HuangPaoZhu_Atk_12_Montage'",
+      "WinnerSeqId": 990400022,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 5,
+      "ExtentBattleId": 500101,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_psd_wulong1.TAMER_psd_wulong1_C",
+      "NameId": 49,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_PSD_WuLong_Atk_05_Montage.AS_PSD_WuLong_Atk_05_Montage'",
+      "WinnerSeqId": 990400017,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 6,
+      "ExtentBattleId": 201501,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hfm_shuangtoushu_01a1.TAMER_hfm_shuangtoushu_01a1_C",
+      "NameId": 50,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HFM_ShuangTouShu_01a_Atk_Fast_12_Montage.AS_HFM_ShuangTouShu_01a_Atk_Fast_12_Montage'",
+      "WinnerSeqId": 990400015,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 7,
+      "ExtentBattleId": 101101,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_gycy_lang_07.TAMER_gycy_lang_07_C",
+      "NameId": 51,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_GYCY_Lang_04_Atk_Fast_11_Montage.AS_GYCY_Lang_04_Atk_Fast_11_Montage'",
+      "WinnerSeqId": 990400007,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 8,
+      "ExtentBattleId": 301301,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_lys_xuehou1.TAMER_lys_xuehou1_C",
+      "NameId": 66,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_LYS_XueHou_Atk_07_Montage.AS_LYS_XueHou_Atk_07_Montage'",
+      "WinnerSeqId": 990400019,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 9,
+      "ExtentBattleId": 202801,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hfm_hu_wind_02.TAMER_hfm_hu_wind_02_C",
+      "NameId": 52,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HFM_Hu_Wind_01_Atk_Fast_22_Montage.AS_HFM_Hu_Wind_01_Atk_Fast_22_Montage'",
+      "WinnerSeqId": 990400002,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 10,
+      "ExtentBattleId": 200201,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hfm_mamian_01a1.TAMER_hfm_mamian_01a1_C",
+      "NameId": 53,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HFM_MaMian_01a_Atk_Fast_10_Montage.AS_HFM_MaMian_01a_Atk_Fast_10_Montage'",
+      "WinnerSeqId": 990400011,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 11,
+      "ExtentBattleId": 499802,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_psd_xiezijing_02a1.TAMER_psd_xiezijing_02a1_C",
+      "NameId": 65,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_psd_xiezijing_01a_atk_16_Montage.AS_psd_xiezijing_01a_atk_16_Montage'",
+      "WinnerSeqId": 990400018,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 12,
+      "ExtentBattleId": 540301,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_psd_jiachongzongbing_03.TAMER_psd_jiachongzongbing_03_C",
+      "NameId": 54,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_PSD_jiachongzongbing_02_Atk_32_Montage.AS_PSD_jiachongzongbing_02_Atk_32_Montage'",
+      "WinnerSeqId": 990400008,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 13,
+      "ExtentBattleId": 471301,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_szlc_tanglang02.TAMER_szlc_tanglang02_C",
+      "NameId": 55,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_SZLC_tanglang_atk_27_Montage.AS_SZLC_tanglang_atk_27_Montage'",
+      "WinnerSeqId": 990400004,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 14,
+      "ExtentBattleId": 505401,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_psd_wa_02.TAMER_psd_wa_02_C",
+      "NameId": 56,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_gycy_wa_01_atk_43_Montage.AS_gycy_wa_01_atk_43_Montage'",
+      "WinnerSeqId": 990400006,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 15,
+      "ExtentBattleId": 301201,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_LYS_SengMian_02.TAMER_LYS_SengMian_02_C",
+      "NameId": 57,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_LYS_SengMian_02_Atk_Fast_11_Montage.AS_LYS_SengMian_02_Atk_Fast_11_Montage'",
+      "WinnerSeqId": 990400014,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 16,
+      "ExtentBattleId": 300501,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_lys_tuiseng_p3.TAMER_lys_tuiseng_p3_C",
+      "NameId": 58,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_LYS_TuiSeng_02_Atk_Fast_09_Montage.AS_LYS_TuiSeng_02_Atk_Fast_09_Montage'",
+      "WinnerSeqId": 990400016,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 17,
+      "ExtentBattleId": 102101,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_gycy_seng_05.TAMER_gycy_seng_05_C",
+      "NameId": 59,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_GYCY_Seng_04_V2_Atk_14_Montage.AS_GYCY_Seng_04_V2_Atk_14_Montage'",
+      "WinnerSeqId": 990400009,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 18,
+      "ExtentBattleId": 200501,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hfm_shawuliang_01a1.TAMER_hfm_shawuliang_01a1_C",
+      "NameId": 60,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HFM_ShaWuLiang_01_Atk_Fast_08_Montage.AS_HFM_ShaWuLiang_01_Atk_Fast_08_Montage'",
+      "WinnerSeqId": 990400005,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 19,
+      "ExtentBattleId": 405301,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hys_zhanche_01d1.TAMER_hys_zhanche_01d1_C",
+      "NameId": 61,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_hys_zhanche_01a_atk_16_Montage.AS_hys_zhanche_01a_atk_16_Montage'",
+      "WinnerSeqId": 990400021,
+      "SpawnPosPixF": -600,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 20,
+      "ExtentBattleId": 401101,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hys_hms1.TAMER_hys_hms1_C",
+      "NameId": 62,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HYS_HMS_P2_Atk_11_Montage.AS_HYS_HMS_P2_Atk_11_Montage'",
+      "WinnerSeqId": 990400003,
+      "SpawnPosPixF": -300,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 21,
+      "ExtentBattleId": 302102,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_lys_mo3_chaoshengzhilu1.TAMER_lys_mo3_chaoshengzhilu1_C",
+      "NameId": 63,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_LYS_Mo3_Atk_Fast_12_Montage.AS_LYS_Mo3_Atk_Fast_12_Montage'",
+      "WinnerSeqId": 990400012,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    },
+    {
+      "Id": 22,
+      "ExtentBattleId": 405501,
+      "TamerPath": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hys_niaozui1.TAMER_hys_niaozui1_C",
+      "NameId": 64,
+      "ShowAMPath": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HYS_NiaoZui_Atk_12_Montage.AS_HYS_NiaoZui_Atk_12_Montage'",
+      "WinnerSeqId": 990400013,
+      "SpawnPosPixF": 0,
+      "SpawnPosPixR": 0
+    }
+  ]
+}

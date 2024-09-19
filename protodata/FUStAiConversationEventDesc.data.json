@@ -1,0 +1,2000 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "ResID": 1002,
+      "EventType": 1,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1
+      ]
+    },
+    {
+      "ID": 2,
+      "ResID": 1041,
+      "EventType": 1,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        5,
+        6
+      ]
+    },
+    {
+      "ID": 9001001,
+      "ResID": 0,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1000
+      ]
+    },
+    {
+      "ID": 1010001,
+      "ResID": 1010,
+      "EventType": 1,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        101001
+      ]
+    },
+    {
+      "ID": 1010002,
+      "ResID": 1010,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        101001,
+        101003,
+        101005
+      ]
+    },
+    {
+      "ID": 1010003,
+      "ResID": 1010,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1010001
+      ]
+    },
+    {
+      "ID": 1010004,
+      "ResID": 1010,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1010002
+      ]
+    },
+    {
+      "ID": 1010005,
+      "ResID": 1010,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1010003
+      ]
+    },
+    {
+      "ID": 1010006,
+      "ResID": 1010,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1010004
+      ]
+    },
+    {
+      "ID": 1010007,
+      "ResID": 1010,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1010005
+      ]
+    },
+    {
+      "ID": 1002001,
+      "ResID": 1002,
+      "EventType": 1,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        100201
+      ]
+    },
+    {
+      "ID": 1002002,
+      "ResID": 1002,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        101425,
+        101427
+      ]
+    },
+    {
+      "ID": 1002003,
+      "ResID": 1002,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1002001
+      ]
+    },
+    {
+      "ID": 1002004,
+      "ResID": 1002,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1002002
+      ]
+    },
+    {
+      "ID": 1002005,
+      "ResID": 1002,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1002003
+      ]
+    },
+    {
+      "ID": 1002006,
+      "ResID": 1002,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1002004
+      ]
+    },
+    {
+      "ID": 1002007,
+      "ResID": 1002,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1002005
+      ]
+    },
+    {
+      "ID": 1002008,
+      "ResID": 1002,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1002006
+      ]
+    },
+    {
+      "ID": 1002009,
+      "ResID": 1002,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1002007
+      ]
+    },
+    {
+      "ID": 1002010,
+      "ResID": 1002,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        101423
+      ]
+    },
+    {
+      "ID": 1002011,
+      "ResID": 1002,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1002008
+      ]
+    },
+    {
+      "ID": 1014001,
+      "ResID": 1014,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1014001
+      ]
+    },
+    {
+      "ID": 1014002,
+      "ResID": 1014,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1014002
+      ]
+    },
+    {
+      "ID": 1014003,
+      "ResID": 1014,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1014003
+      ]
+    },
+    {
+      "ID": 1014004,
+      "ResID": 1014,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1014004
+      ]
+    },
+    {
+      "ID": 1014005,
+      "ResID": 1014,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1014005
+      ]
+    },
+    {
+      "ID": 1014006,
+      "ResID": 1014,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1014006
+      ]
+    },
+    {
+      "ID": 1014007,
+      "ResID": 1014,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1014007
+      ]
+    },
+    {
+      "ID": 1014008,
+      "ResID": 1014,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1014008
+      ]
+    },
+    {
+      "ID": 1014009,
+      "ResID": 1014,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1014009
+      ]
+    },
+    {
+      "ID": 1014011,
+      "ResID": 1014,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1014010
+      ]
+    },
+    {
+      "ID": 1015001,
+      "ResID": 1015,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1015001
+      ]
+    },
+    {
+      "ID": 1015002,
+      "ResID": 1015,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1015002
+      ]
+    },
+    {
+      "ID": 1015003,
+      "ResID": 1015,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1015003
+      ]
+    },
+    {
+      "ID": 1015004,
+      "ResID": 1015,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1015004
+      ]
+    },
+    {
+      "ID": 1015005,
+      "ResID": 1015,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1015005
+      ]
+    },
+    {
+      "ID": 1015006,
+      "ResID": 1015,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1015006
+      ]
+    },
+    {
+      "ID": 1015007,
+      "ResID": 1015,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1015007
+      ]
+    },
+    {
+      "ID": 1015008,
+      "ResID": 1015,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1015008
+      ]
+    },
+    {
+      "ID": 1016002,
+      "ResID": 1016,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1016001
+      ]
+    },
+    {
+      "ID": 1016003,
+      "ResID": 1016,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1016002
+      ]
+    },
+    {
+      "ID": 1016004,
+      "ResID": 1016,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1016003
+      ]
+    },
+    {
+      "ID": 1016005,
+      "ResID": 1016,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1016004
+      ]
+    },
+    {
+      "ID": 1016006,
+      "ResID": 1016,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1016005
+      ]
+    },
+    {
+      "ID": 1016007,
+      "ResID": 1016,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1016006
+      ]
+    },
+    {
+      "ID": 1016008,
+      "ResID": 1016,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1016007
+      ]
+    },
+    {
+      "ID": 1016009,
+      "ResID": 1016,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1016008
+      ]
+    },
+    {
+      "ID": 1016010,
+      "ResID": 1016,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1016009
+      ]
+    },
+    {
+      "ID": 1029001,
+      "ResID": 1029,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1029001
+      ]
+    },
+    {
+      "ID": 1029002,
+      "ResID": 1029,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1029002
+      ]
+    },
+    {
+      "ID": 1029003,
+      "ResID": 1029,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1029003
+      ]
+    },
+    {
+      "ID": 1029004,
+      "ResID": 1029,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1029004
+      ]
+    },
+    {
+      "ID": 1029005,
+      "ResID": 1029,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1029005
+      ]
+    },
+    {
+      "ID": 1029006,
+      "ResID": 1029,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1029006
+      ]
+    },
+    {
+      "ID": 1005001,
+      "ResID": 1005,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1005001
+      ]
+    },
+    {
+      "ID": 1005002,
+      "ResID": 1005,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1005002
+      ]
+    },
+    {
+      "ID": 1005003,
+      "ResID": 1005,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1005003
+      ]
+    },
+    {
+      "ID": 1005004,
+      "ResID": 1005,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1005004
+      ]
+    },
+    {
+      "ID": 1005005,
+      "ResID": 1005,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1005005
+      ]
+    },
+    {
+      "ID": 1005006,
+      "ResID": 1005,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1005006
+      ]
+    },
+    {
+      "ID": 1005007,
+      "ResID": 1005,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1005007
+      ]
+    },
+    {
+      "ID": 1005008,
+      "ResID": 1005,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1005008
+      ]
+    },
+    {
+      "ID": 1005009,
+      "ResID": 1005,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1005009
+      ]
+    },
+    {
+      "ID": 1001001,
+      "ResID": 1001,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1001001
+      ]
+    },
+    {
+      "ID": 1001002,
+      "ResID": 1001,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1001002
+      ]
+    },
+    {
+      "ID": 1001003,
+      "ResID": 1001,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1001003
+      ]
+    },
+    {
+      "ID": 1001004,
+      "ResID": 1001,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1001004
+      ]
+    },
+    {
+      "ID": 1001005,
+      "ResID": 1001,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1001005
+      ]
+    },
+    {
+      "ID": 1011001,
+      "ResID": 1011,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        101101
+      ]
+    },
+    {
+      "ID": 1014010,
+      "ResID": 1014,
+      "EventType": 4,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        101405
+      ]
+    },
+    {
+      "ID": 1025001,
+      "ResID": 1025,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1013
+      ]
+    },
+    {
+      "ID": 1003001,
+      "ResID": 1003,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        100301
+      ]
+    },
+    {
+      "ID": 1003002,
+      "ResID": 1003,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": []
+    },
+    {
+      "ID": 1008001,
+      "ResID": 1008,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        100801
+      ]
+    },
+    {
+      "ID": 1028001,
+      "ResID": 1028,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        102801
+      ]
+    },
+    {
+      "ID": 1028002,
+      "ResID": 1028,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        0
+      ]
+    },
+    {
+      "ID": 1023001,
+      "ResID": 1023,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        102301,
+        102302
+      ]
+    },
+    {
+      "ID": 1037001,
+      "ResID": 1037,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        103701
+      ]
+    },
+    {
+      "ID": 1031001,
+      "ResID": 1031,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        103101,
+        103102,
+        103103
+      ]
+    },
+    {
+      "ID": 1101001,
+      "ResID": 1101,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1002
+      ]
+    },
+    {
+      "ID": 2001001,
+      "ResID": 2001,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        200101,
+        200102
+      ]
+    },
+    {
+      "ID": 2005001,
+      "ResID": 2005,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        200501
+      ]
+    },
+    {
+      "ID": 2005002,
+      "ResID": 2005,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        200502
+      ]
+    },
+    {
+      "ID": 2005099,
+      "ResID": 2005,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        200599
+      ]
+    },
+    {
+      "ID": 2006001,
+      "ResID": 2006,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        200601,
+        200602
+      ]
+    },
+    {
+      "ID": 2008001,
+      "ResID": 2008,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        200801
+      ]
+    },
+    {
+      "ID": 2008002,
+      "ResID": 2008,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        200802
+      ]
+    },
+    {
+      "ID": 2009001,
+      "ResID": 2009,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        200901
+      ]
+    },
+    {
+      "ID": 2009002,
+      "ResID": 2009,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        200902
+      ]
+    },
+    {
+      "ID": 2009003,
+      "ResID": 2009,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        200903
+      ]
+    },
+    {
+      "ID": 2011001,
+      "ResID": 2011,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        201101
+      ]
+    },
+    {
+      "ID": 2013001,
+      "ResID": 2013,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        201301
+      ]
+    },
+    {
+      "ID": 2013002,
+      "ResID": 2013,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        201302
+      ]
+    },
+    {
+      "ID": 2013003,
+      "ResID": 2013,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        201303
+      ]
+    },
+    {
+      "ID": 2019001,
+      "ResID": 2019,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        201940
+      ]
+    },
+    {
+      "ID": 2023001,
+      "ResID": 2023,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        202301
+      ]
+    },
+    {
+      "ID": 2023002,
+      "ResID": 2023,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        202302
+      ]
+    },
+    {
+      "ID": 2023003,
+      "ResID": 2023,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        202303
+      ]
+    },
+    {
+      "ID": 2024001,
+      "ResID": 2024,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        202401,
+        202402
+      ]
+    },
+    {
+      "ID": 3001001,
+      "ResID": 3001,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        300101
+      ]
+    },
+    {
+      "ID": 3001002,
+      "ResID": 3001,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        300102
+      ]
+    },
+    {
+      "ID": 3001003,
+      "ResID": 3001,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        300103
+      ]
+    },
+    {
+      "ID": 3001004,
+      "ResID": 3001,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        300104
+      ]
+    },
+    {
+      "ID": 2501001,
+      "ResID": 2501,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        250153,
+        250154
+      ]
+    },
+    {
+      "ID": 2501002,
+      "ResID": 2501,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        250151,
+        250152
+      ]
+    },
+    {
+      "ID": 2015001,
+      "ResID": 2015,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        201501
+      ]
+    },
+    {
+      "ID": 2015002,
+      "ResID": 2015,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        201504
+      ]
+    },
+    {
+      "ID": 2015003,
+      "ResID": 2015,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        201505
+      ]
+    },
+    {
+      "ID": 2015004,
+      "ResID": 2015,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        201506
+      ]
+    },
+    {
+      "ID": 2015005,
+      "ResID": 2015,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        201502
+      ]
+    },
+    {
+      "ID": 2015006,
+      "ResID": 2015,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        201503
+      ]
+    },
+    {
+      "ID": 2015007,
+      "ResID": 2015,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        201508
+      ]
+    },
+    {
+      "ID": 5099001,
+      "ResID": 5099,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        5099002,
+        5099201,
+        5099202,
+        5099203,
+        5099204
+      ]
+    },
+    {
+      "ID": 3024001,
+      "ResID": 3024,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3024001
+      ]
+    },
+    {
+      "ID": 3024002,
+      "ResID": 3024,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3024002
+      ]
+    },
+    {
+      "ID": 3024003,
+      "ResID": 3024,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3024003
+      ]
+    },
+    {
+      "ID": 3024004,
+      "ResID": 3024,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3024004
+      ]
+    },
+    {
+      "ID": 1020001,
+      "ResID": 1020,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1020001
+      ]
+    },
+    {
+      "ID": 1020002,
+      "ResID": 1020,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1020002
+      ]
+    },
+    {
+      "ID": 3004001,
+      "ResID": 3004,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3004001
+      ]
+    },
+    {
+      "ID": 3004002,
+      "ResID": 3004,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3004002
+      ]
+    },
+    {
+      "ID": 3004003,
+      "ResID": 3004,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3004003
+      ]
+    },
+    {
+      "ID": 3004004,
+      "ResID": 3004,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3004004
+      ]
+    },
+    {
+      "ID": 3060001,
+      "ResID": 3060,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3060001
+      ]
+    },
+    {
+      "ID": 3060002,
+      "ResID": 3060,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3060002
+      ]
+    },
+    {
+      "ID": 3060003,
+      "ResID": 3060,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3060003
+      ]
+    },
+    {
+      "ID": 3010001,
+      "ResID": 3010,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3010001
+      ]
+    },
+    {
+      "ID": 3010002,
+      "ResID": 3010,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3010002
+      ]
+    },
+    {
+      "ID": 1019001,
+      "ResID": 1019,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1019001
+      ]
+    },
+    {
+      "ID": 1019002,
+      "ResID": 1019,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1019002
+      ]
+    },
+    {
+      "ID": 1027001,
+      "ResID": 1027,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1027001
+      ]
+    },
+    {
+      "ID": 1027002,
+      "ResID": 1027,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1027002
+      ]
+    },
+    {
+      "ID": 1027003,
+      "ResID": 1027,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1027003
+      ]
+    },
+    {
+      "ID": 1027004,
+      "ResID": 1027,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1027004
+      ]
+    },
+    {
+      "ID": 3026001,
+      "ResID": 3026,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3026001
+      ]
+    },
+    {
+      "ID": 3026002,
+      "ResID": 3026,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        3026002
+      ]
+    },
+    {
+      "ID": 2004001,
+      "ResID": 2004,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        2004001
+      ]
+    },
+    {
+      "ID": 2004002,
+      "ResID": 2004,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        2004002
+      ]
+    },
+    {
+      "ID": 2004003,
+      "ResID": 2004,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        2004003
+      ]
+    },
+    {
+      "ID": 4013001,
+      "ResID": 4013,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4013001
+      ]
+    },
+    {
+      "ID": 4013002,
+      "ResID": 4013,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4013002
+      ]
+    },
+    {
+      "ID": 2018001,
+      "ResID": 2018,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        2018001
+      ]
+    },
+    {
+      "ID": 2018002,
+      "ResID": 2018,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        2018002
+      ]
+    },
+    {
+      "ID": 2018003,
+      "ResID": 2018,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        2018003
+      ]
+    },
+    {
+      "ID": 4010001,
+      "ResID": 4010,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4010001
+      ]
+    },
+    {
+      "ID": 4010002,
+      "ResID": 4010,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4010002
+      ]
+    },
+    {
+      "ID": 4010003,
+      "ResID": 4010,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4010003
+      ]
+    },
+    {
+      "ID": 4007001,
+      "ResID": 4007,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4007001
+      ]
+    },
+    {
+      "ID": 4007002,
+      "ResID": 4007,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4007002
+      ]
+    },
+    {
+      "ID": 4007003,
+      "ResID": 4007,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4007003
+      ]
+    },
+    {
+      "ID": 4008001,
+      "ResID": 4008,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4008001
+      ]
+    },
+    {
+      "ID": 4008002,
+      "ResID": 4008,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4008002
+      ]
+    },
+    {
+      "ID": 4009001,
+      "ResID": 4009,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4009001
+      ]
+    },
+    {
+      "ID": 4009002,
+      "ResID": 4009,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4009002
+      ]
+    },
+    {
+      "ID": 4055001,
+      "ResID": 4055,
+      "EventType": 1,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4055001
+      ]
+    },
+    {
+      "ID": 4014001,
+      "ResID": 4014,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4014001
+      ]
+    },
+    {
+      "ID": 4014002,
+      "ResID": 4014,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4014002
+      ]
+    },
+    {
+      "ID": 5002010,
+      "ResID": 5002,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        5002010
+      ]
+    },
+    {
+      "ID": 5002011,
+      "ResID": 5002,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        5002011
+      ]
+    },
+    {
+      "ID": 1030001,
+      "ResID": 1030,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1030001
+      ]
+    },
+    {
+      "ID": 1030002,
+      "ResID": 1030,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1030002
+      ]
+    },
+    {
+      "ID": 5402001,
+      "ResID": 5402,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        5402001
+      ]
+    },
+    {
+      "ID": 5402002,
+      "ResID": 5402,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        5402002
+      ]
+    },
+    {
+      "ID": 5402003,
+      "ResID": 5402,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        5402003
+      ]
+    },
+    {
+      "ID": 5404001,
+      "ResID": 5404,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        5404001
+      ]
+    },
+    {
+      "ID": 5404002,
+      "ResID": 5404,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        5404002
+      ]
+    },
+    {
+      "ID": 5404003,
+      "ResID": 5404,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        5404003
+      ]
+    },
+    {
+      "ID": 5404004,
+      "ResID": 5404,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        5404004
+      ]
+    },
+    {
+      "ID": 4201001,
+      "ResID": 4201,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4201001
+      ]
+    },
+    {
+      "ID": 4201002,
+      "ResID": 4201,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4201002
+      ]
+    },
+    {
+      "ID": 4201003,
+      "ResID": 4201,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4201003,
+        4201005
+      ]
+    },
+    {
+      "ID": 4201004,
+      "ResID": 4201,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4201004,
+        4201005
+      ]
+    },
+    {
+      "ID": 4201005,
+      "ResID": 4201,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4201005
+      ]
+    },
+    {
+      "ID": 4312002,
+      "ResID": 4309,
+      "EventType": 6,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4312002
+      ]
+    },
+    {
+      "ID": 4312003,
+      "ResID": 4309,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4312003
+      ]
+    },
+    {
+      "ID": 4312004,
+      "ResID": 4309,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4312001
+      ]
+    },
+    {
+      "ID": 4312005,
+      "ResID": 4309,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4312005
+      ]
+    },
+    {
+      "ID": 4310001,
+      "ResID": 4310,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4310001
+      ]
+    },
+    {
+      "ID": 4310002,
+      "ResID": 4310,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4310002
+      ]
+    },
+    {
+      "ID": 4310003,
+      "ResID": 4310,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4310003
+      ]
+    },
+    {
+      "ID": 4310004,
+      "ResID": 4310,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4310004
+      ]
+    },
+    {
+      "ID": 4998001,
+      "ResID": 4998,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4998001
+      ]
+    },
+    {
+      "ID": 4998002,
+      "ResID": 4998,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4998002
+      ]
+    },
+    {
+      "ID": 4998003,
+      "ResID": 4998,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4998003
+      ]
+    },
+    {
+      "ID": 4998004,
+      "ResID": 4998,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4998004
+      ]
+    },
+    {
+      "ID": 4998005,
+      "ResID": 4998,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4998005
+      ]
+    },
+    {
+      "ID": 4998006,
+      "ResID": 4998,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4998006
+      ]
+    },
+    {
+      "ID": 4998007,
+      "ResID": 4998,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4998007
+      ]
+    },
+    {
+      "ID": 4998008,
+      "ResID": 4998,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4998008
+      ]
+    },
+    {
+      "ID": 4998009,
+      "ResID": 4998,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4998009
+      ]
+    },
+    {
+      "ID": 4998010,
+      "ResID": 4998,
+      "EventType": 5,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4998010
+      ]
+    },
+    {
+      "ID": 4998011,
+      "ResID": 4998,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4998011
+      ]
+    },
+    {
+      "ID": 4998012,
+      "ResID": 4998,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        4998012
+      ]
+    },
+    {
+      "ID": 7001001,
+      "ResID": 7001,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        700199
+      ]
+    },
+    {
+      "ID": 5001001,
+      "ResID": 5001,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        5001001
+      ]
+    },
+    {
+      "ID": 5001002,
+      "ResID": 5001,
+      "EventType": 3,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        5001002
+      ]
+    },
+    {
+      "ID": 2102099,
+      "ResID": 2102,
+      "EventType": 2,
+      "Prority": 0,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        210204
+      ]
+    },
+    {
+      "ID": 1021001,
+      "ResID": 1021,
+      "EventType": 3,
+      "Prority": 1,
+      "DistanceToPlayer": 0,
+      "ConversationIDs": [
+        1021001
+      ]
+    }
+  ]
+}

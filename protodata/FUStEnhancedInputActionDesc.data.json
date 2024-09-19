@@ -1,0 +1,902 @@
+{
+  "List": [
+    {
+      "ID": 100000,
+      "ActionName": "IA_B1MoveForward",
+      "EnhancedTriggerEvent": 1,
+      "ResID": 0,
+      "InputActionType": 14,
+      "InputActionParamsInt": [
+        0,
+        1
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 100001,
+      "ActionName": "IA_B1MoveSideways",
+      "EnhancedTriggerEvent": 1,
+      "ResID": 0,
+      "InputActionType": 14,
+      "InputActionParamsInt": [
+        1,
+        1
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 100002,
+      "ActionName": "IA_B1MoveForward",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 33,
+      "InputActionParamsInt": [
+        0
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 100003,
+      "ActionName": "IA_B1MoveSideways",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 33,
+      "InputActionParamsInt": [
+        1
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 100050,
+      "ActionName": "IA_B1LookUp",
+      "EnhancedTriggerEvent": 1,
+      "ResID": 0,
+      "InputActionType": 15,
+      "InputActionParamsInt": [
+        0,
+        2
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 100051,
+      "ActionName": "IA_B1TurnRight",
+      "EnhancedTriggerEvent": 1,
+      "ResID": 0,
+      "InputActionType": 15,
+      "InputActionParamsInt": [
+        1,
+        2
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 100100,
+      "ActionName": "IA_B1UnfreezeMove_GP",
+      "EnhancedTriggerEvent": 1,
+      "ResID": 0,
+      "InputActionType": 37,
+      "InputActionParamsInt": [
+        3
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 100101,
+      "ActionName": "IA_B1UnfreezeMove_KB",
+      "EnhancedTriggerEvent": 1,
+      "ResID": 0,
+      "InputActionType": 37,
+      "InputActionParamsInt": [
+        2
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 100102,
+      "ActionName": "IA_B1Unfreeze_Bool",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 37,
+      "InputActionParamsInt": [
+        2
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 10,
+      "ActionName": "IA_B1LightAttack",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 1,
+      "InputActionParamsInt": [],
+      "DebugActionName": "轻攻击",
+      "DebugSortId": 6,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 11,
+      "ActionName": "IA_B1LightAttack",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 1,
+      "InputActionParamsInt": [],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 20,
+      "ActionName": "IA_B1HeavyAttack",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 2,
+      "InputActionParamsInt": [],
+      "DebugActionName": "重攻击 按下",
+      "DebugSortId": 7,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 21,
+      "ActionName": "IA_B1HeavyAttack",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 2,
+      "InputActionParamsInt": [],
+      "DebugActionName": "重攻击 松开",
+      "DebugSortId": 8,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 1,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 30,
+      "ActionName": "IA_B1CameraLock",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 5,
+      "InputActionParamsInt": [
+        0
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 140,
+      "ActionName": "IA_B1Sprint_KB",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 12,
+      "InputActionParamsInt": [
+        2,
+        2
+      ],
+      "DebugActionName": "跑步 按下",
+      "DebugSortId": 1,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 141,
+      "ActionName": "IA_B1Sprint_KB",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 12,
+      "InputActionParamsInt": [
+        2,
+        2
+      ],
+      "DebugActionName": "跑步 松开",
+      "DebugSortId": 2,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 1,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 142,
+      "ActionName": "IA_B1Walk",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 12,
+      "InputActionParamsInt": [
+        1,
+        2
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 143,
+      "ActionName": "IA_B1Walk",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 12,
+      "InputActionParamsInt": [
+        1,
+        2
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 144,
+      "ActionName": "IA_B1Sprint_Trigger_GP",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 12,
+      "InputActionParamsInt": [
+        2,
+        1
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 145,
+      "ActionName": "IA_B1Sprint_GP",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 12,
+      "InputActionParamsInt": [
+        2,
+        2
+      ],
+      "DebugActionName": "跑步 按下",
+      "DebugSortId": 1,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 146,
+      "ActionName": "IA_B1Sprint_GP",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 12,
+      "InputActionParamsInt": [
+        2,
+        2
+      ],
+      "DebugActionName": "跑步 松开",
+      "DebugSortId": 2,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 1,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 147,
+      "ActionName": "IA_B1Roll_GP",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 18,
+      "InputActionParamsInt": [],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 170,
+      "ActionName": "IA_B1Interact",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 3,
+      "InputActionParamsInt": [],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 171,
+      "ActionName": "IA_B1Interact",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 3,
+      "InputActionParamsInt": [],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 190,
+      "ActionName": "IA_B1MagicArtifact",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 30,
+      "InputActionParamsInt": [
+        5
+      ],
+      "DebugActionName": "法宝",
+      "DebugSortId": 23,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 1
+    },
+    {
+      "ID": 200,
+      "ActionName": "IA_B1Roll_KB",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 18,
+      "InputActionParamsInt": [],
+      "DebugActionName": "翻滚",
+      "DebugSortId": 3,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 210,
+      "ActionName": "IA_B1Jump",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 19,
+      "InputActionParamsInt": [],
+      "DebugActionName": "跳跃 按下",
+      "DebugSortId": 4,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 211,
+      "ActionName": "IA_B1Jump",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 19,
+      "InputActionParamsInt": [],
+      "DebugActionName": "跳跃 松开",
+      "DebugSortId": 5,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 1,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 220,
+      "ActionName": "IA_B1DrinkBloodBottom",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 4,
+      "InputActionParamsInt": [
+        10530
+      ],
+      "DebugActionName": "喝药",
+      "DebugSortId": 10,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 230,
+      "ActionName": "IA_B1Spell_SF",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 29,
+      "InputActionParamsInt": [
+        1
+      ],
+      "DebugActionName": "技能 身法",
+      "DebugSortId": 11,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 1
+    },
+    {
+      "ID": 240,
+      "ActionName": "IA_B1Spell_HM",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 29,
+      "InputActionParamsInt": [
+        2
+      ],
+      "DebugActionName": "技能 毫毛",
+      "DebugSortId": 12,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 1
+    },
+    {
+      "ID": 250,
+      "ActionName": "IA_B1Spell_QS",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 29,
+      "InputActionParamsInt": [
+        3
+      ],
+      "DebugActionName": "技能 奇书",
+      "DebugSortId": 13,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 1
+    },
+    {
+      "ID": 260,
+      "ActionName": "IA_B1Spell_BS",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 29,
+      "InputActionParamsInt": [
+        4
+      ],
+      "DebugActionName": "技能 变身",
+      "DebugSortId": 14,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 1
+    },
+    {
+      "ID": 270,
+      "ActionName": "IA_B1UseItem_1",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 25,
+      "InputActionParamsInt": [
+        0
+      ],
+      "DebugActionName": "道具 1",
+      "DebugSortId": 15,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 1
+    },
+    {
+      "ID": 280,
+      "ActionName": "IA_B1UseItem_2",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 25,
+      "InputActionParamsInt": [
+        1
+      ],
+      "DebugActionName": "道具 2",
+      "DebugSortId": 16,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 1
+    },
+    {
+      "ID": 290,
+      "ActionName": "IA_B1UseItem_3",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 25,
+      "InputActionParamsInt": [
+        2
+      ],
+      "DebugActionName": "道具 3",
+      "DebugSortId": 17,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 1
+    },
+    {
+      "ID": 300,
+      "ActionName": "IA_B1UseItem_4",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 25,
+      "InputActionParamsInt": [
+        3
+      ],
+      "DebugActionName": "道具 4",
+      "DebugSortId": 18,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 1
+    },
+    {
+      "ID": 330,
+      "ActionName": "IA_B1UseItem",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 25,
+      "InputActionParamsInt": [
+        -1
+      ],
+      "DebugActionName": "使用道具",
+      "DebugSortId": 19,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 340,
+      "ActionName": "IA_B1Spin",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 7,
+      "InputActionParamsInt": [],
+      "DebugActionName": "转棍 按下",
+      "DebugSortId": 24,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 341,
+      "ActionName": "IA_B1Spin",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 7,
+      "InputActionParamsInt": [
+        1
+      ],
+      "DebugActionName": "转棍 松开",
+      "DebugSortId": 25,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 1,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 350,
+      "ActionName": "IA_B1SkillDrag",
+      "EnhancedTriggerEvent": 1,
+      "ResID": 0,
+      "InputActionType": 24,
+      "InputActionParamsInt": [
+        120,
+        400,
+        50,
+        1
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 360,
+      "ActionName": "IA_B1SwitchWeaponPoseHeavy",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 34,
+      "InputActionParamsInt": [],
+      "DebugActionName": "切换至蓄力棍",
+      "DebugSortId": 20,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 361,
+      "ActionName": "IA_B1SwitchWeaponPoseProp",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 35,
+      "InputActionParamsInt": [],
+      "DebugActionName": "切换至撑棍",
+      "DebugSortId": 21,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 362,
+      "ActionName": "IA_B1SwitchWeaponPosePoke",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 36,
+      "InputActionParamsInt": [],
+      "DebugActionName": "切换至捅棍",
+      "DebugSortId": 22,
+      "IsDebugInfoShow": 1,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 400,
+      "ActionName": "IA_B1RideMount",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 41,
+      "InputActionParamsInt": [
+        9
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 500,
+      "ActionName": "IA_B1Spell_Chord",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 0,
+      "InputActionParamsInt": [],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 501,
+      "ActionName": "IA_B1Spell_Chord",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 0,
+      "InputActionParamsInt": [],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 502,
+      "ActionName": "IA_B1MagicArtifact_Chord",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 0,
+      "InputActionParamsInt": [],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 503,
+      "ActionName": "IA_B1MagicArtifact_Chord",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 0,
+      "InputActionParamsInt": [],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 510,
+      "ActionName": "IA_B1UseVigorSkill",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 38,
+      "InputActionParamsInt": [],
+      "DebugActionName": "人种袋",
+      "DebugSortId": 9,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 1
+    },
+    {
+      "ID": 511,
+      "ActionName": "IA_B1UseVigorSkill_Chord",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 0,
+      "InputActionParamsInt": [],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 512,
+      "ActionName": "IA_B1UseVigorSkill_Chord",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 0,
+      "InputActionParamsInt": [],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 600,
+      "ActionName": "IA_B1Cloud_MoveForward",
+      "EnhancedTriggerEvent": 1,
+      "ResID": 0,
+      "InputActionType": 14,
+      "InputActionParamsInt": [
+        0,
+        1
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 601,
+      "ActionName": "IA_B1Cloud_MoveSideways",
+      "EnhancedTriggerEvent": 1,
+      "ResID": 0,
+      "InputActionType": 14,
+      "InputActionParamsInt": [
+        1,
+        1
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 602,
+      "ActionName": "IA_B1Cloud_MoveForward",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 33,
+      "InputActionParamsInt": [
+        0
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 603,
+      "ActionName": "IA_B1Cloud_MoveSideways",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 33,
+      "InputActionParamsInt": [
+        1
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 604,
+      "ActionName": "IA_B1Cloud_LookUp",
+      "EnhancedTriggerEvent": 1,
+      "ResID": 0,
+      "InputActionType": 15,
+      "InputActionParamsInt": [
+        0,
+        2
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 605,
+      "ActionName": "IA_B1Cloud_TurnRight",
+      "EnhancedTriggerEvent": 1,
+      "ResID": 0,
+      "InputActionType": 15,
+      "InputActionParamsInt": [
+        1,
+        2
+      ],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 606,
+      "ActionName": "IA_B1Cloud_Lift",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 39,
+      "InputActionParamsInt": [],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 607,
+      "ActionName": "IA_B1Cloud_Lift",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 39,
+      "InputActionParamsInt": [],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 608,
+      "ActionName": "IA_B1Cloud_FreeLook",
+      "EnhancedTriggerEvent": 2,
+      "ResID": 0,
+      "InputActionType": 40,
+      "InputActionParamsInt": [],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    },
+    {
+      "ID": 609,
+      "ActionName": "IA_B1Cloud_FreeLook",
+      "EnhancedTriggerEvent": 5,
+      "ResID": 0,
+      "InputActionType": 40,
+      "InputActionParamsInt": [],
+      "DebugActionName": "",
+      "DebugSortId": 0,
+      "IsDebugInfoShow": 0,
+      "IsDebugReleaseEvent": 0,
+      "IsNotDebugPressNum": 0
+    }
+  ]
+}

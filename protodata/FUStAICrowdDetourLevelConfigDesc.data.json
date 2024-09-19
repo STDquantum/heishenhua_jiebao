@@ -1,0 +1,84 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "DetourCrowdType": 0,
+      "UnitAICrowdQualityLevel": 0,
+      "SeparationWeight": 0.0,
+      "CollisionQueryRange": 0.0,
+      "PathOptimizationRange": 0.0
+    },
+    {
+      "ID": 2,
+      "DetourCrowdType": 1,
+      "UnitAICrowdQualityLevel": 1,
+      "SeparationWeight": 2.0,
+      "CollisionQueryRange": 100.0,
+      "PathOptimizationRange": 2000.0
+    },
+    {
+      "ID": 3,
+      "DetourCrowdType": 2,
+      "UnitAICrowdQualityLevel": 1,
+      "SeparationWeight": 2.0,
+      "CollisionQueryRange": 500.0,
+      "PathOptimizationRange": 2000.0
+    },
+    {
+      "ID": 4,
+      "DetourCrowdType": 3,
+      "UnitAICrowdQualityLevel": 1,
+      "SeparationWeight": 2.0,
+      "CollisionQueryRange": 1000.0,
+      "PathOptimizationRange": 2000.0
+    },
+    {
+      "ID": 5,
+      "DetourCrowdType": 4,
+      "UnitAICrowdQualityLevel": 1,
+      "SeparationWeight": 4.0,
+      "CollisionQueryRange": 2000.0,
+      "PathOptimizationRange": 4500.0
+    },
+    {
+      "ID": 6,
+      "DetourCrowdType": 5,
+      "UnitAICrowdQualityLevel": 1,
+      "SeparationWeight": 2.0,
+      "CollisionQueryRange": 2000.0,
+      "PathOptimizationRange": 4500.0
+    },
+    {
+      "ID": 7,
+      "DetourCrowdType": 6,
+      "UnitAICrowdQualityLevel": 2,
+      "SeparationWeight": 4.0,
+      "CollisionQueryRange": 4000.0,
+      "PathOptimizationRange": 6000.0
+    },
+    {
+      "ID": 8,
+      "DetourCrowdType": 7,
+      "UnitAICrowdQualityLevel": 2,
+      "SeparationWeight": 2.0,
+      "CollisionQueryRange": 4000.0,
+      "PathOptimizationRange": 6000.0
+    },
+    {
+      "ID": 9,
+      "DetourCrowdType": 8,
+      "UnitAICrowdQualityLevel": 2,
+      "SeparationWeight": 8.0,
+      "CollisionQueryRange": 2000.0,
+      "PathOptimizationRange": 4500.0
+    },
+    {
+      "ID": 10,
+      "DetourCrowdType": 9,
+      "UnitAICrowdQualityLevel": 3,
+      "SeparationWeight": 4.0,
+      "CollisionQueryRange": 2000.0,
+      "PathOptimizationRange": 4500.0
+    }
+  ]
+}

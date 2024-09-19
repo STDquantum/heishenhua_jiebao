@@ -1,0 +1,436 @@
+{
+  "List": [
+    {
+      "Id": 100301,
+      "SoulSkillId": 8011,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 101301,
+      "SoulSkillId": 8012,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 102401,
+      "SoulSkillId": 8013,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 201301,
+      "SoulSkillId": 8014,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 200601,
+      "SoulSkillId": 8015,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 200501,
+      "SoulSkillId": 8017,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 302801,
+      "SoulSkillId": 8020,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 302101,
+      "SoulSkillId": 8022,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 102101,
+      "SoulSkillId": 8024,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 300901,
+      "SoulSkillId": 8025,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 300501,
+      "SoulSkillId": 8026,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 540301,
+      "SoulSkillId": 8027,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 501201,
+      "SoulSkillId": 8028,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 412401,
+      "SoulSkillId": 8029,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 499801,
+      "SoulSkillId": 8030,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 502001,
+      "SoulSkillId": 8031,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 440201,
+      "SoulSkillId": 8032,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 401101,
+      "SoulSkillId": 8033,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 581101,
+      "SoulSkillId": 8034,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 405501,
+      "SoulSkillId": 8035,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 401501,
+      "SoulSkillId": 8036,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 400301,
+      "SoulSkillId": 8037,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 540801,
+      "SoulSkillId": 8038,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 402301,
+      "SoulSkillId": 8039,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 502101,
+      "SoulSkillId": 8040,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 501101,
+      "SoulSkillId": 8041,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 500701,
+      "SoulSkillId": 8042,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 100101,
+      "SoulSkillId": 8061,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 210201,
+      "SoulSkillId": 8062,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 202501,
+      "SoulSkillId": 8063,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 300101,
+      "SoulSkillId": 8064,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 202901,
+      "SoulSkillId": 8065,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 200801,
+      "SoulSkillId": 8066,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 202701,
+      "SoulSkillId": 8067,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 220401,
+      "SoulSkillId": 8068,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 202301,
+      "SoulSkillId": 8069,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 260101,
+      "SoulSkillId": 8070,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 303001,
+      "SoulSkillId": 8071,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 302601,
+      "SoulSkillId": 8072,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 301001,
+      "SoulSkillId": 8073,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 300401,
+      "SoulSkillId": 8074,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 101901,
+      "SoulSkillId": 8075,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 200401,
+      "SoulSkillId": 8076,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 300701,
+      "SoulSkillId": 8077,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 103001,
+      "SoulSkillId": 8078,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 420101,
+      "SoulSkillId": 8079,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 540101,
+      "SoulSkillId": 8081,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 501901,
+      "SoulSkillId": 8083,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 540501,
+      "SoulSkillId": 8084,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 401401,
+      "SoulSkillId": 8085,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 405701,
+      "SoulSkillId": 8086,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 401801,
+      "SoulSkillId": 8087,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 400601,
+      "SoulSkillId": 8088,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    },
+    {
+      "Id": 305801,
+      "SoulSkillId": 8092,
+      "BpPath": "",
+      "DropRate": 10000,
+      "SafeDropStartTimes": 1,
+      "SafeDropMaxTimes": 1
+    }
+  ]
+}

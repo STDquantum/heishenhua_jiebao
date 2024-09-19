@@ -1,0 +1,39 @@
+{
+  "List": [
+    {
+      "ID": 1009,
+      "DropNum": 1,
+      "RoomIdx": 1
+    },
+    {
+      "ID": 1013,
+      "DropNum": 1,
+      "RoomIdx": 1
+    },
+    {
+      "ID": 1027,
+      "DropNum": 1,
+      "RoomIdx": 2
+    },
+    {
+      "ID": 1019,
+      "DropNum": 1,
+      "RoomIdx": 2
+    },
+    {
+      "ID": 1020,
+      "DropNum": 1,
+      "RoomIdx": 3
+    },
+    {
+      "ID": 1011,
+      "DropNum": 1,
+      "RoomIdx": 3
+    },
+    {
+      "ID": 1025,
+      "DropNum": 1,
+      "RoomIdx": 4
+    }
+  ]
+}

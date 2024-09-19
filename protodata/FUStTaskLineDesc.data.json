@@ -1,0 +1,906 @@
+{
+  "List": [
+    {
+      "ID": 9999999,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/TaskAssets/Test_TaskGraph.Test_TaskGraph'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 100,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_BOSShop.CTG_HFM_BOSShop'",
+      "BeginTaskStageID": 100,
+      "EndTaskStageIDList": [
+        601
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 200,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_get_skill.CTG_get_skill'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 201,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_systemfunction.CTG_systemfunction'",
+      "BeginTaskStageID": 20101,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 202,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_travelnote.CTG_travelnote'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 203,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_hfs_guide.CTG_hfs_guide'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 999,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/MGD/QuestAsset/CTG_mgd_main.CTG_mgd_main'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1000,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_hfs_main.CTG_hfs_main'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1001,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_HFS_QiaoZhong.CTG_HFS_QiaoZhong'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [
+        1001302
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1002,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_HFS_QiaoZhong_Tudi_Voice.CTG_HFS_QiaoZhong_Tudi_Voice'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1011,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_hfs_startwolfdead_tudi_voice.CTG_hfs_startwolfdead_tudi_voice'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1012,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_hfs_learn_dingshen.CTG_hfs_learn_dingshen'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_Chiran_PUbu_Voice.CTG_Chiran_PUbu_Voice'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1100,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/Degenerator_map/HFS_Transmit/Sequence/CTG_hfs_wooddragon.CTG_hfs_wooddragon'",
+      "BeginTaskStageID": 1100001,
+      "EndTaskStageIDList": [
+        1100001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1313,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_HFS_Shenhou.CTG_HFS_Shenhou'",
+      "BeginTaskStageID": 1313001,
+      "EndTaskStageIDList": [
+        1313005
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1400,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_Tudipo.CTG_Tudipo'",
+      "BeginTaskStageID": 1400001,
+      "EndTaskStageIDList": [
+        1400099
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2000,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_hfm_main.CTG_hfm_main'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2001,
+      "TaskGraphAssetPath": "/Game/00Main/TaskAssets/HFM/MaoShuTongMian/CTG_HFM_MaoShuTongMian.CTG_HFM_MaoShuTongMian",
+      "BeginTaskStageID": 2001101,
+      "EndTaskStageIDList": [
+        2001501,
+        2001301
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2002,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/TaskAssets/HFM/ShiZhongSheng/CTG_HFM_ShiZhongSheng.CTG_HFM_ShiZhongSheng'",
+      "BeginTaskStageID": 2002101,
+      "EndTaskStageIDList": [
+        2002120
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2003,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/TaskAssets/HFM/ZhuXingNanYi/CTG_HFM_ZhuXingNanYi.CTG_HFM_ZhuXingNanYi'",
+      "BeginTaskStageID": 2003101,
+      "EndTaskStageIDList": [
+        2003112
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2004,
+      "TaskGraphAssetPath": "/Game/00Main/TaskAssets/HFM/HuoZhongQuLi/CTG_HFM_HuoZhongQuLi.CTG_HFM_HuoZhongQuLi",
+      "BeginTaskStageID": 2004101,
+      "EndTaskStageIDList": [
+        2004701
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2005,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/TaskAssets/HFM/LongZaiYuan/CTG_HFM_LongZaiYuan.CTG_HFM_LongZaiYuan'",
+      "BeginTaskStageID": 2005101,
+      "EndTaskStageIDList": [
+        2005302
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2006,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/TaskAssets/HFM/ShiGanDang/CTG_HFM_ShiGanDang.CTG_HFM_ShiGanDang'",
+      "BeginTaskStageID": 2006100,
+      "EndTaskStageIDList": [
+        2006107
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2007,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_Temple.CTG_HFM_Temple'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2101,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_XiaoXuMi.CTG_HFM_XiaoXuMi'",
+      "BeginTaskStageID": 2101100,
+      "EndTaskStageIDList": [
+        2101101
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2201,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_HouHuCave_01.CTG_HFM_HouHuCave_01'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2008,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_Village_FuJieVFX.CTG_HFM_Village_FuJieVFX'",
+      "BeginTaskStageID": 2008101,
+      "EndTaskStageIDList": [
+        2008103
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2009,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_hfm_chuilong.CTG_hfm_chuilong'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2010,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_MV_HPS_Final.CTG_HFM_MV_HPS_Final'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2099,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_LevelEnding.CTG_HFM_LevelEnding'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2820,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_Valley.CTG_HFM_Valley'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2888,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/TaskAssets/HFM/DuJiaoXian/CTG_hfm_dujiaoxian.CTG_hfm_dujiaoxian'",
+      "BeginTaskStageID": 2888001,
+      "EndTaskStageIDList": [
+        2888099
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2222,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_Mamian.CTG_Mamian'",
+      "BeginTaskStageID": 2222001,
+      "EndTaskStageIDList": [
+        2222005,
+        2222009
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 10001,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/TaskAssets/DebugRoom/GameLevelPass/CTG_DebugRoom_GameLevelPass.CTG_DebugRoom_GameLevelPass'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 10002,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/TaskAssets/DebugRoom/PrologueCompleted/CTG_DebugRoom_PrologueCompleted.CTG_DebugRoom_PrologueCompleted'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 10003,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/TaskAssets/DebugRoom/LevelFinish/CTG_DebugRoom_LevelFinish.CTG_DebugRoom_LevelFinish'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 10005,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/TaskAssets/DebugRoom/Main/CTG_DebugRoom_LongZaiYuan.CTG_DebugRoom_LongZaiYuan'",
+      "BeginTaskStageID": 10005101,
+      "EndTaskStageIDList": [
+        10005302
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5000,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_main.CTG_hys_main'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5001,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_HYS_JDS.CTG_HYS_JDS'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [
+        5001101,
+        5001204
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5002,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/TaskAssets/HYS/Mamian/CTG_HYS_MaMian.CTG_HYS_MaMian'",
+      "BeginTaskStageID": 5002101,
+      "EndTaskStageIDList": [
+        5002105
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5099,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_zhubajie.CTG_hys_zhubajie'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5007,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_tudigong.CTG_hys_tudigong'",
+      "BeginTaskStageID": 5007101,
+      "EndTaskStageIDList": [
+        5007102
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5009,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_hms.CTG_hys_hms'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5010,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_jrhkrf.CTG_hys_jrhkrf'",
+      "BeginTaskStageID": 5010001,
+      "EndTaskStageIDList": [
+        5010001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5011,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_YLWWLY.CTG_hys_YLWWLY'",
+      "BeginTaskStageID": 5011001,
+      "EndTaskStageIDList": [
+        5011001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5012,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_honghaier.CTG_hys_honghaier'",
+      "BeginTaskStageID": 5012001,
+      "EndTaskStageIDList": [
+        5012001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5020,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_foxguide.CTG_hys_foxguide'",
+      "BeginTaskStageID": 5020001,
+      "EndTaskStageIDList": [
+        5020001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4000,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_main.CTG_psd_main'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4001,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_switchlight.CTG_psd_switchlight'",
+      "BeginTaskStageID": 4001001,
+      "EndTaskStageIDList": [
+        4001001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4901,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_zhubajie_follow.CTG_psd_zhubajie_follow'",
+      "BeginTaskStageID": 4901001,
+      "EndTaskStageIDList": [
+        4091003
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4902,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_zhubajie_follow_interactive.CTG_psd_zhubajie_follow_interactive'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 6000,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/End_A01/QuestAsset/CTG_enda01_main.CTG_enda01_main'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 6001,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_zhubajie_follow.CTG_psd_zhubajie_follow'",
+      "BeginTaskStageID": 4901001,
+      "EndTaskStageIDList": [
+        4091003
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 6201,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/End_B01/QuestAsset/CTG_endb01_yangjian.CTG_endb01_yangjian'",
+      "BeginTaskStageID": 6210001,
+      "EndTaskStageIDList": [
+        6210099
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4002,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_zhuhaitaowang.CTG_psd_zhuhaitaowang'",
+      "BeginTaskStageID": 4002001,
+      "EndTaskStageIDList": [
+        4002001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4003,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_youyan.CTG_psd_youyan'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4004,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_baiyanmojun.CTG_psd_baiyanmojun'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4402,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_sijiequest.CTG_psd_sijiequest'",
+      "BeginTaskStageID": 4402101,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4403,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_wulongquest.CTG_psd_wulongquest'",
+      "BeginTaskStageID": 4403001,
+      "EndTaskStageIDList": [
+        4403099
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4404,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_zhaogujing.CTG_psd_zhaogujing'",
+      "BeginTaskStageID": 4404001,
+      "EndTaskStageIDList": [
+        4404005
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4500,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_Dage.CTG_psd_Dage'",
+      "BeginTaskStageID": 4500001,
+      "EndTaskStageIDList": [
+        4500001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4600,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_baijiangcan.CTG_psd_baijiangcan'",
+      "BeginTaskStageID": 4600001,
+      "EndTaskStageIDList": [
+        4600001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4700,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_sijie_fail.CTG_psd_sijie_fail'",
+      "BeginTaskStageID": 4700001,
+      "EndTaskStageIDList": [
+        4700001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3000,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_main.CTG_lys_main'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3014,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_LYS_Ruyilong.CTG_LYS_Ruyilong'",
+      "BeginTaskStageID": 3014001,
+      "EndTaskStageIDList": [
+        3014099
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3333,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_yangxian.CTG_lys_yangxian'",
+      "BeginTaskStageID": 3333001,
+      "EndTaskStageIDList": [
+        3333010
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3900,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_huangmei.CTG_lys_huangmei'",
+      "BeginTaskStageID": 3900001,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3999,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_zbj_rzd.CTG_lys_zbj_rzd'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3401,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_guibei.CTG_lys_guibei'",
+      "BeginTaskStageID": 3401001,
+      "EndTaskStageIDList": [
+        3401006
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 7001,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/BSD02/QuestAssets/CTG_bsd_JJS.CTG_bsd_JJS'",
+      "BeginTaskStageID": 7001001,
+      "EndTaskStageIDList": [
+        7001003
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 7002,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/BSD02/QuestAssets/CTG_bsd_xgx.CTG_bsd_xgx'",
+      "BeginTaskStageID": 7002001,
+      "EndTaskStageIDList": [
+        7002001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 8001,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/ZYS01/Quest/CTG_zys_HongLinMang.CTG_zys_HongLinMang'",
+      "BeginTaskStageID": 8001001,
+      "EndTaskStageIDList": [
+        8001003
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 8002,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/ZYS01/Quest/CTG_zys_DuChong.CTG_zys_DuChong'",
+      "BeginTaskStageID": 8002001,
+      "EndTaskStageIDList": [
+        8002006
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 8003,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/ZYS01/Quest/CTG_zys_XieZi.CTG_zys_XieZi'",
+      "BeginTaskStageID": 8003001,
+      "EndTaskStageIDList": [
+        8003006
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 8004,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/ZYS01/Quest/CTG_zys_mrxg.CTG_zys_mrxg'",
+      "BeginTaskStageID": 8004001,
+      "EndTaskStageIDList": [
+        8004003
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 8005,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/ZYS01/Quest/CTG_zys_XieZi_MRXG.CTG_zys_XieZi_MRXG'",
+      "BeginTaskStageID": 8005001,
+      "EndTaskStageIDList": [
+        8005004
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3013,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_xuehou.CTG_lys_xuehou'",
+      "BeginTaskStageID": 3013001,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3901,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_ZhubajieLYSJourney.CTG_ZhubajieLYSJourney'",
+      "BeginTaskStageID": 3901001,
+      "EndTaskStageIDList": [
+        3091003
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3015,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_xuehou_bat.CTG_lys_xuehou_bat'",
+      "BeginTaskStageID": 3015001,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3016,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_quest_shegu.CTG_lys_quest_shegu'",
+      "BeginTaskStageID": 3016001,
+      "EndTaskStageIDList": [
+        0
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3017,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_jianlong.CTG_lys_jianlong'",
+      "BeginTaskStageID": 3017001,
+      "EndTaskStageIDList": [
+        3017002
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3020,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/CTG_lys_laoseng.CTG_lys_laoseng'",
+      "BeginTaskStageID": 3020001,
+      "EndTaskStageIDList": [
+        3020002
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4026,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_huijin_02b_allclear.CTG_lys_huijin_02b_allclear'",
+      "BeginTaskStageID": 4026007,
+      "EndTaskStageIDList": [
+        4026007
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3402,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_XiaoMiLe_Quest.CTG_lys_XiaoMiLe_Quest'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3403,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_XiaoMiLe_Interact.CTG_lys_XiaoMiLe_Interact'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3031,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_xztz.CTG_lys_xztz'",
+      "BeginTaskStageID": 3031000,
+      "EndTaskStageIDList": [
+        3031099
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3032,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_xztz_mo3.CTG_lys_xztz_mo3'",
+      "BeginTaskStageID": 3032001,
+      "EndTaskStageIDList": [
+        3032002
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3070,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_YSCheng_AllPhase.CTG_YSCheng_AllPhase'",
+      "BeginTaskStageID": 3070000,
+      "EndTaskStageIDList": [
+        3070006
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3100,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_Huazhongshijie.CTG_Huazhongshijie'",
+      "BeginTaskStageID": 3100001,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3101,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_Huazhongshijie_yangcan.CTG_Huazhongshijie_yangcan'",
+      "BeginTaskStageID": 3101001,
+      "EndTaskStageIDList": [
+        3101001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3102,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_Huazhongshijie_HuWind.CTG_Huazhongshijie_HuWind'",
+      "BeginTaskStageID": 3102001,
+      "EndTaskStageIDList": [
+        3102002
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9201,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/FTT02/Quest/CTG_FTT_teleport.CTG_FTT_teleport'",
+      "BeginTaskStageID": 9201000,
+      "EndTaskStageIDList": [
+        9201099
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9801,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_WLG.CTG_BYS_WLG'",
+      "BeginTaskStageID": 9801001,
+      "EndTaskStageIDList": [
+        9801003
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9802,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_JDS.CTG_BYS_JDS'",
+      "BeginTaskStageID": 9802001,
+      "EndTaskStageIDList": [
+        9802006
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9803,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_Xiniu.CTG_BYS_Xiniu'",
+      "BeginTaskStageID": 9803001,
+      "EndTaskStageIDList": [
+        9803002
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9804,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_Xuelu.CTG_BYS_Xuelu'",
+      "BeginTaskStageID": 9804001,
+      "EndTaskStageIDList": [
+        9804002
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9806,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_Xishuai.CTG_BYS_Xishuai'",
+      "BeginTaskStageID": 9806001,
+      "EndTaskStageIDList": [
+        9806001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9807,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_bys_tanglang.CTG_bys_tanglang'",
+      "BeginTaskStageID": 9807001,
+      "EndTaskStageIDList": [
+        9807004
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9809,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_GamePass.CTG_BYS_GamePass'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9810,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_ZBJ.CTG_BYS_ZBJ'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9812,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/ShuiLianDong/CTG_BYS_ShuiLianDong.CTG_BYS_ShuiLianDong'",
+      "BeginTaskStageID": 9812000,
+      "EndTaskStageIDList": [
+        9812004
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9814,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_Shitongling03.CTG_BYS_Shitongling03'",
+      "BeginTaskStageID": 9814001,
+      "EndTaskStageIDList": [
+        9814001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9815,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_Tudipo.CTG_BYS_Tudipo'",
+      "BeginTaskStageID": 9815001,
+      "EndTaskStageIDList": [
+        9815001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9800,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/End_B01/QuestAsset/CTG_endb01_RebirthPorint.CTG_endb01_RebirthPorint'",
+      "BeginTaskStageID": 0,
+      "EndTaskStageIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9820,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/BYS/CTG_BYS_BajieBox.CTG_BYS_BajieBox'",
+      "BeginTaskStageID": 9820001,
+      "EndTaskStageIDList": [
+        9820001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1301,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/MGD/QuestAsset/CTG_mgd_game_opening.CTG_mgd_game_opening'",
+      "BeginTaskStageID": 1301101,
+      "EndTaskStageIDList": [
+        1301102
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9599,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/WhiteBox/CTG_Zhubajie_Cesuo.CTG_Zhubajie_Cesuo'",
+      "BeginTaskStageID": 9599000,
+      "EndTaskStageIDList": [
+        9599002
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9999,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/TaskAssets/HFM/CTG_HFM_Testseq.CTG_HFM_Testseq'",
+      "BeginTaskStageID": 9999100,
+      "EndTaskStageIDList": [
+        9999100
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3011,
+      "TaskGraphAssetPath": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_LYS_fsys.CTG_LYS_fsys'",
+      "BeginTaskStageID": 3011000,
+      "EndTaskStageIDList": [
+        3011001
+      ],
+      "Guard": "Guard"
+    }
+  ]
+}

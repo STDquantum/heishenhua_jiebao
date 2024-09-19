@@ -1,0 +1,51 @@
+{
+  "List": [
+    {
+      "ID": 1080101,
+      "LockRuleInfo": {
+        "OnlyManualLock": 0,
+        "MappingSkillID": 10798,
+        "UnitResIDList": [
+          1009,
+          2024,
+          4301,
+          0
+        ]
+      },
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5000601,
+      "LockRuleInfo": {
+        "OnlyManualLock": 0,
+        "MappingSkillID": 50096,
+        "UnitResIDList": [
+          8000
+        ]
+      },
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5000701,
+      "LockRuleInfo": {
+        "OnlyManualLock": 0,
+        "MappingSkillID": 50097,
+        "UnitResIDList": [
+          8000
+        ]
+      },
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5000801,
+      "LockRuleInfo": {
+        "OnlyManualLock": 0,
+        "MappingSkillID": 50098,
+        "UnitResIDList": [
+          8000
+        ]
+      },
+      "Guard": "Guard"
+    }
+  ]
+}

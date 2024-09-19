@@ -1,0 +1,30 @@
+{
+  "List": [
+    {
+      "ID": 10,
+      "SpellID": 5302,
+      "DefaultCD": 600000,
+      "AMPath": "/Game/00Main/Animation/Player/Wukong/AM/Fashu/JMHM/AM_Wukong_JMHM.AM_Wukong_JMHM",
+      "EffectIDList": [
+        1051901
+      ],
+      "BuffIDList": [],
+      "BuffIDListDurLifeSaving": [
+        10006
+      ]
+    },
+    {
+      "ID": 24,
+      "SpellID": 5704,
+      "DefaultCD": 600000,
+      "AMPath": "/Game/00Main/Animation/Player/Transform/Player_mgd_yuan/Montage/Fashu/AM_player_mgd_yuan_F3_JMHM.AM_player_mgd_yuan_F3_JMHM",
+      "EffectIDList": [
+        1051901
+      ],
+      "BuffIDList": [],
+      "BuffIDListDurLifeSaving": [
+        10006
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1614 @@
+{
+  "List": [
+    {
+      "ID": 1201,
+      "ResID": 12,
+      "OriginStiffLevel": 8,
+      "MappingStiffLevel": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1202,
+      "ResID": 12,
+      "OriginStiffLevel": 9,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1203,
+      "ResID": 12,
+      "OriginStiffLevel": 10,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1204,
+      "ResID": 12,
+      "OriginStiffLevel": 11,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1205,
+      "ResID": 12,
+      "OriginStiffLevel": 12,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1206,
+      "ResID": 12,
+      "OriginStiffLevel": 13,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1207,
+      "ResID": 12,
+      "OriginStiffLevel": 14,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1208,
+      "ResID": 12,
+      "OriginStiffLevel": 15,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1209,
+      "ResID": 12,
+      "OriginStiffLevel": 16,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1210,
+      "ResID": 12,
+      "OriginStiffLevel": 17,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1211,
+      "ResID": 12,
+      "OriginStiffLevel": 18,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1212,
+      "ResID": 12,
+      "OriginStiffLevel": 19,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1213,
+      "ResID": 12,
+      "OriginStiffLevel": 20,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1214,
+      "ResID": 12,
+      "OriginStiffLevel": 21,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1215,
+      "ResID": 12,
+      "OriginStiffLevel": 22,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1216,
+      "ResID": 12,
+      "OriginStiffLevel": 23,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1217,
+      "ResID": 12,
+      "OriginStiffLevel": 24,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1218,
+      "ResID": 12,
+      "OriginStiffLevel": 25,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1219,
+      "ResID": 12,
+      "OriginStiffLevel": 26,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1220,
+      "ResID": 12,
+      "OriginStiffLevel": 27,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1221,
+      "ResID": 12,
+      "OriginStiffLevel": 28,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1222,
+      "ResID": 12,
+      "OriginStiffLevel": 29,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1223,
+      "ResID": 12,
+      "OriginStiffLevel": 40,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1301,
+      "ResID": 13,
+      "OriginStiffLevel": 6,
+      "MappingStiffLevel": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1302,
+      "ResID": 13,
+      "OriginStiffLevel": 7,
+      "MappingStiffLevel": 4,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1303,
+      "ResID": 13,
+      "OriginStiffLevel": 8,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1304,
+      "ResID": 13,
+      "OriginStiffLevel": 9,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1305,
+      "ResID": 13,
+      "OriginStiffLevel": 10,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1306,
+      "ResID": 13,
+      "OriginStiffLevel": 11,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1307,
+      "ResID": 13,
+      "OriginStiffLevel": 12,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1308,
+      "ResID": 13,
+      "OriginStiffLevel": 13,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1309,
+      "ResID": 13,
+      "OriginStiffLevel": 14,
+      "MappingStiffLevel": 4,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1310,
+      "ResID": 13,
+      "OriginStiffLevel": 15,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1311,
+      "ResID": 13,
+      "OriginStiffLevel": 16,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1312,
+      "ResID": 13,
+      "OriginStiffLevel": 17,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1313,
+      "ResID": 13,
+      "OriginStiffLevel": 18,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1314,
+      "ResID": 13,
+      "OriginStiffLevel": 19,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1315,
+      "ResID": 13,
+      "OriginStiffLevel": 20,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1316,
+      "ResID": 13,
+      "OriginStiffLevel": 21,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1317,
+      "ResID": 13,
+      "OriginStiffLevel": 22,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1318,
+      "ResID": 13,
+      "OriginStiffLevel": 23,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1319,
+      "ResID": 13,
+      "OriginStiffLevel": 24,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1320,
+      "ResID": 13,
+      "OriginStiffLevel": 25,
+      "MappingStiffLevel": 4,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1321,
+      "ResID": 13,
+      "OriginStiffLevel": 26,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1322,
+      "ResID": 13,
+      "OriginStiffLevel": 27,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1323,
+      "ResID": 13,
+      "OriginStiffLevel": 38,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1401,
+      "ResID": 14,
+      "OriginStiffLevel": 7,
+      "MappingStiffLevel": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1402,
+      "ResID": 14,
+      "OriginStiffLevel": 8,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1403,
+      "ResID": 14,
+      "OriginStiffLevel": 9,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1404,
+      "ResID": 14,
+      "OriginStiffLevel": 10,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1405,
+      "ResID": 14,
+      "OriginStiffLevel": 11,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1406,
+      "ResID": 14,
+      "OriginStiffLevel": 12,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1407,
+      "ResID": 14,
+      "OriginStiffLevel": 13,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1408,
+      "ResID": 14,
+      "OriginStiffLevel": 14,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1409,
+      "ResID": 14,
+      "OriginStiffLevel": 15,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1410,
+      "ResID": 14,
+      "OriginStiffLevel": 16,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1411,
+      "ResID": 14,
+      "OriginStiffLevel": 17,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1412,
+      "ResID": 14,
+      "OriginStiffLevel": 18,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1413,
+      "ResID": 14,
+      "OriginStiffLevel": 19,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1414,
+      "ResID": 14,
+      "OriginStiffLevel": 20,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1415,
+      "ResID": 14,
+      "OriginStiffLevel": 21,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1416,
+      "ResID": 14,
+      "OriginStiffLevel": 22,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1417,
+      "ResID": 14,
+      "OriginStiffLevel": 23,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1418,
+      "ResID": 14,
+      "OriginStiffLevel": 24,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1419,
+      "ResID": 14,
+      "OriginStiffLevel": 25,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1420,
+      "ResID": 14,
+      "OriginStiffLevel": 26,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1421,
+      "ResID": 14,
+      "OriginStiffLevel": 27,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1422,
+      "ResID": 14,
+      "OriginStiffLevel": 28,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1423,
+      "ResID": 14,
+      "OriginStiffLevel": 39,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1501,
+      "ResID": 15,
+      "OriginStiffLevel": 8,
+      "MappingStiffLevel": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1502,
+      "ResID": 15,
+      "OriginStiffLevel": 9,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1503,
+      "ResID": 15,
+      "OriginStiffLevel": 10,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1504,
+      "ResID": 15,
+      "OriginStiffLevel": 11,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1505,
+      "ResID": 15,
+      "OriginStiffLevel": 12,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1506,
+      "ResID": 15,
+      "OriginStiffLevel": 13,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1507,
+      "ResID": 15,
+      "OriginStiffLevel": 14,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1508,
+      "ResID": 15,
+      "OriginStiffLevel": 15,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1509,
+      "ResID": 15,
+      "OriginStiffLevel": 16,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1510,
+      "ResID": 15,
+      "OriginStiffLevel": 17,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1511,
+      "ResID": 15,
+      "OriginStiffLevel": 18,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1512,
+      "ResID": 15,
+      "OriginStiffLevel": 19,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1513,
+      "ResID": 15,
+      "OriginStiffLevel": 20,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1514,
+      "ResID": 15,
+      "OriginStiffLevel": 21,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1515,
+      "ResID": 15,
+      "OriginStiffLevel": 22,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1516,
+      "ResID": 15,
+      "OriginStiffLevel": 23,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1517,
+      "ResID": 15,
+      "OriginStiffLevel": 24,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1518,
+      "ResID": 15,
+      "OriginStiffLevel": 25,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1519,
+      "ResID": 15,
+      "OriginStiffLevel": 26,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1520,
+      "ResID": 15,
+      "OriginStiffLevel": 27,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1521,
+      "ResID": 15,
+      "OriginStiffLevel": 28,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1522,
+      "ResID": 15,
+      "OriginStiffLevel": 29,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1523,
+      "ResID": 15,
+      "OriginStiffLevel": 40,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1601,
+      "ResID": 16,
+      "OriginStiffLevel": 8,
+      "MappingStiffLevel": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1602,
+      "ResID": 16,
+      "OriginStiffLevel": 9,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1603,
+      "ResID": 16,
+      "OriginStiffLevel": 10,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1604,
+      "ResID": 16,
+      "OriginStiffLevel": 11,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1605,
+      "ResID": 16,
+      "OriginStiffLevel": 12,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1606,
+      "ResID": 16,
+      "OriginStiffLevel": 13,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1607,
+      "ResID": 16,
+      "OriginStiffLevel": 14,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1608,
+      "ResID": 16,
+      "OriginStiffLevel": 15,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1609,
+      "ResID": 16,
+      "OriginStiffLevel": 16,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1610,
+      "ResID": 16,
+      "OriginStiffLevel": 17,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1611,
+      "ResID": 16,
+      "OriginStiffLevel": 18,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1612,
+      "ResID": 16,
+      "OriginStiffLevel": 19,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1613,
+      "ResID": 16,
+      "OriginStiffLevel": 20,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1614,
+      "ResID": 16,
+      "OriginStiffLevel": 21,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1615,
+      "ResID": 16,
+      "OriginStiffLevel": 22,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1616,
+      "ResID": 16,
+      "OriginStiffLevel": 23,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1617,
+      "ResID": 16,
+      "OriginStiffLevel": 24,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1618,
+      "ResID": 16,
+      "OriginStiffLevel": 25,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1619,
+      "ResID": 16,
+      "OriginStiffLevel": 26,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1620,
+      "ResID": 16,
+      "OriginStiffLevel": 27,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1621,
+      "ResID": 16,
+      "OriginStiffLevel": 28,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1622,
+      "ResID": 16,
+      "OriginStiffLevel": 29,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1623,
+      "ResID": 16,
+      "OriginStiffLevel": 40,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1701,
+      "ResID": 17,
+      "OriginStiffLevel": 8,
+      "MappingStiffLevel": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1702,
+      "ResID": 17,
+      "OriginStiffLevel": 9,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1703,
+      "ResID": 17,
+      "OriginStiffLevel": 10,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1704,
+      "ResID": 17,
+      "OriginStiffLevel": 11,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1705,
+      "ResID": 17,
+      "OriginStiffLevel": 12,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1706,
+      "ResID": 17,
+      "OriginStiffLevel": 13,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1707,
+      "ResID": 17,
+      "OriginStiffLevel": 14,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1708,
+      "ResID": 17,
+      "OriginStiffLevel": 15,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1709,
+      "ResID": 17,
+      "OriginStiffLevel": 16,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1710,
+      "ResID": 17,
+      "OriginStiffLevel": 17,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1711,
+      "ResID": 17,
+      "OriginStiffLevel": 18,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1712,
+      "ResID": 17,
+      "OriginStiffLevel": 19,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1713,
+      "ResID": 17,
+      "OriginStiffLevel": 20,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1714,
+      "ResID": 17,
+      "OriginStiffLevel": 21,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1715,
+      "ResID": 17,
+      "OriginStiffLevel": 22,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1716,
+      "ResID": 17,
+      "OriginStiffLevel": 23,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1717,
+      "ResID": 17,
+      "OriginStiffLevel": 24,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1718,
+      "ResID": 17,
+      "OriginStiffLevel": 25,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1719,
+      "ResID": 17,
+      "OriginStiffLevel": 26,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1720,
+      "ResID": 17,
+      "OriginStiffLevel": 27,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1721,
+      "ResID": 17,
+      "OriginStiffLevel": 28,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1722,
+      "ResID": 17,
+      "OriginStiffLevel": 29,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1723,
+      "ResID": 17,
+      "OriginStiffLevel": 40,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1801,
+      "ResID": 18,
+      "OriginStiffLevel": 8,
+      "MappingStiffLevel": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1802,
+      "ResID": 18,
+      "OriginStiffLevel": 9,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1803,
+      "ResID": 18,
+      "OriginStiffLevel": 10,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1804,
+      "ResID": 18,
+      "OriginStiffLevel": 11,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1805,
+      "ResID": 18,
+      "OriginStiffLevel": 12,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1806,
+      "ResID": 18,
+      "OriginStiffLevel": 13,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1807,
+      "ResID": 18,
+      "OriginStiffLevel": 14,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1808,
+      "ResID": 18,
+      "OriginStiffLevel": 15,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1809,
+      "ResID": 18,
+      "OriginStiffLevel": 16,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1810,
+      "ResID": 18,
+      "OriginStiffLevel": 17,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1811,
+      "ResID": 18,
+      "OriginStiffLevel": 18,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1812,
+      "ResID": 18,
+      "OriginStiffLevel": 19,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1813,
+      "ResID": 18,
+      "OriginStiffLevel": 20,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1814,
+      "ResID": 18,
+      "OriginStiffLevel": 21,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1815,
+      "ResID": 18,
+      "OriginStiffLevel": 22,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1816,
+      "ResID": 18,
+      "OriginStiffLevel": 23,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1817,
+      "ResID": 18,
+      "OriginStiffLevel": 24,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1818,
+      "ResID": 18,
+      "OriginStiffLevel": 25,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1819,
+      "ResID": 18,
+      "OriginStiffLevel": 26,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1820,
+      "ResID": 18,
+      "OriginStiffLevel": 27,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1821,
+      "ResID": 18,
+      "OriginStiffLevel": 28,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1822,
+      "ResID": 18,
+      "OriginStiffLevel": 29,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1823,
+      "ResID": 18,
+      "OriginStiffLevel": 40,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1901,
+      "ResID": 19,
+      "OriginStiffLevel": 8,
+      "MappingStiffLevel": 3,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1902,
+      "ResID": 19,
+      "OriginStiffLevel": 9,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1903,
+      "ResID": 19,
+      "OriginStiffLevel": 10,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1904,
+      "ResID": 19,
+      "OriginStiffLevel": 11,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1905,
+      "ResID": 19,
+      "OriginStiffLevel": 12,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1906,
+      "ResID": 19,
+      "OriginStiffLevel": 13,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1907,
+      "ResID": 19,
+      "OriginStiffLevel": 14,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1908,
+      "ResID": 19,
+      "OriginStiffLevel": 15,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1909,
+      "ResID": 19,
+      "OriginStiffLevel": 16,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1910,
+      "ResID": 19,
+      "OriginStiffLevel": 17,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1911,
+      "ResID": 19,
+      "OriginStiffLevel": 18,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1912,
+      "ResID": 19,
+      "OriginStiffLevel": 19,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1913,
+      "ResID": 19,
+      "OriginStiffLevel": 20,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1914,
+      "ResID": 19,
+      "OriginStiffLevel": 21,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1915,
+      "ResID": 19,
+      "OriginStiffLevel": 22,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1916,
+      "ResID": 19,
+      "OriginStiffLevel": 23,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1917,
+      "ResID": 19,
+      "OriginStiffLevel": 24,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1918,
+      "ResID": 19,
+      "OriginStiffLevel": 25,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1919,
+      "ResID": 19,
+      "OriginStiffLevel": 26,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1920,
+      "ResID": 19,
+      "OriginStiffLevel": 27,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1921,
+      "ResID": 19,
+      "OriginStiffLevel": 28,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1922,
+      "ResID": 19,
+      "OriginStiffLevel": 29,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1923,
+      "ResID": 19,
+      "OriginStiffLevel": 40,
+      "MappingStiffLevel": 7,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2301,
+      "ResID": 23,
+      "OriginStiffLevel": 7,
+      "MappingStiffLevel": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2302,
+      "ResID": 23,
+      "OriginStiffLevel": 8,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2303,
+      "ResID": 23,
+      "OriginStiffLevel": 9,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2304,
+      "ResID": 23,
+      "OriginStiffLevel": 10,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2305,
+      "ResID": 23,
+      "OriginStiffLevel": 11,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2306,
+      "ResID": 23,
+      "OriginStiffLevel": 12,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2307,
+      "ResID": 23,
+      "OriginStiffLevel": 13,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2308,
+      "ResID": 23,
+      "OriginStiffLevel": 14,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2309,
+      "ResID": 23,
+      "OriginStiffLevel": 15,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2310,
+      "ResID": 23,
+      "OriginStiffLevel": 16,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2311,
+      "ResID": 23,
+      "OriginStiffLevel": 17,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2312,
+      "ResID": 23,
+      "OriginStiffLevel": 18,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2313,
+      "ResID": 23,
+      "OriginStiffLevel": 19,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2314,
+      "ResID": 23,
+      "OriginStiffLevel": 20,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2315,
+      "ResID": 23,
+      "OriginStiffLevel": 21,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2316,
+      "ResID": 23,
+      "OriginStiffLevel": 22,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2317,
+      "ResID": 23,
+      "OriginStiffLevel": 23,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2318,
+      "ResID": 23,
+      "OriginStiffLevel": 24,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2319,
+      "ResID": 23,
+      "OriginStiffLevel": 25,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2320,
+      "ResID": 23,
+      "OriginStiffLevel": 26,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2321,
+      "ResID": 23,
+      "OriginStiffLevel": 27,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2322,
+      "ResID": 23,
+      "OriginStiffLevel": 28,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2323,
+      "ResID": 23,
+      "OriginStiffLevel": 39,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2401,
+      "ResID": 24,
+      "OriginStiffLevel": 7,
+      "MappingStiffLevel": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2402,
+      "ResID": 24,
+      "OriginStiffLevel": 8,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2403,
+      "ResID": 24,
+      "OriginStiffLevel": 9,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2404,
+      "ResID": 24,
+      "OriginStiffLevel": 10,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2405,
+      "ResID": 24,
+      "OriginStiffLevel": 11,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2406,
+      "ResID": 24,
+      "OriginStiffLevel": 12,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2407,
+      "ResID": 24,
+      "OriginStiffLevel": 13,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2408,
+      "ResID": 24,
+      "OriginStiffLevel": 14,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2409,
+      "ResID": 24,
+      "OriginStiffLevel": 15,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2410,
+      "ResID": 24,
+      "OriginStiffLevel": 16,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2411,
+      "ResID": 24,
+      "OriginStiffLevel": 17,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2412,
+      "ResID": 24,
+      "OriginStiffLevel": 18,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2413,
+      "ResID": 24,
+      "OriginStiffLevel": 19,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2414,
+      "ResID": 24,
+      "OriginStiffLevel": 20,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2415,
+      "ResID": 24,
+      "OriginStiffLevel": 21,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2416,
+      "ResID": 24,
+      "OriginStiffLevel": 22,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2417,
+      "ResID": 24,
+      "OriginStiffLevel": 23,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2418,
+      "ResID": 24,
+      "OriginStiffLevel": 24,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2419,
+      "ResID": 24,
+      "OriginStiffLevel": 25,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2420,
+      "ResID": 24,
+      "OriginStiffLevel": 26,
+      "MappingStiffLevel": 5,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2421,
+      "ResID": 24,
+      "OriginStiffLevel": 27,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2422,
+      "ResID": 24,
+      "OriginStiffLevel": 28,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2423,
+      "ResID": 24,
+      "OriginStiffLevel": 39,
+      "MappingStiffLevel": 6,
+      "Guard": "Guard"
+    }
+  ]
+}

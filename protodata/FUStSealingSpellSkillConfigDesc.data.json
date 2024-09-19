@@ -1,0 +1,24 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "ResID": 10,
+      "DurationMs": 3600000,
+      "TriggerBeginBuffIDs": [
+        1130,
+        1133,
+        1134
+      ],
+      "TriggerLoppBuffIDs": [
+        10055,
+        156,
+        157
+      ],
+      "TriggerSkillEffectIDs": [
+        1052101,
+        1052103,
+        1052104
+      ]
+    }
+  ]
+}

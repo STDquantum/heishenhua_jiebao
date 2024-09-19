@@ -1,0 +1,20 @@
+{
+  "List": [
+    {
+      "Id": 1,
+      "AwardName": "PS4 Pro",
+      "AwardQuality": 1,
+      "Num": 12,
+      "AwardImage": "",
+      "ItemId": 3001
+    },
+    {
+      "Id": 2,
+      "AwardName": "Nokia 6600",
+      "AwardQuality": 0,
+      "Num": 120,
+      "AwardImage": "",
+      "ItemId": 3002
+    }
+  ]
+}

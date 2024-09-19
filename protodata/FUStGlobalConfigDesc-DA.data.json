@@ -1,0 +1,188 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "ConfigInfo": {
+        "AliasName": "UIConfigDataAsset",
+        "ConfigType": 3,
+        "ConfigValue": "BGWFallDyingConfigDataAsset'/Game/00Main/Design/Config/DA_UIConfig.DA_UIConfig'"
+      }
+    },
+    {
+      "ID": 2,
+      "ConfigInfo": {
+        "AliasName": "HatredLeaveTime",
+        "ConfigType": 1,
+        "ConfigValue": "5"
+      }
+    },
+    {
+      "ID": 3,
+      "ConfigInfo": {
+        "AliasName": "LocalizationConfigDataAsset",
+        "ConfigType": 3,
+        "ConfigValue": "BGWFallDyingConfigDataAsset'/Game/00Main/Design/Config/DA_LocalizationConfig.DA_LocalizationConfig'"
+      }
+    },
+    {
+      "ID": 4,
+      "ConfigInfo": {
+        "AliasName": "HatredConfigDataAsset",
+        "ConfigType": 3,
+        "ConfigValue": "BGWHatredConfigDataAsset'/Game/00Main/Design/Blueprints/BP_Hatred_Config.BP_Hatred_Config'"
+      }
+    },
+    {
+      "ID": 5,
+      "ConfigInfo": {
+        "AliasName": "FallDyingConfigDataAsset",
+        "ConfigType": 3,
+        "ConfigValue": "BGWFallDyingConfigDataAsset'/Game/00Main/Design/Blueprints/BP_FallDying_Config.BP_FallDying_Config'"
+      }
+    },
+    {
+      "ID": 6,
+      "ConfigInfo": {
+        "AliasName": "EquipPreviewConfigDataAsset",
+        "ConfigType": 3,
+        "ConfigValue": "BGWFallDyingConfigDataAsset'/Game/00Main/Design/Blueprints/BP_EquipPreviewConfig.BP_EquipPreviewConfig'"
+      }
+    },
+    {
+      "ID": 7,
+      "ConfigInfo": {
+        "AliasName": "TransPreviewConfigDataAsset",
+        "ConfigType": 3,
+        "ConfigValue": "BGWTransPreviewConfigDataAsset'/Game/00Main/Design/Blueprints/DA_TransPreviewConfig.DA_TransPreviewConfig'"
+      }
+    },
+    {
+      "ID": 8,
+      "ConfigInfo": {
+        "AliasName": "BHLItemTmpDataAsset",
+        "ConfigType": 3,
+        "ConfigValue": "BGWFallDyingConfigDataAsset'/Game/00Main/Design/Blueprints/BP_BHLItem_Config.BP_BHLItem_Config'"
+      }
+    },
+    {
+      "ID": 9,
+      "ConfigInfo": {
+        "AliasName": "MPCStickProg",
+        "ConfigType": 3,
+        "ConfigValue": "UMaterialParameterCollection'/Game/00MainHZ/UIDev/HUD/StateBar/PlayerStyle/MPC_HUDStickLevelProg.MPC_HUDStickLevelProg'"
+      }
+    },
+    {
+      "ID": 10,
+      "ConfigInfo": {
+        "AliasName": "MaterialLayerParamGlobalConfigAsset",
+        "ConfigType": 3,
+        "ConfigValue": "BGWDataAsset_MaterialLayerParamGlobalConfig'/Game/00MainHZ/Characters/Wukong/EnvInteractive/DA_MaterialLayerGlobalConfig.DA_MaterialLayerGlobalConfig'"
+      }
+    },
+    {
+      "ID": 11,
+      "ConfigInfo": {
+        "AliasName": "ABSPosToUVConfig",
+        "ConfigType": 3,
+        "ConfigValue": "BGWDataAsset_ABSPosToUVConfig'/Game/00Main/Design/Config/DA_UIABSPosToUVCfg.DA_UIABSPosToUVCfg'"
+      }
+    },
+    {
+      "ID": 12,
+      "ConfigInfo": {
+        "AliasName": "UnitBarConfig",
+        "ConfigType": 3,
+        "ConfigValue": "BGWDataAsset_UnitBarConfig'/Game/TestMaps/Snooptest/UnitBarConfig.UnitBarConfig'"
+      }
+    },
+    {
+      "ID": 13,
+      "ConfigInfo": {
+        "AliasName": "MapConfigDataAsset",
+        "ConfigType": 3,
+        "ConfigValue": "BGWMapUIConfigDataAsset'/Game/00Main/Design/Config/DA_MapConfig.DA_MapConfig'"
+      }
+    },
+    {
+      "ID": 14,
+      "ConfigInfo": {
+        "AliasName": "SeqLevelLoadRelationInfo",
+        "ConfigType": 3,
+        "ConfigValue": "BGWDataAsset_SeqLevelLoadRelationInfo'/Game/00Main/DataAsset/DA_SeqLevelLoadConfig.DA_SeqLevelLoadConfig'"
+      }
+    },
+    {
+      "ID": 15,
+      "ConfigInfo": {
+        "AliasName": "UDOPC_DefaultDBC",
+        "ConfigType": 3,
+        "ConfigValue": "BGWDataAsset_B1DBC'/Game/00Main/DataAsset/UDOPConfig/DBC/DBC_DynamicObstacle_Default.DBC_DynamicObstacle_Default'"
+      }
+    },
+    {
+      "ID": 16,
+      "ConfigInfo": {
+        "AliasName": "SplineBirdSpawnConfig",
+        "ConfigType": 3,
+        "ConfigValue": "BGWDataAsset_SplineBirdSpawnConfig'/Game/00Main/DataAsset/SplineBird/DA_SplineBirdSpawnConfig.DA_SplineBirdSpawnConfig'"
+      }
+    },
+    {
+      "ID": 17,
+      "ConfigInfo": {
+        "AliasName": "GlobalBeImmobilizedConfig",
+        "ConfigType": 3,
+        "ConfigValue": "BGWDataAsset_GlobalBeImmobilizedConfig'/Game/00MainHZ/Characters/Enemy/General/GlobalBeImmobilizedConfig.GlobalBeImmobilizedConfig'"
+      }
+    },
+    {
+      "ID": 18,
+      "ConfigInfo": {
+        "AliasName": "BattleFieldPerformanceOptConfig",
+        "ConfigType": 3,
+        "ConfigValue": "BGWDataAsset_BattleFieldPerformanceOptConfig'/Game/00Main/DataAsset/Optimization/BattleField/BattleFieldOptimizeConfig.BattleFieldOptimizeConfig'"
+      }
+    },
+    {
+      "ID": 19,
+      "ConfigInfo": {
+        "AliasName": "BulletTrace_BulletSkillIDConfigPath",
+        "ConfigType": 3,
+        "ConfigValue": "BGWDataAsset_TamerAndBulletSkillIDConfig'/Game/3rd/QATest/DA_TamerAndBulletSkillIDConfig.DA_TamerAndBulletSkillIDConfig'"
+      }
+    },
+    {
+      "ID": 20,
+      "ConfigInfo": {
+        "AliasName": "NiagaraPerformance_TamerListDAPath",
+        "ConfigType": 3,
+        "ConfigValue": "BGWDataAsset_TamerListConfig'/Game/3rd/QATest/DA_QATamerList.DA_QATamerList'"
+      }
+    },
+    {
+      "ID": 21,
+      "ConfigInfo": {
+        "AliasName": "NiagaraPerformance_BlackSkillIDDaPath",
+        "ConfigType": 3,
+        "ConfigValue": "BGWDataAsset_SkillIDBlackListConfig'/Game/3rd/QATest/DA_SkillIDBlackListConfig.DA_SkillIDBlackListConfig'"
+      }
+    },
+    {
+      "ID": 22,
+      "ConfigInfo": {
+        "AliasName": "FrozenAccMatCurve",
+        "ConfigType": 3,
+        "ConfigValue": "CurveFloat'/Game/00Main/VFX/Common/Niagara/Buff/AnimCurves/C_debuff_IceAmount.C_debuff_IceAmount'"
+      }
+    },
+    {
+      "ID": 23,
+      "ConfigInfo": {
+        "AliasName": "UnitPreload_Outlaws",
+        "ConfigType": 3,
+        "ConfigValue": "BGWDataAsset_PreloadOutlaws'/Game/00Main/PreloadDataAsset/Preload_Outlaws.Preload_Outlaws'"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "AttackerResID": 0,
+      "VictimResID": 3028,
+      "MappingCondition": 1,
+      "ConditionEventType": 5,
+      "MappingHitPerformType": 1,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2,
+      "AttackerResID": 0,
+      "VictimResID": 3028,
+      "MappingCondition": 1,
+      "ConditionEventType": 6,
+      "MappingHitPerformType": 1,
+      "Guard": "Guard"
+    }
+  ]
+}

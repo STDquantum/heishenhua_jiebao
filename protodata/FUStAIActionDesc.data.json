@@ -1,0 +1,693 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "PreCondition": [
+        1
+      ],
+      "Effect": [
+        3,
+        23
+      ],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 2,
+      "PreCondition": [
+        23
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            1,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 3,
+      "PreCondition": [
+        7,
+        4
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 4,
+      "PreCondition": [
+        24
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 5,
+      "PreCondition": [
+        3,
+        10
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 6,
+      "PreCondition": [
+        1,
+        3
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            1,
+            5,
+            6,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 7,
+      "PreCondition": [
+        24,
+        11
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 8,
+      "PreCondition": [
+        1,
+        12
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            1,
+            5,
+            6,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 9,
+      "PreCondition": [
+        2,
+        13,
+        14
+      ],
+      "Effect": [
+        12
+      ],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 10,
+      "PreCondition": [
+        15
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 11,
+      "PreCondition": [
+        19,
+        21
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 12,
+      "PreCondition": [
+        19,
+        20
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 13,
+      "PreCondition": [
+        3
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 14,
+      "PreCondition": [
+        25
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 15,
+      "PreCondition": [
+        19
+      ],
+      "Effect": [
+        20
+      ],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 16,
+      "PreCondition": [
+        26
+      ],
+      "Effect": [
+        17,
+        16
+      ],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 17,
+      "PreCondition": [
+        27
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 18,
+      "PreCondition": [
+        30
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            14,
+            12,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 19,
+      "PreCondition": [
+        29
+      ],
+      "Effect": [
+        30
+      ],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 20,
+      "PreCondition": [
+        31
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            14,
+            12,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 21,
+      "PreCondition": [
+        19,
+        21
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            1,
+            5,
+            6,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 22,
+      "PreCondition": [
+        19,
+        32
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            1,
+            5,
+            6,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 23,
+      "PreCondition": [
+        33,
+        14
+      ],
+      "Effect": [
+        32
+      ],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 24,
+      "PreCondition": [
+        10003,
+        34
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            1,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 25,
+      "PreCondition": [
+        10003
+      ],
+      "Effect": [
+        34
+      ],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 26,
+      "PreCondition": [
+        10003,
+        35
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            1,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 200,
+      "PreCondition": [
+        120
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 201,
+      "PreCondition": [
+        101
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 202,
+      "PreCondition": [
+        119,
+        120
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 203,
+      "PreCondition": [
+        103
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 204,
+      "PreCondition": [
+        105
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 205,
+      "PreCondition": [
+        109,
+        106
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            3
+          ]
+        },
+        {
+          "NONE": 0,
+          "Tags": []
+        }
+      ]
+    },
+    {
+      "ID": 206,
+      "PreCondition": [
+        110
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 207,
+      "PreCondition": [
+        105,
+        112
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 208,
+      "PreCondition": [
+        113
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 209,
+      "PreCondition": [
+        114
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 210,
+      "PreCondition": [
+        116
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 211,
+      "PreCondition": [
+        118
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 212,
+      "PreCondition": [
+        113
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            2,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 213,
+      "PreCondition": [
+        116
+      ],
+      "Effect": [],
+      "Filters": [
+        {
+          "NONE": 0,
+          "Tags": [
+            0,
+            4
+          ]
+        }
+      ]
+    }
+  ]
+}

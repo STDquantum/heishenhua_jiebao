@@ -1,0 +1,56 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "AttackerResID": 18,
+      "VictimResID": 0,
+      "ScarDecalTriggerType": 0,
+      "ScarTextureDecalID": 0,
+      "DecalWidth": 64,
+      "DecalHeight": 8,
+      "DecalDepth": 1,
+      "FadeTime": 80.0,
+      "EmissiveTime": 20.0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2,
+      "AttackerResID": 18,
+      "VictimResID": 2014,
+      "ScarDecalTriggerType": 0,
+      "ScarTextureDecalID": 0,
+      "DecalWidth": 200,
+      "DecalHeight": 25,
+      "DecalDepth": 1,
+      "FadeTime": 80.0,
+      "EmissiveTime": 20.0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3,
+      "AttackerResID": 18,
+      "VictimResID": 4706,
+      "ScarDecalTriggerType": 0,
+      "ScarTextureDecalID": 0,
+      "DecalWidth": 200,
+      "DecalHeight": 25,
+      "DecalDepth": 1,
+      "FadeTime": 80.0,
+      "EmissiveTime": 20.0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4,
+      "AttackerResID": 18,
+      "VictimResID": 4999,
+      "ScarDecalTriggerType": 0,
+      "ScarTextureDecalID": 0,
+      "DecalWidth": 200,
+      "DecalHeight": 25,
+      "DecalDepth": 1,
+      "FadeTime": 80.0,
+      "EmissiveTime": 20.0,
+      "Guard": "Guard"
+    }
+  ]
+}

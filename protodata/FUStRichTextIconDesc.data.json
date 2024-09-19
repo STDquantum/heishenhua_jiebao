@@ -1,0 +1,18 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "Name": "Test",
+      "SizeX": 300.0,
+      "SizeY": 300.0,
+      "ResourceObject": "Texture2D'/Game/00MainHZ/UIDev/Comm/Arrow_Comm.Arrow_Comm'"
+    },
+    {
+      "ID": 2,
+      "Name": "Test2222",
+      "SizeX": 200.0,
+      "SizeY": 200.0,
+      "ResourceObject": "Texture2D'/Game/00MainHZ/UIDev/Comm/Arrow_Comm.Arrow_Comm'"
+    }
+  ]
+}

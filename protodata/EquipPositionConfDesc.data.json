@@ -1,0 +1,46 @@
+{
+  "List": [
+    {
+      "Id": 1,
+      "EquipPosition": 0,
+      "SkeletalMeshComponentTag": "head",
+      "DefaultEquipId": 10101
+    },
+    {
+      "Id": 2,
+      "EquipPosition": 1,
+      "SkeletalMeshComponentTag": "upwear",
+      "DefaultEquipId": 10202
+    },
+    {
+      "Id": 3,
+      "EquipPosition": 2,
+      "SkeletalMeshComponentTag": "arm",
+      "DefaultEquipId": 10203
+    },
+    {
+      "Id": 4,
+      "EquipPosition": 3,
+      "SkeletalMeshComponentTag": "foot",
+      "DefaultEquipId": 10204
+    },
+    {
+      "Id": 5,
+      "EquipPosition": 4,
+      "SkeletalMeshComponentTag": "hulu",
+      "DefaultEquipId": 18001
+    },
+    {
+      "Id": 6,
+      "EquipPosition": 5,
+      "SkeletalMeshComponentTag": "weapon",
+      "DefaultEquipId": 15001
+    },
+    {
+      "Id": 7,
+      "EquipPosition": 6,
+      "SkeletalMeshComponentTag": "fb_waist",
+      "DefaultEquipId": 0
+    }
+  ]
+}

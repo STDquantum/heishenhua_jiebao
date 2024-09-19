@@ -1,0 +1,44 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "ChallengeName": "挑战：血食之争",
+      "ChallengeDesc": "天王秘密藏了许多财宝，并设下法阵，派门卒看守.那些法阵各有奇效，这血食阵会持续吸收你的生命，你唯有斩杀他的门卒，茹毛饮血，才可平安度过难关。",
+      "InteractGuid": "UGuid.SL.challenge_01",
+      "EasyDropId": 9029,
+      "NormalDropId": 9030,
+      "HardDropId": 9031,
+      "TeleportName": "teleport_challenge",
+      "Range": 5000,
+      "LimitTimeEasy": 0,
+      "LimitTimeNormal": 0,
+      "LimitTimeHard": 0,
+      "EasyDesc": "天王秘密藏了许多财宝，并设下法阵，派门卒看守.那些法阵各有奇效，这血食阵会持续吸收你的生命，你唯有斩杀他的门卒，茹毛饮血，才可平安度过难关。",
+      "NormalDesc": "天王秘密藏了许多财宝，并设下法阵，派门卒看守.那些法阵各有奇效，这血食阵会持续吸收你的生命，你唯有斩杀他的门卒，茹毛饮血，才可平安度过难关。",
+      "HardDesc": "天王秘密藏了许多财宝，并设下法阵，派门卒看守.那些法阵各有奇效，这血食阵会持续吸收你的生命，你唯有斩杀他的门卒，茹毛饮血，才可平安度过难关。",
+      "AwardDelayTime": 60000,
+      "SuccessType": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2,
+      "ChallengeName": "试炼：重棍伏恶",
+      "ChallengeDesc": "二郎神欣赏奇人异士，可才能平平者，难得郎君一顾。他布下许多比武秘境，设下重赏，只要在限定时间内，使用重棍制伏他的打手，这宝贝自然就归你了。",
+      "InteractGuid": "1673985805512-300717cf488640e2b17e11923408e46c-SL_shilian_interactive_C_1",
+      "EasyDropId": 9026,
+      "NormalDropId": 9027,
+      "HardDropId": 9028,
+      "TeleportName": "teleport_shilian",
+      "Range": 5000,
+      "LimitTimeEasy": 120000,
+      "LimitTimeNormal": 120000,
+      "LimitTimeHard": 180000,
+      "EasyDesc": "二郎神欣赏奇人异士，可才能平平者，难得郎君一顾。他布下许多比武秘境，设下重赏，只要在限定时间内，使用重棍制伏他的打手，这宝贝自然就归你了。",
+      "NormalDesc": "二郎神欣赏奇人异士，可才能平平者，难得郎君一顾。他布下许多比武秘境，设下重赏，只要在限定时间内，使用重棍制伏他的打手，这宝贝自然就归你了。",
+      "HardDesc": "二郎神欣赏奇人异士，可才能平平者，难得郎君一顾。他布下许多比武秘境，设下重赏，只要在限定时间内，使用重棍制伏他的打手，这宝贝自然就归你了。",
+      "AwardDelayTime": 60000,
+      "SuccessType": 0,
+      "LocalizationTag": 0
+    }
+  ]
+}

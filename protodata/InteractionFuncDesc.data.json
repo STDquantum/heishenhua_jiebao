@@ -1,0 +1,394 @@
+{
+  "List": [
+    {
+      "Id": 1,
+      "MenuBtnActionType": 6,
+      "ParentId": 0,
+      "SortId": 0,
+      "Name": "缩地",
+      "Tips": "瞬息移动至已上香的土地庙，并调息一次",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 2,
+      "MenuBtnActionType": 0,
+      "ParentId": 0,
+      "SortId": 1,
+      "Name": "修行",
+      "Tips": "整备法术，调整天赋",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 3,
+      "MenuBtnActionType": 13,
+      "ParentId": 2,
+      "SortId": 2,
+      "Name": "法术整备",
+      "Tips": "选用打斗中施展的法术",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 4,
+      "MenuBtnActionType": 15,
+      "ParentId": 2,
+      "SortId": 3,
+      "Name": "天赋重修",
+      "Tips": "调整已参悟的天赋",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 5,
+      "MenuBtnActionType": 14,
+      "ParentId": 2,
+      "SortId": 4,
+      "Name": "炼精",
+      "Tips": "炼养更强大的精魄",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 6,
+      "MenuBtnActionType": 0,
+      "ParentId": 0,
+      "SortId": 5,
+      "Name": "铸造",
+      "Tips": "可在此处铸造兵器披挂",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 7,
+      "MenuBtnActionType": 2,
+      "ParentId": 6,
+      "SortId": 6,
+      "Name": "兵器铸造",
+      "Tips": "铸造更趁手的兵器",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 8,
+      "MenuBtnActionType": 8,
+      "ParentId": 6,
+      "SortId": 8,
+      "Name": "披挂升阶",
+      "Tips": "提升已有披挂的品阶",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 9,
+      "MenuBtnActionType": 11,
+      "ParentId": 6,
+      "SortId": 7,
+      "Name": "披挂铸造",
+      "Tips": "可在此铸造新的披挂",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 10,
+      "MenuBtnActionType": 10,
+      "ParentId": 0,
+      "SortId": 9,
+      "Name": "泡制",
+      "Tips": "更换仙酿，放入泡酒物",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 11,
+      "MenuBtnActionType": 0,
+      "ParentId": 0,
+      "SortId": 10,
+      "Name": "货殖",
+      "Tips": "买卖货品，流通灵蕴",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 12,
+      "MenuBtnActionType": 19,
+      "ParentId": 11,
+      "SortId": 11,
+      "Name": "买入",
+      "Tips": "花费灵蕴，买入货品",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 13,
+      "MenuBtnActionType": 20,
+      "ParentId": 11,
+      "SortId": 12,
+      "Name": "卖出",
+      "Tips": "卖出货品，获得灵蕴",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 14,
+      "MenuBtnActionType": 9,
+      "ParentId": 0,
+      "SortId": 13,
+      "Name": "炼丹",
+      "Tips": "炼制人间丹药",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 15,
+      "MenuBtnActionType": 21,
+      "ParentId": 0,
+      "SortId": 14,
+      "Name": "拾遗",
+      "Tips": "拾取遗落的精魄",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 0
+    },
+    {
+      "Id": 1001,
+      "MenuBtnActionType": 12,
+      "ParentId": 0,
+      "SortId": 0,
+      "Name": "讨个丹吃",
+      "Tips": "求讨戌狗新炼制的丹药",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 1002,
+      "MenuBtnActionType": 0,
+      "ParentId": 0,
+      "SortId": 1,
+      "Name": "炼丹",
+      "Tips": "天上人间，诸药可炼",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 1003,
+      "MenuBtnActionType": 9,
+      "ParentId": 1002,
+      "SortId": 3,
+      "Name": "人间丹药",
+      "Tips": "炼制人间丹药",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 1004,
+      "MenuBtnActionType": 16,
+      "ParentId": 1002,
+      "SortId": 2,
+      "Name": "天上仙丹",
+      "Tips": "使用戌狗的丹炉炼制天上仙丹",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 1005,
+      "MenuBtnActionType": 17,
+      "ParentId": 0,
+      "SortId": 4,
+      "Name": "仙丹回炉",
+      "Tips": "返还所有小仙丹增强的属性，并退还消耗的玲珑内丹",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 1007,
+      "MenuBtnActionType": 0,
+      "ParentId": 0,
+      "SortId": 10,
+      "Name": "货殖",
+      "Tips": "买卖货品，流通灵蕴",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 1008,
+      "MenuBtnActionType": 19,
+      "ParentId": 1007,
+      "SortId": 11,
+      "Name": "买入",
+      "Tips": "花费灵蕴，买入货品",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 1009,
+      "MenuBtnActionType": 20,
+      "ParentId": 1007,
+      "SortId": 12,
+      "Name": "卖出",
+      "Tips": "卖出货品，获得灵蕴",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 2000,
+      "MenuBtnActionType": 0,
+      "ParentId": 0,
+      "SortId": 0,
+      "Name": "铸造",
+      "Tips": "可在此处铸造兵器披挂",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 2001,
+      "MenuBtnActionType": 2,
+      "ParentId": 2000,
+      "SortId": 1,
+      "Name": "兵器铸造",
+      "Tips": "铸造更趁手的兵器",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 2002,
+      "MenuBtnActionType": 8,
+      "ParentId": 2000,
+      "SortId": 3,
+      "Name": "披挂升阶",
+      "Tips": "提升已有披挂的品阶",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 2003,
+      "MenuBtnActionType": 11,
+      "ParentId": 2000,
+      "SortId": 2,
+      "Name": "披挂铸造",
+      "Tips": "可在此铸造新的披挂",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 2011,
+      "MenuBtnActionType": 0,
+      "ParentId": 0,
+      "SortId": 4,
+      "Name": "货殖",
+      "Tips": "买卖货品，流通灵蕴",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 2012,
+      "MenuBtnActionType": 19,
+      "ParentId": 2011,
+      "SortId": 5,
+      "Name": "买入",
+      "Tips": "花费灵蕴，买入货品",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 2013,
+      "MenuBtnActionType": 20,
+      "ParentId": 2011,
+      "SortId": 6,
+      "Name": "卖出",
+      "Tips": "卖出货品，获得灵蕴",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 3001,
+      "MenuBtnActionType": 3,
+      "ParentId": 0,
+      "SortId": 0,
+      "Name": "葫芦升阶",
+      "Tips": "提升已有葫芦的品阶",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 3002,
+      "MenuBtnActionType": 7,
+      "ParentId": 0,
+      "SortId": 0,
+      "Name": "酒品升阶",
+      "Tips": "在酒中放入三冬虫，增加回复功效",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 3003,
+      "MenuBtnActionType": 10,
+      "ParentId": 0,
+      "SortId": 0,
+      "Name": "泡制",
+      "Tips": "更换仙酿，放入泡酒物",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 3014,
+      "MenuBtnActionType": 0,
+      "ParentId": 0,
+      "SortId": 10,
+      "Name": "货殖",
+      "Tips": "买卖货品，流通灵蕴",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 3015,
+      "MenuBtnActionType": 19,
+      "ParentId": 3014,
+      "SortId": 11,
+      "Name": "买入",
+      "Tips": "花费灵蕴，买入货品",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 3016,
+      "MenuBtnActionType": 20,
+      "ParentId": 3014,
+      "SortId": 12,
+      "Name": "卖出",
+      "Tips": "卖出货品，获得灵蕴",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 4001,
+      "MenuBtnActionType": 4,
+      "ParentId": 0,
+      "SortId": 0,
+      "Name": "交付种子",
+      "Tips": "将山精野怪的种子交付与辰龙，种在画中之壤间",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 4002,
+      "MenuBtnActionType": 5,
+      "ParentId": 0,
+      "SortId": 0,
+      "Name": "采收药材",
+      "Tips": "采收已成熟的药材",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    },
+    {
+      "Id": 5001,
+      "MenuBtnActionType": 19,
+      "ParentId": 0,
+      "SortId": 0,
+      "Name": "沽取",
+      "Tips": "花费灵蕴，买入货品",
+      "LocalizationTag": 1,
+      "NewGamePlusClear": 1
+    }
+  ]
+}

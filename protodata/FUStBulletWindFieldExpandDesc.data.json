@@ -1,0 +1,52 @@
+{
+  "List": [
+    {
+      "ID": 10030601,
+      "HitUnitActionType": 1,
+      "HitItemActionType": 1,
+      "LifeOverDestroyActionType": 2,
+      "EffectDestroyActionType": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 43090801,
+      "HitUnitActionType": 1,
+      "HitItemActionType": 1,
+      "LifeOverDestroyActionType": 2,
+      "EffectDestroyActionType": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 43099801,
+      "HitUnitActionType": 1,
+      "HitItemActionType": 1,
+      "LifeOverDestroyActionType": 2,
+      "EffectDestroyActionType": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 30280101,
+      "HitUnitActionType": 0,
+      "HitItemActionType": 0,
+      "LifeOverDestroyActionType": 1,
+      "EffectDestroyActionType": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 30280102,
+      "HitUnitActionType": 0,
+      "HitItemActionType": 0,
+      "LifeOverDestroyActionType": 1,
+      "EffectDestroyActionType": 2,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 30280103,
+      "HitUnitActionType": 0,
+      "HitItemActionType": 0,
+      "LifeOverDestroyActionType": 1,
+      "EffectDestroyActionType": 2,
+      "Guard": "Guard"
+    }
+  ]
+}

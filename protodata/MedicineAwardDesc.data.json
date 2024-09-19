@@ -1,0 +1,24 @@
+{
+  "List": [
+    {
+      "DropId": 900001,
+      "TaskStageId": 101,
+      "NewGamePlusCount": 1
+    },
+    {
+      "DropId": 900002,
+      "TaskStageId": 302,
+      "NewGamePlusCount": 1
+    },
+    {
+      "DropId": 900003,
+      "TaskStageId": 404,
+      "NewGamePlusCount": 1
+    },
+    {
+      "DropId": 900004,
+      "TaskStageId": 502,
+      "NewGamePlusCount": 1
+    }
+  ]
+}

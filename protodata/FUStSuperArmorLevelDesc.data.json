@@ -1,0 +1,134 @@
+{
+  "List": [
+    {
+      "ID": 1000,
+      "SuperArmorLevelName": "无",
+      "SuperArmorValue": 0.0
+    },
+    {
+      "ID": 1001,
+      "SuperArmorLevelName": "【怪物】能扛轻棍连招/蓄力0",
+      "SuperArmorValue": 10.0
+    },
+    {
+      "ID": 1002,
+      "SuperArmorLevelName": "【怪物】能扛蓄力1",
+      "SuperArmorValue": 50.0
+    },
+    {
+      "ID": 1003,
+      "SuperArmorLevelName": "【怪物】能扛轻棍终结",
+      "SuperArmorValue": 100.0
+    },
+    {
+      "ID": 1004,
+      "SuperArmorLevelName": "【怪物】能扛蓄力2",
+      "SuperArmorValue": 500.0
+    },
+    {
+      "ID": 1005,
+      "SuperArmorLevelName": "【怪物】能扛蓄力3",
+      "SuperArmorValue": 1000.0
+    },
+    {
+      "ID": 1006,
+      "SuperArmorLevelName": "【怪物】能扛蓄力4",
+      "SuperArmorValue": 10000.0
+    },
+    {
+      "ID": 1051,
+      "SuperArmorLevelName": "【主角】轻棍连招/蓄力0霸体",
+      "SuperArmorValue": 0.1
+    },
+    {
+      "ID": 1052,
+      "SuperArmorLevelName": "【主角】蓄力1霸体",
+      "SuperArmorValue": 10.0
+    },
+    {
+      "ID": 1053,
+      "SuperArmorLevelName": "【主角】轻棍终结霸体",
+      "SuperArmorValue": 50.0
+    },
+    {
+      "ID": 1054,
+      "SuperArmorLevelName": "【主角】蓄力2霸体",
+      "SuperArmorValue": 100.0
+    },
+    {
+      "ID": 1055,
+      "SuperArmorLevelName": "【主角】蓄力3霸体",
+      "SuperArmorValue": 500.0
+    },
+    {
+      "ID": 1056,
+      "SuperArmorLevelName": "【主角】蓄力4霸体",
+      "SuperArmorValue": 1000.0
+    },
+    {
+      "ID": 2000,
+      "SuperArmorLevelName": "无",
+      "SuperArmorValue": 0.0
+    },
+    {
+      "ID": 2001,
+      "SuperArmorLevelName": "【怪物】打断轻棍连招/0段蓄力",
+      "SuperArmorValue": 1.0
+    },
+    {
+      "ID": 2002,
+      "SuperArmorLevelName": "【怪物】打断蓄力1",
+      "SuperArmorValue": 10.0
+    },
+    {
+      "ID": 2003,
+      "SuperArmorLevelName": "【怪物】打断轻棍终结",
+      "SuperArmorValue": 50.0
+    },
+    {
+      "ID": 2004,
+      "SuperArmorLevelName": "【怪物】打断蓄力2",
+      "SuperArmorValue": 100.0
+    },
+    {
+      "ID": 2005,
+      "SuperArmorLevelName": "【怪物】打断蓄力3",
+      "SuperArmorValue": 500.0
+    },
+    {
+      "ID": 2006,
+      "SuperArmorLevelName": "【怪物】打断蓄力4",
+      "SuperArmorValue": 10000.0
+    },
+    {
+      "ID": 2051,
+      "SuperArmorLevelName": "【主角】轻棍连招/0段蓄力",
+      "SuperArmorValue": 0.1
+    },
+    {
+      "ID": 2052,
+      "SuperArmorLevelName": "【主角】蓄力1",
+      "SuperArmorValue": 10.0
+    },
+    {
+      "ID": 2053,
+      "SuperArmorLevelName": "【主角】轻棍终结",
+      "SuperArmorValue": 50.0
+    },
+    {
+      "ID": 2054,
+      "SuperArmorLevelName": "【主角】蓄力2",
+      "SuperArmorValue": 100.0
+    },
+    {
+      "ID": 2055,
+      "SuperArmorLevelName": "【主角】蓄力3",
+      "SuperArmorValue": 500.0
+    },
+    {
+      "ID": 2056,
+      "SuperArmorLevelName": "【主角】蓄力4",
+      "SuperArmorValue": 1000.0
+    }
+  ]
+}

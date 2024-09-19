@@ -1,0 +1,164 @@
+{
+  "List": [
+    {
+      "ID": 310301,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/NPC/NPC_Shenhou/NPCAnimConfig_NPC_Shenhou.NPCAnimConfig_NPC_Shenhou'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 201901,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_HuangPaoZhu/NPCAnimConfig_HFM_HuangPaoZhu.NPCAnimConfig_HFM_HuangPaoZhu'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 250101,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShuangTouShu_01a/NPCAnimConfig_HFM_ShuangTouShu_01a.NPCAnimConfig_HFM_ShuangTouShu_01a'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 201501,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShiGanDang_01/NPCAnimConfig_HFM_ShiGanDang_01.NPCAnimConfig_HFM_ShiGanDang_01'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 307001,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/NPC/LYS_yaoseng/NPCAnimConfig_lys_yaoseng_03a.NPCAnimConfig_lys_yaoseng_03a'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 402001,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_NiuMo/NPCAnimConfig_hys_niumo.NPCAnimConfig_hys_niumo'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 102401,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/NPC/GYCY_HongLinMang/NPCAnimConfig_GYCY_HongLinMang.NPCAnimConfig_GYCY_HongLinMang'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 140101,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/NPC/GYCY_HongLinMang/NPCAnimConfig_ZYS_HongLinMang.NPCAnimConfig_ZYS_HongLinMang'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 402101,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_YuMian/NPCAnimConfig_hys_yumian_01.NPCAnimConfig_hys_yumian_01'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 220301,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShanZhen_03/NPCAnimConfig_HFM_ShiGanDang_02.NPCAnimConfig_HFM_ShiGanDang_02'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 250301,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_StoneMan_01/NPCAnimConfig_HFM_StoneMan_01.NPCAnimConfig_HFM_StoneMan_01'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 301301,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_XueHou/NPCAnimConfig_lys_xuehou.NPCAnimConfig_lys_xuehou'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 431101,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_daoshi_02/NPCAnimConfig_PSD_daoshi_04.NPCAnimConfig_PSD_daoshi_04'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 499901,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_xiezijing_og/NPCAnimConfig_psd_xiezijing_og.NPCAnimConfig_psd_xiezijing_og'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 301401,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_RuYiLong_01/NPCAnimConfig_LYS_RuYiLong_01.NPCAnimConfig_LYS_RuYiLong_01'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 301002,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hu_Wind/NPCAnimConfig_HFM_Hu_Wind.NPCAnimConfig_HFM_Hu_Wind'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 411001,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_JJShou_01/NPCAnimConfig_bsd_jjshou.NPCAnimConfig_bsd_jjshou'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 200101,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hu_01/NPCAnimConfig_HFM_Hu_01.NPCAnimConfig_HFM_Hu_01'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 600801,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_HFDS_01a/NPCAnimConfig_HFM_HFDS_01a.NPCAnimConfig_HFM_HFDS_01a'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 600101,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_DuJiaoXian/NPCAnimConfig_HFM_DuJiaoXian.NPCAnimConfig_HFM_DuJiaoXian'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 301601,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Dage/NPCAnimConfig_LYS_Dage_01.NPCAnimConfig_LYS_Dage_01'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 302901,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_03A/NPCAnimConfig_lys_jianlong.NPCAnimConfig_lys_jianlong'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 201701,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/NPC/LYS_yangxian_02/NPCAnimConfig_lys_yangxian.NPCAnimConfig_lys_yangxian'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 500301,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_Zhubajie_01b/NPCAnimConfig_PSD_Zhubajie.NPCAnimConfig_PSD_Zhubajie'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 500501,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_BaiYanMoJun_01/NPCAnimConfig_PSD_BaiYanMoJun_01.NPCAnimConfig_PSD_BaiYanMoJun_01'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 509902,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/ZhuBaJie/NPCAnimConfig_bys_zbj.NPCAnimConfig_bys_zbj'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 509903,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/ZhuBaJie/NPCAnimConfig_bys_zbj_shiluan.NPCAnimConfig_bys_zbj_shiluan'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 200201,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/NPC/NPC_Mamian/NPCAnimConfig_NPC_MaMian.NPCAnimConfig_NPC_MaMian'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 104001,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/FTT/FTT_tianqiaoyiren_03a/NPCAnimConfig_FTT_Tianqiaoyiren_01.NPCAnimConfig_FTT_Tianqiaoyiren_01'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 201401,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/NPC/HFM_Shuwang/NPCAnimConfig_HFM_Shuwang.NPCAnimConfig_HFM_Shuwang'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 700101,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_JSDS/NPCAnimConfig_MGD_JSDS_P1.NPCAnimConfig_MGD_JSDS_P1'",
+      "Guard": "Guard"
+    },
+    {
+      "ID": 301101,
+      "AnimInfoDAPath": "BGWDataAsset_NPCAnimInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_FSYS/NPCAnimConfig_lys_fsys.NPCAnimConfig_lys_fsys'",
+      "Guard": "Guard"
+    }
+  ]
+}

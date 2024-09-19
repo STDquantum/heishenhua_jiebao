@@ -1,0 +1,408 @@
+{
+  "List": [
+    {
+      "Id": 1,
+      "ConfigTab": 0,
+      "ConfigName": "视野",
+      "ConfigTemplete": 0,
+      "Preconditions": 0,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 6,
+      "UiType": 1,
+      "Params": [
+        0,
+        100
+      ],
+      "ParamsReal": [
+        7000,
+        200000
+      ],
+      "RealParamIsFloat": 1,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2,
+      "ConfigTab": 0,
+      "ConfigName": "旋转",
+      "ConfigTemplete": 1,
+      "Preconditions": 0,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 0,
+      "UiType": 1,
+      "Params": [
+        -180,
+        180
+      ],
+      "ParamsReal": [
+        -180,
+        180
+      ],
+      "RealParamIsFloat": 0,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3,
+      "ConfigTab": 1,
+      "ConfigName": "景深",
+      "ConfigTemplete": 2,
+      "Preconditions": 0,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 0,
+      "UiType": 0,
+      "Params": [],
+      "ParamsReal": [],
+      "RealParamIsFloat": 0,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4,
+      "ConfigTab": 1,
+      "ConfigName": "距离",
+      "ConfigTemplete": 3,
+      "Preconditions": 3,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 30,
+      "UiType": 1,
+      "Params": [
+        0,
+        100
+      ],
+      "ParamsReal": [
+        50,
+        5000
+      ],
+      "RealParamIsFloat": 0,
+      "KeypointUi": [
+        25,
+        50
+      ],
+      "KeypointReal": [
+        500,
+        1500
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5,
+      "ConfigTab": 1,
+      "ConfigName": "强度",
+      "ConfigTemplete": 4,
+      "Preconditions": 3,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 0,
+      "UiType": 1,
+      "Params": [
+        0,
+        100
+      ],
+      "ParamsReal": [
+        10000,
+        500
+      ],
+      "RealParamIsFloat": 1,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 6,
+      "ConfigTab": 2,
+      "ConfigName": "亮度",
+      "ConfigTemplete": 5,
+      "Preconditions": 0,
+      "DefaultValueFromTable": 0,
+      "DefaultValue": 0,
+      "UiType": 1,
+      "Params": [
+        -50,
+        50
+      ],
+      "ParamsReal": [
+        200,
+        5000
+      ],
+      "RealParamIsFloat": 1,
+      "KeypointUi": [
+        0
+      ],
+      "KeypointReal": [
+        1000
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 7,
+      "ConfigTab": 2,
+      "ConfigName": "对比度",
+      "ConfigTemplete": 6,
+      "Preconditions": 0,
+      "DefaultValueFromTable": 0,
+      "DefaultValue": 0,
+      "UiType": 1,
+      "Params": [
+        -50,
+        50
+      ],
+      "ParamsReal": [
+        500,
+        2000
+      ],
+      "RealParamIsFloat": 1,
+      "KeypointUi": [
+        0
+      ],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 8,
+      "ConfigTab": 2,
+      "ConfigName": "暗角",
+      "ConfigTemplete": 21,
+      "Preconditions": 0,
+      "DefaultValueFromTable": 0,
+      "DefaultValue": 0,
+      "UiType": 1,
+      "Params": [
+        0,
+        100
+      ],
+      "ParamsReal": [
+        0,
+        1000
+      ],
+      "RealParamIsFloat": 1,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 9,
+      "ConfigTab": 2,
+      "ConfigName": "滤镜",
+      "ConfigTemplete": 7,
+      "Preconditions": 0,
+      "DefaultValueFromTable": 0,
+      "DefaultValue": 0,
+      "UiType": 0,
+      "Params": [],
+      "ParamsReal": [],
+      "RealParamIsFloat": 0,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 10,
+      "ConfigTab": 2,
+      "ConfigName": "滤镜强度",
+      "ConfigTemplete": 8,
+      "Preconditions": 9,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 100,
+      "UiType": 1,
+      "Params": [
+        0,
+        100
+      ],
+      "ParamsReal": [
+        0,
+        1000
+      ],
+      "RealParamIsFloat": 1,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 11,
+      "ConfigTab": 3,
+      "ConfigName": "头冠",
+      "ConfigTemplete": 9,
+      "Preconditions": 0,
+      "DefaultValueFromTable": 0,
+      "DefaultValue": 1,
+      "UiType": 0,
+      "Params": [],
+      "ParamsReal": [],
+      "RealParamIsFloat": 0,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 13,
+      "ConfigTab": 3,
+      "ConfigName": "身上污渍",
+      "ConfigTemplete": 11,
+      "Preconditions": 0,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 1,
+      "UiType": 0,
+      "Params": [],
+      "ParamsReal": [],
+      "RealParamIsFloat": 0,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 14,
+      "ConfigTab": 4,
+      "ConfigName": "边框",
+      "ConfigTemplete": 12,
+      "Preconditions": 0,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 0,
+      "UiType": 0,
+      "Params": [],
+      "ParamsReal": [],
+      "RealParamIsFloat": 0,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 15,
+      "ConfigTab": 4,
+      "ConfigName": "贴纸",
+      "ConfigTemplete": 13,
+      "Preconditions": 0,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 0,
+      "UiType": 0,
+      "Params": [],
+      "ParamsReal": [],
+      "RealParamIsFloat": 0,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 16,
+      "ConfigTab": 4,
+      "ConfigName": "位置 X",
+      "ConfigTemplete": 14,
+      "Preconditions": 15,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 0,
+      "UiType": 1,
+      "Params": [
+        -50,
+        50
+      ],
+      "ParamsReal": [
+        -50,
+        50
+      ],
+      "RealParamIsFloat": 0,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 17,
+      "ConfigTab": 4,
+      "ConfigName": "位置 Y",
+      "ConfigTemplete": 15,
+      "Preconditions": 15,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 0,
+      "UiType": 1,
+      "Params": [
+        -50,
+        50
+      ],
+      "ParamsReal": [
+        -50,
+        50
+      ],
+      "RealParamIsFloat": 0,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 18,
+      "ConfigTab": 4,
+      "ConfigName": "大小",
+      "ConfigTemplete": 16,
+      "Preconditions": 15,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 0,
+      "UiType": 1,
+      "Params": [
+        -50,
+        50
+      ],
+      "ParamsReal": [
+        0,
+        2000
+      ],
+      "RealParamIsFloat": 1,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 19,
+      "ConfigTab": 4,
+      "ConfigName": "旋转",
+      "ConfigTemplete": 17,
+      "Preconditions": 15,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 0,
+      "UiType": 1,
+      "Params": [
+        -180,
+        180
+      ],
+      "ParamsReal": [
+        -180,
+        180
+      ],
+      "RealParamIsFloat": 0,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 21,
+      "ConfigTab": 5,
+      "ConfigName": "自动保存设置项",
+      "ConfigTemplete": 19,
+      "Preconditions": 0,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 0,
+      "UiType": 0,
+      "Params": [],
+      "ParamsReal": [],
+      "RealParamIsFloat": 0,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 22,
+      "ConfigTab": 5,
+      "ConfigName": "重置所有设置项",
+      "ConfigTemplete": 20,
+      "Preconditions": 0,
+      "DefaultValueFromTable": 1,
+      "DefaultValue": 0,
+      "UiType": 2,
+      "Params": [],
+      "ParamsReal": [],
+      "RealParamIsFloat": 0,
+      "KeypointUi": [],
+      "KeypointReal": [],
+      "LocalizationTag": 1
+    }
+  ]
+}

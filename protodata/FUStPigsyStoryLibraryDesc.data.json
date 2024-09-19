@@ -1,0 +1,49 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "LevelID": 3622,
+      "SpecificAreaID": 0,
+      "StartAiConversationIDs": [
+        5099901,
+        5099913
+      ]
+    },
+    {
+      "ID": 2,
+      "LevelID": 3622,
+      "SpecificAreaID": 1,
+      "StartAiConversationIDs": [
+        5099905
+      ]
+    },
+    {
+      "ID": 3,
+      "LevelID": 3622,
+      "SpecificAreaID": 2,
+      "StartAiConversationIDs": [
+        5099909,
+        5099913
+      ]
+    },
+    {
+      "ID": 4,
+      "LevelID": 30,
+      "SpecificAreaID": 1,
+      "StartAiConversationIDs": [
+        5099900,
+        5099910,
+        5099920
+      ]
+    },
+    {
+      "ID": 5,
+      "LevelID": 40,
+      "SpecificAreaID": 1,
+      "StartAiConversationIDs": [
+        5099960,
+        5099970
+      ]
+    }
+  ]
+}

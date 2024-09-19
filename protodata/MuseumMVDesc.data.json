@@ -1,0 +1,58 @@
+{
+  "List": [
+    {
+      "Id": 1099,
+      "SortId": 1,
+      "MvName": "看见",
+      "ChapterId": 10,
+      "Desc": "看见",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 2099,
+      "SortId": 2,
+      "MvName": "聋",
+      "ChapterId": 20,
+      "Desc": "聋",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 3099,
+      "SortId": 3,
+      "MvName": "屁",
+      "ChapterId": 30,
+      "Desc": "屁",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 4099,
+      "SortId": 4,
+      "MvName": "勿听",
+      "ChapterId": 40,
+      "Desc": "勿听",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 5099,
+      "SortId": 5,
+      "MvName": "不由己",
+      "ChapterId": 50,
+      "Desc": "不由己",
+      "UnlockCondition": 0,
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 6099,
+      "SortId": 6,
+      "MvName": "未尽",
+      "ChapterId": 60,
+      "Desc": "未尽",
+      "UnlockCondition": 2,
+      "LocalizationTag": 1
+    }
+  ]
+}

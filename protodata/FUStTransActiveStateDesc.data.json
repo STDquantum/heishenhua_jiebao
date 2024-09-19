@@ -1,0 +1,70 @@
+{
+  "List": [
+    {
+      "ID": 12,
+      "StateOneBuffID": 12001,
+      "StateTwoBuffID": 12051,
+      "StateThreeBuffID": 0
+    },
+    {
+      "ID": 13,
+      "StateOneBuffID": 13001,
+      "StateTwoBuffID": 13070,
+      "StateThreeBuffID": 0
+    },
+    {
+      "ID": 14,
+      "StateOneBuffID": 14001,
+      "StateTwoBuffID": 14070,
+      "StateThreeBuffID": 0
+    },
+    {
+      "ID": 15,
+      "StateOneBuffID": 15001,
+      "StateTwoBuffID": 0,
+      "StateThreeBuffID": 0
+    },
+    {
+      "ID": 16,
+      "StateOneBuffID": 16001,
+      "StateTwoBuffID": 16070,
+      "StateThreeBuffID": 0
+    },
+    {
+      "ID": 17,
+      "StateOneBuffID": 17001,
+      "StateTwoBuffID": 17070,
+      "StateThreeBuffID": 17273
+    },
+    {
+      "ID": 18,
+      "StateOneBuffID": 18001,
+      "StateTwoBuffID": 0,
+      "StateThreeBuffID": 0
+    },
+    {
+      "ID": 19,
+      "StateOneBuffID": 19001,
+      "StateTwoBuffID": 0,
+      "StateThreeBuffID": 0
+    },
+    {
+      "ID": 23,
+      "StateOneBuffID": 23001,
+      "StateTwoBuffID": 23070,
+      "StateThreeBuffID": 0
+    },
+    {
+      "ID": 24,
+      "StateOneBuffID": 24001,
+      "StateTwoBuffID": 24071,
+      "StateThreeBuffID": 24072
+    },
+    {
+      "ID": 25,
+      "StateOneBuffID": 25001,
+      "StateTwoBuffID": 25071,
+      "StateThreeBuffID": 25072
+    }
+  ]
+}

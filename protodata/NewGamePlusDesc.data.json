@@ -1,0 +1,3204 @@
+{
+  "List": [
+    {
+      "Quality": 1,
+      "Count": 2,
+      "HpMaxBase": 312.0,
+      "AtkMul": 20400.0,
+      "DefMul": 0.0,
+      "AddExp": 51186,
+      "AddSprit": 52060,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 2,
+      "Count": 2,
+      "HpMaxBase": 389.0,
+      "AtkMul": 20400.0,
+      "DefMul": 0.0,
+      "AddExp": 51186,
+      "AddSprit": 52060,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 3,
+      "Count": 2,
+      "HpMaxBase": 972.0,
+      "AtkMul": 20400.0,
+      "DefMul": 0.0,
+      "AddExp": 51186,
+      "AddSprit": 52060,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 4,
+      "Count": 2,
+      "HpMaxBase": 2333.0,
+      "AtkMul": 20400.0,
+      "DefMul": 0.0,
+      "AddExp": 51186,
+      "AddSprit": 52060,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 5,
+      "Count": 2,
+      "HpMaxBase": 6108.0,
+      "AtkMul": 24200.0,
+      "DefMul": 0.0,
+      "AddExp": 51186,
+      "AddSprit": 52060,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 6,
+      "Count": 2,
+      "HpMaxBase": 9288.0,
+      "AtkMul": 28000.0,
+      "DefMul": 0.0,
+      "AddExp": 51186,
+      "AddSprit": 52060,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 7,
+      "Count": 2,
+      "HpMaxBase": 12384.0,
+      "AtkMul": 28000.0,
+      "DefMul": 0.0,
+      "AddExp": 51186,
+      "AddSprit": 52060,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 8,
+      "Count": 2,
+      "HpMaxBase": 17415.0,
+      "AtkMul": 28000.0,
+      "DefMul": 0.0,
+      "AddExp": 51186,
+      "AddSprit": 52060,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 1,
+      "Count": 2,
+      "HpMaxBase": 255.0,
+      "AtkMul": 10720.0,
+      "DefMul": 0.0,
+      "AddExp": 39015,
+      "AddSprit": 27839,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 2,
+      "Count": 2,
+      "HpMaxBase": 318.0,
+      "AtkMul": 10720.0,
+      "DefMul": 0.0,
+      "AddExp": 39015,
+      "AddSprit": 27839,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 3,
+      "Count": 2,
+      "HpMaxBase": 794.0,
+      "AtkMul": 10720.0,
+      "DefMul": 0.0,
+      "AddExp": 39015,
+      "AddSprit": 27839,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 4,
+      "Count": 2,
+      "HpMaxBase": 1906.0,
+      "AtkMul": 10720.0,
+      "DefMul": 0.0,
+      "AddExp": 39015,
+      "AddSprit": 27839,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 5,
+      "Count": 2,
+      "HpMaxBase": 5278.0,
+      "AtkMul": 13310.0,
+      "DefMul": 0.0,
+      "AddExp": 39015,
+      "AddSprit": 27839,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 6,
+      "Count": 2,
+      "HpMaxBase": 8360.0,
+      "AtkMul": 15900.0,
+      "DefMul": 0.0,
+      "AddExp": 39015,
+      "AddSprit": 27839,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 7,
+      "Count": 2,
+      "HpMaxBase": 11146.0,
+      "AtkMul": 15900.0,
+      "DefMul": 0.0,
+      "AddExp": 39015,
+      "AddSprit": 27839,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 8,
+      "Count": 2,
+      "HpMaxBase": 15673.0,
+      "AtkMul": 15900.0,
+      "DefMul": 0.0,
+      "AddExp": 39015,
+      "AddSprit": 27839,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 1,
+      "Count": 2,
+      "HpMaxBase": 195.0,
+      "AtkMul": 4640.0,
+      "DefMul": 0.0,
+      "AddExp": 27930,
+      "AddSprit": 25060,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 2,
+      "Count": 2,
+      "HpMaxBase": 244.0,
+      "AtkMul": 4640.0,
+      "DefMul": 0.0,
+      "AddExp": 27930,
+      "AddSprit": 25060,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 3,
+      "Count": 2,
+      "HpMaxBase": 610.0,
+      "AtkMul": 4640.0,
+      "DefMul": 0.0,
+      "AddExp": 27930,
+      "AddSprit": 25060,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 4,
+      "Count": 2,
+      "HpMaxBase": 1464.0,
+      "AtkMul": 4640.0,
+      "DefMul": 0.0,
+      "AddExp": 27930,
+      "AddSprit": 25060,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 5,
+      "Count": 2,
+      "HpMaxBase": 4374.0,
+      "AtkMul": 6470.0,
+      "DefMul": 0.0,
+      "AddExp": 27930,
+      "AddSprit": 25060,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 6,
+      "Count": 2,
+      "HpMaxBase": 7271.0,
+      "AtkMul": 8300.0,
+      "DefMul": 0.0,
+      "AddExp": 27930,
+      "AddSprit": 25060,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 7,
+      "Count": 2,
+      "HpMaxBase": 9695.0,
+      "AtkMul": 8300.0,
+      "DefMul": 0.0,
+      "AddExp": 27930,
+      "AddSprit": 25060,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 8,
+      "Count": 2,
+      "HpMaxBase": 13633.0,
+      "AtkMul": 8300.0,
+      "DefMul": 0.0,
+      "AddExp": 27930,
+      "AddSprit": 25060,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 1,
+      "Count": 2,
+      "HpMaxBase": 115.0,
+      "AtkMul": 1680.0,
+      "DefMul": 0.0,
+      "AddExp": 24964,
+      "AddSprit": 16155,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 2,
+      "Count": 2,
+      "HpMaxBase": 143.0,
+      "AtkMul": 1680.0,
+      "DefMul": 0.0,
+      "AddExp": 24964,
+      "AddSprit": 16155,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 3,
+      "Count": 2,
+      "HpMaxBase": 357.0,
+      "AtkMul": 1680.0,
+      "DefMul": 0.0,
+      "AddExp": 24964,
+      "AddSprit": 16155,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 4,
+      "Count": 2,
+      "HpMaxBase": 856.0,
+      "AtkMul": 1680.0,
+      "DefMul": 0.0,
+      "AddExp": 24964,
+      "AddSprit": 16155,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 5,
+      "Count": 2,
+      "HpMaxBase": 3077.0,
+      "AtkMul": 3140.0,
+      "DefMul": 0.0,
+      "AddExp": 24964,
+      "AddSprit": 16155,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 6,
+      "Count": 2,
+      "HpMaxBase": 5638.0,
+      "AtkMul": 4600.0,
+      "DefMul": 0.0,
+      "AddExp": 24964,
+      "AddSprit": 16155,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 7,
+      "Count": 2,
+      "HpMaxBase": 7517.0,
+      "AtkMul": 4600.0,
+      "DefMul": 0.0,
+      "AddExp": 24964,
+      "AddSprit": 16155,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 8,
+      "Count": 2,
+      "HpMaxBase": 10571.0,
+      "AtkMul": 4600.0,
+      "DefMul": 0.0,
+      "AddExp": 24964,
+      "AddSprit": 16155,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 1,
+      "Count": 2,
+      "HpMaxBase": 66.0,
+      "AtkMul": -240.0,
+      "DefMul": 0.0,
+      "AddExp": 24127,
+      "AddSprit": 14025,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 2,
+      "Count": 2,
+      "HpMaxBase": 82.0,
+      "AtkMul": -240.0,
+      "DefMul": 0.0,
+      "AddExp": 24127,
+      "AddSprit": 14025,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 3,
+      "Count": 2,
+      "HpMaxBase": 204.0,
+      "AtkMul": -240.0,
+      "DefMul": 0.0,
+      "AddExp": 24127,
+      "AddSprit": 14025,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 4,
+      "Count": 2,
+      "HpMaxBase": 489.0,
+      "AtkMul": -240.0,
+      "DefMul": 0.0,
+      "AddExp": 24127,
+      "AddSprit": 14025,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 5,
+      "Count": 2,
+      "HpMaxBase": 2310.0,
+      "AtkMul": 980.0,
+      "DefMul": 0.0,
+      "AddExp": 24127,
+      "AddSprit": 14025,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 6,
+      "Count": 2,
+      "HpMaxBase": 4694.0,
+      "AtkMul": 2200.0,
+      "DefMul": 0.0,
+      "AddExp": 24127,
+      "AddSprit": 14025,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 7,
+      "Count": 2,
+      "HpMaxBase": 6259.0,
+      "AtkMul": 2200.0,
+      "DefMul": 0.0,
+      "AddExp": 24127,
+      "AddSprit": 14025,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 8,
+      "Count": 2,
+      "HpMaxBase": 8801.0,
+      "AtkMul": 2200.0,
+      "DefMul": 0.0,
+      "AddExp": 24127,
+      "AddSprit": 14025,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 1,
+      "Count": 2,
+      "HpMaxBase": 28.0,
+      "AtkMul": -720.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 2,
+      "Count": 2,
+      "HpMaxBase": 35.0,
+      "AtkMul": -720.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 3,
+      "Count": 2,
+      "HpMaxBase": 87.0,
+      "AtkMul": -720.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 4,
+      "Count": 2,
+      "HpMaxBase": 208.0,
+      "AtkMul": -720.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 5,
+      "Count": 2,
+      "HpMaxBase": 2175.0,
+      "AtkMul": 440.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 6,
+      "Count": 2,
+      "HpMaxBase": 5022.0,
+      "AtkMul": 1600.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 7,
+      "Count": 2,
+      "HpMaxBase": 5357.0,
+      "AtkMul": 1600.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 8,
+      "Count": 2,
+      "HpMaxBase": 7533.0,
+      "AtkMul": 1600.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 1,
+      "Count": 2,
+      "HpMaxBase": 197.0,
+      "AtkMul": -1200.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 2,
+      "Count": 2,
+      "HpMaxBase": 247.0,
+      "AtkMul": -1200.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 3,
+      "Count": 2,
+      "HpMaxBase": 616.0,
+      "AtkMul": -1200.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 4,
+      "Count": 2,
+      "HpMaxBase": 1478.0,
+      "AtkMul": -1200.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 5,
+      "Count": 2,
+      "HpMaxBase": 4652.0,
+      "AtkMul": -100.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 6,
+      "Count": 2,
+      "HpMaxBase": 7971.0,
+      "AtkMul": 1000.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 7,
+      "Count": 2,
+      "HpMaxBase": 10628.0,
+      "AtkMul": 1000.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 8,
+      "Count": 2,
+      "HpMaxBase": 14945.0,
+      "AtkMul": 1000.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 1,
+      "Count": 2,
+      "HpMaxBase": -28.0,
+      "AtkMul": -1120.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 2,
+      "Count": 2,
+      "HpMaxBase": -35.0,
+      "AtkMul": -1120.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 3,
+      "Count": 2,
+      "HpMaxBase": -87.0,
+      "AtkMul": -1120.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 4,
+      "Count": 2,
+      "HpMaxBase": -208.0,
+      "AtkMul": -1120.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 5,
+      "Count": 2,
+      "HpMaxBase": 934.0,
+      "AtkMul": -10.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 6,
+      "Count": 2,
+      "HpMaxBase": 3111.0,
+      "AtkMul": 1100.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 7,
+      "Count": 2,
+      "HpMaxBase": 4148.0,
+      "AtkMul": 1100.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 8,
+      "Count": 2,
+      "HpMaxBase": 5832.0,
+      "AtkMul": 1100.0,
+      "DefMul": 0.0,
+      "AddExp": 23000,
+      "AddSprit": 12398,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 1,
+      "Count": 3,
+      "HpMaxBase": 582.0,
+      "AtkMul": 36720.0,
+      "DefMul": 0.0,
+      "AddExp": 103010,
+      "AddSprit": 65836,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 2,
+      "Count": 3,
+      "HpMaxBase": 727.0,
+      "AtkMul": 36720.0,
+      "DefMul": 0.0,
+      "AddExp": 103010,
+      "AddSprit": 65836,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 3,
+      "Count": 3,
+      "HpMaxBase": 1817.0,
+      "AtkMul": 36720.0,
+      "DefMul": 0.0,
+      "AddExp": 103010,
+      "AddSprit": 65836,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 4,
+      "Count": 3,
+      "HpMaxBase": 4361.0,
+      "AtkMul": 36720.0,
+      "DefMul": 0.0,
+      "AddExp": 103010,
+      "AddSprit": 65836,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 5,
+      "Count": 3,
+      "HpMaxBase": 11240.0,
+      "AtkMul": 42560.0,
+      "DefMul": 0.0,
+      "AddExp": 103010,
+      "AddSprit": 65836,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 6,
+      "Count": 3,
+      "HpMaxBase": 16892.0,
+      "AtkMul": 48400.0,
+      "DefMul": 0.0,
+      "AddExp": 103010,
+      "AddSprit": 65836,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 7,
+      "Count": 3,
+      "HpMaxBase": 22522.0,
+      "AtkMul": 48400.0,
+      "DefMul": 0.0,
+      "AddExp": 103010,
+      "AddSprit": 65836,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 8,
+      "Count": 3,
+      "HpMaxBase": 31671.0,
+      "AtkMul": 48400.0,
+      "DefMul": 0.0,
+      "AddExp": 103010,
+      "AddSprit": 65836,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 1,
+      "Count": 3,
+      "HpMaxBase": 486.0,
+      "AtkMul": 22880.0,
+      "DefMul": 0.0,
+      "AddExp": 68703,
+      "AddSprit": 34199,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 2,
+      "Count": 3,
+      "HpMaxBase": 607.0,
+      "AtkMul": 22880.0,
+      "DefMul": 0.0,
+      "AddExp": 68703,
+      "AddSprit": 34199,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 3,
+      "Count": 3,
+      "HpMaxBase": 1518.0,
+      "AtkMul": 22880.0,
+      "DefMul": 0.0,
+      "AddExp": 68703,
+      "AddSprit": 34199,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 4,
+      "Count": 3,
+      "HpMaxBase": 3642.0,
+      "AtkMul": 22880.0,
+      "DefMul": 0.0,
+      "AddExp": 68703,
+      "AddSprit": 34199,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 5,
+      "Count": 3,
+      "HpMaxBase": 9674.0,
+      "AtkMul": 26990.0,
+      "DefMul": 0.0,
+      "AddExp": 68703,
+      "AddSprit": 34199,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 6,
+      "Count": 3,
+      "HpMaxBase": 14872.0,
+      "AtkMul": 31100.0,
+      "DefMul": 0.0,
+      "AddExp": 68703,
+      "AddSprit": 34199,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 7,
+      "Count": 3,
+      "HpMaxBase": 19829.0,
+      "AtkMul": 31100.0,
+      "DefMul": 0.0,
+      "AddExp": 68703,
+      "AddSprit": 34199,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 8,
+      "Count": 3,
+      "HpMaxBase": 27883.0,
+      "AtkMul": 31100.0,
+      "DefMul": 0.0,
+      "AddExp": 68703,
+      "AddSprit": 34199,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 1,
+      "Count": 3,
+      "HpMaxBase": 408.0,
+      "AtkMul": 13120.0,
+      "DefMul": 0.0,
+      "AddExp": 43034,
+      "AddSprit": 29907,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 2,
+      "Count": 3,
+      "HpMaxBase": 511.0,
+      "AtkMul": 13120.0,
+      "DefMul": 0.0,
+      "AddExp": 43034,
+      "AddSprit": 29907,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 3,
+      "Count": 3,
+      "HpMaxBase": 1276.0,
+      "AtkMul": 13120.0,
+      "DefMul": 0.0,
+      "AddExp": 43034,
+      "AddSprit": 29907,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 4,
+      "Count": 3,
+      "HpMaxBase": 3061.0,
+      "AtkMul": 13120.0,
+      "DefMul": 0.0,
+      "AddExp": 43034,
+      "AddSprit": 29907,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 5,
+      "Count": 3,
+      "HpMaxBase": 8415.0,
+      "AtkMul": 16010.0,
+      "DefMul": 0.0,
+      "AddExp": 43034,
+      "AddSprit": 29907,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 6,
+      "Count": 3,
+      "HpMaxBase": 13259.0,
+      "AtkMul": 18900.0,
+      "DefMul": 0.0,
+      "AddExp": 43034,
+      "AddSprit": 29907,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 7,
+      "Count": 3,
+      "HpMaxBase": 17678.0,
+      "AtkMul": 18900.0,
+      "DefMul": 0.0,
+      "AddExp": 43034,
+      "AddSprit": 29907,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 8,
+      "Count": 3,
+      "HpMaxBase": 24859.0,
+      "AtkMul": 18900.0,
+      "DefMul": 0.0,
+      "AddExp": 43034,
+      "AddSprit": 29907,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 1,
+      "Count": 3,
+      "HpMaxBase": 315.0,
+      "AtkMul": 8240.0,
+      "DefMul": 0.0,
+      "AddExp": 36017,
+      "AddSprit": 18728,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 2,
+      "Count": 3,
+      "HpMaxBase": 394.0,
+      "AtkMul": 8240.0,
+      "DefMul": 0.0,
+      "AddExp": 36017,
+      "AddSprit": 18728,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 3,
+      "Count": 3,
+      "HpMaxBase": 983.0,
+      "AtkMul": 8240.0,
+      "DefMul": 0.0,
+      "AddExp": 36017,
+      "AddSprit": 18728,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 4,
+      "Count": 3,
+      "HpMaxBase": 2359.0,
+      "AtkMul": 8240.0,
+      "DefMul": 0.0,
+      "AddExp": 36017,
+      "AddSprit": 18728,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 5,
+      "Count": 3,
+      "HpMaxBase": 6882.0,
+      "AtkMul": 10520.0,
+      "DefMul": 0.0,
+      "AddExp": 36017,
+      "AddSprit": 18728,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 6,
+      "Count": 3,
+      "HpMaxBase": 11276.0,
+      "AtkMul": 12800.0,
+      "DefMul": 0.0,
+      "AddExp": 36017,
+      "AddSprit": 18728,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 7,
+      "Count": 3,
+      "HpMaxBase": 15034.0,
+      "AtkMul": 12800.0,
+      "DefMul": 0.0,
+      "AddExp": 36017,
+      "AddSprit": 18728,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 8,
+      "Count": 3,
+      "HpMaxBase": 21141.0,
+      "AtkMul": 12800.0,
+      "DefMul": 0.0,
+      "AddExp": 36017,
+      "AddSprit": 18728,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 1,
+      "Count": 3,
+      "HpMaxBase": 261.0,
+      "AtkMul": 5120.0,
+      "DefMul": 0.0,
+      "AddExp": 32595,
+      "AddSprit": 15794,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 2,
+      "Count": 3,
+      "HpMaxBase": 326.0,
+      "AtkMul": 5120.0,
+      "DefMul": 0.0,
+      "AddExp": 32595,
+      "AddSprit": 15794,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 3,
+      "Count": 3,
+      "HpMaxBase": 815.0,
+      "AtkMul": 5120.0,
+      "DefMul": 0.0,
+      "AddExp": 32595,
+      "AddSprit": 15794,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 4,
+      "Count": 3,
+      "HpMaxBase": 1954.0,
+      "AtkMul": 5120.0,
+      "DefMul": 0.0,
+      "AddExp": 32595,
+      "AddSprit": 15794,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 5,
+      "Count": 3,
+      "HpMaxBase": 6019.0,
+      "AtkMul": 7010.0,
+      "DefMul": 0.0,
+      "AddExp": 32595,
+      "AddSprit": 15794,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 6,
+      "Count": 3,
+      "HpMaxBase": 10189.0,
+      "AtkMul": 8900.0,
+      "DefMul": 0.0,
+      "AddExp": 32595,
+      "AddSprit": 15794,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 7,
+      "Count": 3,
+      "HpMaxBase": 13585.0,
+      "AtkMul": 8900.0,
+      "DefMul": 0.0,
+      "AddExp": 32595,
+      "AddSprit": 15794,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 8,
+      "Count": 3,
+      "HpMaxBase": 19104.0,
+      "AtkMul": 8900.0,
+      "DefMul": 0.0,
+      "AddExp": 32595,
+      "AddSprit": 15794,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 1,
+      "Count": 3,
+      "HpMaxBase": 212.0,
+      "AtkMul": 4240.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 2,
+      "Count": 3,
+      "HpMaxBase": 265.0,
+      "AtkMul": 4240.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 3,
+      "Count": 3,
+      "HpMaxBase": 663.0,
+      "AtkMul": 4240.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 4,
+      "Count": 3,
+      "HpMaxBase": 1590.0,
+      "AtkMul": 4240.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 5,
+      "Count": 3,
+      "HpMaxBase": 6549.0,
+      "AtkMul": 6020.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 6,
+      "Count": 3,
+      "HpMaxBase": 11502.0,
+      "AtkMul": 7800.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 7,
+      "Count": 3,
+      "HpMaxBase": 12269.0,
+      "AtkMul": 7800.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 8,
+      "Count": 3,
+      "HpMaxBase": 17253.0,
+      "AtkMul": 7800.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 1,
+      "Count": 3,
+      "HpMaxBase": 377.0,
+      "AtkMul": 2640.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 2,
+      "Count": 3,
+      "HpMaxBase": 471.0,
+      "AtkMul": 2640.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 3,
+      "Count": 3,
+      "HpMaxBase": 1178.0,
+      "AtkMul": 2640.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 4,
+      "Count": 3,
+      "HpMaxBase": 2826.0,
+      "AtkMul": 2640.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 5,
+      "Count": 3,
+      "HpMaxBase": 8063.0,
+      "AtkMul": 4220.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 6,
+      "Count": 3,
+      "HpMaxBase": 13025.0,
+      "AtkMul": 5800.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 7,
+      "Count": 3,
+      "HpMaxBase": 17367.0,
+      "AtkMul": 5800.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 8,
+      "Count": 3,
+      "HpMaxBase": 24422.0,
+      "AtkMul": 5800.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 1,
+      "Count": 3,
+      "HpMaxBase": 139.0,
+      "AtkMul": 3200.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 2,
+      "Count": 3,
+      "HpMaxBase": 173.0,
+      "AtkMul": 3200.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 3,
+      "Count": 3,
+      "HpMaxBase": 432.0,
+      "AtkMul": 3200.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 4,
+      "Count": 3,
+      "HpMaxBase": 1037.0,
+      "AtkMul": 3200.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 5,
+      "Count": 3,
+      "HpMaxBase": 4083.0,
+      "AtkMul": 4850.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 6,
+      "Count": 3,
+      "HpMaxBase": 7776.0,
+      "AtkMul": 6500.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 7,
+      "Count": 3,
+      "HpMaxBase": 10368.0,
+      "AtkMul": 6500.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 8,
+      "Count": 3,
+      "HpMaxBase": 14580.0,
+      "AtkMul": 6500.0,
+      "DefMul": 0.0,
+      "AddExp": 29094,
+      "AddSprit": 13962,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 1,
+      "Count": 4,
+      "HpMaxBase": 751.0,
+      "AtkMul": 58880.0,
+      "DefMul": 0.0,
+      "AddExp": 126582,
+      "AddSprit": 73052,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 2,
+      "Count": 4,
+      "HpMaxBase": 938.0,
+      "AtkMul": 58880.0,
+      "DefMul": 0.0,
+      "AddExp": 126582,
+      "AddSprit": 73052,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 3,
+      "Count": 4,
+      "HpMaxBase": 2345.0,
+      "AtkMul": 58880.0,
+      "DefMul": 0.0,
+      "AddExp": 126582,
+      "AddSprit": 73052,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 4,
+      "Count": 4,
+      "HpMaxBase": 5628.0,
+      "AtkMul": 58880.0,
+      "DefMul": 0.0,
+      "AddExp": 126582,
+      "AddSprit": 73052,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 5,
+      "Count": 4,
+      "HpMaxBase": 14448.0,
+      "AtkMul": 67490.0,
+      "DefMul": 0.0,
+      "AddExp": 126582,
+      "AddSprit": 73052,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 6,
+      "Count": 4,
+      "HpMaxBase": 21644.0,
+      "AtkMul": 76100.0,
+      "DefMul": 0.0,
+      "AddExp": 126582,
+      "AddSprit": 73052,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 7,
+      "Count": 4,
+      "HpMaxBase": 28858.0,
+      "AtkMul": 76100.0,
+      "DefMul": 0.0,
+      "AddExp": 126582,
+      "AddSprit": 73052,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 8,
+      "Count": 4,
+      "HpMaxBase": 40581.0,
+      "AtkMul": 76100.0,
+      "DefMul": 0.0,
+      "AddExp": 126582,
+      "AddSprit": 73052,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 1,
+      "Count": 4,
+      "HpMaxBase": 650.0,
+      "AtkMul": 37920.0,
+      "DefMul": 0.0,
+      "AddExp": 82012,
+      "AddSprit": 37389,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 2,
+      "Count": 4,
+      "HpMaxBase": 813.0,
+      "AtkMul": 37920.0,
+      "DefMul": 0.0,
+      "AddExp": 82012,
+      "AddSprit": 37389,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 3,
+      "Count": 4,
+      "HpMaxBase": 2031.0,
+      "AtkMul": 37920.0,
+      "DefMul": 0.0,
+      "AddExp": 82012,
+      "AddSprit": 37389,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 4,
+      "Count": 4,
+      "HpMaxBase": 4873.0,
+      "AtkMul": 37920.0,
+      "DefMul": 0.0,
+      "AddExp": 82012,
+      "AddSprit": 37389,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 5,
+      "Count": 4,
+      "HpMaxBase": 12791.0,
+      "AtkMul": 43910.0,
+      "DefMul": 0.0,
+      "AddExp": 82012,
+      "AddSprit": 37389,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 6,
+      "Count": 4,
+      "HpMaxBase": 19489.0,
+      "AtkMul": 49900.0,
+      "DefMul": 0.0,
+      "AddExp": 82012,
+      "AddSprit": 37389,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 7,
+      "Count": 4,
+      "HpMaxBase": 25985.0,
+      "AtkMul": 49900.0,
+      "DefMul": 0.0,
+      "AddExp": 82012,
+      "AddSprit": 37389,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 8,
+      "Count": 4,
+      "HpMaxBase": 36540.0,
+      "AtkMul": 49900.0,
+      "DefMul": 0.0,
+      "AddExp": 82012,
+      "AddSprit": 37389,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 1,
+      "Count": 4,
+      "HpMaxBase": 567.0,
+      "AtkMul": 23280.0,
+      "DefMul": 0.0,
+      "AddExp": 49903,
+      "AddSprit": 32216,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 2,
+      "Count": 4,
+      "HpMaxBase": 710.0,
+      "AtkMul": 23280.0,
+      "DefMul": 0.0,
+      "AddExp": 49903,
+      "AddSprit": 32216,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 3,
+      "Count": 4,
+      "HpMaxBase": 1775.0,
+      "AtkMul": 23280.0,
+      "DefMul": 0.0,
+      "AddExp": 49903,
+      "AddSprit": 32216,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 4,
+      "Count": 4,
+      "HpMaxBase": 4258.0,
+      "AtkMul": 23280.0,
+      "DefMul": 0.0,
+      "AddExp": 49903,
+      "AddSprit": 32216,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 5,
+      "Count": 4,
+      "HpMaxBase": 11446.0,
+      "AtkMul": 27440.0,
+      "DefMul": 0.0,
+      "AddExp": 49903,
+      "AddSprit": 32216,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 6,
+      "Count": 4,
+      "HpMaxBase": 17749.0,
+      "AtkMul": 31600.0,
+      "DefMul": 0.0,
+      "AddExp": 49903,
+      "AddSprit": 32216,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 7,
+      "Count": 4,
+      "HpMaxBase": 23665.0,
+      "AtkMul": 31600.0,
+      "DefMul": 0.0,
+      "AddExp": 49903,
+      "AddSprit": 32216,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 8,
+      "Count": 4,
+      "HpMaxBase": 33279.0,
+      "AtkMul": 31600.0,
+      "DefMul": 0.0,
+      "AddExp": 49903,
+      "AddSprit": 32216,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 1,
+      "Count": 4,
+      "HpMaxBase": 474.0,
+      "AtkMul": 16000.0,
+      "DefMul": 0.0,
+      "AddExp": 41360,
+      "AddSprit": 19878,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 2,
+      "Count": 4,
+      "HpMaxBase": 592.0,
+      "AtkMul": 16000.0,
+      "DefMul": 0.0,
+      "AddExp": 41360,
+      "AddSprit": 19878,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 3,
+      "Count": 4,
+      "HpMaxBase": 1480.0,
+      "AtkMul": 16000.0,
+      "DefMul": 0.0,
+      "AddExp": 41360,
+      "AddSprit": 19878,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 4,
+      "Count": 4,
+      "HpMaxBase": 3552.0,
+      "AtkMul": 16000.0,
+      "DefMul": 0.0,
+      "AddExp": 41360,
+      "AddSprit": 19878,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 5,
+      "Count": 4,
+      "HpMaxBase": 9900.0,
+      "AtkMul": 19250.0,
+      "DefMul": 0.0,
+      "AddExp": 41360,
+      "AddSprit": 19878,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 6,
+      "Count": 4,
+      "HpMaxBase": 15747.0,
+      "AtkMul": 22500.0,
+      "DefMul": 0.0,
+      "AddExp": 41360,
+      "AddSprit": 19878,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 7,
+      "Count": 4,
+      "HpMaxBase": 20996.0,
+      "AtkMul": 22500.0,
+      "DefMul": 0.0,
+      "AddExp": 41360,
+      "AddSprit": 19878,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 8,
+      "Count": 4,
+      "HpMaxBase": 29525.0,
+      "AtkMul": 22500.0,
+      "DefMul": 0.0,
+      "AddExp": 41360,
+      "AddSprit": 19878,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 1,
+      "Count": 4,
+      "HpMaxBase": 415.0,
+      "AtkMul": 11360.0,
+      "DefMul": 0.0,
+      "AddExp": 37067,
+      "AddSprit": 16517,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 2,
+      "Count": 4,
+      "HpMaxBase": 519.0,
+      "AtkMul": 11360.0,
+      "DefMul": 0.0,
+      "AddExp": 37067,
+      "AddSprit": 16517,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 3,
+      "Count": 4,
+      "HpMaxBase": 1298.0,
+      "AtkMul": 11360.0,
+      "DefMul": 0.0,
+      "AddExp": 37067,
+      "AddSprit": 16517,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 4,
+      "Count": 4,
+      "HpMaxBase": 3114.0,
+      "AtkMul": 11360.0,
+      "DefMul": 0.0,
+      "AddExp": 37067,
+      "AddSprit": 16517,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 5,
+      "Count": 4,
+      "HpMaxBase": 8956.0,
+      "AtkMul": 14030.0,
+      "DefMul": 0.0,
+      "AddExp": 37067,
+      "AddSprit": 16517,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 6,
+      "Count": 4,
+      "HpMaxBase": 14539.0,
+      "AtkMul": 16700.0,
+      "DefMul": 0.0,
+      "AddExp": 37067,
+      "AddSprit": 16517,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 7,
+      "Count": 4,
+      "HpMaxBase": 19386.0,
+      "AtkMul": 16700.0,
+      "DefMul": 0.0,
+      "AddExp": 37067,
+      "AddSprit": 16517,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 8,
+      "Count": 4,
+      "HpMaxBase": 27261.0,
+      "AtkMul": 16700.0,
+      "DefMul": 0.0,
+      "AddExp": 37067,
+      "AddSprit": 16517,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 1,
+      "Count": 4,
+      "HpMaxBase": 365.0,
+      "AtkMul": 9840.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 2,
+      "Count": 4,
+      "HpMaxBase": 456.0,
+      "AtkMul": 9840.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 3,
+      "Count": 4,
+      "HpMaxBase": 1138.0,
+      "AtkMul": 9840.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 4,
+      "Count": 4,
+      "HpMaxBase": 2731.0,
+      "AtkMul": 9840.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 5,
+      "Count": 4,
+      "HpMaxBase": 10158.0,
+      "AtkMul": 12320.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 6,
+      "Count": 4,
+      "HpMaxBase": 16848.0,
+      "AtkMul": 14800.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 7,
+      "Count": 4,
+      "HpMaxBase": 17972.0,
+      "AtkMul": 14800.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 8,
+      "Count": 4,
+      "HpMaxBase": 25272.0,
+      "AtkMul": 14800.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 1,
+      "Count": 4,
+      "HpMaxBase": 526.0,
+      "AtkMul": 7440.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 2,
+      "Count": 4,
+      "HpMaxBase": 657.0,
+      "AtkMul": 7440.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 3,
+      "Count": 4,
+      "HpMaxBase": 1642.0,
+      "AtkMul": 7440.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 4,
+      "Count": 4,
+      "HpMaxBase": 3940.0,
+      "AtkMul": 7440.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 5,
+      "Count": 4,
+      "HpMaxBase": 10884.0,
+      "AtkMul": 9620.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 6,
+      "Count": 4,
+      "HpMaxBase": 17205.0,
+      "AtkMul": 11800.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 7,
+      "Count": 4,
+      "HpMaxBase": 22940.0,
+      "AtkMul": 11800.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 8,
+      "Count": 4,
+      "HpMaxBase": 32259.0,
+      "AtkMul": 11800.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 1,
+      "Count": 4,
+      "HpMaxBase": 282.0,
+      "AtkMul": 8080.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 2,
+      "Count": 4,
+      "HpMaxBase": 353.0,
+      "AtkMul": 8080.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 3,
+      "Count": 4,
+      "HpMaxBase": 882.0,
+      "AtkMul": 8080.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 4,
+      "Count": 4,
+      "HpMaxBase": 2116.0,
+      "AtkMul": 8080.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 5,
+      "Count": 4,
+      "HpMaxBase": 6812.0,
+      "AtkMul": 10340.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 6,
+      "Count": 4,
+      "HpMaxBase": 11820.0,
+      "AtkMul": 12600.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 7,
+      "Count": 4,
+      "HpMaxBase": 15760.0,
+      "AtkMul": 12600.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 8,
+      "Count": 4,
+      "HpMaxBase": 22162.0,
+      "AtkMul": 12600.0,
+      "DefMul": 0.0,
+      "AddExp": 32764,
+      "AddSprit": 14386,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 1,
+      "Count": 5,
+      "HpMaxBase": 894.0,
+      "AtkMul": 83440.0,
+      "DefMul": 0.0,
+      "AddExp": 140455,
+      "AddSprit": 75271,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 2,
+      "Count": 5,
+      "HpMaxBase": 1118.0,
+      "AtkMul": 83440.0,
+      "DefMul": 0.0,
+      "AddExp": 140455,
+      "AddSprit": 75271,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 3,
+      "Count": 5,
+      "HpMaxBase": 2794.0,
+      "AtkMul": 83440.0,
+      "DefMul": 0.0,
+      "AddExp": 140455,
+      "AddSprit": 75271,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 4,
+      "Count": 5,
+      "HpMaxBase": 6705.0,
+      "AtkMul": 83440.0,
+      "DefMul": 0.0,
+      "AddExp": 140455,
+      "AddSprit": 75271,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 5,
+      "Count": 5,
+      "HpMaxBase": 17174.0,
+      "AtkMul": 95120.0,
+      "DefMul": 0.0,
+      "AddExp": 140455,
+      "AddSprit": 75271,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 6,
+      "Count": 5,
+      "HpMaxBase": 25683.0,
+      "AtkMul": 106800.0,
+      "DefMul": 0.0,
+      "AddExp": 140455,
+      "AddSprit": 75271,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 7,
+      "Count": 5,
+      "HpMaxBase": 34244.0,
+      "AtkMul": 106800.0,
+      "DefMul": 0.0,
+      "AddExp": 140455,
+      "AddSprit": 75271,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 8,
+      "Count": 5,
+      "HpMaxBase": 48155.0,
+      "AtkMul": 106800.0,
+      "DefMul": 0.0,
+      "AddExp": 140455,
+      "AddSprit": 75271,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 1,
+      "Count": 5,
+      "HpMaxBase": 792.0,
+      "AtkMul": 54480.0,
+      "DefMul": 0.0,
+      "AddExp": 89662,
+      "AddSprit": 38525,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 2,
+      "Count": 5,
+      "HpMaxBase": 990.0,
+      "AtkMul": 54480.0,
+      "DefMul": 0.0,
+      "AddExp": 89662,
+      "AddSprit": 38525,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 3,
+      "Count": 5,
+      "HpMaxBase": 2474.0,
+      "AtkMul": 54480.0,
+      "DefMul": 0.0,
+      "AddExp": 89662,
+      "AddSprit": 38525,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 4,
+      "Count": 5,
+      "HpMaxBase": 5936.0,
+      "AtkMul": 54480.0,
+      "DefMul": 0.0,
+      "AddExp": 89662,
+      "AddSprit": 38525,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 5,
+      "Count": 5,
+      "HpMaxBase": 15481.0,
+      "AtkMul": 62540.0,
+      "DefMul": 0.0,
+      "AddExp": 89662,
+      "AddSprit": 38525,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 6,
+      "Count": 5,
+      "HpMaxBase": 23474.0,
+      "AtkMul": 70600.0,
+      "DefMul": 0.0,
+      "AddExp": 89662,
+      "AddSprit": 38525,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 7,
+      "Count": 5,
+      "HpMaxBase": 31299.0,
+      "AtkMul": 70600.0,
+      "DefMul": 0.0,
+      "AddExp": 89662,
+      "AddSprit": 38525,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 8,
+      "Count": 5,
+      "HpMaxBase": 44011.0,
+      "AtkMul": 70600.0,
+      "DefMul": 0.0,
+      "AddExp": 89662,
+      "AddSprit": 38525,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 1,
+      "Count": 5,
+      "HpMaxBase": 706.0,
+      "AtkMul": 34400.0,
+      "DefMul": 0.0,
+      "AddExp": 53755,
+      "AddSprit": 33194,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 2,
+      "Count": 5,
+      "HpMaxBase": 884.0,
+      "AtkMul": 34400.0,
+      "DefMul": 0.0,
+      "AddExp": 53755,
+      "AddSprit": 33194,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 3,
+      "Count": 5,
+      "HpMaxBase": 2210.0,
+      "AtkMul": 34400.0,
+      "DefMul": 0.0,
+      "AddExp": 53755,
+      "AddSprit": 33194,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 4,
+      "Count": 5,
+      "HpMaxBase": 5304.0,
+      "AtkMul": 34400.0,
+      "DefMul": 0.0,
+      "AddExp": 53755,
+      "AddSprit": 33194,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 5,
+      "Count": 5,
+      "HpMaxBase": 14093.0,
+      "AtkMul": 39950.0,
+      "DefMul": 0.0,
+      "AddExp": 53755,
+      "AddSprit": 33194,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 6,
+      "Count": 5,
+      "HpMaxBase": 21670.0,
+      "AtkMul": 45500.0,
+      "DefMul": 0.0,
+      "AddExp": 53755,
+      "AddSprit": 33194,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 7,
+      "Count": 5,
+      "HpMaxBase": 28893.0,
+      "AtkMul": 45500.0,
+      "DefMul": 0.0,
+      "AddExp": 53755,
+      "AddSprit": 33194,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 8,
+      "Count": 5,
+      "HpMaxBase": 40630.0,
+      "AtkMul": 45500.0,
+      "DefMul": 0.0,
+      "AddExp": 53755,
+      "AddSprit": 33194,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 1,
+      "Count": 5,
+      "HpMaxBase": 609.0,
+      "AtkMul": 24400.0,
+      "DefMul": 0.0,
+      "AddExp": 43898,
+      "AddSprit": 20481,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 2,
+      "Count": 5,
+      "HpMaxBase": 761.0,
+      "AtkMul": 24400.0,
+      "DefMul": 0.0,
+      "AddExp": 43898,
+      "AddSprit": 20481,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 3,
+      "Count": 5,
+      "HpMaxBase": 1901.0,
+      "AtkMul": 24400.0,
+      "DefMul": 0.0,
+      "AddExp": 43898,
+      "AddSprit": 20481,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 4,
+      "Count": 5,
+      "HpMaxBase": 4562.0,
+      "AtkMul": 24400.0,
+      "DefMul": 0.0,
+      "AddExp": 43898,
+      "AddSprit": 20481,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 5,
+      "Count": 5,
+      "HpMaxBase": 12459.0,
+      "AtkMul": 28700.0,
+      "DefMul": 0.0,
+      "AddExp": 43898,
+      "AddSprit": 20481,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 6,
+      "Count": 5,
+      "HpMaxBase": 19538.0,
+      "AtkMul": 33000.0,
+      "DefMul": 0.0,
+      "AddExp": 43898,
+      "AddSprit": 20481,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 7,
+      "Count": 5,
+      "HpMaxBase": 26050.0,
+      "AtkMul": 33000.0,
+      "DefMul": 0.0,
+      "AddExp": 43898,
+      "AddSprit": 20481,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 8,
+      "Count": 5,
+      "HpMaxBase": 36633.0,
+      "AtkMul": 33000.0,
+      "DefMul": 0.0,
+      "AddExp": 43898,
+      "AddSprit": 20481,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 1,
+      "Count": 5,
+      "HpMaxBase": 549.0,
+      "AtkMul": 18000.0,
+      "DefMul": 0.0,
+      "AddExp": 38763,
+      "AddSprit": 17019,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 2,
+      "Count": 5,
+      "HpMaxBase": 687.0,
+      "AtkMul": 18000.0,
+      "DefMul": 0.0,
+      "AddExp": 38763,
+      "AddSprit": 17019,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 3,
+      "Count": 5,
+      "HpMaxBase": 1718.0,
+      "AtkMul": 18000.0,
+      "DefMul": 0.0,
+      "AddExp": 38763,
+      "AddSprit": 17019,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 4,
+      "Count": 5,
+      "HpMaxBase": 4122.0,
+      "AtkMul": 18000.0,
+      "DefMul": 0.0,
+      "AddExp": 38763,
+      "AddSprit": 17019,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 5,
+      "Count": 5,
+      "HpMaxBase": 11506.0,
+      "AtkMul": 21500.0,
+      "DefMul": 0.0,
+      "AddExp": 38763,
+      "AddSprit": 17019,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 6,
+      "Count": 5,
+      "HpMaxBase": 18317.0,
+      "AtkMul": 25000.0,
+      "DefMul": 0.0,
+      "AddExp": 38763,
+      "AddSprit": 17019,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 7,
+      "Count": 5,
+      "HpMaxBase": 24423.0,
+      "AtkMul": 25000.0,
+      "DefMul": 0.0,
+      "AddExp": 38763,
+      "AddSprit": 17019,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 8,
+      "Count": 5,
+      "HpMaxBase": 34344.0,
+      "AtkMul": 25000.0,
+      "DefMul": 0.0,
+      "AddExp": 38763,
+      "AddSprit": 17019,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 1,
+      "Count": 5,
+      "HpMaxBase": 498.0,
+      "AtkMul": 15840.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 2,
+      "Count": 5,
+      "HpMaxBase": 623.0,
+      "AtkMul": 15840.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 3,
+      "Count": 5,
+      "HpMaxBase": 1556.0,
+      "AtkMul": 15840.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 4,
+      "Count": 5,
+      "HpMaxBase": 3733.0,
+      "AtkMul": 15840.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 5,
+      "Count": 5,
+      "HpMaxBase": 13329.0,
+      "AtkMul": 19070.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 6,
+      "Count": 5,
+      "HpMaxBase": 21546.0,
+      "AtkMul": 22300.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 7,
+      "Count": 5,
+      "HpMaxBase": 22983.0,
+      "AtkMul": 22300.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 8,
+      "Count": 5,
+      "HpMaxBase": 32319.0,
+      "AtkMul": 22300.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 1,
+      "Count": 5,
+      "HpMaxBase": 657.0,
+      "AtkMul": 12640.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 2,
+      "Count": 5,
+      "HpMaxBase": 821.0,
+      "AtkMul": 12640.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 3,
+      "Count": 5,
+      "HpMaxBase": 2052.0,
+      "AtkMul": 12640.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 4,
+      "Count": 5,
+      "HpMaxBase": 4925.0,
+      "AtkMul": 12640.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 5,
+      "Count": 5,
+      "HpMaxBase": 13378.0,
+      "AtkMul": 15470.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 6,
+      "Count": 5,
+      "HpMaxBase": 20898.0,
+      "AtkMul": 18300.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 7,
+      "Count": 5,
+      "HpMaxBase": 27864.0,
+      "AtkMul": 18300.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 8,
+      "Count": 5,
+      "HpMaxBase": 39184.0,
+      "AtkMul": 18300.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 1,
+      "Count": 5,
+      "HpMaxBase": 415.0,
+      "AtkMul": 13280.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 2,
+      "Count": 5,
+      "HpMaxBase": 519.0,
+      "AtkMul": 13280.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 3,
+      "Count": 5,
+      "HpMaxBase": 1296.0,
+      "AtkMul": 13280.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 4,
+      "Count": 5,
+      "HpMaxBase": 3111.0,
+      "AtkMul": 13280.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 5,
+      "Count": 5,
+      "HpMaxBase": 9332.0,
+      "AtkMul": 16190.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 6,
+      "Count": 5,
+      "HpMaxBase": 15552.0,
+      "AtkMul": 19100.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 7,
+      "Count": 5,
+      "HpMaxBase": 20736.0,
+      "AtkMul": 19100.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 8,
+      "Count": 5,
+      "HpMaxBase": 29160.0,
+      "AtkMul": 19100.0,
+      "DefMul": 0.0,
+      "AddExp": 33760,
+      "AddSprit": 14824,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 1,
+      "Count": 6,
+      "HpMaxBase": 1024.0,
+      "AtkMul": 109760.0,
+      "DefMul": 0.0,
+      "AddExp": 144722,
+      "AddSprit": 77558,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 2,
+      "Count": 6,
+      "HpMaxBase": 1280.0,
+      "AtkMul": 109760.0,
+      "DefMul": 0.0,
+      "AddExp": 144722,
+      "AddSprit": 77558,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 3,
+      "Count": 6,
+      "HpMaxBase": 3200.0,
+      "AtkMul": 109760.0,
+      "DefMul": 0.0,
+      "AddExp": 144722,
+      "AddSprit": 77558,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 4,
+      "Count": 6,
+      "HpMaxBase": 7679.0,
+      "AtkMul": 109760.0,
+      "DefMul": 0.0,
+      "AddExp": 144722,
+      "AddSprit": 77558,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 5,
+      "Count": 6,
+      "HpMaxBase": 19638.0,
+      "AtkMul": 124730.0,
+      "DefMul": 0.0,
+      "AddExp": 144722,
+      "AddSprit": 77558,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 6,
+      "Count": 6,
+      "HpMaxBase": 29333.0,
+      "AtkMul": 139700.0,
+      "DefMul": 0.0,
+      "AddExp": 144722,
+      "AddSprit": 77558,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 7,
+      "Count": 6,
+      "HpMaxBase": 39111.0,
+      "AtkMul": 139700.0,
+      "DefMul": 0.0,
+      "AddExp": 144722,
+      "AddSprit": 77558,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 8,
+      "Count": 6,
+      "HpMaxBase": 54999.0,
+      "AtkMul": 139700.0,
+      "DefMul": 0.0,
+      "AddExp": 144722,
+      "AddSprit": 77558,
+      "LevelStrength": 1
+    },
+    {
+      "Quality": 1,
+      "Count": 6,
+      "HpMaxBase": 920.0,
+      "AtkMul": 72080.0,
+      "DefMul": 0.0,
+      "AddExp": 92386,
+      "AddSprit": 39696,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 2,
+      "Count": 6,
+      "HpMaxBase": 1150.0,
+      "AtkMul": 72080.0,
+      "DefMul": 0.0,
+      "AddExp": 92386,
+      "AddSprit": 39696,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 3,
+      "Count": 6,
+      "HpMaxBase": 2873.0,
+      "AtkMul": 72080.0,
+      "DefMul": 0.0,
+      "AddExp": 92386,
+      "AddSprit": 39696,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 4,
+      "Count": 6,
+      "HpMaxBase": 6895.0,
+      "AtkMul": 72080.0,
+      "DefMul": 0.0,
+      "AddExp": 92386,
+      "AddSprit": 39696,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 5,
+      "Count": 6,
+      "HpMaxBase": 17908.0,
+      "AtkMul": 82340.0,
+      "DefMul": 0.0,
+      "AddExp": 92386,
+      "AddSprit": 39696,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 6,
+      "Count": 6,
+      "HpMaxBase": 27071.0,
+      "AtkMul": 92600.0,
+      "DefMul": 0.0,
+      "AddExp": 92386,
+      "AddSprit": 39696,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 7,
+      "Count": 6,
+      "HpMaxBase": 36094.0,
+      "AtkMul": 92600.0,
+      "DefMul": 0.0,
+      "AddExp": 92386,
+      "AddSprit": 39696,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 8,
+      "Count": 6,
+      "HpMaxBase": 50754.0,
+      "AtkMul": 92600.0,
+      "DefMul": 0.0,
+      "AddExp": 92386,
+      "AddSprit": 39696,
+      "LevelStrength": 2
+    },
+    {
+      "Quality": 1,
+      "Count": 6,
+      "HpMaxBase": 832.0,
+      "AtkMul": 46320.0,
+      "DefMul": 0.0,
+      "AddExp": 55388,
+      "AddSprit": 34203,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 2,
+      "Count": 6,
+      "HpMaxBase": 1043.0,
+      "AtkMul": 46320.0,
+      "DefMul": 0.0,
+      "AddExp": 55388,
+      "AddSprit": 34203,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 3,
+      "Count": 6,
+      "HpMaxBase": 2606.0,
+      "AtkMul": 46320.0,
+      "DefMul": 0.0,
+      "AddExp": 55388,
+      "AddSprit": 34203,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 4,
+      "Count": 6,
+      "HpMaxBase": 6254.0,
+      "AtkMul": 46320.0,
+      "DefMul": 0.0,
+      "AddExp": 55388,
+      "AddSprit": 34203,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 5,
+      "Count": 6,
+      "HpMaxBase": 16498.0,
+      "AtkMul": 53360.0,
+      "DefMul": 0.0,
+      "AddExp": 55388,
+      "AddSprit": 34203,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 6,
+      "Count": 6,
+      "HpMaxBase": 25234.0,
+      "AtkMul": 60400.0,
+      "DefMul": 0.0,
+      "AddExp": 55388,
+      "AddSprit": 34203,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 7,
+      "Count": 6,
+      "HpMaxBase": 33645.0,
+      "AtkMul": 60400.0,
+      "DefMul": 0.0,
+      "AddExp": 55388,
+      "AddSprit": 34203,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 8,
+      "Count": 6,
+      "HpMaxBase": 47313.0,
+      "AtkMul": 60400.0,
+      "DefMul": 0.0,
+      "AddExp": 55388,
+      "AddSprit": 34203,
+      "LevelStrength": 3
+    },
+    {
+      "Quality": 1,
+      "Count": 6,
+      "HpMaxBase": 737.0,
+      "AtkMul": 33360.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 21104,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 2,
+      "Count": 6,
+      "HpMaxBase": 921.0,
+      "AtkMul": 33360.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 21104,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 3,
+      "Count": 6,
+      "HpMaxBase": 2301.0,
+      "AtkMul": 33360.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 21104,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 4,
+      "Count": 6,
+      "HpMaxBase": 5521.0,
+      "AtkMul": 33360.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 21104,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 5,
+      "Count": 6,
+      "HpMaxBase": 14887.0,
+      "AtkMul": 38780.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 21104,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 6,
+      "Count": 6,
+      "HpMaxBase": 23134.0,
+      "AtkMul": 44200.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 21104,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 7,
+      "Count": 6,
+      "HpMaxBase": 30845.0,
+      "AtkMul": 44200.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 21104,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 8,
+      "Count": 6,
+      "HpMaxBase": 43376.0,
+      "AtkMul": 44200.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 21104,
+      "LevelStrength": 4
+    },
+    {
+      "Quality": 1,
+      "Count": 6,
+      "HpMaxBase": 675.0,
+      "AtkMul": 25120.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 17536,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 2,
+      "Count": 6,
+      "HpMaxBase": 845.0,
+      "AtkMul": 25120.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 17536,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 3,
+      "Count": 6,
+      "HpMaxBase": 2112.0,
+      "AtkMul": 25120.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 17536,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 4,
+      "Count": 6,
+      "HpMaxBase": 5068.0,
+      "AtkMul": 25120.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 17536,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 5,
+      "Count": 6,
+      "HpMaxBase": 13901.0,
+      "AtkMul": 29510.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 17536,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 6,
+      "Count": 6,
+      "HpMaxBase": 21866.0,
+      "AtkMul": 33900.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 17536,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 7,
+      "Count": 6,
+      "HpMaxBase": 29155.0,
+      "AtkMul": 33900.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 17536,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 8,
+      "Count": 6,
+      "HpMaxBase": 40999.0,
+      "AtkMul": 33900.0,
+      "DefMul": 0.0,
+      "AddExp": 45232,
+      "AddSprit": 17536,
+      "LevelStrength": 5
+    },
+    {
+      "Quality": 1,
+      "Count": 6,
+      "HpMaxBase": 623.0,
+      "AtkMul": 22240.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 2,
+      "Count": 6,
+      "HpMaxBase": 778.0,
+      "AtkMul": 22240.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 3,
+      "Count": 6,
+      "HpMaxBase": 1944.0,
+      "AtkMul": 22240.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 4,
+      "Count": 6,
+      "HpMaxBase": 4666.0,
+      "AtkMul": 22240.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 5,
+      "Count": 6,
+      "HpMaxBase": 16281.0,
+      "AtkMul": 26270.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 6,
+      "Count": 6,
+      "HpMaxBase": 25920.0,
+      "AtkMul": 30300.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 7,
+      "Count": 6,
+      "HpMaxBase": 27648.0,
+      "AtkMul": 30300.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 8,
+      "Count": 6,
+      "HpMaxBase": 38880.0,
+      "AtkMul": 30300.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 6
+    },
+    {
+      "Quality": 1,
+      "Count": 6,
+      "HpMaxBase": 782.0,
+      "AtkMul": 18080.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 2,
+      "Count": 6,
+      "HpMaxBase": 977.0,
+      "AtkMul": 18080.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 3,
+      "Count": 6,
+      "HpMaxBase": 2441.0,
+      "AtkMul": 18080.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 4,
+      "Count": 6,
+      "HpMaxBase": 5858.0,
+      "AtkMul": 18080.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 5,
+      "Count": 6,
+      "HpMaxBase": 15740.0,
+      "AtkMul": 21590.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 6,
+      "Count": 6,
+      "HpMaxBase": 24398.0,
+      "AtkMul": 25100.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 7,
+      "Count": 6,
+      "HpMaxBase": 32530.0,
+      "AtkMul": 25100.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 8,
+      "Count": 6,
+      "HpMaxBase": 45745.0,
+      "AtkMul": 25100.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 7
+    },
+    {
+      "Quality": 1,
+      "Count": 6,
+      "HpMaxBase": 537.0,
+      "AtkMul": 18800.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 2,
+      "Count": 6,
+      "HpMaxBase": 671.0,
+      "AtkMul": 18800.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 3,
+      "Count": 6,
+      "HpMaxBase": 1677.0,
+      "AtkMul": 18800.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 4,
+      "Count": 6,
+      "HpMaxBase": 4023.0,
+      "AtkMul": 18800.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 5,
+      "Count": 6,
+      "HpMaxBase": 11641.0,
+      "AtkMul": 22400.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 6,
+      "Count": 6,
+      "HpMaxBase": 18974.0,
+      "AtkMul": 26000.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 7,
+      "Count": 6,
+      "HpMaxBase": 25298.0,
+      "AtkMul": 26000.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 8
+    },
+    {
+      "Quality": 8,
+      "Count": 6,
+      "HpMaxBase": 35576.0,
+      "AtkMul": 26000.0,
+      "DefMul": 0.0,
+      "AddExp": 34785,
+      "AddSprit": 15274,
+      "LevelStrength": 8
+    }
+  ]
+}

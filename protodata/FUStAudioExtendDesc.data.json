@@ -1,0 +1,2068 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "EquipPosition": 1,
+      "ActionTypeID": 11011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_atk_light.EVT_player_wk_cloth_cotton_atk_light'"
+    },
+    {
+      "ID": 2,
+      "EquipPosition": 1,
+      "ActionTypeID": 11012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_atk_mid.EVT_player_wk_cloth_cotton_atk_mid'"
+    },
+    {
+      "ID": 3,
+      "EquipPosition": 1,
+      "ActionTypeID": 11013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_atk_strong.EVT_player_wk_cloth_cotton_atk_strong'"
+    },
+    {
+      "ID": 4,
+      "EquipPosition": 1,
+      "ActionTypeID": 12011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_roll01.EVT_player_wk_cloth_cotton_roll01'"
+    },
+    {
+      "ID": 5,
+      "EquipPosition": 1,
+      "ActionTypeID": 12012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_roll02.EVT_player_wk_cloth_cotton_roll02'"
+    },
+    {
+      "ID": 6,
+      "EquipPosition": 1,
+      "ActionTypeID": 12013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_roll03.EVT_player_wk_cloth_cotton_roll03'"
+    },
+    {
+      "ID": 7,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll01.EVT_player_wk_act_landtype_general_roll01'"
+    },
+    {
+      "ID": 8,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll02.EVT_player_wk_act_landtype_general_roll02'"
+    },
+    {
+      "ID": 9,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll03.EVT_player_wk_act_landtype_general_roll03'"
+    },
+    {
+      "ID": 10,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'"
+    },
+    {
+      "ID": 11,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'"
+    },
+    {
+      "ID": 12,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'"
+    },
+    {
+      "ID": 13,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'"
+    },
+    {
+      "ID": 14,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'"
+    },
+    {
+      "ID": 15,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'"
+    },
+    {
+      "ID": 16,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll01.EVT_player_wk_act_landtype_snow_roll01'"
+    },
+    {
+      "ID": 17,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll02.EVT_player_wk_act_landtype_snow_roll02'"
+    },
+    {
+      "ID": 18,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll03.EVT_player_wk_act_landtype_snow_roll03'"
+    },
+    {
+      "ID": 19,
+      "EquipPosition": 1,
+      "ActionTypeID": 12021,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_jump_up.EVT_player_wk_cloth_cotton_jump_up'"
+    },
+    {
+      "ID": 20,
+      "EquipPosition": 1,
+      "ActionTypeID": 12022,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_jump_down.EVT_player_wk_cloth_cotton_jump_down'"
+    },
+    {
+      "ID": 21,
+      "EquipPosition": 1,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_act_zhengtuo.EVT_player_wk_cloth_cotton_act_zhengtuo"
+    },
+    {
+      "ID": 22,
+      "EquipPosition": 1,
+      "ActionTypeID": 9999,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_step.EVT_player_wk_cloth_cotton_step'"
+    },
+    {
+      "ID": 23,
+      "EquipPosition": 1,
+      "ActionTypeID": 13011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_hurt_light.EVT_player_wk_cloth_cotton_hurt_light'"
+    },
+    {
+      "ID": 24,
+      "EquipPosition": 1,
+      "ActionTypeID": 13012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_hurt_mid.EVT_player_wk_cloth_cotton_hurt_mid'"
+    },
+    {
+      "ID": 25,
+      "EquipPosition": 1,
+      "ActionTypeID": 13013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_hurt_strong.EVT_player_wk_cloth_cotton_hurt_strong'"
+    },
+    {
+      "ID": 26,
+      "EquipPosition": 1,
+      "ActionTypeID": 11011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_atk_light.EVT_player_wk_cloth_leather_light_atk_light'"
+    },
+    {
+      "ID": 27,
+      "EquipPosition": 1,
+      "ActionTypeID": 11012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_atk_mid.EVT_player_wk_cloth_leather_light_atk_mid'"
+    },
+    {
+      "ID": 28,
+      "EquipPosition": 1,
+      "ActionTypeID": 11013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_atk_strong.EVT_player_wk_cloth_leather_light_atk_strong'"
+    },
+    {
+      "ID": 29,
+      "EquipPosition": 1,
+      "ActionTypeID": 12011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_roll01.EVT_player_wk_cloth_leather_light_roll01'"
+    },
+    {
+      "ID": 30,
+      "EquipPosition": 1,
+      "ActionTypeID": 12012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_roll02.EVT_player_wk_cloth_leather_light_roll02'"
+    },
+    {
+      "ID": 31,
+      "EquipPosition": 1,
+      "ActionTypeID": 12013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_roll03.EVT_player_wk_cloth_leather_light_roll03'"
+    },
+    {
+      "ID": 32,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll01.EVT_player_wk_act_landtype_general_roll01'"
+    },
+    {
+      "ID": 33,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll02.EVT_player_wk_act_landtype_general_roll02'"
+    },
+    {
+      "ID": 34,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll03.EVT_player_wk_act_landtype_general_roll03'"
+    },
+    {
+      "ID": 35,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'"
+    },
+    {
+      "ID": 36,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'"
+    },
+    {
+      "ID": 37,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'"
+    },
+    {
+      "ID": 38,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'"
+    },
+    {
+      "ID": 39,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'"
+    },
+    {
+      "ID": 40,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'"
+    },
+    {
+      "ID": 41,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll01.EVT_player_wk_act_landtype_snow_roll01'"
+    },
+    {
+      "ID": 42,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll02.EVT_player_wk_act_landtype_snow_roll02'"
+    },
+    {
+      "ID": 43,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll03.EVT_player_wk_act_landtype_snow_roll03'"
+    },
+    {
+      "ID": 44,
+      "EquipPosition": 1,
+      "ActionTypeID": 12021,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_jump_up.EVT_player_wk_cloth_leather_light_jump_up'"
+    },
+    {
+      "ID": 45,
+      "EquipPosition": 1,
+      "ActionTypeID": 12022,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_jump_down.EVT_player_wk_cloth_leather_light_jump_down'"
+    },
+    {
+      "ID": 46,
+      "EquipPosition": 1,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_act_zhengtuo.EVT_player_wk_cloth_leather_light_act_zhengtuo'"
+    },
+    {
+      "ID": 47,
+      "EquipPosition": 1,
+      "ActionTypeID": 9999,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_step.EVT_player_wk_cloth_leather_light_step'"
+    },
+    {
+      "ID": 48,
+      "EquipPosition": 1,
+      "ActionTypeID": 13011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_hurt_light.EVT_player_wk_cloth_leather_light_hurt_light'"
+    },
+    {
+      "ID": 49,
+      "EquipPosition": 1,
+      "ActionTypeID": 13012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_hurt_mid.EVT_player_wk_cloth_leather_light_hurt_mid'"
+    },
+    {
+      "ID": 50,
+      "EquipPosition": 1,
+      "ActionTypeID": 13013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_hurt_strong.EVT_player_wk_cloth_leather_light_hurt_strong'"
+    },
+    {
+      "ID": 51,
+      "EquipPosition": 1,
+      "ActionTypeID": 11011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_atk_light.EVT_player_wk_cloth_leather_strong_atk_light'"
+    },
+    {
+      "ID": 52,
+      "EquipPosition": 1,
+      "ActionTypeID": 11012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_atk_mid.EVT_player_wk_cloth_leather_strong_atk_mid'"
+    },
+    {
+      "ID": 53,
+      "EquipPosition": 1,
+      "ActionTypeID": 11013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_atk_strong.EVT_player_wk_cloth_leather_strong_atk_strong'"
+    },
+    {
+      "ID": 54,
+      "EquipPosition": 1,
+      "ActionTypeID": 12011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_roll01.EVT_player_wk_cloth_leather_strong_roll01'"
+    },
+    {
+      "ID": 55,
+      "EquipPosition": 1,
+      "ActionTypeID": 12012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_roll02.EVT_player_wk_cloth_leather_strong_roll02'"
+    },
+    {
+      "ID": 56,
+      "EquipPosition": 1,
+      "ActionTypeID": 12013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_roll03.EVT_player_wk_cloth_leather_strong_roll03'"
+    },
+    {
+      "ID": 57,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll01.EVT_player_wk_act_landtype_general_roll01'"
+    },
+    {
+      "ID": 58,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll02.EVT_player_wk_act_landtype_general_roll02'"
+    },
+    {
+      "ID": 59,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll03.EVT_player_wk_act_landtype_general_roll03'"
+    },
+    {
+      "ID": 60,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'"
+    },
+    {
+      "ID": 61,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'"
+    },
+    {
+      "ID": 62,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'"
+    },
+    {
+      "ID": 63,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'"
+    },
+    {
+      "ID": 64,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'"
+    },
+    {
+      "ID": 65,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'"
+    },
+    {
+      "ID": 66,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll01.EVT_player_wk_act_landtype_snow_roll01'"
+    },
+    {
+      "ID": 67,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll02.EVT_player_wk_act_landtype_snow_roll02'"
+    },
+    {
+      "ID": 68,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll03.EVT_player_wk_act_landtype_snow_roll03'"
+    },
+    {
+      "ID": 69,
+      "EquipPosition": 1,
+      "ActionTypeID": 12021,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_jump_up.EVT_player_wk_cloth_leather_strong_jump_up'"
+    },
+    {
+      "ID": 70,
+      "EquipPosition": 1,
+      "ActionTypeID": 12022,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_jump_down.EVT_player_wk_cloth_leather_strong_jump_down'"
+    },
+    {
+      "ID": 71,
+      "EquipPosition": 1,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_act_zhengtuo.EVT_player_wk_cloth_leather_strong_act_zhengtuo'"
+    },
+    {
+      "ID": 72,
+      "EquipPosition": 1,
+      "ActionTypeID": 9999,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_step.EVT_player_wk_cloth_leather_strong_step'"
+    },
+    {
+      "ID": 73,
+      "EquipPosition": 1,
+      "ActionTypeID": 13011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_hurt_light.EVT_player_wk_cloth_leather_strong_hurt_light'"
+    },
+    {
+      "ID": 74,
+      "EquipPosition": 1,
+      "ActionTypeID": 13012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_hurt_mid.EVT_player_wk_cloth_leather_strong_hurt_mid'"
+    },
+    {
+      "ID": 75,
+      "EquipPosition": 1,
+      "ActionTypeID": 13013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_hurt_strong.EVT_player_wk_cloth_leather_strong_hurt_strong'"
+    },
+    {
+      "ID": 76,
+      "EquipPosition": 1,
+      "ActionTypeID": 11011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_atk_light.EVT_player_wk_cloth_coin_atk_light'"
+    },
+    {
+      "ID": 77,
+      "EquipPosition": 1,
+      "ActionTypeID": 11012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_atk_mid.EVT_player_wk_cloth_coin_atk_mid'"
+    },
+    {
+      "ID": 78,
+      "EquipPosition": 1,
+      "ActionTypeID": 11013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_atk_strong.EVT_player_wk_cloth_coin_atk_strong'"
+    },
+    {
+      "ID": 79,
+      "EquipPosition": 1,
+      "ActionTypeID": 12011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_roll01.EVT_player_wk_cloth_coin_roll01'"
+    },
+    {
+      "ID": 80,
+      "EquipPosition": 1,
+      "ActionTypeID": 12012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_roll02.EVT_player_wk_cloth_coin_roll02'"
+    },
+    {
+      "ID": 81,
+      "EquipPosition": 1,
+      "ActionTypeID": 12013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_roll03.EVT_player_wk_cloth_coin_roll03'"
+    },
+    {
+      "ID": 82,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll01.EVT_player_wk_act_landtype_general_roll01'"
+    },
+    {
+      "ID": 83,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll02.EVT_player_wk_act_landtype_general_roll02'"
+    },
+    {
+      "ID": 84,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll03.EVT_player_wk_act_landtype_general_roll03'"
+    },
+    {
+      "ID": 85,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'"
+    },
+    {
+      "ID": 86,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'"
+    },
+    {
+      "ID": 87,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'"
+    },
+    {
+      "ID": 88,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'"
+    },
+    {
+      "ID": 89,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'"
+    },
+    {
+      "ID": 90,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'"
+    },
+    {
+      "ID": 91,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll01.EVT_player_wk_act_landtype_snow_roll01'"
+    },
+    {
+      "ID": 92,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll02.EVT_player_wk_act_landtype_snow_roll02'"
+    },
+    {
+      "ID": 93,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll03.EVT_player_wk_act_landtype_snow_roll03'"
+    },
+    {
+      "ID": 94,
+      "EquipPosition": 1,
+      "ActionTypeID": 12021,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_jump_up.EVT_player_wk_cloth_coin_jump_up'"
+    },
+    {
+      "ID": 95,
+      "EquipPosition": 1,
+      "ActionTypeID": 12022,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_jump_down.EVT_player_wk_cloth_coin_jump_down'"
+    },
+    {
+      "ID": 96,
+      "EquipPosition": 1,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_act_zhengtuo.EVT_player_wk_cloth_coin_act_zhengtuo'"
+    },
+    {
+      "ID": 97,
+      "EquipPosition": 1,
+      "ActionTypeID": 9999,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_step.EVT_player_wk_cloth_coin_step'"
+    },
+    {
+      "ID": 98,
+      "EquipPosition": 1,
+      "ActionTypeID": 13011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_hurt_light.EVT_player_wk_cloth_coin_hurt_light'"
+    },
+    {
+      "ID": 99,
+      "EquipPosition": 1,
+      "ActionTypeID": 13012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_hurt_mid.EVT_player_wk_cloth_coin_hurt_mid'"
+    },
+    {
+      "ID": 100,
+      "EquipPosition": 1,
+      "ActionTypeID": 13013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1400,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_hurt_strong.EVT_player_wk_cloth_coin_hurt_strong'"
+    },
+    {
+      "ID": 101,
+      "EquipPosition": 1,
+      "ActionTypeID": 11011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_atk_light.EVT_player_wk_cloth_metal_atk_light'"
+    },
+    {
+      "ID": 102,
+      "EquipPosition": 1,
+      "ActionTypeID": 11012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_atk_mid.EVT_player_wk_cloth_metal_atk_mid'"
+    },
+    {
+      "ID": 103,
+      "EquipPosition": 1,
+      "ActionTypeID": 11013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_atk_strong.EVT_player_wk_cloth_metal_atk_strong'"
+    },
+    {
+      "ID": 104,
+      "EquipPosition": 1,
+      "ActionTypeID": 12011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_roll01.EVT_player_wk_cloth_metal_roll01'"
+    },
+    {
+      "ID": 105,
+      "EquipPosition": 1,
+      "ActionTypeID": 12012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_roll02.EVT_player_wk_cloth_metal_roll02'"
+    },
+    {
+      "ID": 106,
+      "EquipPosition": 1,
+      "ActionTypeID": 12013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_roll03.EVT_player_wk_cloth_metal_roll03'"
+    },
+    {
+      "ID": 107,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll01.EVT_player_wk_act_landtype_general_roll01'"
+    },
+    {
+      "ID": 108,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll02.EVT_player_wk_act_landtype_general_roll02'"
+    },
+    {
+      "ID": 109,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll03.EVT_player_wk_act_landtype_general_roll03'"
+    },
+    {
+      "ID": 110,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'"
+    },
+    {
+      "ID": 111,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'"
+    },
+    {
+      "ID": 112,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'"
+    },
+    {
+      "ID": 113,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'"
+    },
+    {
+      "ID": 114,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'"
+    },
+    {
+      "ID": 115,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'"
+    },
+    {
+      "ID": 116,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll01.EVT_player_wk_act_landtype_snow_roll01'"
+    },
+    {
+      "ID": 117,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll02.EVT_player_wk_act_landtype_snow_roll02'"
+    },
+    {
+      "ID": 118,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll03.EVT_player_wk_act_landtype_snow_roll03'"
+    },
+    {
+      "ID": 119,
+      "EquipPosition": 1,
+      "ActionTypeID": 12021,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_jump_up.EVT_player_wk_cloth_metal_jump_up'"
+    },
+    {
+      "ID": 120,
+      "EquipPosition": 1,
+      "ActionTypeID": 12022,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_jump_down.EVT_player_wk_cloth_metal_jump_down'"
+    },
+    {
+      "ID": 121,
+      "EquipPosition": 1,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_act_zhengtuo.EVT_player_wk_cloth_metal_act_zhengtuo'"
+    },
+    {
+      "ID": 122,
+      "EquipPosition": 1,
+      "ActionTypeID": 9999,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_step.EVT_player_wk_cloth_metal_step'"
+    },
+    {
+      "ID": 123,
+      "EquipPosition": 1,
+      "ActionTypeID": 13011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_hurt_light.EVT_player_wk_cloth_metal_hurt_light'"
+    },
+    {
+      "ID": 124,
+      "EquipPosition": 1,
+      "ActionTypeID": 13012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_hurt_mid.EVT_player_wk_cloth_metal_hurt_mid'"
+    },
+    {
+      "ID": 125,
+      "EquipPosition": 1,
+      "ActionTypeID": 13013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1500,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_hurt_strong.EVT_player_wk_cloth_metal_hurt_strong'"
+    },
+    {
+      "ID": 126,
+      "EquipPosition": 1,
+      "ActionTypeID": 11011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_atk_light.EVT_player_wk_foley_suoyi_atk_light'"
+    },
+    {
+      "ID": 127,
+      "EquipPosition": 1,
+      "ActionTypeID": 11012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_atk_mid.EVT_player_wk_foley_suoyi_atk_mid'"
+    },
+    {
+      "ID": 128,
+      "EquipPosition": 1,
+      "ActionTypeID": 11013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_atk_strong.EVT_player_wk_foley_suoyi_atk_strong'"
+    },
+    {
+      "ID": 129,
+      "EquipPosition": 1,
+      "ActionTypeID": 12011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_roll01.EVT_player_wk_foley_suoyi_roll01'"
+    },
+    {
+      "ID": 130,
+      "EquipPosition": 1,
+      "ActionTypeID": 12012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_roll02.EVT_player_wk_foley_suoyi_roll02'"
+    },
+    {
+      "ID": 131,
+      "EquipPosition": 1,
+      "ActionTypeID": 12013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_roll03.EVT_player_wk_foley_suoyi_roll03'"
+    },
+    {
+      "ID": 132,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll01.EVT_player_wk_act_landtype_general_roll01'"
+    },
+    {
+      "ID": 133,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll02.EVT_player_wk_act_landtype_general_roll02'"
+    },
+    {
+      "ID": 134,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll03.EVT_player_wk_act_landtype_general_roll03'"
+    },
+    {
+      "ID": 135,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'"
+    },
+    {
+      "ID": 136,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'"
+    },
+    {
+      "ID": 137,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'"
+    },
+    {
+      "ID": 138,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'"
+    },
+    {
+      "ID": 139,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'"
+    },
+    {
+      "ID": 140,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'"
+    },
+    {
+      "ID": 141,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll01.EVT_player_wk_act_landtype_snow_roll01'"
+    },
+    {
+      "ID": 142,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll02.EVT_player_wk_act_landtype_snow_roll02'"
+    },
+    {
+      "ID": 143,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll03.EVT_player_wk_act_landtype_snow_roll03'"
+    },
+    {
+      "ID": 144,
+      "EquipPosition": 1,
+      "ActionTypeID": 12021,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_jump_up.EVT_player_wk_foley_suoyi_jump_up'"
+    },
+    {
+      "ID": 145,
+      "EquipPosition": 1,
+      "ActionTypeID": 12022,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_jump_down.EVT_player_wk_foley_suoyi_jump_down'"
+    },
+    {
+      "ID": 146,
+      "EquipPosition": 1,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_act_zhengtuo.EVT_player_wk_foley_suoyi_act_zhengtuo'"
+    },
+    {
+      "ID": 147,
+      "EquipPosition": 1,
+      "ActionTypeID": 9999,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_step.EVT_player_wk_foley_suoyi_step'"
+    },
+    {
+      "ID": 148,
+      "EquipPosition": 1,
+      "ActionTypeID": 13011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_hurt_light.EVT_player_wk_foley_suoyi_hurt_light'"
+    },
+    {
+      "ID": 149,
+      "EquipPosition": 1,
+      "ActionTypeID": 13012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_hurt_mid.EVT_player_wk_foley_suoyi_hurt_mid'"
+    },
+    {
+      "ID": 150,
+      "EquipPosition": 1,
+      "ActionTypeID": 13013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1600,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_hurt_strong.EVT_player_wk_foley_suoyi_hurt_strong'"
+    },
+    {
+      "ID": 151,
+      "EquipPosition": 1,
+      "ActionTypeID": 11011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_atk_light.EVT_player_wk_foley_cloth_atk_light'"
+    },
+    {
+      "ID": 152,
+      "EquipPosition": 1,
+      "ActionTypeID": 11012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_atk_mid.EVT_player_wk_foley_cloth_atk_mid'"
+    },
+    {
+      "ID": 153,
+      "EquipPosition": 1,
+      "ActionTypeID": 11013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_atk_strong.EVT_player_wk_foley_cloth_atk_strong'"
+    },
+    {
+      "ID": 154,
+      "EquipPosition": 1,
+      "ActionTypeID": 12011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_roll01.EVT_player_wk_foley_cloth_roll01'"
+    },
+    {
+      "ID": 155,
+      "EquipPosition": 1,
+      "ActionTypeID": 12012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_roll02.EVT_player_wk_foley_cloth_roll02'"
+    },
+    {
+      "ID": 156,
+      "EquipPosition": 1,
+      "ActionTypeID": 12013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_roll03.EVT_player_wk_foley_cloth_roll03'"
+    },
+    {
+      "ID": 157,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll01.EVT_player_wk_act_landtype_general_roll01'"
+    },
+    {
+      "ID": 158,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll02.EVT_player_wk_act_landtype_general_roll02'"
+    },
+    {
+      "ID": 159,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll03.EVT_player_wk_act_landtype_general_roll03'"
+    },
+    {
+      "ID": 160,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'"
+    },
+    {
+      "ID": 161,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'"
+    },
+    {
+      "ID": 162,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'"
+    },
+    {
+      "ID": 163,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'"
+    },
+    {
+      "ID": 164,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'"
+    },
+    {
+      "ID": 165,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'"
+    },
+    {
+      "ID": 166,
+      "EquipPosition": 1,
+      "ActionTypeID": 12111,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll01.EVT_player_wk_act_landtype_snow_roll01'"
+    },
+    {
+      "ID": 167,
+      "EquipPosition": 1,
+      "ActionTypeID": 12112,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll02.EVT_player_wk_act_landtype_snow_roll02'"
+    },
+    {
+      "ID": 168,
+      "EquipPosition": 1,
+      "ActionTypeID": 12113,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll03.EVT_player_wk_act_landtype_snow_roll03'"
+    },
+    {
+      "ID": 169,
+      "EquipPosition": 1,
+      "ActionTypeID": 12021,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_jump_up.EVT_player_wk_foley_cloth_jump_up'"
+    },
+    {
+      "ID": 170,
+      "EquipPosition": 1,
+      "ActionTypeID": 12022,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_jump_down.EVT_player_wk_foley_cloth_jump_down'"
+    },
+    {
+      "ID": 171,
+      "EquipPosition": 1,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_act_zhengtuo.EVT_player_wk_foley_cloth_act_zhengtuo'"
+    },
+    {
+      "ID": 172,
+      "EquipPosition": 1,
+      "ActionTypeID": 9999,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_step.EVT_player_wk_foley_cloth_step'"
+    },
+    {
+      "ID": 173,
+      "EquipPosition": 1,
+      "ActionTypeID": 13011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_hurt_light.EVT_player_wk_foley_cloth_hurt_light'"
+    },
+    {
+      "ID": 174,
+      "EquipPosition": 1,
+      "ActionTypeID": 13012,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_hurt_mid.EVT_player_wk_foley_cloth_hurt_mid'"
+    },
+    {
+      "ID": 175,
+      "EquipPosition": 1,
+      "ActionTypeID": 13013,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 1700,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_hurt_strong.EVT_player_wk_foley_cloth_hurt_strong'"
+    },
+    {
+      "ID": 176,
+      "EquipPosition": 3,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 2100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_general.EVT_player_wk_fs_bare_land_general'"
+    },
+    {
+      "ID": 177,
+      "EquipPosition": 3,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 6,
+      "AudioMappingID": 2100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_general.EVT_player_wk_fs_bare_land_general'"
+    },
+    {
+      "ID": 178,
+      "EquipPosition": 3,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 2100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_water.EVT_player_wk_fs_bare_land_water'"
+    },
+    {
+      "ID": 179,
+      "EquipPosition": 3,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 4,
+      "AudioMappingID": 2100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_stone.EVT_player_wk_fs_bare_land_stone'"
+    },
+    {
+      "ID": 180,
+      "EquipPosition": 3,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 1,
+      "AudioMappingID": 2100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_grass.EVT_player_wk_fs_bare_land_grass'"
+    },
+    {
+      "ID": 181,
+      "EquipPosition": 3,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 5,
+      "AudioMappingID": 2100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_mud.EVT_player_wk_fs_bare_land_mud'"
+    },
+    {
+      "ID": 182,
+      "EquipPosition": 3,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 7,
+      "AudioMappingID": 2100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_wood.EVT_player_wk_fs_bare_land_wood'"
+    },
+    {
+      "ID": 183,
+      "EquipPosition": 3,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 8,
+      "AudioMappingID": 2100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_sand.EVT_player_wk_fs_bare_land_sand'"
+    },
+    {
+      "ID": 184,
+      "EquipPosition": 3,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 2100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_water.EVT_player_wk_fs_bare_land_water'"
+    },
+    {
+      "ID": 185,
+      "EquipPosition": 3,
+      "ActionTypeID": 12031,
+      "SceneItemSurfaceType": 10,
+      "AudioMappingID": 2100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_snow.EVT_player_wk_fs_bare_land_snow'"
+    },
+    {
+      "ID": 186,
+      "EquipPosition": 3,
+      "ActionTypeID": 12032,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 2100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_general.EVT_player_wk_fs_bare_land_general'"
+    },
+    {
+      "ID": 187,
+      "EquipPosition": 5,
+      "ActionTypeID": 21101,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo01.EVT_player_wk_atk_combo_wosh_wood_combo01'"
+    },
+    {
+      "ID": 188,
+      "EquipPosition": 5,
+      "ActionTypeID": 211021,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo02a.EVT_player_wk_atk_combo_wosh_wood_combo02a'"
+    },
+    {
+      "ID": 189,
+      "EquipPosition": 5,
+      "ActionTypeID": 211022,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo02b.EVT_player_wk_atk_combo_wosh_wood_combo02b'"
+    },
+    {
+      "ID": 190,
+      "EquipPosition": 5,
+      "ActionTypeID": 21103,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo03.EVT_player_wk_atk_combo_wosh_wood_combo03'"
+    },
+    {
+      "ID": 191,
+      "EquipPosition": 5,
+      "ActionTypeID": 211041,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo04a.EVT_player_wk_atk_combo_wosh_wood_combo04a'"
+    },
+    {
+      "ID": 192,
+      "EquipPosition": 5,
+      "ActionTypeID": 211042,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo04b.EVT_player_wk_atk_combo_wosh_wood_combo04b'"
+    },
+    {
+      "ID": 193,
+      "EquipPosition": 5,
+      "ActionTypeID": 211051,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo05_jump.EVT_player_wk_atk_combo_wosh_wood_combo05_jump'"
+    },
+    {
+      "ID": 194,
+      "EquipPosition": 5,
+      "ActionTypeID": 211052,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo05_xiapi.EVT_player_wk_atk_combo_wosh_wood_combo05_xiapi'"
+    },
+    {
+      "ID": 195,
+      "EquipPosition": 5,
+      "ActionTypeID": 21201,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_pre01.EVT_player_wk_atk_combo_wosh_wood_pre01'"
+    },
+    {
+      "ID": 196,
+      "EquipPosition": 5,
+      "ActionTypeID": 21202,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_pre02.EVT_player_wk_atk_combo_wosh_wood_pre02'"
+    },
+    {
+      "ID": 197,
+      "EquipPosition": 5,
+      "ActionTypeID": 32010,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_weapon_catchbang_wood.EVT_player_wk_weapon_catchbang_wood'"
+    },
+    {
+      "ID": 198,
+      "EquipPosition": 5,
+      "ActionTypeID": 21106,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_pigun_xuli_wosh_pre_wood.EVT_player_wk_pigun_xuli_wosh_pre_wood'"
+    },
+    {
+      "ID": 199,
+      "EquipPosition": 5,
+      "ActionTypeID": 21301,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_light_wood_wosh_a.EVT_player_wk_akt_zhuangun_light_wood_wosh_a'"
+    },
+    {
+      "ID": 200,
+      "EquipPosition": 5,
+      "ActionTypeID": 21302,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_light_wood_wosh_b.EVT_player_wk_akt_zhuangun_light_wood_wosh_b'"
+    },
+    {
+      "ID": 201,
+      "EquipPosition": 5,
+      "ActionTypeID": 21303,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_strong_wood_wosh.EVT_player_wk_akt_zhuangun_strong_wood_wosh'"
+    },
+    {
+      "ID": 202,
+      "EquipPosition": 5,
+      "ActionTypeID": 24101,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_rotate_wood.EVT_player_wk_trans_bang_wosh_rotate_wood'"
+    },
+    {
+      "ID": 203,
+      "EquipPosition": 5,
+      "ActionTypeID": 24102,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_tail_a_wood.EVT_player_wk_trans_bang_wosh_tail_a_wood'"
+    },
+    {
+      "ID": 204,
+      "EquipPosition": 5,
+      "ActionTypeID": 24103,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_tail_b_wood.EVT_player_wk_trans_bang_wosh_tail_b_wood'"
+    },
+    {
+      "ID": 205,
+      "EquipPosition": 5,
+      "ActionTypeID": 21101,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo01.EVT_player_wk_atk_combo_wosh_stone_combo01'"
+    },
+    {
+      "ID": 206,
+      "EquipPosition": 5,
+      "ActionTypeID": 211021,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo02a.EVT_player_wk_atk_combo_wosh_stone_combo02a'"
+    },
+    {
+      "ID": 207,
+      "EquipPosition": 5,
+      "ActionTypeID": 211022,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo02b.EVT_player_wk_atk_combo_wosh_stone_combo02b'"
+    },
+    {
+      "ID": 208,
+      "EquipPosition": 5,
+      "ActionTypeID": 21103,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo03.EVT_player_wk_atk_combo_wosh_stone_combo03'"
+    },
+    {
+      "ID": 209,
+      "EquipPosition": 5,
+      "ActionTypeID": 211041,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo04a.EVT_player_wk_atk_combo_wosh_stone_combo04a'"
+    },
+    {
+      "ID": 210,
+      "EquipPosition": 5,
+      "ActionTypeID": 211042,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo04b.EVT_player_wk_atk_combo_wosh_stone_combo04b'"
+    },
+    {
+      "ID": 211,
+      "EquipPosition": 5,
+      "ActionTypeID": 211051,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo05_jump.EVT_player_wk_atk_combo_wosh_stone_combo05_jump'"
+    },
+    {
+      "ID": 212,
+      "EquipPosition": 5,
+      "ActionTypeID": 211052,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo05_xiapi.EVT_player_wk_atk_combo_wosh_stone_combo05_xiapi'"
+    },
+    {
+      "ID": 213,
+      "EquipPosition": 5,
+      "ActionTypeID": 21201,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_pre01.EVT_player_wk_atk_combo_wosh_stone_pre01'"
+    },
+    {
+      "ID": 214,
+      "EquipPosition": 5,
+      "ActionTypeID": 21202,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_pre02.EVT_player_wk_atk_combo_wosh_stone_pre02'"
+    },
+    {
+      "ID": 215,
+      "EquipPosition": 5,
+      "ActionTypeID": 32010,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_weapon_catchbang_stone.EVT_player_wk_weapon_catchbang_stone'"
+    },
+    {
+      "ID": 216,
+      "EquipPosition": 5,
+      "ActionTypeID": 21106,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_pigun_xuli_wosh_pre_stone.EVT_player_wk_pigun_xuli_wosh_pre_stone'"
+    },
+    {
+      "ID": 217,
+      "EquipPosition": 5,
+      "ActionTypeID": 21301,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_light_stone_wosh_a.EVT_player_wk_akt_zhuangun_light_stone_wosh_a'"
+    },
+    {
+      "ID": 218,
+      "EquipPosition": 5,
+      "ActionTypeID": 21302,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_light_stone_wosh_b.EVT_player_wk_akt_zhuangun_light_stone_wosh_b'"
+    },
+    {
+      "ID": 219,
+      "EquipPosition": 5,
+      "ActionTypeID": 21303,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_strong_stone_wosh.EVT_player_wk_akt_zhuangun_strong_stone_wosh'"
+    },
+    {
+      "ID": 220,
+      "EquipPosition": 5,
+      "ActionTypeID": 24101,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_rotate_stone.EVT_player_wk_trans_bang_wosh_rotate_stone'"
+    },
+    {
+      "ID": 221,
+      "EquipPosition": 5,
+      "ActionTypeID": 24102,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_tail_a_stone.EVT_player_wk_trans_bang_wosh_tail_a_stone'"
+    },
+    {
+      "ID": 222,
+      "EquipPosition": 5,
+      "ActionTypeID": 24103,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_tail_b_stone.EVT_player_wk_trans_bang_wosh_tail_b_stone'"
+    },
+    {
+      "ID": 223,
+      "EquipPosition": 5,
+      "ActionTypeID": 21101,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo01.EVT_player_wk_atk_combo_wosh_metal_combo01'"
+    },
+    {
+      "ID": 224,
+      "EquipPosition": 5,
+      "ActionTypeID": 211021,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo02a.EVT_player_wk_atk_combo_wosh_metal_combo02a'"
+    },
+    {
+      "ID": 225,
+      "EquipPosition": 5,
+      "ActionTypeID": 211022,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo02b.EVT_player_wk_atk_combo_wosh_metal_combo02b'"
+    },
+    {
+      "ID": 226,
+      "EquipPosition": 5,
+      "ActionTypeID": 21103,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo03.EVT_player_wk_atk_combo_wosh_metal_combo03'"
+    },
+    {
+      "ID": 227,
+      "EquipPosition": 5,
+      "ActionTypeID": 211041,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo04a.EVT_player_wk_atk_combo_wosh_metal_combo04a'"
+    },
+    {
+      "ID": 228,
+      "EquipPosition": 5,
+      "ActionTypeID": 211042,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo04b.EVT_player_wk_atk_combo_wosh_metal_combo04b'"
+    },
+    {
+      "ID": 229,
+      "EquipPosition": 5,
+      "ActionTypeID": 211051,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo05_jump.EVT_player_wk_atk_combo_wosh_metal_combo05_jump'"
+    },
+    {
+      "ID": 230,
+      "EquipPosition": 5,
+      "ActionTypeID": 211052,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo05_xiapi.EVT_player_wk_atk_combo_wosh_metal_combo05_xiapi'"
+    },
+    {
+      "ID": 231,
+      "EquipPosition": 5,
+      "ActionTypeID": 21201,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_pre01.EVT_player_wk_atk_combo_wosh_metal_pre01'"
+    },
+    {
+      "ID": 232,
+      "EquipPosition": 5,
+      "ActionTypeID": 21202,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_pre02.EVT_player_wk_atk_combo_wosh_metal_pre02'"
+    },
+    {
+      "ID": 233,
+      "EquipPosition": 5,
+      "ActionTypeID": 32010,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_weapon_catchbang_metal.EVT_player_wk_weapon_catchbang_metal'"
+    },
+    {
+      "ID": 234,
+      "EquipPosition": 5,
+      "ActionTypeID": 21106,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_pigun_xuli_wosh_pre_metal.EVT_player_wk_pigun_xuli_wosh_pre_metal'"
+    },
+    {
+      "ID": 235,
+      "EquipPosition": 5,
+      "ActionTypeID": 21301,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_light_metal_wosh_a.EVT_player_wk_akt_zhuangun_light_metal_wosh_a'"
+    },
+    {
+      "ID": 236,
+      "EquipPosition": 5,
+      "ActionTypeID": 21302,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_light_metal_wosh_b.EVT_player_wk_akt_zhuangun_light_metal_wosh_b'"
+    },
+    {
+      "ID": 237,
+      "EquipPosition": 5,
+      "ActionTypeID": 21303,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_strong_metal_wosh.EVT_player_wk_akt_zhuangun_strong_metal_wosh'"
+    },
+    {
+      "ID": 238,
+      "EquipPosition": 5,
+      "ActionTypeID": 24101,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_rotate_metal.EVT_player_wk_trans_bang_wosh_rotate_metal'"
+    },
+    {
+      "ID": 239,
+      "EquipPosition": 5,
+      "ActionTypeID": 24102,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_tail_a_metal.EVT_player_wk_trans_bang_wosh_tail_a_metal'"
+    },
+    {
+      "ID": 240,
+      "EquipPosition": 5,
+      "ActionTypeID": 24103,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_tail_b_metal.EVT_player_wk_trans_bang_wosh_tail_b_metal'"
+    },
+    {
+      "ID": 241,
+      "EquipPosition": 5,
+      "ActionTypeID": 12041,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_general_wood.EVT_player_wk_act_weaponfall_general_wood'"
+    },
+    {
+      "ID": 242,
+      "EquipPosition": 5,
+      "ActionTypeID": 12041,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_general_stone.EVT_player_wk_act_weaponfall_general_stone'"
+    },
+    {
+      "ID": 243,
+      "EquipPosition": 5,
+      "ActionTypeID": 12041,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_general_metal.EVT_player_wk_act_weaponfall_general_metal'"
+    },
+    {
+      "ID": 244,
+      "EquipPosition": 5,
+      "ActionTypeID": 12041,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_water.EVT_player_wk_act_weaponfall_water'"
+    },
+    {
+      "ID": 245,
+      "EquipPosition": 5,
+      "ActionTypeID": 12041,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_water.EVT_player_wk_act_weaponfall_water'"
+    },
+    {
+      "ID": 246,
+      "EquipPosition": 5,
+      "ActionTypeID": 12041,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_water.EVT_player_wk_act_weaponfall_water'"
+    },
+    {
+      "ID": 247,
+      "EquipPosition": 5,
+      "ActionTypeID": 12041,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_water.EVT_player_wk_act_weaponfall_water'"
+    },
+    {
+      "ID": 248,
+      "EquipPosition": 5,
+      "ActionTypeID": 12041,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_water.EVT_player_wk_act_weaponfall_water'"
+    },
+    {
+      "ID": 249,
+      "EquipPosition": 5,
+      "ActionTypeID": 12041,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_water.EVT_player_wk_act_weaponfall_water'"
+    },
+    {
+      "ID": 250,
+      "EquipPosition": 5,
+      "ActionTypeID": 33011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_general.EVT_player_wk_act_die_bodyfall_general'"
+    },
+    {
+      "ID": 251,
+      "EquipPosition": 5,
+      "ActionTypeID": 33011,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_water.EVT_player_wk_act_die_bodyfall_water'"
+    },
+    {
+      "ID": 252,
+      "EquipPosition": 5,
+      "ActionTypeID": 33011,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 3100,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_water.EVT_player_wk_act_die_bodyfall_water'"
+    },
+    {
+      "ID": 253,
+      "EquipPosition": 5,
+      "ActionTypeID": 33011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_general.EVT_player_wk_act_die_bodyfall_general'"
+    },
+    {
+      "ID": 254,
+      "EquipPosition": 5,
+      "ActionTypeID": 33011,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_water.EVT_player_wk_act_die_bodyfall_water'"
+    },
+    {
+      "ID": 255,
+      "EquipPosition": 5,
+      "ActionTypeID": 33011,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 3200,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_water.EVT_player_wk_act_die_bodyfall_water'"
+    },
+    {
+      "ID": 256,
+      "EquipPosition": 5,
+      "ActionTypeID": 33011,
+      "SceneItemSurfaceType": 0,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_general.EVT_player_wk_act_die_bodyfall_general'"
+    },
+    {
+      "ID": 257,
+      "EquipPosition": 5,
+      "ActionTypeID": 33011,
+      "SceneItemSurfaceType": 2,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_water.EVT_player_wk_act_die_bodyfall_water'"
+    },
+    {
+      "ID": 258,
+      "EquipPosition": 5,
+      "ActionTypeID": 33011,
+      "SceneItemSurfaceType": 15,
+      "AudioMappingID": 3300,
+      "AudioPath": "AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_water.EVT_player_wk_act_die_bodyfall_water'"
+    }
+  ]
+}

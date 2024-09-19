@@ -1,0 +1,59 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "AttrEffects": [
+        {
+          "IsFloatType": 1,
+          "AttrID": 153,
+          "AttrValue": 57.0
+        },
+        {
+          "IsFloatType": 1,
+          "AttrID": 153,
+          "AttrValue": 57.0
+        },
+        {
+          "IsFloatType": 1,
+          "AttrID": 153,
+          "AttrValue": 57.0
+        },
+        {
+          "IsFloatType": 1,
+          "AttrID": 153,
+          "AttrValue": 57.0
+        },
+        {
+          "IsFloatType": 1,
+          "AttrID": 153,
+          "AttrValue": 57.0
+        },
+        {
+          "IsFloatType": 1,
+          "AttrID": 153,
+          "AttrValue": 57.0
+        },
+        {
+          "IsFloatType": 1,
+          "AttrID": 153,
+          "AttrValue": 57.0
+        },
+        {
+          "IsFloatType": 1,
+          "AttrID": 153,
+          "AttrValue": 57.0
+        },
+        {
+          "IsFloatType": 1,
+          "AttrID": 153,
+          "AttrValue": 57.0
+        },
+        {
+          "IsFloatType": 1,
+          "AttrID": 153,
+          "AttrValue": 57.0
+        }
+      ]
+    }
+  ]
+}

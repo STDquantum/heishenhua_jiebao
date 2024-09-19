@@ -1,0 +1,14 @@
+{
+  "List": [
+    {
+      "SimpleStateID": 9,
+      "RuleType": 2,
+      "BuffIDList": []
+    },
+    {
+      "SimpleStateID": 82,
+      "RuleType": 1,
+      "BuffIDList": []
+    }
+  ]
+}

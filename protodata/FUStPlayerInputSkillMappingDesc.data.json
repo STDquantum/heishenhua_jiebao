@@ -1,0 +1,94 @@
+{
+  "List": [
+    {
+      "ID": 10,
+      "DodgeStartSkillID": 10301,
+      "PreciseDodgeStartSkillID": 10311
+    },
+    {
+      "ID": 11,
+      "DodgeStartSkillID": 0,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 12,
+      "DodgeStartSkillID": 12060,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 13,
+      "DodgeStartSkillID": 0,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 14,
+      "DodgeStartSkillID": 14060,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 15,
+      "DodgeStartSkillID": 15060,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 16,
+      "DodgeStartSkillID": 16060,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 17,
+      "DodgeStartSkillID": 17060,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 18,
+      "DodgeStartSkillID": 18060,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 19,
+      "DodgeStartSkillID": 19060,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 21,
+      "DodgeStartSkillID": 0,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 22,
+      "DodgeStartSkillID": 0,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 23,
+      "DodgeStartSkillID": 23060,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 24,
+      "DodgeStartSkillID": 24060,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 25,
+      "DodgeStartSkillID": 25060,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 50,
+      "DodgeStartSkillID": 50051,
+      "PreciseDodgeStartSkillID": 50054
+    },
+    {
+      "ID": 9982,
+      "DodgeStartSkillID": 0,
+      "PreciseDodgeStartSkillID": 0
+    },
+    {
+      "ID": 9987,
+      "DodgeStartSkillID": 0,
+      "PreciseDodgeStartSkillID": 0
+    }
+  ]
+}

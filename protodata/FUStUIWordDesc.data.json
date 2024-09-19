@@ -1,0 +1,5902 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "EnumName": "CREATE_ROOM",
+      "Content": "创建房间",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 2,
+      "EnumName": "JOIN_ROOM",
+      "Content": "加入房间",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 3,
+      "EnumName": "ROLE_CONFIG",
+      "Content": "角色配置",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 4,
+      "EnumName": "LEVEL_ROOM_MAIN",
+      "Content": "离开浮屠塔",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 5,
+      "EnumName": "CONFIRM",
+      "Content": "确定",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 6,
+      "EnumName": "CANCEL",
+      "Content": "取消",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 7,
+      "EnumName": "PREPARE",
+      "Content": "准备",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 8,
+      "EnumName": "CANCEL_PREPARE",
+      "Content": "取消准备",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 9,
+      "EnumName": "WAIT_MEMBER_PREPARE",
+      "Content": "等待队友准备",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 10,
+      "EnumName": "WAIT_ROOM_START",
+      "Content": "等待开始",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 11,
+      "EnumName": "HAS_LEARN_SPELL",
+      "Content": "已开悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 12,
+      "EnumName": "HAS_LEARN_TALENT",
+      "Content": "已参悟此天赋",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 13,
+      "EnumName": "RES_NOT_ENOUGH",
+      "Content": "资源不足",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 14,
+      "EnumName": "LONGPRESS_TO_LEARNING",
+      "Content": "长按参悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 15,
+      "EnumName": "LONGPRESS_TO_LEVELUP",
+      "Content": "长按参悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 16,
+      "EnumName": "NOT_SATISFY_LEARN_CONDITION",
+      "Content": "无法参悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 17,
+      "EnumName": "TALENT_POINT",
+      "Content": "灵光点",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 18,
+      "EnumName": "DIFFICULTY",
+      "Content": "关卡难度一",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 19,
+      "EnumName": "NO_ENUM_NAME_1",
+      "Content": "关卡难度一",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 20,
+      "EnumName": "NO_ENUM_NAME_2",
+      "Content": "关卡难度一",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 21,
+      "EnumName": "NO_ENUM_NAME_3",
+      "Content": "关卡难度一",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 22,
+      "EnumName": "NO_ENUM_NAME_4",
+      "Content": "关卡难度一",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 23,
+      "EnumName": "TO_SHRINE_LEARN_SPELL",
+      "Content": "前往土地庙修习",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 24,
+      "EnumName": "LONG_PRESS_CREATE",
+      "Content": "长按创建",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 25,
+      "EnumName": "CHANGE_ROOM",
+      "Content": "修改房间",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 26,
+      "EnumName": "LONG_PRESS_START",
+      "Content": "长按开始",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 27,
+      "EnumName": "PASSIVE_SPELL_NAME",
+      "Content": "被动",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 28,
+      "EnumName": "INITIATIVE_SPELL_NAME",
+      "Content": "主动",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 29,
+      "EnumName": "SHRINE_ACTIVE",
+      "Content": "土地庙已上香",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 30,
+      "EnumName": "LONG_PRESS_CHANGE",
+      "Content": "长按修改",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 31,
+      "EnumName": "LONG_PRESS_PREPARE",
+      "Content": "长按准备",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 32,
+      "EnumName": "GO_TEASING",
+      "Content": "我要提意见！",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 33,
+      "EnumName": "BACK_START_LEVEL",
+      "Content": "返回主界面",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 34,
+      "EnumName": "INNTERACT_CONSTRAINT_ENEMY_AROUD",
+      "Content": "附近存在敌人，暂时无法互动",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 35,
+      "EnumName": "INNTERACT_ITEM_LACK",
+      "Content": "缺少{0}",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 36,
+      "EnumName": "QUIT_GAME_CONFIRM",
+      "Content": "是否退出游戏？",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 37,
+      "EnumName": "RESTORE_WAIT_CONFIRM",
+      "Content": "确定保留这些显示设置吗？将在{0}秒内还原为以前的显示设置。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 38,
+      "EnumName": "SETTING_TAB_GAMEPAD",
+      "Content": "控制器",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 39,
+      "EnumName": "SETTING_TAB_KEYBOARDMOUSE",
+      "Content": "键盘与鼠标",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 40,
+      "EnumName": "SETTING_TAB_GAME",
+      "Content": "游戏",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 41,
+      "EnumName": "SETTING_TAB_SCREEN",
+      "Content": "显示",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 42,
+      "EnumName": "SETTING_TAB_MUSIC",
+      "Content": "声音",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 43,
+      "EnumName": "SETTING_TAB_EXIT",
+      "Content": "退出游戏",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 44,
+      "EnumName": "SETTING_OPEN",
+      "Content": "开启",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 45,
+      "EnumName": "SETTING_CLOSE",
+      "Content": "关闭",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 49,
+      "EnumName": "SETTING_FULLSCREEN_MODE",
+      "Content": "全屏模式",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 50,
+      "EnumName": "SETTING_WMode",
+      "Content": "窗口模式",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 51,
+      "EnumName": "SETTING_BORDERLESS_MODE",
+      "Content": "无边框模式",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 54,
+      "EnumName": "SETTING_QUALITY_1",
+      "Content": "低",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 55,
+      "EnumName": "SETTING_QUALITY_2",
+      "Content": "中",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 56,
+      "EnumName": "SETTING_QUALITY_3",
+      "Content": "高",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 57,
+      "EnumName": "SETTING_QUALITY_4",
+      "Content": "超高",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 58,
+      "EnumName": "SETTING_QUALITY_5",
+      "Content": "影视级",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 60,
+      "EnumName": "SETTING_RECOMMENDED_LEVEL",
+      "Content": "确定要应用推荐的画质设置吗？ ",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 66,
+      "EnumName": "SETTING_BACK_START",
+      "Content": "退出至标题界面",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 67,
+      "EnumName": "SETTING_BACK_DESKTOP",
+      "Content": "退出至桌面",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 68,
+      "EnumName": "SETTING_BACK_TEAMMATE",
+      "Content": "魂归故里",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 69,
+      "EnumName": "SETTING_BACK_END_BATTLE",
+      "Content": "退出战斗",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 70,
+      "EnumName": "SETTING_BACK_END_BATTLE_TIPS",
+      "Content": "确定要退出当前战斗吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 85,
+      "EnumName": "SETTING_LOCK_FRAME_RATE",
+      "Content": "锁定帧率",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 86,
+      "EnumName": "SETTING_QUALITY_PRIORITY",
+      "Content": "画质优先",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 87,
+      "EnumName": "SETTING_FRAME_PRIORITY",
+      "Content": "性能优先",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 88,
+      "EnumName": "SETTING_NORMAL",
+      "Content": "关闭",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 89,
+      "EnumName": "SETTING_REVERSE",
+      "Content": "开启",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 98,
+      "EnumName": "SETTING_TAB_CAMERA",
+      "Content": "视角",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 99,
+      "EnumName": "SETTING_RTX",
+      "Content": "光线追踪",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 100,
+      "EnumName": "ATTR_NAME_START",
+      "Content": "100到400预留给属性名字",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 101,
+      "EnumName": "NO_ENUM_NAME_5",
+      "Content": "生命",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 102,
+      "EnumName": "NO_ENUM_NAME_6",
+      "Content": "法力",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 108,
+      "EnumName": "NO_ENUM_NAME_7",
+      "Content": "气力",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 201,
+      "EnumName": "NO_ENUM_NAME_8",
+      "Content": "生命上限",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 202,
+      "EnumName": "NO_ENUM_NAME_9",
+      "Content": "法力上限",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 203,
+      "EnumName": "NO_ENUM_NAME_10",
+      "Content": "攻击",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 204,
+      "EnumName": "NO_ENUM_NAME_11",
+      "Content": "防御",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 208,
+      "EnumName": "NO_ENUM_NAME_12",
+      "Content": "气力上限",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 209,
+      "EnumName": "NO_ENUM_NAME_13",
+      "Content": "气力恢复",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 211,
+      "EnumName": "NO_ENUM_NAME_14",
+      "Content": "暴击率",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 212,
+      "EnumName": "NO_ENUM_NAME_15",
+      "Content": "暴击伤害",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 219,
+      "EnumName": "NO_ENUM_NAME_16",
+      "Content": "伤害加成",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 220,
+      "EnumName": "NO_ENUM_NAME_17",
+      "Content": "伤害减免",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 217,
+      "EnumName": "NO_ENUM_NAME_18",
+      "Content": "承受暴击率减免",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 218,
+      "EnumName": "NO_ENUM_NAME_19",
+      "Content": "承受暴击伤害减免",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 232,
+      "EnumName": "NO_ENUM_NAME_20",
+      "Content": "寒冻耐性",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 233,
+      "EnumName": "NO_ENUM_NAME_21",
+      "Content": "火焚耐性",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 234,
+      "EnumName": "NO_ENUM_NAME_22",
+      "Content": "毒伤耐性",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 235,
+      "EnumName": "NO_ENUM_NAME_23",
+      "Content": "雷蛰耐性",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 236,
+      "EnumName": "NO_ENUM_NAME_24",
+      "Content": "葫芦盛酒量",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 253,
+      "EnumName": "NO_ENUM_NAME_25",
+      "Content": "攻击",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 254,
+      "EnumName": "NO_ENUM_NAME_26",
+      "Content": "防御",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 259,
+      "EnumName": "NO_ENUM_NAME_27",
+      "Content": "气力恢复",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 261,
+      "EnumName": "NO_ENUM_NAME_28",
+      "Content": "暴击率",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 262,
+      "EnumName": "NO_ENUM_NAME_29",
+      "Content": "暴击伤害",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 267,
+      "EnumName": "NO_ENUM_NAME_30",
+      "Content": "暴击率减免",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 268,
+      "EnumName": "NO_ENUM_NAME_31",
+      "Content": "暴击伤害减免",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 269,
+      "EnumName": "NO_ENUM_NAME_32",
+      "Content": "伤害加成",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 270,
+      "EnumName": "NO_ENUM_NAME_33",
+      "Content": "伤害减免",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 282,
+      "EnumName": "NO_ENUM_NAME_34",
+      "Content": "寒冻耐性",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 283,
+      "EnumName": "NO_ENUM_NAME_35",
+      "Content": "火焚耐性",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 284,
+      "EnumName": "NO_ENUM_NAME_36",
+      "Content": "毒伤耐性",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 285,
+      "EnumName": "NO_ENUM_NAME_37",
+      "Content": "雷蛰耐性",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 400,
+      "EnumName": "ITEM_TYPE_NAME_START",
+      "Content": "400到450给道具类型名",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 401,
+      "EnumName": "NO_ENUM_NAME_38",
+      "Content": "丹药用品",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 402,
+      "EnumName": "NO_ENUM_NAME_39",
+      "Content": "本草",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 403,
+      "EnumName": "NO_ENUM_NAME_40",
+      "Content": "材料",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 404,
+      "EnumName": "NO_ENUM_NAME_41",
+      "Content": "细软",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 405,
+      "EnumName": "NO_ENUM_NAME_42",
+      "Content": "要紧物事",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 406,
+      "EnumName": "NO_ENUM_NAME_43",
+      "Content": "披挂",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 407,
+      "EnumName": "NO_ENUM_NAME_44",
+      "Content": "天上仙丹",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 408,
+      "EnumName": "NO_ENUM_NAME_45",
+      "Content": "法术",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 409,
+      "EnumName": "ITEM_TYPE_NAME_ALCHEMY",
+      "Content": "仙丹",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 410,
+      "EnumName": "ITEM_TYPE_NAME_RECIPE",
+      "Content": "丹药",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 450,
+      "EnumName": "EQUIP_POS_NAME_START",
+      "Content": "none",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 451,
+      "EnumName": "NO_ENUM_NAME_46",
+      "Content": "头冠",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 452,
+      "EnumName": "NO_ENUM_NAME_47",
+      "Content": "衣甲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 453,
+      "EnumName": "NO_ENUM_NAME_48",
+      "Content": "臂甲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 454,
+      "EnumName": "NO_ENUM_NAME_49",
+      "Content": "腿甲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 455,
+      "EnumName": "NO_ENUM_NAME_50",
+      "Content": "兵器",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 456,
+      "EnumName": "NO_ENUM_NAME_51",
+      "Content": "法宝",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 457,
+      "EnumName": "NO_ENUM_NAME_52",
+      "Content": "精魄",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 458,
+      "EnumName": "NO_ENUM_NAME_53",
+      "Content": "葫芦",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 459,
+      "EnumName": "NO_ENUM_NAME_54",
+      "Content": "珍玩",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 471,
+      "EnumName": "TIME_YEAR",
+      "Content": "年",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 472,
+      "EnumName": "TIME_MONTH",
+      "Content": "月",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 473,
+      "EnumName": "TIME_DAY",
+      "Content": "日",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 474,
+      "EnumName": "TIME_WEEK",
+      "Content": "周",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 475,
+      "EnumName": "TIME_HOUR",
+      "Content": "时",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 476,
+      "EnumName": "TIME_MINUTE",
+      "Content": "分",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 477,
+      "EnumName": "TIME_SECOND",
+      "Content": "秒",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 478,
+      "EnumName": "SPELLTYPE_NAME_START",
+      "Content": "变化",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 479,
+      "EnumName": "NO_ENUM_NAME_55",
+      "Content": "身法",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 480,
+      "EnumName": "NO_ENUM_NAME_56",
+      "Content": "奇术",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 481,
+      "EnumName": "NO_ENUM_NAME_57",
+      "Content": "毫毛",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 482,
+      "EnumName": "NO_ENUM_NAME_58",
+      "Content": "体术",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 483,
+      "EnumName": "NO_ENUM_NAME_59",
+      "Content": "轻棍",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 484,
+      "EnumName": "NO_ENUM_NAME_60",
+      "Content": "重棍",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 485,
+      "EnumName": "SPELLTYPE_NAME_END",
+      "Content": "御棍",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 486,
+      "EnumName": "CONFIRM_BUY_ITEM",
+      "Content": "确定要购买{0}？",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 487,
+      "EnumName": "CONFIRM_START_GAME",
+      "Content": "以选择的存档开始游玩！",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 488,
+      "EnumName": "CONFIRM_SETTING_ACTION",
+      "Content": "是否确认{0}？",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 489,
+      "EnumName": "CONRIRM_RESET_TALENT",
+      "Content": "是否重置灵光点？",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 490,
+      "EnumName": "BUY_FAIL_MAT_NOT_ENOUGH",
+      "Content": "材料不足无法购买",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 491,
+      "EnumName": "BUY_FAIL_HAS_OWNED_LIMIT",
+      "Content": "已达此物品的持有上限，故无法买入。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 492,
+      "EnumName": "NO_ENUM_NAME_61",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 493,
+      "EnumName": "NO_ENUM_NAME_62",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 494,
+      "EnumName": "NO_ENUM_NAME_63",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 495,
+      "EnumName": "NO_ENUM_NAME_64",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 496,
+      "EnumName": "NO_ENUM_NAME_65",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 497,
+      "EnumName": "NO_ENUM_NAME_66",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 498,
+      "EnumName": "NO_ENUM_NAME_67",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 499,
+      "EnumName": "NO_ENUM_NAME_68",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 500,
+      "EnumName": "NO_ENUM_NAME_69",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 501,
+      "EnumName": "NO_ENUM_NAME_70",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 502,
+      "EnumName": "BTN_ENTER_KEY_SETTING",
+      "Content": "进入按键设置",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 503,
+      "EnumName": "CONFLICT_CONFIRM_RESET_KEY",
+      "Content": "当前设置存在按键冲突，无法保存。确定重置为默认按键分配？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 504,
+      "EnumName": "CONFIRM_RESET_KEY",
+      "Content": "确定恢复本页设置项为默认设置？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 505,
+      "EnumName": "QUALITY_NAME_START",
+      "Content": "505-519品质",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 506,
+      "EnumName": "NO_ENUM_NAME_71",
+      "Content": "凡品",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 507,
+      "EnumName": "NO_ENUM_NAME_72",
+      "Content": "良品",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 508,
+      "EnumName": "NO_ENUM_NAME_73",
+      "Content": "上品",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 509,
+      "EnumName": "NO_ENUM_NAME_74",
+      "Content": "特品",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 510,
+      "EnumName": "NO_ENUM_NAME_75",
+      "Content": "仙品",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 511,
+      "EnumName": "NO_ENUM_NAME_76",
+      "Content": "神珍",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 512,
+      "EnumName": "NO_ENUM_NAME_77",
+      "Content": "品质",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 513,
+      "EnumName": "NO_ENUM_NAME_78",
+      "Content": "品质",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 514,
+      "EnumName": "NO_ENUM_NAME_79",
+      "Content": "品质",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 515,
+      "EnumName": "NO_ENUM_NAME_80",
+      "Content": "品质",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 516,
+      "EnumName": "NO_ENUM_NAME_81",
+      "Content": "品质",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 517,
+      "EnumName": "NO_ENUM_NAME_82",
+      "Content": "品质",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 518,
+      "EnumName": "NO_ENUM_NAME_83",
+      "Content": "品质",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 519,
+      "EnumName": "QUALITY_NAME_END",
+      "Content": "品质",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 520,
+      "EnumName": "SETTING_QUALITY_CUSTOM",
+      "Content": "自定义",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 521,
+      "EnumName": "SETTING_FRAME_LOW_TIPS",
+      "Content": "检测到您当前帧率过低，可能会出现小错误，建议降低画质选项。",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 526,
+      "EnumName": "SETTING_COLOR_CLASS",
+      "Content": "颜色辅助类型",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 527,
+      "EnumName": "SETTING_SKIP_ANIMATION",
+      "Content": "跳过剧情动画",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 528,
+      "EnumName": "SETTING_SUBTITLE_FONT_SIZE_NORMAL",
+      "Content": "标准",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 529,
+      "EnumName": "SETTING_SUBTITLE_FONT_SIZE_SLIGHTLY_LARGER",
+      "Content": "稍大",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 530,
+      "EnumName": "SETTING_SUBTITLE_FONT_SIZE_LARGER",
+      "Content": "大",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 531,
+      "EnumName": "SETTING_COLOR_CLASS_GREEN",
+      "Content": "绿色盲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 532,
+      "EnumName": "SETTING_COLOR_CLASS_RED",
+      "Content": "红色盲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 533,
+      "EnumName": "SETTING_COLOR_CLASS_BLUE",
+      "Content": "蓝色盲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 534,
+      "EnumName": "SETTING_ITEM_DESC_START",
+      "Content": "534-700预留给设置条目描述",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 561,
+      "EnumName": "NO_ENUM_NAME_84",
+      "Content": "？？？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 580,
+      "EnumName": "NO_ENUM_NAME_85",
+      "Content": "退出到标题界面",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 581,
+      "EnumName": "NO_ENUM_NAME_86",
+      "Content": "退出到桌面",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 582,
+      "EnumName": "NO_ENUM_NAME_87",
+      "Content": "在最后一次互动的土地庙现身",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 584,
+      "EnumName": "SETTING_MANUALLY_TOGGLE_LOADING_TIPS",
+      "Content": "手动关闭加载界面",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 585,
+      "EnumName": "SETTING_CINEMATIC",
+      "Content": "设定是否开启电影化",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 586,
+      "EnumName": "NO_ENUM_NAME_88",
+      "Content": "开启光线追踪",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 587,
+      "EnumName": "NO_ENUM_NAME_89",
+      "Content": "切换至劈棍法",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 588,
+      "EnumName": "NO_ENUM_NAME_90",
+      "Content": "切换至立棍法",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 589,
+      "EnumName": "NO_ENUM_NAME_91",
+      "Content": "切换至戳棍法",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 590,
+      "EnumName": "NO_ENUM_NAME_92",
+      "Content": "棍花",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 700,
+      "EnumName": "NO_ENUM_NAME_93",
+      "Content": "设置描述结尾",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 701,
+      "EnumName": "CONFIRM_USE_ITEM",
+      "Content": "确定要使用该物品吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 702,
+      "EnumName": "CONFIRM_OVERWRITE_ARCHIVE_TWICE",
+      "Content": "该存档将被删除，并开启新游戏，确定吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 703,
+      "EnumName": "CONFIRM_MUTILWEEK_START",
+      "Content": "是否开启新一轮的游戏？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 704,
+      "EnumName": "USE_CHOOSE_ARCHIVE_PLAY",
+      "Content": "确定使用所选择的存档继续游戏吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 705,
+      "EnumName": "CONFIRM_DELETE_ARCHIVE",
+      "Content": "该存档将被删除，确定吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 706,
+      "EnumName": "CONFIRM_DELETE_ARCHIVE_TWICE",
+      "Content": "存档删除后将永久消失，真的确定吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 707,
+      "EnumName": "CONFIRM_OVERWRITE_ARCHIVE",
+      "Content": "当前存档数已达上限，无法开启新游戏。确定删除一个已有存档，然后再开启新游戏吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 708,
+      "EnumName": "CHOOSE_DELETE_OR_OVERWRITE_ARCHIVE",
+      "Content": "请选择要删除的存档",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 709,
+      "EnumName": "SHRINE_REST_TITLE",
+      "Content": "调息",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 710,
+      "EnumName": "SHRINE_REST_TIPS",
+      "Content": "还原身体，补满葫芦，同时会引出山中妖怪",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 711,
+      "EnumName": "SHRINE_TELEPORT_TITLE",
+      "Content": "缩地",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 712,
+      "EnumName": "SHRINE_TELEPORT_TIPS",
+      "Content": "瞬息移动到上过香的任意土地庙，与此同时会引出山中妖怪",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 713,
+      "EnumName": "SHRINE_SHOP_TITLE",
+      "Content": "货殖",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 714,
+      "EnumName": "SHRINE_SHOP_TIPS",
+      "Content": "此处有当坊土地准备的土产，可花费灵蕴买入",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 715,
+      "EnumName": "SHRINE_TALENT_TITLE",
+      "Content": "天赋精进",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 716,
+      "EnumName": "SHRINE_TALENT_TIPS",
+      "Content": "花费灵光点，开悟更高境界的天赋",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 717,
+      "EnumName": "SHRINE_SPELL_CONFIG_TITLE",
+      "Content": "法术整备",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 718,
+      "EnumName": "SHRINE_SPELL_CONFIG_TIPS",
+      "Content": "选用战斗中需要施展的法术",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 719,
+      "EnumName": "SHRINE_RESET_TITLE",
+      "Content": "换骨",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 720,
+      "EnumName": "SHRINE_RESET_TIPS",
+      "Content": "重新参悟天赋",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 721,
+      "EnumName": "SHRINE_BIANCHAN_TITLE",
+      "Content": "变蝉",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 722,
+      "EnumName": "SHRINE_BIANCHAN_TIPS",
+      "Content": "借由土地公的法力，变身为蝉",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 723,
+      "EnumName": "NO_ENUM_NAME_94",
+      "Content": "一个测试新增",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 724,
+      "EnumName": "NO_ENUM_NAME_95",
+      "Content": "空",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 725,
+      "EnumName": "NEW_GAME",
+      "Content": "新游戏",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 726,
+      "EnumName": "START_GAME_SETTING",
+      "Content": "设置",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 727,
+      "EnumName": "EXIT_GAME",
+      "Content": "退出",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 728,
+      "EnumName": "NEW_GAME_PLUS",
+      "Content": "再入轮回",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 729,
+      "EnumName": "LOAD_GAME",
+      "Content": "载入游戏",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 730,
+      "EnumName": "ONLINE_FUTUTA",
+      "Content": "浮屠塔",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 731,
+      "EnumName": "ROOM_NAME",
+      "Content": "房间名",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 732,
+      "EnumName": "CONTINUE_GAME",
+      "Content": "继续游戏",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 733,
+      "EnumName": "ROLE_MAIN_TAB_ABILITY",
+      "Content": "本事",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 734,
+      "EnumName": "ROLE_MAIN_TAB_SPELL",
+      "Content": "神通",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 735,
+      "EnumName": "ROLE_MAIN_TAB_EQUIP",
+      "Content": "披挂",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 736,
+      "EnumName": "ROLE_MAIN_TAB_BAG",
+      "Content": "行囊",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 737,
+      "EnumName": "ROLE_MAIN_TAB_TRAVEL_NOTES",
+      "Content": "游记",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 738,
+      "EnumName": "ROLE_MAIN_TAB_CONFIGURATION",
+      "Content": "配置",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 739,
+      "EnumName": "ROLE_MAIN_TAB_SETTING",
+      "Content": "设置",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 740,
+      "EnumName": "SPELL_LEARN_TAB_SHENFA",
+      "Content": "身法",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 741,
+      "EnumName": "SPELL_LEARN_TAB_QISHU",
+      "Content": "奇术",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 742,
+      "EnumName": "SPELL_LEARN_TAB_HAOMAO",
+      "Content": "毫毛",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 743,
+      "EnumName": "SPELL_LEARN_TAB_BIANHUA",
+      "Content": "变化",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 744,
+      "EnumName": "ABILITY_LEARN_TAB_TISHU",
+      "Content": "体术",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 745,
+      "EnumName": "ABILITY_LEARN_TAB_QINGGUN",
+      "Content": "轻棍",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 746,
+      "EnumName": "ABILITY_LEARN_TAB_ZHONGGUN",
+      "Content": "重棍",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 747,
+      "EnumName": "ABILITY_LEARN_TAB_YUGUN",
+      "Content": "御棍",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 748,
+      "EnumName": "INTERACT_ACTIVE",
+      "Content": "激活",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 749,
+      "EnumName": "INTERACT_ACTIVE_LONG",
+      "Content": "长按激活",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 750,
+      "EnumName": "INTERACT_REBIRTH",
+      "Content": "复活",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 751,
+      "EnumName": "INTERACT_REBIRTH_LONG",
+      "Content": "长按复活",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 752,
+      "EnumName": "INTERACT_PICKUP",
+      "Content": "拾得",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 753,
+      "EnumName": "INTERACT_PICKUP_LONG",
+      "Content": "长按拾得",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 754,
+      "EnumName": "INTERACT_COLLECT",
+      "Content": "采集",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 755,
+      "EnumName": "INTERACT_COLLECT_LONG",
+      "Content": "长按采集",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 756,
+      "EnumName": "COMM_EMPTY_TIPS",
+      "Content": "空",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 757,
+      "EnumName": "SHRINE_SOAKING_TITLE",
+      "Content": "泡制",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 758,
+      "EnumName": "SHRINE_SOAKING_TIPS",
+      "Content": "在酒中加入不同药材可为酒水带来额外功效",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 759,
+      "EnumName": "LANGUAGE_ZH_HANS",
+      "Content": "简体中文",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 760,
+      "EnumName": "LANGUAGE_ZH_HANT",
+      "Content": "繁體中文",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 761,
+      "EnumName": "LANGUAGE_EN",
+      "Content": "English",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 762,
+      "EnumName": "LANGUAGE_FR",
+      "Content": "Français",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 763,
+      "EnumName": "LANGUAGE_DE",
+      "Content": "Deutsch",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 764,
+      "EnumName": "LANGUAGE_JA",
+      "Content": "日本語",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 765,
+      "EnumName": "LANGUAGE_KO",
+      "Content": "한국어",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 766,
+      "EnumName": "LANGUAGE_RU",
+      "Content": "Русский",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 767,
+      "EnumName": "LANGUAGE_PT",
+      "Content": "Português - Brasil",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 769,
+      "EnumName": "LANGUAGE_ES",
+      "Content": "Español - España",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 770,
+      "EnumName": "LANGUAGE_PL",
+      "Content": "Polski",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 771,
+      "EnumName": "LANGUAGE_IT",
+      "Content": "Italiano",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 775,
+      "EnumName": "GAME_SETTING_LOCALIZATION",
+      "Content": "多语言",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 776,
+      "EnumName": "NO_ENUM_NAME_96",
+      "Content": "翻滚/跳跃按键互换",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 777,
+      "EnumName": "NO_ENUM_NAME_97",
+      "Content": "默认",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 778,
+      "EnumName": "NO_ENUM_NAME_98",
+      "Content": "交换",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 779,
+      "EnumName": "NO_ENUM_NAME_99",
+      "Content": "技能组合键/急奔",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 780,
+      "EnumName": "NO_ENUM_NAME_100",
+      "Content": "预设按键切换：棍花/饮酒",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 781,
+      "EnumName": "NO_ENUM_NAME_101",
+      "Content": "向前移动",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 782,
+      "EnumName": "NO_ENUM_NAME_102",
+      "Content": "向后移动",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 783,
+      "EnumName": "NO_ENUM_NAME_103",
+      "Content": "向左移动",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 784,
+      "EnumName": "NO_ENUM_NAME_104",
+      "Content": "向右移动",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 785,
+      "EnumName": "NO_ENUM_NAME_105",
+      "Content": "翻滚",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 786,
+      "EnumName": "NO_ENUM_NAME_106",
+      "Content": "疾奔",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 787,
+      "EnumName": "NO_ENUM_NAME_107",
+      "Content": "跳跃",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 788,
+      "EnumName": "NO_ENUM_NAME_108",
+      "Content": "互动",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 789,
+      "EnumName": "NO_ENUM_NAME_109",
+      "Content": "轻棍",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 790,
+      "EnumName": "NO_ENUM_NAME_110",
+      "Content": "重棍",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 791,
+      "EnumName": "NO_ENUM_NAME_111",
+      "Content": "锁定/解除锁定",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 792,
+      "EnumName": "NO_ENUM_NAME_112",
+      "Content": "饮酒",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 793,
+      "EnumName": "NO_ENUM_NAME_113",
+      "Content": "使用物品",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 794,
+      "EnumName": "NO_ENUM_NAME_114",
+      "Content": "使用法术：变化",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 795,
+      "EnumName": "NO_ENUM_NAME_115",
+      "Content": "使用法术：奇术",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 796,
+      "EnumName": "NO_ENUM_NAME_116",
+      "Content": "使用法术：身法",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 797,
+      "EnumName": "NO_ENUM_NAME_117",
+      "Content": "使用法术：毫毛",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 798,
+      "EnumName": "NO_ENUM_NAME_118",
+      "Content": "使用法宝",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 799,
+      "EnumName": "NO_ENUM_NAME_119",
+      "Content": "上一个页签",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 800,
+      "EnumName": "NO_ENUM_NAME_120",
+      "Content": "下一个页签",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 801,
+      "EnumName": "NO_ENUM_NAME_121",
+      "Content": "上一个子页签",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 802,
+      "EnumName": "NO_ENUM_NAME_122",
+      "Content": "下一个子页签",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 803,
+      "EnumName": "NO_ENUM_NAME_123",
+      "Content": "查看详情",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 804,
+      "EnumName": "NO_ENUM_NAME_124",
+      "Content": "开启/关闭角色属性",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 805,
+      "EnumName": "SETTING_COLOR_SEVERITY",
+      "Content": "颜色辅助强度",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 806,
+      "EnumName": "SHRINE_MAKE_MEDICINE_TITLE",
+      "Content": "炼丹",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 807,
+      "EnumName": "SHRINE_MAKE_MEDICINE_TIPS",
+      "Content": "炼制丹药",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 808,
+      "EnumName": "SHRINE_NEW_MEDICINE_TRIAL_TITLE",
+      "Content": "和药",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 809,
+      "EnumName": "SHRINE_NEW_MEDICINE_TRIAL_TIPS",
+      "Content": "尝试自主调配炼丹",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 810,
+      "EnumName": "BTN_NAME_MATERIAL_NOT_ENOUGH",
+      "Content": "材料不足",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 811,
+      "EnumName": "BTN_NAME_MAKE_MEDICINE",
+      "Content": "炼制",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 812,
+      "EnumName": "MEDICINE_PUT_IN_MATERIAL",
+      "Content": "放入药材完成丹方以炼制",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 813,
+      "EnumName": "MEDICINE_UNKOWN_RECIPE",
+      "Content": "未知配方",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 814,
+      "EnumName": "MEDICINE_RECIPE_DESC",
+      "Content": "哪怕失败，不也排除了错误项吗？",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 815,
+      "EnumName": "SHRINE_BACK_TITLE",
+      "Content": "离开",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 816,
+      "EnumName": "SHRINE_BACK_TIPS",
+      "Content": "离开土地庙",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 817,
+      "EnumName": "MEDICINE_RESET",
+      "Content": "仙丹回炉",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 818,
+      "EnumName": "LONG_PRESS_TO_CONFIRM",
+      "Content": "长按回炉",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 819,
+      "EnumName": "SOAKING_MAIN_CURRENT_MAT",
+      "Content": "当前泡酒物",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 820,
+      "EnumName": "SOAKING_MAIN_CURRENT_WINE",
+      "Content": "当前仙酿",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 821,
+      "EnumName": "MEDICINE_TRIAL_SELECT_MAT_NONE",
+      "Content": "可选药材",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 822,
+      "EnumName": "SHRINE_NEW_WEAPONMAIN_TITLE",
+      "Content": "铸造",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 823,
+      "EnumName": "SHRINE_NEW_WEAPONMAIN_TIPS",
+      "Content": "可在此处打造多种武器与披挂",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 833,
+      "EnumName": "ITEM_TITLE_EMPTY",
+      "Content": "无",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 834,
+      "EnumName": "NPC_INTERACT_TALK_TITLE",
+      "Content": "交谈",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 835,
+      "EnumName": "NPC_INTERACT_TALK_TIPS",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 836,
+      "EnumName": "NPC_INTERACT_BACK_TIPS",
+      "Content": "离开",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 837,
+      "EnumName": "INTERACT_USE",
+      "Content": "使用",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 838,
+      "EnumName": "LEARN_TALENT_TOTAL_LEVEL",
+      "Content": "已学习天赋总等级",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 839,
+      "EnumName": "BATTLE_END_CONGRATULATION",
+      "Content": "恭喜！",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 840,
+      "EnumName": "BATTLE_END_THROUGH",
+      "Content": "通关",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 841,
+      "EnumName": "ONLINE_FUTUTA_DESC",
+      "Content": "浮屠塔描述",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 842,
+      "EnumName": "NUM_START",
+      "Content": "中文数字预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 843,
+      "EnumName": "NO_ENUM_NAME_125",
+      "Content": "一",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 844,
+      "EnumName": "NO_ENUM_NAME_126",
+      "Content": "二",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 845,
+      "EnumName": "NO_ENUM_NAME_127",
+      "Content": "三",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 846,
+      "EnumName": "NO_ENUM_NAME_128",
+      "Content": "四",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 847,
+      "EnumName": "NO_ENUM_NAME_129",
+      "Content": "五",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 848,
+      "EnumName": "NO_ENUM_NAME_130",
+      "Content": "六",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 849,
+      "EnumName": "NO_ENUM_NAME_131",
+      "Content": "七",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 850,
+      "EnumName": "NO_ENUM_NAME_132",
+      "Content": "八",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 851,
+      "EnumName": "NO_ENUM_NAME_133",
+      "Content": "九",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 852,
+      "EnumName": "NO_ENUM_NAME_134",
+      "Content": "十",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 853,
+      "EnumName": "MEDICINE_NEED_CATALYST",
+      "Content": "请至少放入一味药引",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 900,
+      "EnumName": "NO_ENUM_NAME_135",
+      "Content": "中文数字结束",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 903,
+      "EnumName": "NPC_INTERACT_SHOP",
+      "Content": "货殖",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 904,
+      "EnumName": "NPC_INTERACT_SHOP_TIPS",
+      "Content": "可在此处交易商品，互通有无",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 905,
+      "EnumName": "SHRINE_UPGRADE_WINE_TITLE",
+      "Content": "放入三冬虫",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 906,
+      "EnumName": "SHRINE_UPGRADE_WINE_TIPS",
+      "Content": "放入三冬虫对现有仙酿再次酝制，即成更优佳酿",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 907,
+      "EnumName": "CONFIRM_UPGRADE_WINE_INFO",
+      "Content": "是否放入{0}只三冬虫",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 908,
+      "EnumName": "CONFIRM_UPGRADE_WINE_NOT_ENOUGH_TIPS",
+      "Content": "三冬虫不足",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 909,
+      "EnumName": "WINE_NOT_ENOUGH_TIPS",
+      "Content": "泡制药材即将耗尽",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 910,
+      "EnumName": "WINE_SUPPLEMENT_TIPS",
+      "Content": "泡制药材数量已补充",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 911,
+      "EnumName": "SELECT_CHAPTER_CONFIRM",
+      "Content": "是否前往{0}？",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 912,
+      "EnumName": "REFRESH_SHOP",
+      "Content": "有新的道具可以购买",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 913,
+      "EnumName": "LEVEL_LOCK_TIPS",
+      "Content": "关卡暂未开启，敬请期待",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 914,
+      "EnumName": "COST_ATTR_START",
+      "Content": "属性消耗类型开始",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 915,
+      "EnumName": "NO_ENUM_NAME_136",
+      "Content": "生命",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 916,
+      "EnumName": "NO_ENUM_NAME_137",
+      "Content": "法力",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 917,
+      "EnumName": "NO_ENUM_NAME_138",
+      "Content": "气力",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 918,
+      "EnumName": "NO_ENUM_NAME_139",
+      "Content": "葫芦盛酒量",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 919,
+      "EnumName": "NO_ENUM_NAME_140",
+      "Content": "特殊变身能量",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 930,
+      "EnumName": "NO_ENUM_NAME_141",
+      "Content": "属性消耗类型结束",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 931,
+      "EnumName": "COST_ATTR_TIPS",
+      "Content": "{0}不足，无法施展",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 932,
+      "EnumName": "GO_BACK",
+      "Content": "返回",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 933,
+      "EnumName": "SHRINE_ABILITY_CONFIG",
+      "Content": "修行",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 934,
+      "EnumName": "SHRINE_ABILITY_CONFIG_TIPS",
+      "Content": "此处可开悟天赋，整备法术",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 935,
+      "EnumName": "SHRINE_LIQUOR",
+      "Content": "泡制",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 936,
+      "EnumName": "SHRINE_LIQUOR_TIPS",
+      "Content": "可在此处泡制",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 937,
+      "EnumName": "GO_BACK_TIPS",
+      "Content": "回至上一层选项",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 938,
+      "EnumName": "BUY_FAIL_ITEM_NOT_ENOUGH",
+      "Content": "商品已售罄，故无法买入",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 939,
+      "EnumName": "SHRINE_NEW_WEAPONBUILD_TITLE",
+      "Content": "兵器铸造",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 940,
+      "EnumName": "SHRINE_NEW_WEAPONBUILD_TIPS",
+      "Content": "可在此处铸造兵器",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 941,
+      "EnumName": "SHRINE_NEW_ARMORSHOP_TITLE",
+      "Content": "披挂铸造",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 942,
+      "EnumName": "SHRINE_NEW_ARMORSHOP_TIPS",
+      "Content": "可在此铸造披挂",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 946,
+      "EnumName": "HEAVY_ATTACK_TYPE_TITLE_BEGIN",
+      "Content": "沉重",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 947,
+      "EnumName": "NO_ENUM_NAME_142",
+      "Content": "伸缩",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 956,
+      "EnumName": "HEAVY_ATTACK_TYPE_DESC_BEGIN",
+      "Content": "【沉重】：可以蓄力使用重棍下砸，只要打中敌人，就有可能创造出大好机会",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 957,
+      "EnumName": "NO_ENUM_NAME_143",
+      "Content": "【伸缩】：可以自由伸缩的棍子，以此使出两种棍法。\\n撑棍：铁杆随心，垂直立于地面之上，可以借此躲避攻击，也可顺势攻击敌人。\\n捅棍：棍子朝前方伸长拨打敌人，出其不意。",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 965,
+      "EnumName": "HEAVY_ATTACK_TYPE_DESC_END",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 966,
+      "EnumName": "WEAPON_RECAST_TITLE",
+      "Content": "将武器特性重铸为：",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 967,
+      "EnumName": "WEAPON_CUR_ATTACK_TYPE",
+      "Content": "当前特性：",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 968,
+      "EnumName": "BTN_TITILE_HAS_RECAST",
+      "Content": "此为当前特性",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 969,
+      "EnumName": "SETTING_QUALITY_LEVEL_DESC",
+      "Content": "确定应用推荐的画质设置吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 970,
+      "EnumName": "SETTING_RECOMMENDED_LEVEL_DESC",
+      "Content": "是否确认设置画质？",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 971,
+      "EnumName": "SETTING_BACK_START_DESC",
+      "Content": "确定退出至标题界面吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 972,
+      "EnumName": "SETTING_BACK_DESKTOP_DESC",
+      "Content": "确定退出至桌面吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 973,
+      "EnumName": "SETTING_BACK_TEAMMATE_DESC",
+      "Content": "是否确认魂归故里？",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 974,
+      "EnumName": "MAKE_ALCHEMY",
+      "Content": "天上仙丹",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 975,
+      "EnumName": "MAKE_RECIPE",
+      "Content": "人间丹药",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1000,
+      "EnumName": "NO_ENUM_NAME_144",
+      "Content": "1000-1099预留给InputIcon按键提示文字",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1001,
+      "EnumName": "NO_ENUM_NAME_145",
+      "Content": "故事",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1002,
+      "EnumName": "NO_ENUM_NAME_146",
+      "Content": "装备对比",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1100,
+      "EnumName": "NAME_EMPTY_UNKNOW",
+      "Content": "？？？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1101,
+      "EnumName": "SORTING_TYPE_NAME_START",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1103,
+      "EnumName": "NO_ENUM_NAME_147",
+      "Content": "按获取时间排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1104,
+      "EnumName": "NO_ENUM_NAME_148",
+      "Content": "默认排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1105,
+      "EnumName": "NO_ENUM_NAME_149",
+      "Content": "按稀有度排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1106,
+      "EnumName": "NO_ENUM_NAME_150",
+      "Content": "按持有数量排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1107,
+      "EnumName": "NO_ENUM_NAME_151",
+      "Content": "按攻击排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1108,
+      "EnumName": "NO_ENUM_NAME_152",
+      "Content": "按防御排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1109,
+      "EnumName": "NO_ENUM_NAME_153",
+      "Content": "按暴击率排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1110,
+      "EnumName": "NO_ENUM_NAME_154",
+      "Content": "按盛酒量排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1111,
+      "EnumName": "NO_ENUM_NAME_155",
+      "Content": "按商店剩余数量排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1112,
+      "EnumName": "NO_ENUM_NAME_156",
+      "Content": "按价格排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1113,
+      "EnumName": "NO_ENUM_NAME_157",
+      "Content": "默认排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1114,
+      "EnumName": "NO_ENUM_NAME_158",
+      "Content": "画坊排序",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1115,
+      "EnumName": "NO_ENUM_NAME_159",
+      "Content": "打坐点排序",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1116,
+      "EnumName": "NO_ENUM_NAME_160",
+      "Content": "关卡排序",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1117,
+      "EnumName": "NO_ENUM_NAME_161",
+      "Content": "历史文物、古玩排序",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1118,
+      "EnumName": "NO_ENUM_NAME_162",
+      "Content": "按所有数量排序",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1119,
+      "EnumName": "NO_ENUM_NAME_163",
+      "Content": "按是否可铸造排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1120,
+      "EnumName": "NO_ENUM_NAME_164",
+      "Content": "按是否有药材产出排序",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1121,
+      "EnumName": "NO_ENUM_NAME_165",
+      "Content": "按丹药稀有度排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1122,
+      "EnumName": "NO_ENUM_NAME_166",
+      "Content": "按丹方获取时间排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1123,
+      "EnumName": "NO_ENUM_NAME_167",
+      "Content": "按是否可强化排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1124,
+      "EnumName": "NO_ENUM_NAME_168",
+      "Content": "按是否可升级排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1125,
+      "EnumName": "NO_ENUM_NAME_169",
+      "Content": "按是否可升级排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1126,
+      "EnumName": "DEFAULT_SORT_NO_ENUM",
+      "Content": "默认排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1127,
+      "EnumName": "SORT_DEFAULT",
+      "Content": "默认排序",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1130,
+      "EnumName": "SORTING_TYPE_NAME_END",
+      "Content": "排序方式名称",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1131,
+      "EnumName": "SORTING_RESTORE_BTN_NAME",
+      "Content": "恢复默认",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1132,
+      "EnumName": "FALLDYING_FORBID_REBIRTH",
+      "Content": "{0}s内禁止复活",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1133,
+      "EnumName": "FALLDYING_CAN_REBIRTH",
+      "Content": "{0}s后可复活",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1134,
+      "EnumName": "NO_ENUM_NAME_170",
+      "Content": "切换棍法",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1135,
+      "EnumName": "NO_ENUM_NAME_171",
+      "Content": "删除/卸下",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1136,
+      "EnumName": "NO_ENUM_NAME_172",
+      "Content": "检视/展开故事",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1137,
+      "EnumName": "ENTER_START_NEXT_CHAPTER_INFO",
+      "Content": "即将进入下一回，是否确定？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1138,
+      "EnumName": "ROLE_MAIN_TAB_GENQI",
+      "Content": "根器",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1139,
+      "EnumName": "DSTALENT_ACTIVED",
+      "Content": "已参悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1140,
+      "EnumName": "DSTALENT_NOTACTIVE",
+      "Content": "未参悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1141,
+      "EnumName": "DSTALENT_ContinueJourney",
+      "Content": "开路向前，自有机缘",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1142,
+      "EnumName": "DSTALENT_GoToTemple",
+      "Content": "前往土地庙领悟该天赋",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1143,
+      "EnumName": "SCREEN_RATIO_AUTO",
+      "Content": "自动",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1144,
+      "EnumName": "START_GAME_MUSEUM",
+      "Content": "博物馆",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1145,
+      "EnumName": "MUSEUM_ITEM_TITLE_START",
+      "Content": "历史文萃",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1146,
+      "EnumName": "NO_ENUM_NAME_173",
+      "Content": "前尘影事",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1147,
+      "EnumName": "NO_ENUM_NAME_174",
+      "Content": "画坊",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1148,
+      "EnumName": "MUSEUM_ITEM_TITLE_END",
+      "Content": "乐坊",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1149,
+      "EnumName": "MUSEUM_ITEM_ART_TITLE_START",
+      "Content": "角色概念",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1150,
+      "EnumName": "NO_ENUM_NAME_175",
+      "Content": "场景概念",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1151,
+      "EnumName": "MUSEUM_ITEM_ART_TITLE_END",
+      "Content": "实机截图",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1155,
+      "EnumName": "TRAVEL_NOTES_TITLE_UNIT_TYPE_NAME_START",
+      "Content": "妖王",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1156,
+      "EnumName": "NO_ENUM_NAME_176",
+      "Content": "小妖",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1157,
+      "EnumName": "NO_ENUM_NAME_177",
+      "Content": "头目",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1158,
+      "EnumName": "TRAVEL_NOTES_TITLE_UNIT_TYPE_NAME_END",
+      "Content": "人物",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1159,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_START",
+      "Content": "开始",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1160,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_0",
+      "Content": "用品",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1161,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_1",
+      "Content": "贯通丹药",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1162,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_2",
+      "Content": "攻杀丹药",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1163,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_3",
+      "Content": "消灾丹药",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1164,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_4",
+      "Content": "",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1165,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_5",
+      "Content": "保命丹药",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1166,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_6",
+      "Content": "稀罕材料",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1167,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_7",
+      "Content": "丹方",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1168,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_8",
+      "Content": "泡酒物",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1169,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_9",
+      "Content": "种子",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1170,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_10",
+      "Content": "药材",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1171,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_11",
+      "Content": "披挂通材",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1172,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_12",
+      "Content": "兵器通材",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1173,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_13",
+      "Content": "酒器升阶材料",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1174,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_14",
+      "Content": "贩卖品",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1175,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_15",
+      "Content": "兵器专材",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1176,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_16",
+      "Content": "精魄",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1177,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_17",
+      "Content": "要紧物事",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1178,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_18",
+      "Content": "酒",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1189,
+      "EnumName": "ITEM_PACKAGE_TYPE_NAME_END",
+      "Content": "结束",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1190,
+      "EnumName": "ONLINE_CREATE_PARTY",
+      "Content": "创建世界",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1191,
+      "EnumName": "ONLINE_JOIN_PARTY",
+      "Content": "加入世界",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1192,
+      "EnumName": "ONLINE_EXIT_PARTY",
+      "Content": "离开线上",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1193,
+      "EnumName": "CREATING_PARTY_FAIL",
+      "Content": "创建世界失败：",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1194,
+      "EnumName": "IS_CREATING_PARTY",
+      "Content": "正在创建世界",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1195,
+      "EnumName": "IS_SEARCHING_PARTY",
+      "Content": "正在探索世界",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1196,
+      "EnumName": "SEARCH_PARTY_FAIL",
+      "Content": "搜索世界失败：",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1197,
+      "EnumName": "LEAVE_CUR_WORLD",
+      "Content": "即将离开当前世界，确定吗？",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1198,
+      "EnumName": "CANT_PARTY_TELEPORT",
+      "Content": "非世界创建者，无开启权限",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1200,
+      "EnumName": "MUSEUM_SOUND_NO_LYRICS",
+      "Content": "这是一个纯音乐",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1201,
+      "EnumName": "BUY_ITEM_IN_STORED",
+      "Content": "物品已进入仓库",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1202,
+      "EnumName": "MUSEUM_ITEM_LOCK",
+      "Content": "？？？",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1203,
+      "EnumName": "ROLE_MAIN_TAB_SPELL_CONFIG",
+      "Content": "修行",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1204,
+      "EnumName": "CONFIRM_UPGRADE_WINE_NOT_NEXT_WINE",
+      "Content": "仙酿已达到最高级",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1205,
+      "EnumName": "TRAVEL_NOTES__SUB_UPDATE",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1206,
+      "EnumName": "TRAVEL_NOTES_SUB__CHILD_UPDATE",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1207,
+      "EnumName": "STORY_SHOW",
+      "Content": "展开",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1208,
+      "EnumName": "STORY_HIDE",
+      "Content": "收起",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1209,
+      "EnumName": "LEVEL_SIMPLE",
+      "Content": "简单",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1210,
+      "EnumName": "LEVEL_MEDIUM",
+      "Content": "中等",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1211,
+      "EnumName": "LEVEL_HARD",
+      "Content": "困难",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1212,
+      "EnumName": "LEVEL_SIMPLE_DESC",
+      "Content": "少量敌人，敌人拥有较低的攻击",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1213,
+      "EnumName": "LEVEL_MEDIUM_DESC",
+      "Content": "适量敌人，敌人拥有一般的攻击",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1214,
+      "EnumName": "LEVEL_HARD_DESC",
+      "Content": "大量敌人，敌人拥有较高的攻击",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1215,
+      "EnumName": "SORTING_REPORT_BTN_NAME",
+      "Content": "BUG一键上报",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1216,
+      "EnumName": "CONRIRM_RESET_TALENT_AND_LEGACY",
+      "Content": "是否花费{0}灵蕴重置灵光点？(同时重置大圣天赋)",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1217,
+      "EnumName": "TALENT_PLAYER_LEVEL_LIMIT",
+      "Content": "达到{0}级方可修习",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1218,
+      "EnumName": "CHECK_SCREEN_RESOLUTION_TITLE",
+      "Content": "性能提示\r\n第一行\r\n第二行",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1219,
+      "EnumName": "CHECK_SCREEN_RESOLUTION_INFO",
+      "Content": "当前设置超过1080p，可能造成卡顿，是否确认切换1080p全屏？",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1220,
+      "EnumName": "NO_ENUM_NAME_189",
+      "Content": "无法从这一侧打开",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1221,
+      "EnumName": "LOCALIZATION_TEST_INFO",
+      "Content": "超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1222,
+      "EnumName": "NO_ENUM_NAME_190",
+      "Content": "角色移动",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1223,
+      "EnumName": "NO_ENUM_NAME_191",
+      "Content": "互动",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1224,
+      "EnumName": "NO_ENUM_NAME_192",
+      "Content": "翻滚",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1225,
+      "EnumName": "NO_ENUM_NAME_193",
+      "Content": "疾奔",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1226,
+      "EnumName": "NO_ENUM_NAME_194",
+      "Content": "跳跃",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1227,
+      "EnumName": "NO_ENUM_NAME_195",
+      "Content": "轻棍",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1228,
+      "EnumName": "NO_ENUM_NAME_196",
+      "Content": "重棍",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1229,
+      "EnumName": "NO_ENUM_NAME_197",
+      "Content": "锁定/解除锁定",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1230,
+      "EnumName": "NO_ENUM_NAME_198",
+      "Content": "使用随身之物",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1231,
+      "EnumName": "NO_ENUM_NAME_199",
+      "Content": "使用法术",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1232,
+      "EnumName": "NO_ENUM_NAME_200",
+      "Content": "使用法宝",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1233,
+      "EnumName": "NO_ENUM_NAME_201",
+      "Content": "切换棍法",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1234,
+      "EnumName": "LEVEL_COMPLETE",
+      "Content": "已通关",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1235,
+      "EnumName": "LEVEL_INCOMPLETE",
+      "Content": "未通关",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1236,
+      "EnumName": "END_LEVEL_PASS_BOSS_1",
+      "Content": "已击败",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1237,
+      "EnumName": "END_LEVEL_PASS_BOSS_2",
+      "Content": "恭喜已击败",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1238,
+      "EnumName": "END_LEVEL_PASS_LEVEL_1",
+      "Content": "已通关",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1239,
+      "EnumName": "END_LEVEL_PASS_LEVEL_2",
+      "Content": "恭喜已通关",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1240,
+      "EnumName": "CHINESE_VOICE",
+      "Content": "汉语",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1241,
+      "EnumName": "ENGLISH_VOICE",
+      "Content": "英语",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1250,
+      "EnumName": "NO_ENUM_NAME_202",
+      "Content": "语音预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1251,
+      "EnumName": "RESET_820_DATA_TITLE",
+      "Content": "重置标题",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1252,
+      "EnumName": "RESET_820_DATA_DESC",
+      "Content": "确定要重置玩家存档吗？",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1253,
+      "EnumName": "SELECT_820_LEVEL_DESC",
+      "Content": "确定要前往该关卡吗？",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1254,
+      "EnumName": "EMAIL_820_TIPS",
+      "Content": "请输入正确的邮箱地址",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1255,
+      "EnumName": "SUBMIT",
+      "Content": "提交",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1256,
+      "EnumName": "GIVE_UP",
+      "Content": "放弃",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1257,
+      "EnumName": "CLAIMABLE",
+      "Content": "可领奖",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1258,
+      "EnumName": "MODIFY_EMAIL",
+      "Content": "修改",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1259,
+      "EnumName": "AGREE_PRIVACY_POLICY",
+      "Content": "需要同意隐私政策才可提交",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1260,
+      "EnumName": "YES_I_DO",
+      "Content": "我愿意",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1261,
+      "EnumName": "CustomizedInputTypeConfigName",
+      "Content": "输入类型",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1262,
+      "EnumName": "NO_ENUM_NAME_203",
+      "Content": "类型一",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1263,
+      "EnumName": "NO_ENUM_NAME_204",
+      "Content": "类型二",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1264,
+      "EnumName": "NO_ENUM_NAME_205",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1265,
+      "EnumName": "CustomizedInputTypeConfigNameMax",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1266,
+      "EnumName": "GamepadSettingDefault",
+      "Content": "关闭",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1267,
+      "EnumName": "GamepadSettingCustomize",
+      "Content": "开启",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1268,
+      "EnumName": "AUDIO_ZH_HANS",
+      "Content": "汉语",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1269,
+      "EnumName": "AUDIO_EN",
+      "Content": "英语",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1270,
+      "EnumName": "NO_ENUM_NAME_206",
+      "Content": "ID1270-1280，设置语音语言预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1271,
+      "EnumName": "ITEMDEATIL_SHORTCUT_DESC",
+      "Content": "随身之物",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1272,
+      "EnumName": "ITEMDEATIL_WINE_DESC",
+      "Content": "泡酒物",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1273,
+      "EnumName": "ROLE_MAIN_TAB_MAP",
+      "Content": "地图",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1274,
+      "EnumName": "ROLE_MAIN_TAB_ONLINE",
+      "Content": "网络设置",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1280,
+      "EnumName": "SHRINE_NEW_EQUIPBUILD_TITLE",
+      "Content": "披挂再造",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1281,
+      "EnumName": "SHRINE_NEW_EQUIPBUILD_TIPS",
+      "Content": "可再造披挂，升至更高品质",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1282,
+      "EnumName": "MAP_TELEPORT_TO_SYMBOL",
+      "Content": "是否传送至{0}",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1283,
+      "EnumName": "PAINT_WORLD_NAME",
+      "Content": "画中世界",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1284,
+      "EnumName": "SHRINE_WEAPONBUILD_TITLE_PW",
+      "Content": "兵器铸造",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1285,
+      "EnumName": "SHRINE_WEAPONBUILD_TIPS_PW",
+      "Content": "可在此铸造兵器",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1286,
+      "EnumName": "SHRINE_EQUIPBUILD_TITLE_PW",
+      "Content": "披挂再造",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1287,
+      "EnumName": "SHRINE_EQUIPBUILD_TIPS_PW",
+      "Content": "可在此升级披挂",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1288,
+      "EnumName": "LOGIN_SCAN",
+      "Content": "账户登录",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1289,
+      "EnumName": "LOGIN_LOGIN",
+      "Content": "快速登录",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1290,
+      "EnumName": "LOGIN_TIP_USERNAME_PASSWORD_EMPTY",
+      "Content": "账号或密码为空",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1291,
+      "EnumName": "LOGIN_INPUT_USERNAME_HINT",
+      "Content": "请输入账号",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1292,
+      "EnumName": "LOGIN_INPUT_PASSWORD_HINT",
+      "Content": "请输入密码",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1293,
+      "EnumName": "LOGIN_BTN_SWITCH_SCAN",
+      "Content": "切换扫码登录",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1294,
+      "EnumName": "LOGIN_BTN_SWITCH_USER_PASS",
+      "Content": "切换密码登录",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1295,
+      "EnumName": "UI_SETTING_RESTART_TIPS",
+      "Content": "<820Privacy_Title>要使该设置改动生效，需要重新启动游戏。</>",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1296,
+      "EnumName": "ROLE_MAIN_TAB_BUY",
+      "Content": "买入",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1297,
+      "EnumName": "ROLE_MAIN_TAB_SELL",
+      "Content": "卖出",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1298,
+      "EnumName": "SHOP_CONFIRM_BUY",
+      "Content": "确定是否买入此物品",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1299,
+      "EnumName": "SHOP_CONFIRM_SELL",
+      "Content": "确定是否卖出此物品",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1300,
+      "EnumName": "SHRINE_SHOP_BUY_TIPS",
+      "Content": "可在此处购买商品",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1301,
+      "EnumName": "SHRINE_SHOP_SELL_TIPS",
+      "Content": "可在此处卖出物品",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1302,
+      "EnumName": "SHOP_MONEY_TIPS_BUY",
+      "Content": "将花费灵蕴",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1303,
+      "EnumName": "SHOP_MONEY_TIPS_SELL",
+      "Content": "将获得灵蕴",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1304,
+      "EnumName": "SHOP_HAS_BUY",
+      "Content": "已售罄",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1305,
+      "EnumName": "SHOP_HAS_SELL",
+      "Content": "已卖出",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1306,
+      "EnumName": "DISCONNECT_CONTROLLER_TIPS",
+      "Content": "控制器已断开",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1307,
+      "EnumName": "SHRINE_SEEDSUBMIT_TITLE_PW",
+      "Content": "交付种子",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1308,
+      "EnumName": "SHRINE_SEEDSUBMIT_TIPS_PW",
+      "Content": "交付当前拥有的全部种子",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1309,
+      "EnumName": "SHRINE_MEDICINECOLLECT_TITLE_PW",
+      "Content": "收取药材",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1310,
+      "EnumName": "SHRINE_MEDICINECOLLECT_TIPS_PW",
+      "Content": "在此处收取成熟的药材",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1311,
+      "EnumName": "CONFIRM_SUBMIT_ALL_SEED",
+      "Content": "是否交付全部种子？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1312,
+      "EnumName": "FARM_LONGPRESS_COLLECT_ALL",
+      "Content": "长按收取全部药材",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1313,
+      "EnumName": "FARM_PRESS_COLLECT",
+      "Content": "收取全部药材",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1314,
+      "EnumName": "FARM_EMPTY",
+      "Content": "暂无药材可收取",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1315,
+      "EnumName": "HAS_ZERO_SEED",
+      "Content": "尚未有可交付的种子",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1316,
+      "EnumName": "SUPER_RESOLUTION_SAMPLING_FSR",
+      "Content": "FSR",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1317,
+      "EnumName": "SUPER_RESOLUTION_SAMPLING_Xess",
+      "Content": "XeSS",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1318,
+      "EnumName": "SUPER_RESOLUTION_SAMPLING_DLSS",
+      "Content": "DLSS",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1319,
+      "EnumName": "SETIING_DLSS_TIPS_VESION",
+      "Content": "您的操作系统版本不支持DLSS帧生成技术，此设置项无法开启。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1320,
+      "EnumName": "SETIING_DLSS_TIPS_OPEN",
+      "Content": "如需开启DLSS帧生成功能，需首先在操作系统设置中开启硬件加速GPU计划。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1321,
+      "EnumName": "SETIING_DLSS_TIPS_OPEN_FULL",
+      "Content": "如需开启DLSS帧生成功能，请在windows的系统设置找到：系统->显示->图形设置->硬件加速GPU计划。将这个选项开启，并重启电脑。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1323,
+      "EnumName": "CONFIRM_ARCHIVE_LOCKED",
+      "Content": "是否确定要退出至标题界面？所有未保存的进度将会丢失。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1324,
+      "EnumName": "BTN_TITILE_LEARN_LEGACY_TALENT",
+      "Content": "长按参悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1325,
+      "EnumName": "LEGACY_NOT_HAVE_TIPS",
+      "Content": "尚未寻回此根",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1326,
+      "EnumName": "DROP_EQUIP_DESC",
+      "Content": "已获取新的装备",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1350,
+      "EnumName": "DROP_ITEM_SUBTYPE_DESC",
+      "Content": "掉落获取描述开始",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1351,
+      "EnumName": "PakageTypeDesc_1351",
+      "Content": "特殊道具",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1352,
+      "EnumName": "PakageTypeDesc_1352",
+      "Content": "丹药",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1353,
+      "EnumName": "PakageTypeDesc_1353",
+      "Content": "丹药",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1354,
+      "EnumName": "PakageTypeDesc_1354",
+      "Content": "丹药",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1355,
+      "EnumName": "PakageTypeDesc_1355",
+      "Content": "丹药",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1356,
+      "EnumName": "PakageTypeDesc_1356",
+      "Content": "丹药",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1357,
+      "EnumName": "PakageTypeDesc_1357",
+      "Content": "材料",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1358,
+      "EnumName": "PakageTypeDesc_1358",
+      "Content": "丹方",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1359,
+      "EnumName": "PakageTypeDesc_1359",
+      "Content": "酒食",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1360,
+      "EnumName": "PakageTypeDesc_1360",
+      "Content": "种子",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1361,
+      "EnumName": "PakageTypeDesc_1361",
+      "Content": "药材",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1362,
+      "EnumName": "PakageTypeDesc_1362",
+      "Content": "材料",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1363,
+      "EnumName": "PakageTypeDesc_1363",
+      "Content": "材料",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1364,
+      "EnumName": "PakageTypeDesc_1364",
+      "Content": "材料",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1365,
+      "EnumName": "PakageTypeDesc_1365",
+      "Content": "材料",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1366,
+      "EnumName": "PakageTypeDesc_1366",
+      "Content": "材料",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1367,
+      "EnumName": "PakageTypeDesc_1367",
+      "Content": "精魄",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1368,
+      "EnumName": "PakageTypeDesc_1368",
+      "Content": "要紧物事",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1369,
+      "EnumName": "PakageTypeDesc_1369",
+      "Content": "酒",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1370,
+      "EnumName": "PakageTypeDesc_1370",
+      "Content": "头冠",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1371,
+      "EnumName": "PakageTypeDesc_1371",
+      "Content": "衣甲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1372,
+      "EnumName": "PakageTypeDesc_1372",
+      "Content": "臂甲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1373,
+      "EnumName": "PakageTypeDesc_1373",
+      "Content": "腿甲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1374,
+      "EnumName": "PakageTypeDesc_1374",
+      "Content": "兵器",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1375,
+      "EnumName": "PakageTypeDesc_1375",
+      "Content": "葫芦",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1376,
+      "EnumName": "PakageTypeDesc_1376",
+      "Content": "珍玩",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1400,
+      "EnumName": "NO_ENUM_NAME_217",
+      "Content": "掉落获取描述结束",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1401,
+      "EnumName": "MEDICINE_RECIPE_ALCHEMY",
+      "Content": "药材不足，无法炼制",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1402,
+      "EnumName": "NPC_INTERACT_DOG_TALK_TITLE",
+      "Content": "讨个丹吃",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1403,
+      "EnumName": "NPC_INTERACT_DOG_TALK_TIPS",
+      "Content": "戌狗为你准备了些丹药",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1404,
+      "EnumName": "CONFIRM_WEAPONBUILD_NEED_WEAR",
+      "Content": "要装备新铸造的兵器吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1405,
+      "EnumName": "DEFEATED_CHIEF",
+      "Content": "头目 · ",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1406,
+      "EnumName": "DEFEATED_DEMONKING",
+      "Content": "妖王 · ",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1407,
+      "EnumName": "DEFEATED_FUZISHU",
+      "Content": "父子鼠",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1408,
+      "EnumName": "WXLOGIN_BTNHIDE_GET_FAIL",
+      "Content": "服务器连接失败，请检查当前网络环境",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1409,
+      "EnumName": "DROP_OVERFLOW_TIPS",
+      "Content": "已达持有上限，不可再得",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1410,
+      "EnumName": "DROP_SPECILAL_TIPS",
+      "Content": "掉落特殊提示开始",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1411,
+      "EnumName": "DROP_SPECILAL_TIPS_1",
+      "Content": "铸造成功",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1412,
+      "EnumName": "DROP_SPECILAL_TIPS_2",
+      "Content": "升阶成功",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1413,
+      "EnumName": "DROP_SPECILAL_TIPS_3",
+      "Content": "已收获全部药材",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1414,
+      "EnumName": "DROP_SPECILAL_TIPS_4",
+      "Content": "已拾取所有遗落的精魄",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1415,
+      "EnumName": "DROP_SPECILAL_TIPS_5",
+      "Content": "已收取全部谢礼",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1416,
+      "EnumName": "DROP_SPECILAL_TIPS_6",
+      "Content": "升阶成功",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1417,
+      "EnumName": "DROP_SPECILAL_TIPS_7",
+      "Content": "炼精成功",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1418,
+      "EnumName": "DROP_SPECILAL_TIPS_8",
+      "Content": "升阶成功",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1419,
+      "EnumName": "DROP_SPECILAL_TIPS_9",
+      "Content": "铸造成功",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1420,
+      "EnumName": "DROP_SPECILAL_TIPS_10",
+      "Content": "已有精魄，炼化为灵蕴",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1421,
+      "EnumName": "DROP_SPECILAL_TIPS_11",
+      "Content": "已有重要物品，炼化为灵蕴",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1430,
+      "EnumName": "NO_ENUM_NAME_222",
+      "Content": "特殊掉落提示结束",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1431,
+      "EnumName": "DROP_MEDITION_TITLE",
+      "Content": "打坐蒲团更新",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1432,
+      "EnumName": "DROP_MANUAL_TITLE",
+      "Content": "影神图更新",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1433,
+      "EnumName": "DROP_MANUAL_BOSS_DESC",
+      "Content": "妖王轶事已誊录",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1434,
+      "EnumName": "DROP_MANUAL_MINION_DESC",
+      "Content": "小妖轶事已誊录",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1435,
+      "EnumName": "DROP_MANUAL_ELITE_DESC",
+      "Content": "头目轶事已誊录",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1436,
+      "EnumName": "DROP_MANUAL_NPC_DESC",
+      "Content": "人物轶事已誊录",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1437,
+      "EnumName": "SOULSKILL_ENERGY_CAST_LOW",
+      "Content": "少",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1438,
+      "EnumName": "SOULSKILL_ENERGY_CAST_MIDDLE",
+      "Content": "中",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1439,
+      "EnumName": "SOULSKILL_ENERGY_CAST_HIGH",
+      "Content": "较多",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1440,
+      "EnumName": "EQUIP_SLOT_TYPE_TITLE_START",
+      "Content": "装备位名称开始",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1441,
+      "EnumName": "NO_ENUM_NAME_223",
+      "Content": "头冠",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1442,
+      "EnumName": "NO_ENUM_NAME_224",
+      "Content": "衣甲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1443,
+      "EnumName": "NO_ENUM_NAME_225",
+      "Content": "臂甲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1444,
+      "EnumName": "NO_ENUM_NAME_226",
+      "Content": "腿甲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1445,
+      "EnumName": "NO_ENUM_NAME_227",
+      "Content": "兵器",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1446,
+      "EnumName": "NO_ENUM_NAME_228",
+      "Content": "法宝",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1447,
+      "EnumName": "NO_ENUM_NAME_229",
+      "Content": "精魄",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1448,
+      "EnumName": "NO_ENUM_NAME_230",
+      "Content": "葫芦",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1449,
+      "EnumName": "NO_ENUM_NAME_231",
+      "Content": "珍玩·一",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1450,
+      "EnumName": "NO_ENUM_NAME_232",
+      "Content": "珍玩·二",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1451,
+      "EnumName": "NO_ENUM_NAME_233",
+      "Content": "珍玩·三",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1452,
+      "EnumName": "NO_ENUM_NAME_234",
+      "Content": "珍玩·四",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1453,
+      "EnumName": "NO_ENUM_NAME_235",
+      "Content": "珍玩·五",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1454,
+      "EnumName": "NO_ENUM_NAME_236",
+      "Content": "随身之物·一",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1455,
+      "EnumName": "NO_ENUM_NAME_237",
+      "Content": "随身之物·二",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1456,
+      "EnumName": "NO_ENUM_NAME_238",
+      "Content": "随身之物·三",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1457,
+      "EnumName": "NO_ENUM_NAME_239",
+      "Content": "随身之物·四",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1458,
+      "EnumName": "NO_ENUM_NAME_240",
+      "Content": "快捷栏位",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1459,
+      "EnumName": "NO_ENUM_NAME_241",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1460,
+      "EnumName": "EQUIP_SLOT_TYPE_TITLE_END",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1461,
+      "EnumName": "SHRINE_SOULSKILL_COLLECT_TITLE",
+      "Content": "拾遗",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1462,
+      "EnumName": "SHRINE_SOULSKILL_COLLECT_TIPS",
+      "Content": "收集未拾取的游荡精魄",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1463,
+      "EnumName": "NO_ENUM_NAME_242",
+      "Content": "空 1463 - 1480 这里是商店tab",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1464,
+      "EnumName": "NO_ENUM_NAME_243",
+      "Content": "全部",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1465,
+      "EnumName": "NO_ENUM_NAME_244",
+      "Content": "装备",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1466,
+      "EnumName": "NO_ENUM_NAME_245",
+      "Content": "消耗品",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1467,
+      "EnumName": "NO_ENUM_NAME_246",
+      "Content": "材料",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1468,
+      "EnumName": "NO_ENUM_NAME_247",
+      "Content": "特殊",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1469,
+      "EnumName": "NO_ENUM_NAME_248",
+      "Content": "丹药",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1470,
+      "EnumName": "NO_ENUM_NAME_249",
+      "Content": "材料",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1471,
+      "EnumName": "NO_ENUM_NAME_250",
+      "Content": "草药",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1472,
+      "EnumName": "NO_ENUM_NAME_251",
+      "Content": "头冠 ",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1473,
+      "EnumName": "NO_ENUM_NAME_252",
+      "Content": "衣甲",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1474,
+      "EnumName": "NO_ENUM_NAME_253",
+      "Content": "臂甲",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1475,
+      "EnumName": "NO_ENUM_NAME_254",
+      "Content": "腿甲",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1476,
+      "EnumName": "NO_ENUM_NAME_255",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1477,
+      "EnumName": "NO_ENUM_NAME_256",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1478,
+      "EnumName": "NO_ENUM_NAME_257",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1479,
+      "EnumName": "NO_ENUM_NAME_258",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1480,
+      "EnumName": "NO_ENUM_NAME_259",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1481,
+      "EnumName": "SHRINE_SOULSKILL_COLLECT_HAS_GET",
+      "Content": "已找回所有遗落的精魄",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1482,
+      "EnumName": "ALCHEMY_SPRINT_NOT_ENOUGH",
+      "Content": "持有灵蕴不足，无法炼制",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1483,
+      "EnumName": "ALCHEMY_ITEM_NOT_ENOUGH",
+      "Content": "持有材料不足，无法炼制",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1484,
+      "EnumName": "ALCHEMY_ITEM_IS_CARRY_MAX",
+      "Content": "已达到炼制数量上限，无法继续炼制",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1500,
+      "EnumName": "NO_ENUM_NAME_260",
+      "Content": "1500到1599预留给击杀后慢镜UI的自定义怪物名称",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1501,
+      "EnumName": "NO_ENUM_NAME_261",
+      "Content": "小狼",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1502,
+      "EnumName": "NO_ENUM_NAME_262",
+      "Content": "兴烘掀 · 掀烘兴",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1503,
+      "EnumName": "NO_ENUM_NAME_263",
+      "Content": "云里雾 · 雾里云",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1504,
+      "EnumName": "NO_ENUM_NAME_264",
+      "Content": "石先锋",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1505,
+      "EnumName": "NO_ENUM_NAME_265",
+      "Content": "石敢当",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1506,
+      "EnumName": "SLOW_TIME_NAME_01",
+      "Content": "沙国王父子",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1507,
+      "EnumName": "SLOW_TIME_NAME_02",
+      "Content": "急如火 · 快如风",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1599,
+      "EnumName": "NO_ENUM_NAME_266",
+      "Content": "1500到1599预留给击杀后慢镜UI的自定义怪物名称",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1602,
+      "EnumName": "ACCESSORY_EMPTY",
+      "Content": "未穿戴",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1603,
+      "EnumName": "ACCESSORY_EMPTY_TIPS",
+      "Content": "未穿戴",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1604,
+      "EnumName": "TAKE_PHOTO_RESET_CAMERA",
+      "Content": "确定重置镜头位置？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1605,
+      "EnumName": "ABILITY_LEARN_TAB_BASIC",
+      "Content": "根基",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1606,
+      "EnumName": "ABILITY_LEARN_TAB_UPGRADE",
+      "Content": "棍法",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1607,
+      "EnumName": "SHRINE_SPELL_RESETTALENT_TITLE",
+      "Content": "修整筋骨",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1608,
+      "EnumName": "SHRINE_SPELL_RESETTALENT_TIPS",
+      "Content": "修整筋骨描述",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1609,
+      "EnumName": "TALENT_RESET_LOCK",
+      "Content": "未参悟天赋",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1610,
+      "EnumName": "TALENT_RESET_NEXT_TALENT",
+      "Content": "无法重置该天赋，该天赋是某个已参悟天赋的前置要求",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1611,
+      "EnumName": "TALENT_RESET_NEXT_RANK",
+      "Content": "重置该天赋会导致下一层级的天赋无法参悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1612,
+      "EnumName": "SETTING_SUBTITLE_COLOR_YELLOW",
+      "Content": "黄色",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1613,
+      "EnumName": "SETTING_SUBTITLE_COLOR_RED",
+      "Content": "红色",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1614,
+      "EnumName": "SETTING_SUBTITLE_COLOR_BLUE",
+      "Content": "蓝色",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1615,
+      "EnumName": "SETTING_SUBTITLE_COLOR_GREEN",
+      "Content": "绿色",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1616,
+      "EnumName": "SETTING_SUBTITLE_BG_LIGHT",
+      "Content": "浅色",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1617,
+      "EnumName": "SETTING_SUBTITLE_BG_DARK",
+      "Content": "深色",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1618,
+      "EnumName": "TAKE_PHOTO_CLOSE",
+      "Content": "关",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1619,
+      "EnumName": "TAKE_PHOTO_OPEN",
+      "Content": "开",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1620,
+      "EnumName": "TAKE_PHOTO_HIDE",
+      "Content": "隐藏",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1621,
+      "EnumName": "TAKE_PHOTO_SHOW",
+      "Content": "显示",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1622,
+      "EnumName": "TAKE_PHOTO_CONFIRM_RESET",
+      "Content": "确定重置所有设置项？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1623,
+      "EnumName": "TSETTING_MOTION_BLUR_WEAR",
+      "Content": "弱",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1624,
+      "EnumName": "TSETTING_MOTION_BLUR_STRONG",
+      "Content": "强",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1625,
+      "EnumName": "SETTING_TAB_HELP",
+      "Content": "辅助设置",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1626,
+      "EnumName": "SETTING__HELP_VIEW",
+      "Content": "视觉辅助",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1627,
+      "EnumName": "SETTING_HELP_LISTEN",
+      "Content": "听觉辅助",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1628,
+      "EnumName": "SETTING_HELP_SPORT",
+      "Content": "运动辅助",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1629,
+      "EnumName": "SETTING_HELP_MOTION",
+      "Content": "晕动症辅助",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1630,
+      "EnumName": "SETTING_DEVICE_TYPE_A",
+      "Content": "类型一",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1631,
+      "EnumName": "SETTING_DEVICE_TYPE_B",
+      "Content": "类型二",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1632,
+      "EnumName": "PLAYGO_REMAIN_TIME_HOUR_AND_MIN",
+      "Content": "剩余{0}小时{1}分钟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1633,
+      "EnumName": "PLAYGO_REMAIN_TIME_MIN",
+      "Content": "剩余{0}分钟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1634,
+      "EnumName": "PLAYGO_REMAIN_TIME_LESS_MIN",
+      "Content": "剩余时间小于1分钟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1635,
+      "EnumName": "PLAYGO_REMAIN_TIME_LARGE_DAY",
+      "Content": "剩余时间大于1天",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1636,
+      "EnumName": "SETTING_HUDSHOW_AUTOSHOW",
+      "Content": "自动显示",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1637,
+      "EnumName": "SETTING_HUDSHOW_ALWAYSSHOW",
+      "Content": "总是显示",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1638,
+      "EnumName": "SETTING_HUDSHOW_ALWAYSHIDE",
+      "Content": "总是隐藏",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1639,
+      "EnumName": "ROLE_MAIN_TAB_PRACTICE",
+      "Content": "修行",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1640,
+      "EnumName": "SOUL_SKILL_COLLECT_BTN",
+      "Content": "长按拾取",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1641,
+      "EnumName": "SHOP_TAB_NAME_START",
+      "Content": "空 1640 - 1680 这里是商店tab",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1642,
+      "EnumName": "SHOP_TAB_NAME_START_1",
+      "Content": "全部",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1643,
+      "EnumName": "SHOP_TAB_NAME_START_2",
+      "Content": "头冠",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1644,
+      "EnumName": "SHOP_TAB_NAME_START_3",
+      "Content": "衣甲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1645,
+      "EnumName": "SHOP_TAB_NAME_START_4",
+      "Content": "臂甲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1646,
+      "EnumName": "SHOP_TAB_NAME_START_5",
+      "Content": "腿甲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1647,
+      "EnumName": "SHOP_TAB_NAME_START_6",
+      "Content": "兵器",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1648,
+      "EnumName": "SHOP_TAB_NAME_START_7",
+      "Content": "珍玩",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1649,
+      "EnumName": "SHOP_TAB_NAME_START_8",
+      "Content": "葫芦",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1650,
+      "EnumName": "SHOP_TAB_NAME_START_9",
+      "Content": "用品",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1651,
+      "EnumName": "SHOP_TAB_NAME_START_10",
+      "Content": "材料",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1652,
+      "EnumName": "SHOP_TAB_NAME_START_11",
+      "Content": "酒食",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1653,
+      "EnumName": "SHOP_TAB_NAME_START_12",
+      "Content": "药材",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1654,
+      "EnumName": "SHOP_TAB_NAME_START_13",
+      "Content": "要紧物事",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1655,
+      "EnumName": "SHOP_TAB_NAME_START_14",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1656,
+      "EnumName": "SHOP_TAB_NAME_START_15",
+      "Content": "",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1662,
+      "EnumName": "SHOP_TAB_NAME_START_16",
+      "Content": "全部",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1670,
+      "EnumName": "SHOP_TAB_NAME_START_17",
+      "Content": "用品",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1671,
+      "EnumName": "SHOP_TAB_NAME_START_18",
+      "Content": "材料",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1672,
+      "EnumName": "SHOP_TAB_NAME_START_19",
+      "Content": "酒食",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1673,
+      "EnumName": "SHOP_TAB_NAME_START_20",
+      "Content": "药材",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1680,
+      "EnumName": "SHOP_TAB_NAME_START_21",
+      "Content": "商店Tab结束",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1681,
+      "EnumName": "TALENT_COST_TALENT_LIMIT",
+      "Content": "花费足够灵光点可参悟：{0}",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1682,
+      "EnumName": "PERMANENT_INCREASE_HP_MAX_BASE",
+      "Content": "生命上限+{0}点",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1683,
+      "EnumName": "PERMANENT_INCREASE_MP_MAX_BASE",
+      "Content": "法力上限+{0}点",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1684,
+      "EnumName": "PERMANENT_INCREASE_STAMINA_MAX_BASE",
+      "Content": "气力上限+{0}点",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1685,
+      "EnumName": "PERMANENT_INCREASE_DEF_BASE",
+      "Content": "防御+{0}点",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1686,
+      "EnumName": "PERMANENT_INCREASE_STAMINA_RECOVER_BASE",
+      "Content": "气力回复+{0}点",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1687,
+      "EnumName": "PERMANENT_INCREASE_FREEZE_DEF_BASE",
+      "Content": "寒冻耐性+{0}点",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1688,
+      "EnumName": "PERMANENT_INCREASE_BURN_DEF_BASE",
+      "Content": "火焚耐性+{0}点",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1689,
+      "EnumName": "PERMANENT_INCREASE_POISON_DEF_BASE",
+      "Content": "毒伤耐性+{0}点",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1690,
+      "EnumName": "PERMANENT_INCREASE_THUNDER_DEF_BASE",
+      "Content": "雷蛰耐性+{0}点",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1691,
+      "EnumName": "TALENT_PLAYER_LEVEL",
+      "Content": "等级",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1692,
+      "EnumName": "TALENT_RANK_COST_TALENTPOINT",
+      "Content": "棍法下花费的灵光点总数",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1693,
+      "EnumName": "SETTING_GRAPHICS_DETAIL",
+      "Content": "画质",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1694,
+      "EnumName": "SETTING_SUBTITLE_PREVIEW",
+      "Content": "字幕样式预览",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1695,
+      "EnumName": "SHRINE_SOULSKILL_STRENGTH_TITLE",
+      "Content": "炼精",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1696,
+      "EnumName": "SHRINE_SOULSKILL_STRENGTH_TIPS",
+      "Content": "可在此处炼精",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1697,
+      "EnumName": "SETTING_TAB_LANGUAGE",
+      "Content": "语言",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1698,
+      "EnumName": "BTN_TITILE_COST_NOT_ENOUGH",
+      "Content": "材料不足",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1699,
+      "EnumName": "BTN_TITILE_HAS_BUILD_SOULSKILL",
+      "Content": "已完成强化",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1700,
+      "EnumName": "BTN_TITILE_LONG_PRESS_STRENGTH",
+      "Content": "长按强化",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1701,
+      "EnumName": "CHAPTER_AWARD_NEW_LEGACY",
+      "Content": "取得新根器",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1702,
+      "EnumName": "CHAPTER_AWARD_NEW_LEGACY_POINT",
+      "Content": "可额外参悟一个大圣天赋",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1703,
+      "EnumName": "SETTING_RESET_ALL_CONFIRM",
+      "Content": "确定恢复全部设置项为默认设置？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1704,
+      "EnumName": "BTN_TITILE_NEED_PREBUILD",
+      "Content": "需要前置强化",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1705,
+      "EnumName": "SETIING_DLSS_TIPS_SUPPORT",
+      "Content": "您的显卡不支持DLSS帧生成技术，此设置项无法开启。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1706,
+      "EnumName": "SETIING_DLSS_TIPS_DX12",
+      "Content": "您的操作系统版本或显卡不支持FSR帧生成技术，此设置项无法开启。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1707,
+      "EnumName": "TRAVEL_NOTES_TITLE_ECHO",
+      "Content": "回声",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1708,
+      "EnumName": "TALENT_BASE_TITLE",
+      "Content": "根基",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1709,
+      "EnumName": "TALENT_BASE_DESC",
+      "Content": "提升气力，扎实武艺，加强身段修行。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1710,
+      "EnumName": "TALENT_ADVANCED_TITLE",
+      "Content": "棍法",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1711,
+      "EnumName": "TALENT_ADVANCED_DESC",
+      "Content": "学习招式，精进棍术，壮大棍势。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1712,
+      "EnumName": "TALENT_QISHU_TITLE",
+      "Content": "奇术",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1713,
+      "EnumName": "TALENT_QISHU_DESC",
+      "Content": "随机应变的奇巧法术，进退自如的外道神通。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1714,
+      "EnumName": "TALENT_SHENFA_TITLE",
+      "Content": "身法",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1715,
+      "EnumName": "TALENT_SHENFA_DESC",
+      "Content": "虚实莫测的修身法术，刚柔并济的内道神通。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1716,
+      "EnumName": "TALENT_HAOMAO_TITLE",
+      "Content": "毫毛",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1717,
+      "EnumName": "TALENT_HAOMAO_DESC",
+      "Content": "体用合一的毫毛法术，绝处逢生的通天神通。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1718,
+      "EnumName": "TALENT_BIANSHEN_TITLE",
+      "Content": "变化",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1719,
+      "EnumName": "TALENT_BIANSHEN_DESC",
+      "Content": "千般百样的变身法术，相生相克的彻地神通。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1721,
+      "EnumName": "SETTING_AUDIO_OUTPUT_EARPHONE",
+      "Content": "耳机",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1722,
+      "EnumName": "SETTING_AUDIO_OUTPUT_AUDIO",
+      "Content": "音响（环绕声）",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1723,
+      "EnumName": "SETTING_AUDIO_OUTPUT_TV",
+      "Content": "电视",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1724,
+      "EnumName": "SETTING_DYNAMIC_RANGE_SMALL",
+      "Content": "小",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1725,
+      "EnumName": "SETTING_DYNAMIC_RANGE_MIDDLE",
+      "Content": "中",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1726,
+      "EnumName": "SETTING_DYNAMIC_RANGE_BIG",
+      "Content": "大",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1727,
+      "EnumName": "DROP_ECHO_UPDATE_TITLE",
+      "Content": "回声更新",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1728,
+      "EnumName": "DROP_ECHO_COLLECT_TITLE",
+      "Content": "回声已收录",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1729,
+      "EnumName": "ECHO_PLAY_TITLE",
+      "Content": "聆听回声",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1730,
+      "EnumName": "ECHO_STOP_TITLE",
+      "Content": "停止",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1731,
+      "EnumName": "GAME_VERSION",
+      "Content": "游戏版本",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1732,
+      "EnumName": "SYSTEM_VERSION",
+      "Content": "系统版本",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1733,
+      "EnumName": "CPU_MODEL",
+      "Content": "中央处理器",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1734,
+      "EnumName": "GPU_MODEL",
+      "Content": "显卡型号",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1735,
+      "EnumName": "GPU_DRIVER_VERSION",
+      "Content": "显卡驱动",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1736,
+      "EnumName": "GPU_MEMORY_SIZE",
+      "Content": "显卡内存",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1737,
+      "EnumName": "SYSTEM_MEMORY_SIZE",
+      "Content": "系统内存",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1738,
+      "EnumName": "CLOUD_MOVE_IN_BATTLE_TIPS",
+      "Content": "打斗中，无法腾云",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1739,
+      "EnumName": "BENCHMARK_CONFIRM",
+      "Content": "确定进行性能测试吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1740,
+      "EnumName": "BENCHMARK_BACKTOSETTING_CONFIRM",
+      "Content": "确定返回设置吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1741,
+      "EnumName": "BENCHMARK_REDO_CONFIRM",
+      "Content": "确定重新运行性能测试？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1742,
+      "EnumName": "SETTING_GORE_CLOASE",
+      "Content": "关闭",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1743,
+      "EnumName": "SETTING_GORE_GENTLE",
+      "Content": "和缓",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1744,
+      "EnumName": "SETTING_GORE_OPEN",
+      "Content": "打开",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1745,
+      "EnumName": "SHRINE_HULU_UPGRADE_TITLE",
+      "Content": "葫芦升级",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1746,
+      "EnumName": "SHRINE_HULU_UPGRADE_TIPS",
+      "Content": "葫芦升级Tips",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1747,
+      "EnumName": "SHRINE_WINE_UPGRADE_TITLE",
+      "Content": "放入三冬虫",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1748,
+      "EnumName": "SHRINE_WINE_UPGRADE_TIPS",
+      "Content": "在酒坛内放入三冬虫，提升酒的功效",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1749,
+      "EnumName": "WINE_STRENGTH_TAB_NAME",
+      "Content": "酒",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1750,
+      "EnumName": "BOSS_ROOM_LEARN_TALENT_TIPS",
+      "Content": "目前状态无法参悟天赋",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1751,
+      "EnumName": "BOSS_ROOM_CHANGE_EQUIP_TIPS",
+      "Content": "目前状态无法更换该物品",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1752,
+      "EnumName": "BENCHMARK",
+      "Content": "性能测试",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1753,
+      "EnumName": "IS_START_NEW_GAME_PLUS",
+      "Content": "是否踏入新的轮回，重走西游之路？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1754,
+      "EnumName": "BTN_TITILE_HAS_UPGRADE",
+      "Content": "已升级",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1755,
+      "EnumName": "AGREEMENT_POLICY_AGREE",
+      "Content": "同意",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1756,
+      "EnumName": "AGREEMENT_POLICY_DISAGREE",
+      "Content": "不同意",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1757,
+      "EnumName": "AGREEMENT_POLICY_EULA_TITLE",
+      "Content": "最终用户许可协议",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1758,
+      "EnumName": "AGREEMENT_POLICY_EULA_TIPS",
+      "Content": "<820Privacy_Title>更新日期：2024 年 5 月 31 日</>\r\n\r\n\r\n<820Privacy_Title>前言</>\r\n\r\n\r\n1 本最终用户许可协议（以下简称为“本协议”）是由您（以下亦称为“用户”）与杭州游科互动科技有限公司（以下称为“游戏科学  ”）之间关于用户安装、使用游戏科学旗下游戏软件和相关服务所订立的协议。本协议具有合同效力。\r\n\r\n2 在您使用游戏科学提供的游戏或服务之前，游戏科学特别提醒您应认真阅读、充分理解本协议中的所有条款，特别是免除或者减轻游戏科学责任的条款、限制用户权利的条款、法律适用和争议解决条款，并选择接受或不接受。此类条款可能以黑体加粗形式标注。\r\n\r\n3 如您不同意本协议的任何条款，则不得安装、使用本协议所涉游戏或服务。您的安装、使用等行为将视为对本协议的认可，并同意接受本协议各项条款的约束。此后您不得再以未阅读/未同意本协议内容为由提出抗辩。\r\n\r\n4 如果您未满18周岁或非为完全民事行为能力人 ，请在监护人的陪同下阅读本协议，并特别注意未成年人使用条款等内容，并在取得监护人对本协议全部条款的同意之后，方可使用游戏科学提供的游戏或服务。\r\n\r\n\r\n\r\n<820Privacy_Title>第一条 定义与解释</>\r\n\r\n\r\n1.1 “游戏”指游戏科学提供的游戏软件（包括在游戏主机、电脑、移动智能设备等终端设备上，以客户端、程序应用或其他形式运行的版本）以及游戏相关的更新、升级、补丁、资料片等，包括但不限于程序代码、图像、音频、视频、文档等所有相关组成部分。\r\n\r\n1.2 “服务”指游戏科学向您提供的与上述游戏有关的在线运营服务、客户服务等，并包括游戏本身。\r\n\r\n1.3 “用户”指通过合法途径购买并安装游戏或接受服务的自然人或实体。\r\n\r\n1.4 “许可”指的是用户在遵守本协议全部条款的前提下，被游戏科学授予的非商业使用性质的、可撤销的、可变更的、非专有的、不可转让、不可转授权的使用本游戏及服务的权利。\r\n\r\n1.5 “第三方平台”指使用本游戏和服务时，有时需要登录游戏科学以外的第三方所提供的游戏平台。\r\n\r\n1.6 本协议中的所有标题仅为方便阅读，本身并无实际涵义，不影响对协议内容的解释。\r\n\r\n\r\n\r\n<820Privacy_Title>第二条 使用许可范围与限制</>\r\n\r\n\r\n2.1 在用户同意本协议全部条款的前提下，游戏科学同意授予用户非商业使用性质的、可撤销的、可变更的、非专有的、不可转让、不可转授权的使用本游戏和服务的权利。用户有权在个人使用的终端设备上根据本游戏的设计，运行本游戏的一份副本并享受游戏科学的服务。\r\n\r\n2.2 未经游戏科学事先书面同意，用户不得实施以下行为（包括营利性和非营利性的） ：\r\n（1）利用反向工程、反向编译、反汇编等技术手段破解、拆解或以其他方式试图获取游戏的源代码；\r\n（2）复制、分发、传播或展示游戏源代码、使用手册和图文印象资料内容；\r\n（3）公开展示，或以任何形式、在任何平台表演或播放游戏/服务的内容；  \r\n（4）制作游戏的衍生作品或以其他方式利用游戏进行创作；  \r\n（5）出租、出借或以其他方式转让游戏的使用权，或利用游戏从事任何营利活动；\r\n（6）删除、修改或遮盖游戏程序、动画、包装和文档等内容中的游戏科学名称、版权或商标信息、其他知识产权声明等内容；\r\n（7）其他违反著作权法、商标法、计算机软件保护条例和相关法律法规、国际条约、公约的行为。\r\n\r\n\r\n\r\n<820Privacy_Title>第三条 权利声明</>\r\n\r\n\r\n3.1 游戏科学拥有本游戏和相关服务的所有权利，以及其中包含的数据和内容，包括但不限于游戏名称、程序源代码、角色名称、形象、装备、特技设定、概念定义、资料信息、故事情节、对话文本、美术、图案、景观设计、动画、声音、音乐、视听效果、操作界面、操作方法以及所有相关文档(合称为“游戏内容”)。本游戏和游戏内容受著作权法和其他知识产权法律法规、国际条约和公约的保护。本游戏和游戏内容相关的计算机软件著作权、美术作品著作权、商标权、专利权等知识产权和商业秘密等合法权益均属于游戏科学。\r\n\r\n3.2 用户仅获得游戏的使用权。\r\n\r\n3.3 本协议未明确授予用户的权利均由游戏科学保留，包括但不限于从中创作衍生作品   的权利。用户同意不会基于游戏或游戏内容创作任何具有作者身份的作品，且不会使用游戏科学的名称、商标、域名或标语，除非事先经游戏科学书面同意。\r\n\r\n\r\n\r\n<820Privacy_Title>第四条 更新、支持  与第三方平台</>\r\n\r\n\r\n4.1 游戏科学有权根据需要提供或部署补丁对游戏进行更新、升级或修改，以改进游戏的用户体验、功能、性能或安全性。\r\n\r\n4.2 游戏科学将根据情况提供必要的技术支持，但不保证能够解决所有用户遇到的问题。用户应自行承担因使用游戏而产生的风险和后果。\r\n\r\n4.3 用户使用本游戏和服务时，有时需要登录游戏科学以外的第三方平台，在这种情况下，用户应遵守第三方平台的使用规则和服务条款。除非是直接与本游戏和服务相关联，游戏科学不对第三方平台的服务或内容承担任何责任。\r\n\r\n\r\n\r\n<820Privacy_Title>第五条 隐私政策</>\r\n\r\n\r\n5.1 游戏科学将严格遵守相关法律法规，保护用户的个人信息安全。用户的个人信息包括用户注册资料中的真实姓名、身份证件号码、联系方式、家庭住址、游戏账号等。未经用户同意，游戏科学不会将用户的个人信息提供给第三方。\r\n\r\n5.2 用户知悉并同意游戏科学在下列情形下有权向相关主体提供用户的个人信息：\r\n（1）为订立或履行用户作为一方当事人的合同所必需的；  \r\n（2）为履行法定义务，或紧急情况下为保护用户或他人的生命健康和财产安全所必需的；\r\n（3）行政机关或司法机关基于法定程序要求游戏科学提供的；  \r\n（4）在合理范围内处理用户自行公开或者已经合法公开的个人信息；\r\n（5）用户或者其监护人授权游戏科学披露或使用的；\r\n（6）游戏科学为维护自身合法权益而向用户提起诉讼或仲裁；   \r\n（7）法律、行政法规规定的其他情形。\r\n\r\n5.3 为保障用户的隐私权、规范对用户个人信息的利用，游戏科学制定了《隐私政策》、《儿童个人信息保护规则》，请用户详细阅读该政策的内容。   \r\n\r\n5.4 为优化用户体验，游戏科学经用户同意后，可能会收集用户使用游戏时的相关信息（以下称“用户游戏信息”），包括游戏中的统计数据、使用历史以及您用于游戏的设备硬件配置等。用户知悉游戏科学出于维护、运营和支持以及营销的目的分析和使用用户游戏信息，具体内容详见《数据采集和处理协议》。   无论是否同意游戏科学收集上述信息，都不会影响您正常使用本游戏和服务。\r\n \r\n\r\n\r\n<820Privacy_Title>第六条 游戏科学的义务</>\r\n\r\n\r\n6.1 游戏科学同意通过互联网络或其他形式，按照本协议约定，为用户提供游戏和服务。\r\n\r\n\r\n\r\n<820Privacy_Title>第七条 用户的义务</>\r\n\r\n\r\n7.1 用户应自行配备用于安装、使用本游戏和服务的终端设备（包括但不限于游戏主机、电脑、移动智能设备、平板电脑等）。\r\n\r\n7.2 用户应遵守本协议的约定、其他相关规则和制度的规定（包括但不限于用户签署的隐私协议或服务协议，以及官方网站、官方微信公众号或本游戏内不时发布并修订的协议、用户守则、公告及通知等内容），遵守中华人民共和国相关法律法规（如果用户是中华人民共和国境外的使用者，还应遵守所在或所属国家或地区的法律法规）。\r\n\r\n7.3 用户必须为自己账号下的一切行为负责，包括但不限于用户所发表的任何内容以及由此产生的任何后果。\r\n\r\n7.4 用户除了可以按照本协议的约定使用本游戏和服务之外，不得进行任何侵犯游戏科学的知识产权或权益的行为，或者进行其他的有损于游戏科学或其他第三方合法权益的行为。\r\n\r\n\r\n\r\n<820Privacy_Title>第八条 不正当行为</>\r\n\r\n\r\n8.1 用户应当自行承担其所发布的信息内容所涉及的责任。特别地，用户不得发布下列内容：\r\n（1）反对中华人民共和国宪法所确定的基本原则的  ；\r\n（2）危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；\r\n（3）损害国家荣誉和利益的；\r\n（4）煽动民族仇恨、民族歧视，破坏民族团结的；\r\n（5）破坏国家宗教政策，宣扬邪教和封建迷信的；\r\n（6）散布谣言，扰乱社会秩序，破坏社会稳定的；\r\n（7）散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；\r\n（8）侮辱或者诽谤他人，侵害他人合法权益的；\r\n（9）宣扬、教唆使用外挂、私服以及木马的相关内容的；\r\n（10）发布任何经游戏科学合理判断为不妥当或者游戏科学未认可的软件、文件等在内的主页地址或者链接的；\r\n（11）含有中华人民共和国法律、行政法规禁止的其他内容的。\r\n\r\n8.2 用户不得通过不正当、不公平的手段使用本游戏或服务，包括但不限于下列行为：\r\n（1）删除游戏及其副本上有关著作权及其他知识产权的声明或信息；\r\n（2）对游戏进行反向工程、反向汇编、反向编译或者以其他方式获取软件代码；\r\n（3）对游戏进行扫描、探查、测试，以检测、发现、查找其中可能存在的Bug或弱点；\r\n（4）对游戏或者游戏运行过程中释放到任何终端内存中的数据、游戏运行过程中客户端与服务器端的交互数据，以及游戏运行所必需的系统数据，进行复制、修改、增加、删除、挂接运行或创作任何衍生作品，形式包括但不限于使用插件、外挂或非经合法授权的第三方工具/服务接入游戏和相关系统；\r\n（5）修改或伪造游戏运行中的指令、数据，增加、删减、变动游戏的功能或运行效果，或者将用于上述用途的软件、工具、方法进行运营或向公众传播，无论是否基于营利目的而实施上述行为；\r\n（6）通过非游戏科学开发或授权的第三方软件、插件、外挂、系统，使用本游戏或服务，或制作、发布、传播非游戏科学开发、授权的第三方软件、插件、外挂、系统；\r\n（7）对本游戏中游戏科学拥有知识产权或权益的内容进行使用、出租、出借、复制、修改、链接、转载、汇编、发表、出版、建立镜像站点等；\r\n（8）建立有关游戏科学、本游戏或服务的镜像站点，或者进行网页快照、利用架设服务器等方式，为他人提供与本游戏或服务完全相同或者类似的软件或服务；\r\n（9）将本游戏或服务的任意部分分离出来单独使用，或者进行其他的不符合本协议的使用；\r\n（10）使用、修改或遮盖游戏科学、本游戏或服务名称、商标或其他知识产权；\r\n（11）其他未经游戏科学事先书面授权的行为。\r\n\r\n8.3 用户不得干扰游戏科学正常地提供软件和服务，包括但不限于：攻击、侵入游戏科学的网站服务器，或集中时间段内以超出正常用户登录需求的高频率登录或尝试登录服务器从而使网站服务器过载；破解、修改游戏科学提供的游戏软件程序；攻击、侵入游戏科学的服务器/服务器端程序或使游戏服务器过载；制作、发布、传播、使用任何形式的妨碍游戏公平性的辅助工具或程序（包括但不限于“外挂”, “外挂”是指独立于游戏软件之外的，能够在游戏运行的同时影响游戏操作的所有程序，包括但不限于模拟用户操作、改变操作环境、修改数据等一切类型）。用户不得：利用程序的漏洞和错误（Bug）破坏游戏的正常进行或传播该漏洞或错误（Bug）；不合理地干扰或阻碍他人使用游戏科学所提供的软件和服务；通过异常或者非法的方式使用游戏科学的游戏、服务、软件；使用异常的方法登录游戏（包括但不限于使用非游戏科学开发、授权或认可的第三方软件、系统登录游戏）、使用外挂软件或机器人程序等恶意破坏服务设施、扰乱正常服务秩序的行为；修改、翻译、注释、整理、汇编、演绎游戏科学的游戏软件；利用本游戏可能存在的技术缺陷或漏洞而以各种形式为自己及他人牟利或者从事其他不正当行为等。\r\n\r\n\r\n\r\n<820Privacy_Title>第九条 免责声明</>\r\n\r\n\r\n9.1 游戏科学的游戏以“现状”提供给用户，不保证游戏完全没有错误或缺陷及不会中断。除游戏科学存在故意或重大过失的情况外，用户应自行承担因游戏运行中的故障、错误、缺陷、数据丢失等造成的风险和后果。  \r\n\r\n9.2 对于因用户使用游戏而产生的任何直接、间接、特殊、偶然或必然的损失或损害，包括但不限于财产损失、数据丢失、业务中断等，除游戏科学存在故意或重大过失的情况外，游戏科学不承担赔偿责任。\r\n\r\n9.3 用户应自行确保其终端设备满足运行游戏的最低系统要求，并采取必要的安全措施保护其终端设备和数据安全。游戏科学对因用户终端设备或网络安全问题导致的损失或损害不承担责任。\r\n\r\n9.4 用户充分理解不同终端设备、不同操作系统之间存在不互通的客观情况，该客观情况并非游戏科学造成，由此可能导致用户在某一终端设备、某一操作系统中的数据不能顺利转移到另一终端设备、另一操作系统中。由于用户在不同终端设备、不同操作系统进行切换造成的数据丢失等风险应由用户自行承担，不得要求游戏科学承担任何责任。\r\n\r\n9.5 游戏科学可独立决定随时变更、中止、终止用户对本游戏或服务的使用，无须向用户发出任何提前通知，但根据法律法规规定或与本协议约定需要提前通知的除外。若因用户的行为违反法律法规的规定或本协议的约定，游戏科学根据相关规定或约定中止、终止用户使用本游戏或服务，则游戏科学无须向用户承担任何责任，且有权要求用户承担相应的责任。\r\n\r\n\r\n\r\n<820Privacy_Title>第十条 服务的中止、终止</>\r\n\r\n\r\n10.1 对用户服务的中止、终止 \r\n\r\n(1)用户有发布违法信息、严重违背社会公德、以及其他违反法律禁止性规定的行为的，应当立即停止使用本游戏并自行卸载，游戏科学有权立即终止对用户提供服务  ；\r\n(2)用户在接受游戏科学服务时实施不正当行为的，游戏科学有权终止对用户提供服务。该不正当行为的具体情形应当在本协议中有明确约定或属于游戏科学事先明确告知的应被终止服务的禁止性行为，否则，游戏科学不得终止对用户提供服务。用户账号内的虚拟物品使用权随服务的终止而终止。\r\n（3）用户提供虚假注册身份信息，或实施违反本协议的行为，游戏科学有权中止对用户提供全部或部分服务；游戏科学采取中止措施应当通知用户并告知中止期间，中止期间应当是合理的，中止期间届满游戏科学应当及时恢复对用户的服务。用户账号内的虚拟物品使用期限不因服务的中止而延长。\r\n\r\n10.2 服务终止后，游戏科学不再对用户承担任何义务或责任。用户应自行承担因服务终止而产生的任何损失或损害。\r\n\r\n10.3 单机游戏服务的特别说明\r\n\r\n主体为单机游戏的游戏服务中，全部游戏数据将保存在您的终端设备上，一旦用户卸载、重装游戏，或用户的终端设备损坏导致游戏无法正常启动的，用户的全部游戏数据将无法恢复。如用户需将游戏数据保存在游戏服务器中的，需要联网进行数据保存操作。  \r\n\r\n\r\n\r\n<820Privacy_Title>第十一条 法律适用与争议解决</>\r\n\r\n\r\n11.1 本协议的订立、效力、解释、履行及争议解决均适用中华人民共和国法律并排除其他一切冲突法的适用。\r\n\r\n11.2 本协议订立于杭州市西湖区。如双方就本协议产生任何争议，应首先通过友好协商解决；协商不成时，双方同意交由本协议订立地有管辖权的人民法院管辖并处理。\r\n\r\n11.3 如本协议中的任何条款因任何原因被认定为无效或不可执行，该无效或不可执行不影响其他条款的效力或可执行性。双方应协商确定新的条款以替代无效或不可执行的条款。\r\n\r\n\r\n\r\n<820Privacy_Title>第十二条 协议生效与变更</>\r\n\r\n\r\n12.1 本协议自用户点击“接受”或“同意”按钮或以其他方式签署本协议之日起生效，并持续有效至双方依据本协议的约定终止本协议。\r\n\r\n12.2 本协议构成双方之间关于本游戏和服务的完整协议，并取代之前所有的口头或书面协议、声明或保证。\r\n\r\n12.3 游戏科学可随时更新本协议，更新的协议条款公布后即代替原来的协议条款，修改后的协议将通过游戏内公告、官方网站或其他适当方式通知用户。在游戏科学修改协议条款后，如用户不接受修改后的条款，请立即停止使用游戏科学提供的游戏或服务，用户继续使用游戏科学提供的游戏或服务将被视为已接受了修改后的协议。\r\n\r\n12.4 本协议的解释权归游戏科学所有。对于本协议中未明确约定的事项，双方应依据公平、诚实信用的原则协商解决。\r\n\r\n12.5 游戏科学不行使、未能及时行使或者未充分行使本协议或者按照法律规定所享有的权利，不应被视为放弃该权利，也不影响游戏科学在将来行使该权利。\r\n\r\n\r\n\r\n<820Privacy_Title>第十三条 通知</>\r\n\r\n\r\n13.1 游戏科学向用户发出的任何通知或信息，可通过游戏内公告、电子邮件、短信、官方网站或其他适当方式进行。用户应确保提供给游戏科学的联系方式真实有效，以便及时接收通知。\r\n\r\n13.2 如用户需要向游戏科学发出任何通知或请求，可联系官方客服邮箱：privacy@gamesci.com.cn。游戏科学将尽快处理用户的合法请求和反馈。\r\n\r\n\r\n\r\n<820Privacy_Title>第十四条 未成年人使用条款</>\r\n\r\n\r\n14.1 如用户为18周岁以下的未成年人， 应确保家长或监护人了解并同意本协议的所有内容，并在家长或监护人的陪同下使用游戏。家长或监护人应对未成年人用户在使用本游戏或服务过程中的行为承担全部责任。\r\n\r\n14.2 游戏科学重视未成年人隐私的保护，将严格按照相关法律法规的要求，采取适当的技术和管理措施，保护未成年人个人信息。\r\n\r\n14.3 未成年人用户必须遵守全国青少年网络文明公约：要善于网上学习，不浏览不良信息；要诚实友好交流，不侮辱欺诈他人；要增强自护意识，不随意约会网友；要维护网络安全，不破坏网络秩序；要有益身心健康，不沉溺虚拟时空。\r\n\r\n\r\n\r\n<820Privacy_Title>第十五条 附则</>\r\n\r\n\r\n15.1 本协议中的“包括但不限于”意味着所列出的内容仅为示例，并非穷尽所有可能的情况。\r\n\r\n15.2 本协议以中文书写，如有任何语言版本之间的冲突或不一致，应以中文版本为准。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1759,
+      "EnumName": "AGREEMENT_POLICY_PRIVACY_TITLE",
+      "Content": "个人信息保护政策",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1760,
+      "EnumName": "AGREEMENT_POLICY_PRIVACY_TIPS",
+      "Content": "<820Privacy_Title>更新日期：2024 年 5 月 31 日</>\r\n\r\n\r\n<820Privacy_Title>前言</>\r\n\r\n\r\n欢迎您选择由杭州游科互动科技有限公司（以下简称“我们”，注册地为中华人民共和国浙江省杭州市）提供的游戏（以下简称“本游戏”），浏览我们的网站（以下简称“服务”）！您在使用服务时，我们可能会收集和使用您的相关个人信息。我们希望通过《隐私和Cookie协议》（以下简称“本协议”）向您说明我们在收集和使用您相关个人信息时对应的处理规则等相关事宜，以便更好地保障您的权益。\r\n\r\n在使用服务前，请您务必仔细阅读并透彻理解本协议，在确认充分理解并同意后再开始使用。如果您不同意本协议的内容，将可能导致服务无法正常提供，或者无法达到我们拟达到的服务效果，您应立即停止访问/使用服务。\r\n\r\n本协议将帮助您了解以下内容：\r\n1.\t我们收集的信息\r\n2.\t我们如何收集您的信息\r\n3.\t我们如何使用您的信息\r\n4.\t我们如何共享您的信息\r\n5.\t我们如何保护您的信息\r\n6.\t您的选择和控制\r\n7.\t未成年人的个人隐私\r\n8.\t更新和通知\r\n9.\t联系我们\r\n \r\n\r\n\r\n<820Privacy_Title>第一条 我们收集的信息</>\r\n\r\n\r\n我们收集的信息取决于您使用的服务以及您使用服务的方式。\r\n\r\nA.\t您直接向我们提供的信息\r\n\r\n我们收集您向我们提供的信息，例如：\r\n•\t您的账户信息，包括您的电子邮件地址、电话号码、真实姓名或其它身份信息；\r\n•\t您在回应有关我们服务的问卷调查时提供的信息；以及\r\n•\t您在向我们寻求帮助时提供的信息，例如您的姓名、电话号码和您遇到的问题的记录（包括通话记录）。\r\n\r\nB.\t您进行在线游戏时提供的信息\r\n\r\n当您游玩我们的在线游戏时，我们会收集您的游戏内个人资料信息、游玩情况以及游戏数据，并且部分此类信息可能在游戏中可见。\r\n\r\nC.\t我们在您使用我们的服务时收集的其他信息\r\n\r\n在您使用我们的服务时，我们可能会自动收集其他信息，例如：\r\n•\tIP 地址；\r\n•\t与您的设备、硬件和软件有关的信息，例如硬件标识符、移动设备标识符；\r\n•\t大致的地理位置数据（从 IP 地址或设备设置得出）；\r\n•\t浏览器信息，包括您的浏览器类型和语言偏好；\r\n•\t引用页面和退出页面，包括已浏览的页面以及与网页内容的其他交互；\r\n•\t设备事件信息，包括崩溃报告、请求和引荐 URL 以及系统活动详细信息（例如，您在玩我们的游戏时是否遇到错误或掉线）；以及\r\n•\t您在参加现场活动时可能提供的其他信息（例如您的肖像）。\r\n\r\n我们还可能会利用 cookie、浏览器 Web 存储（包括 HTML 5）和应用程序数据缓存等机制，在您的本地设备上收集和存储信息。\r\n\r\n请注意，如果我们服务的某些功能是由第三方提供的，则这些第三方也可能使用自动收集数据的方法，并可能随着时间的推移记录有关您使用服务或其他网站的信息。这些功能受第三方隐私通知和政策的约束。\r\n\r\n\r\n\r\n<820Privacy_Title>第二条 我们如何收集您的信息</>\r\n\r\n\r\n我们和第三方使用以下技术来收集信息，以提供我们的服务。\r\n\r\nA.\tCookie 和类似技术\r\n\r\nCookie是一种文本文件，当您加载某个特定网址时，会被存储到您的设备或浏览器中。Cookie有很多不同的功能，比如为您带来高效的页面导航体验，记住您的偏好，以及改善用户的整体体验。举例而言，cookie可能会告诉我们，您以前是否使用过服务，或者您是否是新用户。\r\nCookie被广泛使用以使网站更好的运行或更有效地工作，并为网站所有者报告信息。由网站所有者设置的cookie称为“第一方cookie”。由网站所有者以外的第三方设置的cookie称为“第三方cookie”（例如网站数据分析）。\r\n\r\n我们使用必要的cookie、日志文件和类似的文件或技术以保证服务正常运行。经过您的同意，我们也可能使用非必要的cookie来改善用户体验和分析网站流量。\r\n\r\nB.\t分析技术\r\n\r\n我们使用内部和第三方分析技术来收集关于您如何使用我们的服务、您的计算机或设备以及我们的服务运行状况的信息。\r\n\r\n例如，当您使用我们的服务时，我们可能会收集和存储来自您的计算机或设备的数据。这些信息包括：与您的计算机、设备和操作和/或网络系统有关的技术和相关信息（例如 IP 地址和设备标识符）；与您对某些功能的使用情况有关的信息；游戏和使用情况统计数据；以及系统交互和外设。如果您在未连接到互联网的情况下离线玩游戏，这些数据将存储在您的设备上，并在您的设备连接到互联网时传输给我们。如果您参与在线服务，我们也可能会收集、使用、存储和传输您的游戏设置相关的人物角色和/或统计数据。\r\n\r\n\r\n\r\n<820Privacy_Title>第三条 我们如何使用您的信息</>\r\n\r\n\r\n我们采用以下方式单独和共同使用您的个人信息。\r\n\r\nA.\t运行我们的服务并且提高和定制您的游戏体验，包括以下措施：\r\n•\t运营、分析、改进和开发我们的游戏和服务；\r\n•\t进行研究和分析，开发和展示我们的技术，并更好地了解我们的玩家；\r\n•\t衡量我们服务的运行状况；\r\n•\t设置并维护您注册的账户；\r\n•\t识别、修复和排除漏洞或功能错误；\r\n•\t符合您的偏好并提供内容；\r\n•\t帮助确保我们的服务安全和公平，解决争议，调查并帮助遏制欺诈和非法行为，遵守法律，并强制执行我们的协议和政策；以及\r\n•\t在您提供个人信息时您同意、获知或以其他方式向您披露的其他用途。\r\n\r\nB.\t向您提供支持，包括：\r\n•\t帮助识别和解决您的账户或服务的问题；\r\n•\t问卷调查；\r\n•\t与您沟通并回复您的具体请求或问题；以及\r\n•\t管理和发送关于您的账户、服务、订阅和保证的确认和重要信息。\r\n\r\nC.\t个性化我们与您的通信，包括：\r\n•\t为您提供游戏相关内容、推荐或信息；以及\r\n•\t为您提供服务更新。\r\n\r\nD.\t保留\r\n\r\n我们会在提供服务所必需的时间内保留所收集的信息，但基于法律、运营或其他正当原因，若有必要，我们保留信息的时间可能会超出这个期限。\r\n\r\n在可能的情况下，我们也可能去识别化、匿名化或汇总我们收集的信息，或者以不直接识别您身份的方式收集信息。在适用法律允许的情况下，我们可能出于业务目的而使用和共享此类信息。\r\n\r\n\r\n\r\n<820Privacy_Title>第四条 我们如何共享您的信息</>\r\n\r\n\r\nA.\t委托处理\r\n\r\n本业务功能中某些具体的模块或功能由外部供应商提供。对我们委托处理个人信息的公司、组织和个人，我们会与其签署严格的保密协定，要求他们按照我们的要求、本协议以及其他任何相关的保密和安全措施来处理个人信息。\r\n\r\nB.\t共享\r\n\r\n我们非常重视保护您的个人信息，我们不会与本游戏服务提供者以外的公司、组织和个人共享您的个人信息，但以下情况除外：\r\n•\t在获取明确同意的情况下共享：获得您的明确同意后，我们会与其他方共享您的个人信息；\r\n•\t在法定情形下的共享：我们可能会根据法律法规规定、诉讼争议解决需要，或按行政、司法机关依法提出的要求，对外共享您的个人信息；以及\r\n•\t与关联方的必要共享：为便于我们基于统一的帐号体系向您提供一致化服务以及便于您进行统一管理、个性化推荐、保障系统和帐号安全等，您的个人信息可能会在我们和我们的关联方之间进行必要共享。我们只会共享必要的个人信息，如果我们共享您的个人敏感信息或关联公司改变个人信息的使用及处理目的，将再次征求您的授权同意。\r\n\r\nC.\t与第三方合作伙伴共享\r\n\r\n仅为实现外部处理的目的，我们可能会与第三方合作伙伴（第三方服务供应商、承包商、代理、广告合作伙伴、应用开发者等，例如，代表我们发出电子邮件或推送通知的通讯服务提供商）共享您的个人信息，让他们按照我们的说明、本协议以及其他相关的保密和安全措施来为我们处理上述信息，并用于以下用途：\r\n•\t向您提供我们的服务；\r\n•\t实现“我们如何收集您的信息”和“我们如何使用您的信息”部分所述目的；以及\r\n•\t履行我们在用户协议或本协议中的义务和行使我们的权利。\r\n\r\n如我们与第三方合作伙伴共享您的信息，我们将会采用加密、匿名化处理等手段保障您的信息安全。\r\n\r\nD.\t发生合并、出售或其他资产转移时的披露\r\n\r\n如果发生重组、剥离、合并、出售或破产，我们会将收集到的所有信息传输给相关第三方，如果法律或合同有规定，我们会征得您的同意。\r\n\r\nE.\t公开披露\r\n\r\n我们仅会在以下情况下，且采取符合业界标准的安全防护措施的前提下，才会披露您的个人信息：\r\n•\t根据您的需求，在您明确同意的披露方式下披露您所指定的信息；以及\r\n•\t根据法律、法规的要求、强制性的行政执法或司法要求所必须提供您信息的情况下，我们可能会依据所要求的信息类型和披露方式披露您的信息。在符合法律法规的前提下，当我们收到上述披露信息的请求时，我们会要求接收方必须出具与之相应的法律文件，如传票或调查函。我们坚信，对于要求我们提供的信息，应该在法律允许的范围内尽可能保持透明。我们对所有的请求都进行了慎重的审查，以确保其具备合法依据，且仅限于执法部门因特定调查目的且有合法权利获取的数据。\r\n\r\nF.\t共享、转让、披露信息时事先征得授权同意的例外\r\n\r\n以下情形中，共享、转让、披露您的信息无需事先征得您的授权同意：\r\n•\t与国家安全、国防安全直接相关的；\r\n•\t与公共安全、公共卫生、重大公共利益直接相关的；\r\n•\t与刑事侦查、起诉、审判和判决执行等司法或行政执法直接相关的；\r\n•\t出于维护您或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；\r\n•\t您自行向社会公众公开的信息；\r\n•\t从合法公开披露的信息中收集信息的，如合法的新闻报道、政府信息公开等渠道；以及\r\n•\t与我们履行法律法规规定的义务相关的。\r\n\r\n根据法律规定，共享、转让、披露经去标识化处理的个人信息，且确保数据接收方无法复原并重新识别信息主体的，不属于个人信息的对外共享、转让及公开披露行为，对此类数据的保存及处理将无需另行向您通知并征得您的同意。\r\n\r\n\r\n\r\n<820Privacy_Title>第五条 我们如何保护您的信息</>\r\n\r\n\r\nA.\t个人信息的存储\r\n\r\n除法律法规或监管部门另有规定外，我们仅在本协议所述目的所必需且最短的时限内存储您的个人信息。如我们终止服务或运营，我们将及时停止继续收集您个人信息的活动，同时会遵守相关法律法规要求提前向您通知，并在终止服务或运营后对您的个人信息进行删除或匿名化处理，但法律法规或监管部门另有规定的除外。\r\n我们会按照法律法规规定，将中华人民共和国境内运营中收集和产生的用户个人信息存储于中国境内。以下情形除外：（1）法律有明确规定；（2）获得您的明确授权；（3）您要求获取境外服务等个人主动行为。\r\n\r\n当我们的产品或服务发生停止运营的情况时，我们将根据相关法律法规规定进行公告通知，并依法保障您的合法权益。\r\n\r\nB.\t个人信息的保护\r\n\r\n我们非常重视信息安全，成立了专门的安全团队，并采取一切合理可行的措施，保护您的个人信息：\r\n\r\ni.\t数据安全技术措施\r\n我们会采用符合业界标准的安全防护措施，包括建立合理的制度规范、安全技术来防止您的个人信息遭到未经授权的访问、使用、修改，避免数据的损坏或丢失。\r\n我们的服务采取了多种加密技术，例如利用加密技术（例如SSL）对您的个人信息进行加密保存，并通过隔离技术进行隔离，以保护您的个人信息。\r\n在个人信息使用时，例如信息展示、信息关联计算，我们会采用多种数据脱敏技术增强信息在使用中的安全性。\r\n我们还会采用严格的数据访问权限控制和多重身份认证技术保护个人信息，避免数据被违规使用。\r\n\r\nii.\t我们为保护个人信息采取的其他安全措施\r\n•\t我们设立了个人信息保护责任部门，建立了相关内控制度，对可能接触到您的信息的工作人员采用最小够用授权原则。即我们仅允许有必要知晓这些信息的本产品和其关联公司的员工在采取合理的措施验证身份之后，访问或修改这些信息。同时，我们会严格要求他们履行保密及安全义务，如果未能履行这些义务，其会被追究法律责任或被终止与本公司的合作关系。我们通过信息接触者保密协议、监控和审计机制来对数据进行全面安全控制。我们还会举办安全和隐私保护培训课程，加强员工的安全意识以及对于个人信息保护政策和相关规程的认识；\r\n•\t为了保护您的信息安全，如果用户个人信息有误，本产品会在严格验证并核实申请人身份后，根据用户要求访问、修正或删除相关信息（除非本产品出于合法的原因而必须保留这些个人信息）；\r\n•\t我们会采取合理可行的措施，尽力避免收集无关的个人信息。我们只会在达成本协议所述目的所需的期限内保留您的个人信息，除非需要延长保留期或受到法律的允许；\r\n•\t互联网并非绝对安全的环境，而且电子邮件、即时通讯、社交软件或其他服务软件等与其他用户的交流方式无法确定是否完全加密，我们建议您使用此类工具时请使用复杂密码，并注意保护您的信息安全；\r\n•\t互联网环境并非百分之百安全，我们将尽力确保或担保您发送给我们的个人信息的安全性。如果我们的物理、技术、或管理防护设施遭到破坏，导致个人信息被非授权访问、公开披露、篡改、或毁坏，导致您的合法权益受损，我们将承担相应的法律责任；\r\n•\t您使用本游戏服务时所用的系统和通讯网络，或硬件设备等本产品均无法控制，请您了解并注意保护您的个人信息安全；\r\n•\t请注意，您在使用本游戏服务时自愿共享甚至公开分享的信息，可能会涉及您或他人的个人信息甚至个人敏感信息，如您在评价时选择上传包含个人信息的图片。请您更加谨慎地考虑，是否在使用我们的服务时共享甚至公开分享相关信息；以及\r\n•\t请使用复杂密码，协助我们保证您的账号安全。我们将尽力保障您发送给我们的任何信息的安全性。如果我们的物理、技术或管理防护设施遭到破坏，导致信息被非授权访问、公开披露、篡改或毁坏，导致您的合法权益受损，我们将承担相应的法律责任。\r\n\r\nC.\t安全事件处置\r\n\r\n为应对个人信息泄露、损毁和丢失等可能出现的风险，我们制定了多项制度，明确安全事件、安全漏洞的分类分级标准及相应的处理流程。我们也为安全事件建立了的应急响应团队，按照安全事件处置规范要求，针对不同安全事件启动安全预案，进行止损、分析、定位、制定补救措施、联合相关部门进行溯源和打击。我们亦定期组织内部培训和应急演练，使得我们的相关工作人员掌握相应的应急处置策略和规程。\r\n\r\n在不幸发生信息安全事件后，我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。我们同时将及时将事件相关情况以邮件、信函、电话、推送通知等方式告知您，难以逐一告知信息主体时，我们会采取合理、有效的方式发布公告。同时，我们还将按照监管部门要求，主动上报信息安全事件的处置情况。\r\n\r\n请您理解，由于技术的限制以及风险防范的局限，即便我们已经尽量加强安全措施，也无法始终保证信息百分之百的安全。您需要了解，您接入本游戏服务所用的系统和通讯网络，有可能因我们可控范围外的情况而发生问题。\r\n\r\n请您务必妥善保管好您的帐号、密码及其他身份要素。您在使用本游戏服务时，我们会通过您的帐号、密码及其他身份要素来识别您的身份。一旦您泄露了前述信息，您可能会蒙受损失，并可能对您产生不利。如您发现帐号、密码及/或其他身份要素可能或已经泄露时，请您立即和我们取得联系，以便我们及时采取相应措施以避免或降低相关损失。\r\n\r\n\r\n\r\n<820Privacy_Title>第六条 您的选择和控制</>\r\n\r\n\r\n关于我们收集的个人信息，我们设法向您提供有意义的选择。您可以选择的具体选项往往因我们与您关系的确切性质而不同，例如您使用的服务。常见示例包括：\r\n•\t关于我们向您收集的个人信息，您可以要求我们提供访问权限，或要求我们进行纠正或删除。请按照下文“联系我们”所述联系我们，以提交访问、更新或删除与您的帐户相关的个人信息的要求。请注意，在完成您的要求之前，我们可能要求您提供额外信息，以帮助我们核实您的身份。\r\n•\t您可以随时更改您的电子邮件营销偏好，例如通过使用我们的营销电子邮件中提供的选择退出机制，或联系我们提出要求（见下文“联系我们”）。\r\n•\t您可以更改您的浏览器或移动设备设置，以阻止、管理、删除或限制 cookie 等跟踪技术。在某些情况下，阻止或禁用 cookie 可能会导致我们的服务无法正常运行，并且一些功能可能无法使用。\r\n•\t如果您未满 18 岁并拥有Game Science帐户，您可以要求我们删除或匿名处理您在服务上提供的某些内容。请按照下文“联系我们”所述，向我们提出帮助删除或编辑服务上的内容的要求。\r\n\r\n全球部分地区根据当地法律规定的权利，为个人提供与其个人信息有关的具体选择。\r\n\r\n\r\n\r\n<820Privacy_Title>第七条 未成年人的个人隐私</>\r\n\r\n\r\n如果没有父母或监护人的同意，未成年人不得创建自己的用户账户。如您为未成年人，建议您请您的父母或监护人仔细阅读本隐私和Cookie协议，并在征得您的父母或监护人同意的前提下使用我们的服务或向我们提供信息。\r\n\r\n对于经父母或监护人同意使用我们的产品或服务而收集未成年人个人信息的情况，我们只会在法律法规允许、父母或监护人明确同意或者保护未成年人所必要的情况下使用、共享、转让或披露此信息。\r\n\r\n对于未满14周岁的未成年人信息保护政策，请具体参见《儿童个人信息保护政策》。\r\n \r\n\r\n\r\n<820Privacy_Title>第八条 更新与通知</>\r\n\r\n\r\n为了给您提供更好的服务，我们可能会根据本游戏服务的更新情况及法律法规的相关要求适时修改本协议的条款，此等修改构成本协议的一部分。我们会在本页面上公布对本协议所作的任何变更。对于重大变更，我们还会提供更为显著的通知（包括网站公告、推送通知、弹窗提示或其他方式），本协议所指的重大变更包括但不限于：\r\n•\t我们的服务模式发生重大变化。如处理个人信息的目的、处理的个人信息类型、个人信息的使用方式等；\r\n•\t我们在所有权结构方面发生重大变化。如业务调整、破产并购等引起的所有者变更等；\r\n•\t个人信息共享、转让或公开披露的主要对象发生重大变化；\r\n•\t您参与个人信息处理方面的权利及其行使方式发生重大变化；\r\n•\t我们负责处理个人信息安全的责任部门、联络方式及投诉渠道发生重大变化；以及\r\n•\t其他重要的或可能严重影响您的个人权益的情况发生。\r\n•\t您如果不同意该等变更，可以选择停止使用本游戏服务及网站服务；如您仍然继续使用本游戏服务及网站服务的，即表示您已充分阅读、理解并同意受经修订的本协议的约束。\r\n\r\n我们鼓励您在每次使用本游戏服务及本网站服务时都查阅我们的隐私和Cookie协议。\r\n\r\n\r\n\r\n<820Privacy_Title>第九条 联系我们</>\r\n\r\n\r\n我们将按照本协议保护您的个人信息。如您有关于网络信息安全的投诉和举报，或您对本协议、隐私措施、您的信息的相关事宜有任何问题、意见或建议，请通过以下方式与我们联系：privacy@gamesci.com.cn。\r\n\r\n一般情况下，我们将在收到您的问题、意见或建议，并验证您的用户身份后的15个工作内予以回复。如您不满意我们的回复，还可以向消费者权益保护部门投诉或向有管辖权的法院提起诉讼。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1761,
+      "EnumName": "AGREEMENT_POLICY_DATA_TITLE",
+      "Content": "数据储存和处理协议",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1762,
+      "EnumName": "AGREEMENT_POLICY_DATA_TIPS",
+      "Content": "<820Privacy_Title>更新日期：2024 年 5 月 31 日</>\r\n\r\n\r\n<820Privacy_Title>前言</>\r\n\r\n\r\n1 为了不断优化用户体验和游戏难度、开发新功能、提高服务质量，在得到用户（以下亦称“您”）同意的情况下，杭州游科互动科技有限公司（以下称“游戏科学”）将通过游戏程序收集并分析您在游戏过程中的相关数据（以下称“用户游戏数据”）。游戏科学特制订本《数据储存和处理协议》（以下简称“本协议”），以明确收集、储存和处理用户游戏数据的目的、方式和范围，保障您的合法权益。\r\n\r\n2 您可以自由选择是否同意本协议，即使您不同意，也不会影响您继续游戏。\r\n\r\n\r\n\r\n<820Privacy_Title>第一条 数据的收集</>\r\n\r\n\r\n1.1 收集的数据类型：\r\n•\t平台账号数据，包括账号ID，用户昵称，年龄分级；\r\n•\t游戏体验数据，包括游戏时长、单关卡耗时、死亡次数、装备选择、技能升级路线等；\r\n•\t设备硬件、软件和网络信息； \r\n•\t设备型号；\r\n•\t设备性能参数；\r\n•\t程序崩溃信息。\r\n\r\n以上数据将有助于游戏科学进行游戏平衡性优化，改善游戏体验，修复BUG。\r\n\r\n1.2 收集方式：游戏程序将在您游玩过程中自动记录上述数据，并通过加密方式传输至游戏科学的服务器或与游戏科学签约的云运营商服务器进行储存和处理。\r\n\r\n\r\n\r\n<820Privacy_Title>第二条 数据的储存</>\r\n\r\n\r\n2.1 数据安全：游戏科学将采取严格的数据加密措施，确保用户游戏数据在储存过程中不被未经授权的第三方获取或篡改。\r\n\r\n\r\n\r\n<820Privacy_Title>第三条 数据的处理</>\r\n\r\n\r\n3.1 处理目的：收集的游戏数据将仅用于游戏难度调整、用户体验优化、游戏内部统计分析、推广活动（包括统计数据的公开）等合法合规的目的。游戏科学不会将您的数据进行公开，或者用于任何与本协议约定不符的用途。\r\n\r\n3.2 数据共享：游戏科学承诺不会将您的个人游戏数据共享给任何第三方，除非事先获得您的明确同意或法律法规另有规定。\r\n\r\n3.3 匿名化处理：在进行游戏内部统计分析时，游戏科学将对收集到的数据进行匿名化处理，以确保无法直接关联到您的个人身份。\r\n\r\n\r\n\r\n<820Privacy_Title>第四条 用户的权利</>\r\n\r\n\r\n4.1 同意的撤回：您可以随时从游戏菜单“设置”界面的“游戏”页签中撤回本协议同意内容。但这不影响在您撤回之前游戏科学对数据的合法收集和处理。\r\n\r\n\r\n\r\n<820Privacy_Title>第五条 其他</>\r\n\r\n\r\n5.1 本协议自您点击“接受”或“同意”按钮或以其他方式签署本协议之日起生效，并持续有效至您撤回对本协议的同意或者注销游戏账号。\r\n\r\n5.2 对用户游戏数据的收集、存储、处理方式同时将遵循用户所在国家的个人信息收集相关法律法规的要求。\r\n\r\n5.3 关于用户的个人信息处理，本协议未包含的事项，全部以游戏科学的《隐私协议》为准。在您同意本协议之前，请先查阅和同意《隐私协议》。\r\n\r\n5.4 在不违反法律法规和本协议约定的前提下，游戏科学保留对本协议进行修改的权利。修改后的协议将通过游戏内公告或其他适当方式通知您。\r\n\r\n\r\n最后，感谢您的支持与配合，期待为您提供更优质的游戏体验！",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1763,
+      "EnumName": "AGREEMENT_POLICY_READ_TIPS",
+      "Content": "请全部阅读完毕",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1764,
+      "EnumName": "NO_ENUM_NAME_286",
+      "Content": "腾云",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1765,
+      "EnumName": "NO_ENUM_NAME_287",
+      "Content": "使出化身技",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1766,
+      "EnumName": "KEY_NOT_SUPPORT_CUSTOMIZED",
+      "Content": "当前按键不支持自定义修改。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1767,
+      "EnumName": "TRAVEL_NOTES_TITLE_GUIDEMAIN",
+      "Content": "妙诀",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1768,
+      "EnumName": "TRAVEL_NOTES_TAB_TITLE_GUIDEMAIN_START",
+      "Content": "战斗",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1769,
+      "EnumName": "NO_ENUM_NAME_288",
+      "Content": "世情",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1770,
+      "EnumName": "NO_ENUM_NAME_308",
+      "Content": "照相模式",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1772,
+      "EnumName": "TRAVEL_NOTES_TAB_TITLE_GUIDEMAIN_END",
+      "Content": "指南预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1773,
+      "EnumName": "TRAVEL_NOTES_TAB_TITLE_START",
+      "Content": "影神图",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1774,
+      "EnumName": "NO_ENUM_NAME_289",
+      "Content": "打坐蒲团",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1775,
+      "EnumName": "NO_ENUM_NAME_290",
+      "Content": "妙诀",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1776,
+      "EnumName": "TRAVEL_NOTES_TAB_TITLE_END",
+      "Content": "/",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1777,
+      "EnumName": "BENCHMARK_FPS_AVG",
+      "Content": "平均帧率：",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1778,
+      "EnumName": "BENCHMARK_SHARE",
+      "Content": "分享",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1779,
+      "EnumName": "AGREEMENT_POLICY_EULA_ANN",
+      "Content": "我已阅读并同意游戏科学的最终用户许可协议",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1780,
+      "EnumName": "AGREEMENT_POLICY_PRIVACY_ANN",
+      "Content": "我已阅读并同意游戏科学的隐私政策",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1781,
+      "EnumName": "AGREEMENT_POLICY_DATA_ANN",
+      "Content": "确定同意数据传输？后续可以随时在设置中更改此选项。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1782,
+      "EnumName": "INACTIVE_ABILITY",
+      "Content": "（尚未开启）",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1783,
+      "EnumName": "NO_ENUM_NAME_291",
+      "Content": "行走",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1784,
+      "EnumName": "SETTING_QUALITY_APPLY_TIPS",
+      "Content": "画质变更尚未应用，确定应用变更吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1785,
+      "EnumName": "SETTING_QUALITY_APPLY_SAVE",
+      "Content": "应用",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1786,
+      "EnumName": "SETTING_QUALITY_APPLY_EXIT",
+      "Content": "放弃变更",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1787,
+      "EnumName": "SETTING_QUALITY_Higher",
+      "Content": "当前设置高于推荐设置，性能可能受到影响。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1788,
+      "EnumName": "SETTING_QUALITY_APPLY_TIPS_RESTART",
+      "Content": "画质变更尚未应用，确定应用变更吗？部分设置项需要<820Privacy_Title>重新启动游戏后生效</>。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1789,
+      "EnumName": "SETTING_QUALITY_APPLY_MANUAL_RESTART",
+      "Content": "确定应用画质变更吗？部分设置项需要<820Privacy_Title>重新启动游戏后生效</>。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1790,
+      "EnumName": "SETTING_QUALITY_APPLY_MANUAL",
+      "Content": "确定应用画质变更吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1791,
+      "EnumName": "DETAIL_BTN_COST_NOT_ENOUGH",
+      "Content": "材料不足",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1800,
+      "EnumName": "NO_ENUM_NAME_292",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1801,
+      "EnumName": "DETAIL_BTN_NEED_PRE",
+      "Content": "需要前置",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1802,
+      "EnumName": "DETAIL_BTN_NEED_PRE_WB",
+      "Content": "前置兵器尚未铸造",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1810,
+      "EnumName": "NO_ENUM_NAME_293",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1811,
+      "EnumName": "DETAIL_BTN_HAS_WEARING_FABAO",
+      "Content": "已装备",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1812,
+      "EnumName": "DETAIL_BTN_HAS_OWNED",
+      "Content": "已拥有",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1813,
+      "EnumName": "DETAIL_BTN_HAS_BUILD",
+      "Content": "已铸造",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1814,
+      "EnumName": "DETAIL_BTN_HAS_WEARING",
+      "Content": "已穿戴",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1815,
+      "EnumName": "DETAIL_BTN_HAS_SELL_OUT",
+      "Content": "已售罄",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1816,
+      "EnumName": "DETAIL_BTN_HAS_LEARNING",
+      "Content": "已参悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1817,
+      "EnumName": "DETAIL_BTN_HAS_WEARING_HULU",
+      "Content": "已穿戴",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1818,
+      "EnumName": "DETAIL_BTN_HAS_WEARING_WINE",
+      "Content": "已装备",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1819,
+      "EnumName": "DETAIL_BTN_HAS_WEARING_RZD",
+      "Content": "已装备",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1820,
+      "EnumName": "DETAIL_BTN_HAS_WEARING_WEAPON",
+      "Content": "已装备",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1821,
+      "EnumName": "DETAIL_BTN_HAS_MAX_LEVEL",
+      "Content": "已提升至最高品阶",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1822,
+      "EnumName": "DETAIL_BTN_HAS_MAX_LEVEL_WINE",
+      "Content": "已提升至最高品阶",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1823,
+      "EnumName": "DETAIL_BTN_HAS_MAX_LEVEL_HULU",
+      "Content": "已提升至最高品阶",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1824,
+      "EnumName": "DETAIL_BTN_HAS_MAX_LEVEL_RZD",
+      "Content": "已提升至最高品阶",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1830,
+      "EnumName": "NO_ENUM_NAME_295",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1831,
+      "EnumName": "DETAIL_BTN_LONGPRESS",
+      "Content": "长按交互",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1832,
+      "EnumName": "DETAIL_BTN_LONGPRESS_BUY",
+      "Content": "长按买入",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1833,
+      "EnumName": "DETAIL_BTN_LONGPRESS_ZRD",
+      "Content": "长按炼养",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1834,
+      "EnumName": "DETAIL_BTN_LONGPRESS_WINE",
+      "Content": "长按升阶",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1835,
+      "EnumName": "DETAIL_BTN_LONGPRESS_HULU",
+      "Content": "长按升阶",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1836,
+      "EnumName": "DETAIL_BTN_LONGPRESS_LEARNING",
+      "Content": "长按参悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1837,
+      "EnumName": "DETAIL_BTN_LONGPRESS_BUILD",
+      "Content": "长按铸造",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1838,
+      "EnumName": "DETAIL_BTN_LONGPRESS_REBUILD",
+      "Content": "长按铸造",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1839,
+      "EnumName": "DETAIL_BTN_LONGPRESS_UPGRADE",
+      "Content": "长按升阶",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1840,
+      "EnumName": "NO_ENUM_NAME_296",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1841,
+      "EnumName": "DETAIL_BTN_ACTION",
+      "Content": "交互",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1842,
+      "EnumName": "DETAIL_BTN_ACTION_MEDICINE",
+      "Content": "炼制",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1843,
+      "EnumName": "DETAIL_BTN_ACTION_WEAR",
+      "Content": "穿戴",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1844,
+      "EnumName": "DETAIL_BTN_ACTION_BUY",
+      "Content": "买入",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1845,
+      "EnumName": "DETAIL_BTN_ACTION_RZD",
+      "Content": "装备",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1846,
+      "EnumName": "DETAIL_BTN_ACTION_WINE",
+      "Content": "装备",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1847,
+      "EnumName": "DETAIL_BTN_ACTION_HULU",
+      "Content": "穿戴",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1848,
+      "EnumName": "DETAIL_BTN_ACTION_WEAPON",
+      "Content": "装备",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1849,
+      "EnumName": "DETAIL_BTN_ACTION_FABAO",
+      "Content": "装备",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1850,
+      "EnumName": "NO_ENUM_NAME_297",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1851,
+      "EnumName": "DETAIL_BTN_GOTO_BUILD",
+      "Content": "在土地庙或工匠处铸造",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1852,
+      "EnumName": "DETAIL_BTN_SHOW_BUILD",
+      "Content": "查看兵器谱",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1853,
+      "EnumName": "DETAIL_BTN_PREPARE_BUILD",
+      "Content": "对比原兵器",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1854,
+      "EnumName": "DETAIL_BTN_PREPARE_REBUILD",
+      "Content": "对比原兵器",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1870,
+      "EnumName": "NO_ENUM_NAME_298",
+      "Content": "预留",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1871,
+      "EnumName": "QUICK_LOGIN_FAIL",
+      "Content": "登录失败, 请使用账号密码重新登录, 或扫码重新登录",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1872,
+      "EnumName": "EDITION_AWARD_COLLECT_BTN",
+      "Content": "收取谢礼",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1873,
+      "EnumName": "EDITION_AWARD_ITEM_STANDARD",
+      "Content": "标准版谢礼",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1874,
+      "EnumName": "EDITION_AWARD_ITEM_PREORDER",
+      "Content": "预购版谢礼",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1875,
+      "EnumName": "EDITION_AWARD_ITEM_DELUXE",
+      "Content": "豪华版谢礼",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1876,
+      "EnumName": "AGE_TIPS",
+      "Content": "本游戏仅限18周岁及以上用户使用",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1877,
+      "EnumName": "AGE_TIPS_TITLE",
+      "Content": "适龄提示",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1888,
+      "EnumName": "AGE_TIPS_DESC",
+      "Content": "一、本游戏是一款动作角色扮演类游戏，适用于年满18周岁及以上的用户。\r\n\r\n二、本游戏以《西游记》为世界观背景设计了主线、支线剧情，有适量基于原著故事的合理改编。游戏玩法包含关卡探索、战斗挑战、角色养成等，需要玩家具备一定策略思维意识和肢体操作能力。游戏内无具有文字输入功能的陌生人社交系统。\r\n\r\n三、本游戏中有用户实名认证系统，认证为未成年人的用户将接受以下管理：\r\n1) 未满18周岁的用户不得进行游戏；\r\n2) 本游戏内没有付费内容，未满18周岁的用户不能付费。\r\n\r\n四、本游戏在场景美术、角色塑造和背景音乐等方面的创作上融入了中华传统文化元素，有助于激发玩家对优秀传统文化的兴趣；游戏设有略有难度的战斗挑战，鼓励玩家通过思考、训练达成目标，有助于锻炼玩家的大脑反应速度和手眼协调能力；游戏玩法整体具有较强的策略性，能帮助玩家提升观察能力和思维能力。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1889,
+      "EnumName": "BAG_TAB_NAME_START",
+      "Content": "None",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1890,
+      "EnumName": "NO_ENUM_NAME_299",
+      "Content": "用品",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1891,
+      "EnumName": "NO_ENUM_NAME_300",
+      "Content": "材料",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1892,
+      "EnumName": "NO_ENUM_NAME_301",
+      "Content": "酒食",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1893,
+      "EnumName": "NO_ENUM_NAME_302",
+      "Content": "药材",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1894,
+      "EnumName": "NO_ENUM_NAME_303",
+      "Content": "要紧物事",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1895,
+      "EnumName": "NO_ENUM_NAME_304",
+      "Content": "药材",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1896,
+      "EnumName": "NO_ENUM_NAME_305",
+      "Content": "丹方",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1897,
+      "EnumName": "NO_ENUM_NAME_306",
+      "Content": "种子",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1919,
+      "EnumName": "NO_ENUM_NAME_307",
+      "Content": "1889到1919给道具类型名",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1920,
+      "EnumName": "EDITION_AWARD_COLLECT_LONG_BTN",
+      "Content": "长按收取",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1921,
+      "EnumName": "SOUL_SKILL_COLLECT_LONG_BTN",
+      "Content": "长按拾取",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1922,
+      "EnumName": "SHRINE_EDITION_AWARD_TITLE",
+      "Content": "谢礼",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1923,
+      "EnumName": "SHRINE_EDITION_AWARD_TIPS",
+      "Content": "收取谢礼",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1924,
+      "EnumName": "EMPTY_EDITION_AWARD_TIPS",
+      "Content": "已收取全部谢礼",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1925,
+      "EnumName": "CLOUD_MOVE_NOT_ENABLE_TIPS",
+      "Content": "此处不宜腾云",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1926,
+      "EnumName": "CLOUD_MOVE_NOT_DISENABLE_TIPS",
+      "Content": "此处不宜下云",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1927,
+      "EnumName": "WEAPON_BUILD_SINGLE_NODE",
+      "Content": "此为孤品，无法继续铸造",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1928,
+      "EnumName": "UPGRADE_UP_DESC_HULU",
+      "Content": "提升已有葫芦的品阶",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1929,
+      "EnumName": "UPGRADE_UP_DESC_WINE",
+      "Content": "在酒中放入三冬虫，增加回复功效",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1930,
+      "EnumName": "UPGRADE_UP_DESC_SOULSKILL",
+      "Content": "提升已有精魄的品阶",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1931,
+      "EnumName": "SETTING_RECOMMENDED_TIPS",
+      "Content": "<EquipDetail_SuitDesc_State>当前设置高于推荐设置，性能可能受到影响。</>",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1932,
+      "EnumName": "EXCEPTION_TITLE",
+      "Content": "非常抱歉，游戏发生了错误。\r\n请按照指示退出游戏。",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 1933,
+      "EnumName": "EXCEPTION_TIPS",
+      "Content": "游戏运行时遇到问题，请手动关闭游戏并尝试重新启动。\r\n如果问题仍未解决，请访问 heishenhua.com/support 获取帮助。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1934,
+      "EnumName": "COOLDOWN_TIME_UNITS",
+      "Content": "秒",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1935,
+      "EnumName": "TRANS_ENERGY_UNIS",
+      "Content": "点",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1936,
+      "EnumName": "TALENT_TO_LEVELUP",
+      "Content": "参悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1937,
+      "EnumName": "ARCHIVE_GAME_PLUS_TIPS",
+      "Content": "{0}番轮回",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1938,
+      "EnumName": "SHOP_ITEM_BUY_SELLOUT",
+      "Content": "已售罄",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1939,
+      "EnumName": "SHOP_ITEM_SELL_SELLOUT",
+      "Content": "已卖出",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1940,
+      "EnumName": "START_GAME_PASTMEMORY",
+      "Content": "前尘影事",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1941,
+      "EnumName": "START_GAME_SOUNDTRACK",
+      "Content": "小曲",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1942,
+      "EnumName": "SUMMER_START",
+      "Content": "Summer分支预留id段",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 2200,
+      "EnumName": "SUMMER_END",
+      "Content": "Summer分支预留id段",
+      "LocalizationTag": 0
+    },
+    {
+      "ID": 2201,
+      "EnumName": "CONFIRM_EQUIPBUILD_NEED_WEAR",
+      "Content": "要穿戴新升阶的披挂吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2202,
+      "EnumName": "CONFIRM_EQUIPSHOP_NEED_WEAR",
+      "Content": "要穿戴新铸造的披挂吗？",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2203,
+      "EnumName": "NOT_LEARN_TALENT",
+      "Content": "尚未参悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2204,
+      "EnumName": "AUTO_LEARN_TALENT",
+      "Content": "投入一定灵光点后自行开悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2205,
+      "EnumName": "LEARN_TALENT_RANK2_AFTER",
+      "Content": "悟得二段棍势后，即可参悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2206,
+      "EnumName": "LEARN_TALENT_RANK3_AFTER",
+      "Content": "悟得三段棍势后，即可参悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2207,
+      "EnumName": "LEARN_TALENT_RANK4_AFTER",
+      "Content": "悟得四段棍势后，即可参悟",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2208,
+      "EnumName": "BOSS_ROOM_LEARN_LEGACY_TIPS",
+      "Content": "目前状态无法参悟天赋",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2209,
+      "EnumName": "JINGPO_INTERACT_FAIL_TIPS",
+      "Content": "未经点化，无法吸存精魄",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2210,
+      "EnumName": "DETAIL_ITEM_EMPTY",
+      "Content": "空",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2211,
+      "EnumName": "DETAIL_ITEM_EFFECT_EMPTY",
+      "Content": "未配置",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2212,
+      "EnumName": "BAG_MAIN_CANT_USE_ITEM",
+      "Content": "当前状态无法使用此物",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2213,
+      "EnumName": "SECCONFIRM_DEMAND_MONEY",
+      "Content": "所需灵蕴",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2214,
+      "EnumName": "SECCONFIRM_DEMAND_YAOCAI",
+      "Content": "所需药材",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2215,
+      "EnumName": "SECCONFIRM_MEDICINE_TITLE",
+      "Content": "一次炼制丹药的数量",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2216,
+      "EnumName": "SECCONFIRM_DEMAND_MAT",
+      "Content": "所需材料",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2217,
+      "EnumName": "BAG_MAIN_CANT_USE_ITEM_AREA",
+      "Content": "当前区域无法使用",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2218,
+      "EnumName": "CONFIRM_ARCHIVE_LOCKED_QUICK",
+      "Content": "是否确定要退出至桌面吗？所有未保存的进度将会丢失。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2219,
+      "EnumName": "COMPILE_SHADER_FAILED_TIPS",
+      "Content": "检测到上次没有成功编译所有着色器，如果您是遇到了程序异常终止，可以选择跳过编译，但请注意可能会导致游戏过程中出现卡顿情况。您也可以阅读我们官网的帮助文档了解解决方案。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2220,
+      "EnumName": "COMPILE_SHADER_COMFIRM",
+      "Content": "继续编译",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2221,
+      "EnumName": "COMPILE_SHADER_CANCEL",
+      "Content": "跳过编译",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2222,
+      "EnumName": "LOADING_EXCEED_TIME_TIPS",
+      "Content": "检测到加载耗时过长，将游戏安装到固态硬盘可显著提升游戏性能",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2223,
+      "EnumName": "SETTING_SCREEN_PER_LEVEL_TIPS",
+      "Content": "当前DLSS质量模式：",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2224,
+      "EnumName": "SETTING_ULTRA_PERFPRAMCE_TIPS",
+      "Content": "极致性能",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2225,
+      "EnumName": "SETTING__PERFPRAMCE_TIPS",
+      "Content": "性能",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2226,
+      "EnumName": "SETTING_BALANCE_TIPS",
+      "Content": "均衡",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2227,
+      "EnumName": "SETTING_QUALITY_TIPS",
+      "Content": "质量",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2228,
+      "EnumName": "SETTING_ULTRA_QUALITY_TIPS",
+      "Content": "DLAA",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2229,
+      "EnumName": "BENCHMARK_ONLY_PURCHASE",
+      "Content": "购买正式版",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2230,
+      "EnumName": "INNTERACT_ITEM_LACK_SPLIT",
+      "Content": "、",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2231,
+      "EnumName": "COMPILE_SHADER_QUIT_GAME",
+      "Content": "关闭游戏",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2232,
+      "EnumName": "COMPILE_SHADER_CONTINUE_PLAY",
+      "Content": "继续游玩",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2233,
+      "EnumName": "COMPILE_SHADER_DISK_CHECK_TIPS",
+      "Content": "编译着色器失败，继续游戏可能会导致卡顿。请检查硬盘空间是否充足。\r\n如果问题仍未解决，请访问官网的帮助文档以获取帮助。",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2234,
+      "EnumName": "SUPER_RESOLUTION_SAMPLING_TSR",
+      "Content": "TSR",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2235,
+      "EnumName": "SETTING_BACK_END_BATTLE_DESC",
+      "Content": "离开并返回到战斗开始前的土地庙，当前进行的战斗进度将会重置",
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2236,
+      "EnumName": "SETTING_HOST_BALANCE",
+      "Content": "平衡",
+      "LocalizationTag": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "List": [
+    {
+      "Id": 1,
+      "LeaderName": "hex(彭恒)",
+      "TeamMemberNum": 2
+    },
+    {
+      "Id": 2,
+      "LeaderName": "cd9(黄璟)",
+      "TeamMemberNum": 2
+    },
+    {
+      "Id": 3,
+      "LeaderName": "aarondu(杜逸辰)",
+      "TeamMemberNum": 2
+    },
+    {
+      "Id": 4,
+      "LeaderName": "charlie(沈中誉)",
+      "TeamMemberNum": 2
+    },
+    {
+      "Id": 5,
+      "LeaderName": "migge(陈伟建)",
+      "TeamMemberNum": 2
+    }
+  ]
+}

@@ -1,0 +1,1397 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "BaseID": 9001,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_light"
+    },
+    {
+      "ID": 2,
+      "BaseID": 9002,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_mid"
+    },
+    {
+      "ID": 3,
+      "BaseID": 9003,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_strong"
+    },
+    {
+      "ID": 4,
+      "BaseID": 9004,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_levelall_superstrong"
+    },
+    {
+      "ID": 5,
+      "BaseID": 9005,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_levelall_ultrastrong"
+    },
+    {
+      "ID": 6,
+      "BaseID": 9001,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_light"
+    },
+    {
+      "ID": 7,
+      "BaseID": 9002,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_mid"
+    },
+    {
+      "ID": 8,
+      "BaseID": 9003,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_strong"
+    },
+    {
+      "ID": 9,
+      "BaseID": 9004,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_levelall_superstrong"
+    },
+    {
+      "ID": 10,
+      "BaseID": 9005,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_levelall_ultrastrong"
+    },
+    {
+      "ID": 11,
+      "BaseID": 9001,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_light"
+    },
+    {
+      "ID": 12,
+      "BaseID": 9002,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_mid"
+    },
+    {
+      "ID": 13,
+      "BaseID": 9003,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_strong"
+    },
+    {
+      "ID": 14,
+      "BaseID": 9004,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_levelall_superstrong"
+    },
+    {
+      "ID": 15,
+      "BaseID": 9005,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_levelall_ultrastrong"
+    },
+    {
+      "ID": 16,
+      "BaseID": 9001,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_light"
+    },
+    {
+      "ID": 17,
+      "BaseID": 9002,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_mid"
+    },
+    {
+      "ID": 18,
+      "BaseID": 9003,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_strong"
+    },
+    {
+      "ID": 19,
+      "BaseID": 9004,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_levelall_superstrong"
+    },
+    {
+      "ID": 20,
+      "BaseID": 9005,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_levelall_ultrastrong"
+    },
+    {
+      "ID": 21,
+      "BaseID": 9001,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_light"
+    },
+    {
+      "ID": 22,
+      "BaseID": 9002,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_mid"
+    },
+    {
+      "ID": 23,
+      "BaseID": 9003,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_strong"
+    },
+    {
+      "ID": 24,
+      "BaseID": 9004,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_levelall_superstrong"
+    },
+    {
+      "ID": 25,
+      "BaseID": 9005,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_levelall_ultrastrong"
+    },
+    {
+      "ID": 26,
+      "BaseID": 9001,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_light"
+    },
+    {
+      "ID": 27,
+      "BaseID": 9002,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_mid"
+    },
+    {
+      "ID": 28,
+      "BaseID": 9003,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_level01_strong"
+    },
+    {
+      "ID": 29,
+      "BaseID": 9004,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_levelall_superstrong"
+    },
+    {
+      "ID": 30,
+      "BaseID": 9005,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "PreAkEventName": "EVT_hit_fenshen_bang_levelall_ultrastrong"
+    },
+    {
+      "ID": 31,
+      "BaseID": 1001,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_level01_light"
+    },
+    {
+      "ID": 32,
+      "BaseID": 1002,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_level01_mid"
+    },
+    {
+      "ID": 33,
+      "BaseID": 1003,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_level01_strong"
+    },
+    {
+      "ID": 34,
+      "BaseID": 1004,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_levelall_superstrong"
+    },
+    {
+      "ID": 35,
+      "BaseID": 1005,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_levelall_ultrastrong"
+    },
+    {
+      "ID": 36,
+      "BaseID": 1001,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_level02_light"
+    },
+    {
+      "ID": 37,
+      "BaseID": 1002,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_level02_mid"
+    },
+    {
+      "ID": 38,
+      "BaseID": 1003,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_level02_strong"
+    },
+    {
+      "ID": 39,
+      "BaseID": 1004,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_levelall_superstrong"
+    },
+    {
+      "ID": 40,
+      "BaseID": 1005,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_levelall_ultrastrong"
+    },
+    {
+      "ID": 41,
+      "BaseID": 1001,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_level03_light"
+    },
+    {
+      "ID": 42,
+      "BaseID": 1002,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_level03_mid"
+    },
+    {
+      "ID": 43,
+      "BaseID": 1003,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_level03_strong"
+    },
+    {
+      "ID": 44,
+      "BaseID": 1004,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_levelall_superstrong"
+    },
+    {
+      "ID": 45,
+      "BaseID": 1005,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_levelall_ultrastrong"
+    },
+    {
+      "ID": 46,
+      "BaseID": 1001,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_level04_light"
+    },
+    {
+      "ID": 47,
+      "BaseID": 1002,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_level04_mid"
+    },
+    {
+      "ID": 48,
+      "BaseID": 1003,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_level04_strong"
+    },
+    {
+      "ID": 49,
+      "BaseID": 1004,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_levelall_superstrong"
+    },
+    {
+      "ID": 50,
+      "BaseID": 1005,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "PreAkEventName": "EVT_hit_player_bang_levelall_ultrastrong"
+    },
+    {
+      "ID": 51,
+      "BaseID": 1001,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/qiang",
+      "PreAkEventName": "EVT_hit_player_qiang_light"
+    },
+    {
+      "ID": 52,
+      "BaseID": 1002,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/qiang",
+      "PreAkEventName": "EVT_hit_player_qiang_mid"
+    },
+    {
+      "ID": 53,
+      "BaseID": 1003,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/qiang",
+      "PreAkEventName": "EVT_hit_player_qiang_strong"
+    },
+    {
+      "ID": 54,
+      "BaseID": 1004,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/qiang",
+      "PreAkEventName": "EVT_hit_player_qiang_superstrong"
+    },
+    {
+      "ID": 55,
+      "BaseID": 1005,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/qiang",
+      "PreAkEventName": "EVT_hit_player_qiang_ultrastrong"
+    },
+    {
+      "ID": 56,
+      "BaseID": 1011,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_light"
+    },
+    {
+      "ID": 57,
+      "BaseID": 1012,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_mid"
+    },
+    {
+      "ID": 58,
+      "BaseID": 1013,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_strong"
+    },
+    {
+      "ID": 59,
+      "BaseID": 1011,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_light"
+    },
+    {
+      "ID": 60,
+      "BaseID": 1012,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_mid"
+    },
+    {
+      "ID": 61,
+      "BaseID": 1013,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_strong"
+    },
+    {
+      "ID": 62,
+      "BaseID": 1011,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_light"
+    },
+    {
+      "ID": 63,
+      "BaseID": 1012,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_mid"
+    },
+    {
+      "ID": 64,
+      "BaseID": 1013,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_strong"
+    },
+    {
+      "ID": 65,
+      "BaseID": 1011,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_light"
+    },
+    {
+      "ID": 66,
+      "BaseID": 1012,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_mid"
+    },
+    {
+      "ID": 67,
+      "BaseID": 1013,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_strong"
+    },
+    {
+      "ID": 68,
+      "BaseID": 1011,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_light"
+    },
+    {
+      "ID": 69,
+      "BaseID": 1012,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_mid"
+    },
+    {
+      "ID": 70,
+      "BaseID": 1013,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_strong"
+    },
+    {
+      "ID": 71,
+      "BaseID": 1011,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_light"
+    },
+    {
+      "ID": 72,
+      "BaseID": 1012,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_mid"
+    },
+    {
+      "ID": 73,
+      "BaseID": 1013,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "PreAkEventName": "EVT_hit_player_foot_strong"
+    },
+    {
+      "ID": 74,
+      "BaseID": 1021,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_light"
+    },
+    {
+      "ID": 75,
+      "BaseID": 1022,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_mid"
+    },
+    {
+      "ID": 76,
+      "BaseID": 1023,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_strong"
+    },
+    {
+      "ID": 77,
+      "BaseID": 1021,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_light"
+    },
+    {
+      "ID": 78,
+      "BaseID": 1022,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_mid"
+    },
+    {
+      "ID": 79,
+      "BaseID": 1023,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_strong"
+    },
+    {
+      "ID": 80,
+      "BaseID": 1021,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_light"
+    },
+    {
+      "ID": 81,
+      "BaseID": 1022,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_mid"
+    },
+    {
+      "ID": 82,
+      "BaseID": 1023,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_strong"
+    },
+    {
+      "ID": 83,
+      "BaseID": 1021,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_light"
+    },
+    {
+      "ID": 84,
+      "BaseID": 1022,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_mid"
+    },
+    {
+      "ID": 85,
+      "BaseID": 1023,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_strong"
+    },
+    {
+      "ID": 86,
+      "BaseID": 1021,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_light"
+    },
+    {
+      "ID": 87,
+      "BaseID": 1022,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_mid"
+    },
+    {
+      "ID": 88,
+      "BaseID": 1023,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_strong"
+    },
+    {
+      "ID": 89,
+      "BaseID": 1021,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_light"
+    },
+    {
+      "ID": 90,
+      "BaseID": 1022,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_mid"
+    },
+    {
+      "ID": 91,
+      "BaseID": 1023,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "PreAkEventName": "EVT_hit_player_sharp_strong"
+    },
+    {
+      "ID": 92,
+      "BaseID": 1031,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_light"
+    },
+    {
+      "ID": 93,
+      "BaseID": 1032,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_mid"
+    },
+    {
+      "ID": 94,
+      "BaseID": 1033,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_strong"
+    },
+    {
+      "ID": 95,
+      "BaseID": 1031,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_light"
+    },
+    {
+      "ID": 96,
+      "BaseID": 1032,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_mid"
+    },
+    {
+      "ID": 97,
+      "BaseID": 1033,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_strong"
+    },
+    {
+      "ID": 98,
+      "BaseID": 1031,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_light"
+    },
+    {
+      "ID": 99,
+      "BaseID": 1032,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_mid"
+    },
+    {
+      "ID": 100,
+      "BaseID": 1033,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_strong"
+    },
+    {
+      "ID": 101,
+      "BaseID": 1031,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_light"
+    },
+    {
+      "ID": 102,
+      "BaseID": 1032,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_mid"
+    },
+    {
+      "ID": 103,
+      "BaseID": 1033,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_strong"
+    },
+    {
+      "ID": 104,
+      "BaseID": 1031,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_light"
+    },
+    {
+      "ID": 105,
+      "BaseID": 1032,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_mid"
+    },
+    {
+      "ID": 106,
+      "BaseID": 1033,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_strong"
+    },
+    {
+      "ID": 107,
+      "BaseID": 1031,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_light"
+    },
+    {
+      "ID": 108,
+      "BaseID": 1032,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_mid"
+    },
+    {
+      "ID": 109,
+      "BaseID": 1033,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "PreAkEventName": "EVT_hit_player_claw_strong"
+    },
+    {
+      "ID": 110,
+      "BaseID": 1041,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_light"
+    },
+    {
+      "ID": 111,
+      "BaseID": 1042,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_mid"
+    },
+    {
+      "ID": 112,
+      "BaseID": 1043,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_strong"
+    },
+    {
+      "ID": 113,
+      "BaseID": 1041,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_light"
+    },
+    {
+      "ID": 114,
+      "BaseID": 1042,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_mid"
+    },
+    {
+      "ID": 115,
+      "BaseID": 1043,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_strong"
+    },
+    {
+      "ID": 116,
+      "BaseID": 1041,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_light"
+    },
+    {
+      "ID": 117,
+      "BaseID": 1042,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_mid"
+    },
+    {
+      "ID": 118,
+      "BaseID": 1043,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_strong"
+    },
+    {
+      "ID": 119,
+      "BaseID": 1041,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_light"
+    },
+    {
+      "ID": 120,
+      "BaseID": 1042,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_mid"
+    },
+    {
+      "ID": 121,
+      "BaseID": 1043,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_strong"
+    },
+    {
+      "ID": 122,
+      "BaseID": 1041,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_light"
+    },
+    {
+      "ID": 123,
+      "BaseID": 1042,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_mid"
+    },
+    {
+      "ID": 124,
+      "BaseID": 1043,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_strong"
+    },
+    {
+      "ID": 125,
+      "BaseID": 1041,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_light"
+    },
+    {
+      "ID": 126,
+      "BaseID": 1042,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_mid"
+    },
+    {
+      "ID": 127,
+      "BaseID": 1043,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "PreAkEventName": "EVT_hit_player_duchong_strong"
+    },
+    {
+      "ID": 128,
+      "BaseID": 1051,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_light"
+    },
+    {
+      "ID": 129,
+      "BaseID": 1052,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_mid"
+    },
+    {
+      "ID": 130,
+      "BaseID": 1053,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_strong"
+    },
+    {
+      "ID": 131,
+      "BaseID": 1051,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_light"
+    },
+    {
+      "ID": 132,
+      "BaseID": 1052,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_mid"
+    },
+    {
+      "ID": 133,
+      "BaseID": 1053,
+      "AudioMappingID": 1,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_strong"
+    },
+    {
+      "ID": 134,
+      "BaseID": 1051,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_light"
+    },
+    {
+      "ID": 135,
+      "BaseID": 1052,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_mid"
+    },
+    {
+      "ID": 136,
+      "BaseID": 1053,
+      "AudioMappingID": 2,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_strong"
+    },
+    {
+      "ID": 137,
+      "BaseID": 1051,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_light"
+    },
+    {
+      "ID": 138,
+      "BaseID": 1052,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_mid"
+    },
+    {
+      "ID": 139,
+      "BaseID": 1053,
+      "AudioMappingID": 3,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_strong"
+    },
+    {
+      "ID": 140,
+      "BaseID": 1051,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_light"
+    },
+    {
+      "ID": 141,
+      "BaseID": 1052,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_mid"
+    },
+    {
+      "ID": 142,
+      "BaseID": 1053,
+      "AudioMappingID": 4,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_strong"
+    },
+    {
+      "ID": 143,
+      "BaseID": 1051,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_light"
+    },
+    {
+      "ID": 144,
+      "BaseID": 1052,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_mid"
+    },
+    {
+      "ID": 145,
+      "BaseID": 1053,
+      "AudioMappingID": 5,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "PreAkEventName": "EVT_hit_player_ftxd_strong"
+    },
+    {
+      "ID": 146,
+      "BaseID": 1101,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "PreAkEventName": "EVT_hit_enm_sharp_light_light"
+    },
+    {
+      "ID": 147,
+      "BaseID": 1102,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "PreAkEventName": "EVT_hit_enm_sharp_light_mid"
+    },
+    {
+      "ID": 148,
+      "BaseID": 1103,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "PreAkEventName": "EVT_hit_enm_sharp_light_strong"
+    },
+    {
+      "ID": 149,
+      "BaseID": 1201,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "PreAkEventName": "EVT_hit_enm_sharp_mid_light"
+    },
+    {
+      "ID": 150,
+      "BaseID": 1202,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "PreAkEventName": "EVT_hit_enm_sharp_mid_mid"
+    },
+    {
+      "ID": 151,
+      "BaseID": 1203,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "PreAkEventName": "EVT_hit_enm_sharp_mid_strong"
+    },
+    {
+      "ID": 152,
+      "BaseID": 1301,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "PreAkEventName": "EVT_hit_enm_sharp_strong_light"
+    },
+    {
+      "ID": 153,
+      "BaseID": 1302,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "PreAkEventName": "EVT_hit_enm_sharp_strong_mid"
+    },
+    {
+      "ID": 154,
+      "BaseID": 1303,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "PreAkEventName": "EVT_hit_enm_sharp_strong_strong"
+    },
+    {
+      "ID": 155,
+      "BaseID": 2101,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "PreAkEventName": "EVT_hit_enm_blunt_light_light"
+    },
+    {
+      "ID": 156,
+      "BaseID": 2102,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "PreAkEventName": "EVT_hit_enm_blunt_light_mid"
+    },
+    {
+      "ID": 157,
+      "BaseID": 2103,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "PreAkEventName": "EVT_hit_enm_blunt_light_strong"
+    },
+    {
+      "ID": 158,
+      "BaseID": 2201,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "PreAkEventName": "EVT_hit_enm_blunt_mid_light"
+    },
+    {
+      "ID": 159,
+      "BaseID": 2202,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "PreAkEventName": "EVT_hit_enm_blunt_mid_mid"
+    },
+    {
+      "ID": 160,
+      "BaseID": 2203,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "PreAkEventName": "EVT_hit_enm_blunt_mid_strong"
+    },
+    {
+      "ID": 161,
+      "BaseID": 2301,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "PreAkEventName": "EVT_hit_enm_blunt_strong_light"
+    },
+    {
+      "ID": 162,
+      "BaseID": 2302,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "PreAkEventName": "EVT_hit_enm_blunt_strong_mid"
+    },
+    {
+      "ID": 163,
+      "BaseID": 2303,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "PreAkEventName": "EVT_hit_enm_blunt_strong_strong"
+    },
+    {
+      "ID": 164,
+      "BaseID": 3101,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "PreAkEventName": "EVT_hit_enm_claw_light_light"
+    },
+    {
+      "ID": 165,
+      "BaseID": 3102,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "PreAkEventName": "EVT_hit_enm_claw_light_mid"
+    },
+    {
+      "ID": 166,
+      "BaseID": 3103,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "PreAkEventName": "EVT_hit_enm_claw_light_strong"
+    },
+    {
+      "ID": 167,
+      "BaseID": 3201,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "PreAkEventName": "EVT_hit_enm_claw_mid_light"
+    },
+    {
+      "ID": 168,
+      "BaseID": 3202,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "PreAkEventName": "EVT_hit_enm_claw_mid_mid"
+    },
+    {
+      "ID": 169,
+      "BaseID": 3203,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "PreAkEventName": "EVT_hit_enm_claw_mid_strong"
+    },
+    {
+      "ID": 170,
+      "BaseID": 3301,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "PreAkEventName": "EVT_hit_enm_claw_strong_light"
+    },
+    {
+      "ID": 171,
+      "BaseID": 3302,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "PreAkEventName": "EVT_hit_enm_claw_strong_mid"
+    },
+    {
+      "ID": 172,
+      "BaseID": 3303,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "PreAkEventName": "EVT_hit_enm_claw_strong_strong"
+    },
+    {
+      "ID": 173,
+      "BaseID": 5101,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "PreAkEventName": "EVT_hit_enm_magic_light_light"
+    },
+    {
+      "ID": 174,
+      "BaseID": 5102,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "PreAkEventName": "EVT_hit_enm_magic_light_mid"
+    },
+    {
+      "ID": 175,
+      "BaseID": 5103,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "PreAkEventName": "EVT_hit_enm_magic_light_strong"
+    },
+    {
+      "ID": 176,
+      "BaseID": 5201,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "PreAkEventName": "EVT_hit_enm_magic_mid_light"
+    },
+    {
+      "ID": 177,
+      "BaseID": 5202,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "PreAkEventName": "EVT_hit_enm_magic_mid_mid"
+    },
+    {
+      "ID": 178,
+      "BaseID": 5203,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "PreAkEventName": "EVT_hit_enm_magic_mid_strong"
+    },
+    {
+      "ID": 179,
+      "BaseID": 5301,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "PreAkEventName": "EVT_hit_enm_magic_strong_light"
+    },
+    {
+      "ID": 180,
+      "BaseID": 5302,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "PreAkEventName": "EVT_hit_enm_magic_strong_mid"
+    },
+    {
+      "ID": 181,
+      "BaseID": 5303,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "PreAkEventName": "EVT_hit_enm_magic_strong_strong"
+    },
+    {
+      "ID": 182,
+      "BaseID": 6101,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "PreAkEventName": "EVT_hit_enm_fist_light_light"
+    },
+    {
+      "ID": 183,
+      "BaseID": 6102,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "PreAkEventName": "EVT_hit_enm_fist_light_mid"
+    },
+    {
+      "ID": 184,
+      "BaseID": 6103,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "PreAkEventName": "EVT_hit_enm_fist_light_strong"
+    },
+    {
+      "ID": 185,
+      "BaseID": 6201,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "PreAkEventName": "EVT_hit_enm_fist_mid_light"
+    },
+    {
+      "ID": 186,
+      "BaseID": 6202,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "PreAkEventName": "EVT_hit_enm_fist_mid_mid"
+    },
+    {
+      "ID": 187,
+      "BaseID": 6203,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "PreAkEventName": "EVT_hit_enm_fist_mid_strong"
+    },
+    {
+      "ID": 188,
+      "BaseID": 6301,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "PreAkEventName": "EVT_hit_enm_fist_strong_light"
+    },
+    {
+      "ID": 189,
+      "BaseID": 6302,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "PreAkEventName": "EVT_hit_enm_fist_strong_mid"
+    },
+    {
+      "ID": 190,
+      "BaseID": 6303,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "PreAkEventName": "EVT_hit_enm_fist_strong_strong"
+    },
+    {
+      "ID": 191,
+      "BaseID": 7101,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "PreAkEventName": "EVT_hit_enm_arrow_light_light"
+    },
+    {
+      "ID": 192,
+      "BaseID": 7102,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "PreAkEventName": "EVT_hit_enm_arrow_light_mid"
+    },
+    {
+      "ID": 193,
+      "BaseID": 7103,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "PreAkEventName": "EVT_hit_enm_arrow_light_strong"
+    },
+    {
+      "ID": 194,
+      "BaseID": 7201,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "PreAkEventName": "EVT_hit_enm_arrow_mid_light"
+    },
+    {
+      "ID": 195,
+      "BaseID": 7202,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "PreAkEventName": "EVT_hit_enm_arrow_mid_mid"
+    },
+    {
+      "ID": 196,
+      "BaseID": 7203,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "PreAkEventName": "EVT_hit_enm_arrow_mid_strong"
+    },
+    {
+      "ID": 197,
+      "BaseID": 7301,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "PreAkEventName": "EVT_hit_enm_arrow_strong_light"
+    },
+    {
+      "ID": 198,
+      "BaseID": 7302,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "PreAkEventName": "EVT_hit_enm_arrow_strong_mid"
+    },
+    {
+      "ID": 199,
+      "BaseID": 7303,
+      "AudioMappingID": 0,
+      "AudioFolderPath": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "PreAkEventName": "EVT_hit_enm_arrow_strong_strong"
+    }
+  ]
+}

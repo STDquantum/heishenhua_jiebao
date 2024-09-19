@@ -1,0 +1,666 @@
+{
+  "List": [
+    {
+      "ID": 998103,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 300.0,
+          "MaxRange": 1000.0,
+          "ActionParam": [
+            333.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998101,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 0.0,
+          "MaxRange": 1000.0,
+          "ActionParam": [
+            500.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998102,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 2,
+          "MinRange": 0.0,
+          "MaxRange": 1000.0,
+          "ActionParam": [
+            400.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998239,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 160.0,
+          "MaxRange": 400.0,
+          "ActionParam": [
+            300.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998228,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 2,
+          "MinRange": 160.0,
+          "MaxRange": 400.0,
+          "ActionParam": [
+            300.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998232,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 100.0,
+          "MaxRange": 700.0,
+          "ActionParam": [
+            200.0
+          ]
+        },
+        {
+          "BasicActionType": 0,
+          "MinRange": 0.0,
+          "MaxRange": 0.0,
+          "ActionParam": []
+        }
+      ]
+    },
+    {
+      "ID": 998233,
+      "IsMappedSkill": 1,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 100.0,
+          "MaxRange": 700.0,
+          "ActionParam": [
+            200.0
+          ]
+        },
+        {
+          "BasicActionType": 0,
+          "MinRange": 0.0,
+          "MaxRange": 0.0,
+          "ActionParam": []
+        }
+      ]
+    },
+    {
+      "ID": 998234,
+      "IsMappedSkill": 1,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 100.0,
+          "MaxRange": 700.0,
+          "ActionParam": [
+            200.0
+          ]
+        },
+        {
+          "BasicActionType": 0,
+          "MinRange": 0.0,
+          "MaxRange": 0.0,
+          "ActionParam": []
+        }
+      ]
+    },
+    {
+      "ID": 998235,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 160.0,
+          "MaxRange": 500.0,
+          "ActionParam": [
+            500.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998236,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 0.0,
+          "MaxRange": 350.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998237,
+      "IsMappedSkill": 1,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 0.0,
+          "MaxRange": 350.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998238,
+      "IsMappedSkill": 1,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 0.0,
+          "MaxRange": 350.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998407,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 160.0,
+          "MaxRange": 350.0,
+          "ActionParam": [
+            500.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998405,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 160.0,
+          "MaxRange": 350.0,
+          "ActionParam": [
+            500.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998719,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 4,
+          "MinRange": 0.0,
+          "MaxRange": 260.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998705,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 4,
+          "MinRange": 300.0,
+          "MaxRange": 1000.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998711,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 160.0,
+          "MaxRange": 800.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998712,
+      "IsMappedSkill": 1,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 160.0,
+          "MaxRange": 800.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998713,
+      "IsMappedSkill": 1,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 160.0,
+          "MaxRange": 800.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998706,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 2,
+          "MinRange": 0.0,
+          "MaxRange": 1000.0,
+          "ActionParam": [
+            300.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996801,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 160.0,
+          "MaxRange": 800.0,
+          "ActionParam": [
+            300.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996804,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 160.0,
+          "MaxRange": 1000.0,
+          "ActionParam": [
+            300.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996802,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 160.0,
+          "MaxRange": 800.0,
+          "ActionParam": [
+            300.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996805,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 160.0,
+          "MaxRange": 800.0,
+          "ActionParam": [
+            300.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996803,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 2,
+          "MinRange": 160.0,
+          "MaxRange": 400.0,
+          "ActionParam": [
+            300.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996813,
+      "IsMappedSkill": 1,
+      "BasicActions": [
+        {
+          "BasicActionType": 2,
+          "MinRange": 160.0,
+          "MaxRange": 400.0,
+          "ActionParam": [
+            300.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996823,
+      "IsMappedSkill": 1,
+      "BasicActions": [
+        {
+          "BasicActionType": 2,
+          "MinRange": 160.0,
+          "MaxRange": 400.0,
+          "ActionParam": [
+            300.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996411,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 100.0,
+          "MaxRange": 300.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996412,
+      "IsMappedSkill": 1,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 100.0,
+          "MaxRange": 300.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996413,
+      "IsMappedSkill": 1,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 100.0,
+          "MaxRange": 300.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996414,
+      "IsMappedSkill": 1,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 100.0,
+          "MaxRange": 300.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996418,
+      "IsMappedSkill": 1,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 100.0,
+          "MaxRange": 300.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996415,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 100.0,
+          "MaxRange": 700.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996416,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 100.0,
+          "MaxRange": 700.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996417,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 2,
+          "MinRange": 160.0,
+          "MaxRange": 1000.0,
+          "ActionParam": [
+            300.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996419,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 100.0,
+          "MaxRange": 300.0,
+          "ActionParam": [
+            200.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 996420,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 2,
+          "MinRange": 160.0,
+          "MaxRange": 1000.0,
+          "ActionParam": [
+            300.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998501,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 0.0,
+          "MaxRange": 350.0,
+          "ActionParam": [
+            500.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998303,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 300.0,
+          "MaxRange": 900.0,
+          "ActionParam": [
+            500.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998305,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 400.0,
+          "MaxRange": 850.0,
+          "ActionParam": [
+            500.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998304,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 0.0,
+          "MaxRange": 350.0,
+          "ActionParam": [
+            500.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 998601,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 0.0,
+          "MaxRange": 800.0,
+          "ActionParam": [
+            400.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 950203,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 300.0,
+          "MaxRange": 1000.0,
+          "ActionParam": [
+            333.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 950201,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 0.0,
+          "MaxRange": 1000.0,
+          "ActionParam": [
+            500.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 950202,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 2,
+          "MinRange": 0.0,
+          "MaxRange": 1000.0,
+          "ActionParam": [
+            400.0
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 900614,
+      "IsMappedSkill": 0,
+      "BasicActions": [
+        {
+          "BasicActionType": 1,
+          "MinRange": 0.0,
+          "MaxRange": 1200.0,
+          "ActionParam": [
+            500.0
+          ]
+        }
+      ]
+    }
+  ]
+}

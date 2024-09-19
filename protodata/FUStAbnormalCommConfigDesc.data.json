@@ -1,0 +1,15 @@
+{
+  "List": [
+    {
+      "ID": 0,
+      "AccMaxCalcKValue": 2,
+      "ThresholdAbnormalDefToImmue": 100,
+      "AccTriggerProcessAbnormalPercentFrozen": 65.0,
+      "AccProcessBuffIDFrozen": 911001,
+      "AccTriggerProcessAbnormalPercentYin": 0.0,
+      "AccProcessBuffIDYin": 915001,
+      "AccTriggerProcessAbnormalPercentYang": 0.0,
+      "AccProcessBuffIDYang": 916001
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "List": [
+    {
+      "ID": 0,
+      "StrengthLevel": 0,
+      "AttackType": 0,
+      "MobLibAssetPath": [
+        "BGWProceduralSpawnCharacterLibDataAsset'/Game/02_X2Main/Maps/X2_ProceduralMap/MapDataAsset/MapCharacterConfig/ProceduralCharacterLib/DA_X2_PCL_Weak_Melee.DA_X2_PCL_Weak_Melee'"
+      ]
+    },
+    {
+      "ID": 1,
+      "StrengthLevel": 0,
+      "AttackType": 1,
+      "MobLibAssetPath": [
+        "BGWProceduralSpawnCharacterLibDataAsset'/Game/02_X2Main/Maps/X2_ProceduralMap/MapDataAsset/MapCharacterConfig/ProceduralCharacterLib/DA_X2_PCL_Weak_Ranged.DA_X2_PCL_Weak_Ranged'"
+      ]
+    },
+    {
+      "ID": 2,
+      "StrengthLevel": 1,
+      "AttackType": 0,
+      "MobLibAssetPath": [
+        "BGWProceduralSpawnCharacterLibDataAsset'/Game/02_X2Main/Maps/X2_ProceduralMap/MapDataAsset/MapCharacterConfig/ProceduralCharacterLib/DA_X2_PCL_Moderate_Melee.DA_X2_PCL_Moderate_Melee'"
+      ]
+    },
+    {
+      "ID": 3,
+      "StrengthLevel": 1,
+      "AttackType": 1,
+      "MobLibAssetPath": [
+        "BGWProceduralSpawnCharacterLibDataAsset'/Game/02_X2Main/Maps/X2_ProceduralMap/MapDataAsset/MapCharacterConfig/ProceduralCharacterLib/DA_X2_PCL_Moderate_Ranged.DA_X2_PCL_Moderate_Ranged'"
+      ]
+    },
+    {
+      "ID": 4,
+      "StrengthLevel": 3,
+      "AttackType": 0,
+      "MobLibAssetPath": [
+        "BGWProceduralSpawnCharacterLibDataAsset'/Game/02_X2Main/Maps/X2_ProceduralMap/MapDataAsset/MapCharacterConfig/ProceduralCharacterLib/DA_X2_PCL_Special_Melee.DA_X2_PCL_Special_Melee'"
+      ]
+    },
+    {
+      "ID": 5,
+      "StrengthLevel": 3,
+      "AttackType": 1,
+      "MobLibAssetPath": [
+        "BGWProceduralSpawnCharacterLibDataAsset'/Game/02_X2Main/Maps/X2_ProceduralMap/MapDataAsset/MapCharacterConfig/ProceduralCharacterLib/DA_X2_PCL_Special_Ranged.DA_X2_PCL_Special_Ranged'"
+      ]
+    },
+    {
+      "ID": 6,
+      "StrengthLevel": 2,
+      "AttackType": 0,
+      "MobLibAssetPath": [
+        "BGWProceduralSpawnCharacterLibDataAsset'/Game/02_X2Main/Maps/X2_ProceduralMap/MapDataAsset/MapCharacterConfig/ProceduralCharacterLib/DA_X2_PCL_Strong_Melee.DA_X2_PCL_Strong_Melee'"
+      ]
+    },
+    {
+      "ID": 7,
+      "StrengthLevel": 2,
+      "AttackType": 1,
+      "MobLibAssetPath": [
+        "BGWProceduralSpawnCharacterLibDataAsset'/Game/02_X2Main/Maps/X2_ProceduralMap/MapDataAsset/MapCharacterConfig/ProceduralCharacterLib/DA_X2_PCL_Strong_Ranged.DA_X2_PCL_Strong_Ranged'"
+      ]
+    }
+  ]
+}

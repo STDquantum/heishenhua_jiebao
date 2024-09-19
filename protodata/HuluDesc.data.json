@@ -1,0 +1,237 @@
+{
+  "List": [
+    {
+      "Id": 18001,
+      "Series": 1000,
+      "Level": 1,
+      "NextId": 18002,
+      "BuffList": [],
+      "CostItem": [
+        {
+          "Id": 1999,
+          "Num": 1
+        }
+      ],
+      "UpgradeDesc": [
+        "提升葫芦盛酒量"
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 18002,
+      "Series": 1000,
+      "Level": 2,
+      "NextId": 18003,
+      "BuffList": [],
+      "CostItem": [
+        {
+          "Id": 1999,
+          "Num": 1
+        }
+      ],
+      "UpgradeDesc": [
+        "提升葫芦盛酒量"
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 18003,
+      "Series": 1000,
+      "Level": 3,
+      "NextId": 18004,
+      "BuffList": [],
+      "CostItem": [
+        {
+          "Id": 1999,
+          "Num": 2
+        }
+      ],
+      "UpgradeDesc": [
+        "提升葫芦盛酒量"
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 18004,
+      "Series": 1000,
+      "Level": 4,
+      "NextId": 18005,
+      "BuffList": [],
+      "CostItem": [
+        {
+          "Id": 1999,
+          "Num": 2
+        }
+      ],
+      "UpgradeDesc": [
+        "提升葫芦盛酒量"
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 18005,
+      "Series": 1000,
+      "Level": 5,
+      "NextId": 18006,
+      "BuffList": [],
+      "CostItem": [
+        {
+          "Id": 1999,
+          "Num": 3
+        }
+      ],
+      "UpgradeDesc": [
+        "提升葫芦盛酒量"
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 18006,
+      "Series": 1000,
+      "Level": 6,
+      "NextId": 0,
+      "BuffList": [],
+      "CostItem": [],
+      "UpgradeDesc": [
+        "提升葫芦盛酒量"
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 18007,
+      "Series": 0,
+      "Level": 1,
+      "NextId": 0,
+      "BuffList": [
+        2802,
+        2818
+      ],
+      "CostItem": [],
+      "UpgradeDesc": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 18008,
+      "Series": 2000,
+      "Level": 2,
+      "NextId": 0,
+      "BuffList": [
+        2807
+      ],
+      "CostItem": [],
+      "UpgradeDesc": [],
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 18009,
+      "Series": 0,
+      "Level": 1,
+      "NextId": 0,
+      "BuffList": [
+        2801
+      ],
+      "CostItem": [],
+      "UpgradeDesc": [],
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 18010,
+      "Series": 1000,
+      "Level": 7,
+      "NextId": 0,
+      "BuffList": [],
+      "CostItem": [],
+      "UpgradeDesc": [],
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 18011,
+      "Series": 0,
+      "Level": 1,
+      "NextId": 0,
+      "BuffList": [],
+      "CostItem": [],
+      "UpgradeDesc": [],
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 18012,
+      "Series": 0,
+      "Level": 1,
+      "NextId": 0,
+      "BuffList": [
+        2812
+      ],
+      "CostItem": [],
+      "UpgradeDesc": [],
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 18013,
+      "Series": 0,
+      "Level": 1,
+      "NextId": 0,
+      "BuffList": [],
+      "CostItem": [],
+      "UpgradeDesc": [],
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 18014,
+      "Series": 0,
+      "Level": 1,
+      "NextId": 0,
+      "BuffList": [
+        2813
+      ],
+      "CostItem": [],
+      "UpgradeDesc": [],
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 18015,
+      "Series": 0,
+      "Level": 1,
+      "NextId": 0,
+      "BuffList": [
+        2803
+      ],
+      "CostItem": [],
+      "UpgradeDesc": [],
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 18016,
+      "Series": 2000,
+      "Level": 1,
+      "NextId": 18008,
+      "BuffList": [
+        2805
+      ],
+      "CostItem": [
+        {
+          "Id": 1999,
+          "Num": 3
+        }
+      ],
+      "UpgradeDesc": [
+        "提升葫芦盛酒量",
+        "提升对在场毛猴生命的恢复量"
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 18017,
+      "Series": 0,
+      "Level": 1,
+      "NextId": 0,
+      "BuffList": [
+        2809,
+        2819
+      ],
+      "CostItem": [],
+      "UpgradeDesc": [],
+      "LocalizationTag": 0
+    }
+  ]
+}

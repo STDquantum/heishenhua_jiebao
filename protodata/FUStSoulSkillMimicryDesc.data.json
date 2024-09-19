@@ -1,0 +1,4756 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "SoulSkillID": 8029,
+      "LevelID": 1,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 2,
+      "SoulSkillID": 8029,
+      "LevelID": 3,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 3,
+      "SoulSkillID": 8029,
+      "LevelID": 7,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 4,
+      "SoulSkillID": 8029,
+      "LevelID": 9,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 5,
+      "SoulSkillID": 8029,
+      "LevelID": 10,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 6,
+      "SoulSkillID": 8029,
+      "LevelID": 11,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 7,
+      "SoulSkillID": 8029,
+      "LevelID": 12,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 8,
+      "SoulSkillID": 8029,
+      "LevelID": 13,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 9,
+      "SoulSkillID": 8029,
+      "LevelID": 20,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 10,
+      "SoulSkillID": 8029,
+      "LevelID": 21,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 11,
+      "SoulSkillID": 8029,
+      "LevelID": 22,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 12,
+      "SoulSkillID": 8029,
+      "LevelID": 23,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 13,
+      "SoulSkillID": 8029,
+      "LevelID": 24,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 14,
+      "SoulSkillID": 8029,
+      "LevelID": 25,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 15,
+      "SoulSkillID": 8029,
+      "LevelID": 30,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 16,
+      "SoulSkillID": 8029,
+      "LevelID": 31,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 17,
+      "SoulSkillID": 8029,
+      "LevelID": 40,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_psd.MC_40_psd_shu_psd'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 18,
+      "SoulSkillID": 8029,
+      "LevelID": 50,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 19,
+      "SoulSkillID": 8029,
+      "LevelID": 51,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 20,
+      "SoulSkillID": 8029,
+      "LevelID": 60,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 21,
+      "SoulSkillID": 8029,
+      "LevelID": 61,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 22,
+      "SoulSkillID": 8029,
+      "LevelID": 62,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 23,
+      "SoulSkillID": 8029,
+      "LevelID": 70,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 24,
+      "SoulSkillID": 8029,
+      "LevelID": 80,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_psd.MC_40_psd_shu_psd'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 25,
+      "SoulSkillID": 8029,
+      "LevelID": 90,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 26,
+      "SoulSkillID": 8029,
+      "LevelID": 91,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 27,
+      "SoulSkillID": 8029,
+      "LevelID": 92,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 28,
+      "SoulSkillID": 8029,
+      "LevelID": 97,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 29,
+      "SoulSkillID": 8029,
+      "LevelID": 98,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 30,
+      "SoulSkillID": 8029,
+      "LevelID": 99,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 31,
+      "SoulSkillID": 8029,
+      "LevelID": 111,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 32,
+      "SoulSkillID": 8029,
+      "LevelID": 3616,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 33,
+      "SoulSkillID": 8029,
+      "LevelID": 3617,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 34,
+      "SoulSkillID": 8029,
+      "LevelID": 3618,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 35,
+      "SoulSkillID": 8029,
+      "LevelID": 3619,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 36,
+      "SoulSkillID": 8029,
+      "LevelID": 3620,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 37,
+      "SoulSkillID": 8029,
+      "LevelID": 3623,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 38,
+      "SoulSkillID": 8029,
+      "LevelID": 3624,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 39,
+      "SoulSkillID": 8029,
+      "LevelID": 3625,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 40,
+      "SoulSkillID": 8029,
+      "LevelID": 3626,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 41,
+      "SoulSkillID": 8029,
+      "LevelID": 3627,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 42,
+      "SoulSkillID": 8029,
+      "LevelID": 3630,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 43,
+      "SoulSkillID": 8029,
+      "LevelID": 3635,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 44,
+      "SoulSkillID": 8029,
+      "LevelID": 4445,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 45,
+      "SoulSkillID": 8036,
+      "LevelID": 1,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 46,
+      "SoulSkillID": 8036,
+      "LevelID": 3,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 47,
+      "SoulSkillID": 8036,
+      "LevelID": 7,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 48,
+      "SoulSkillID": 8036,
+      "LevelID": 9,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 49,
+      "SoulSkillID": 8036,
+      "LevelID": 10,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 50,
+      "SoulSkillID": 8036,
+      "LevelID": 11,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 51,
+      "SoulSkillID": 8036,
+      "LevelID": 12,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 52,
+      "SoulSkillID": 8036,
+      "LevelID": 13,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 53,
+      "SoulSkillID": 8036,
+      "LevelID": 20,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 54,
+      "SoulSkillID": 8036,
+      "LevelID": 21,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 55,
+      "SoulSkillID": 8036,
+      "LevelID": 22,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 56,
+      "SoulSkillID": 8036,
+      "LevelID": 23,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 57,
+      "SoulSkillID": 8036,
+      "LevelID": 24,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 58,
+      "SoulSkillID": 8036,
+      "LevelID": 25,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 59,
+      "SoulSkillID": 8036,
+      "LevelID": 30,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 60,
+      "SoulSkillID": 8036,
+      "LevelID": 31,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 61,
+      "SoulSkillID": 8036,
+      "LevelID": 40,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 62,
+      "SoulSkillID": 8036,
+      "LevelID": 50,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 63,
+      "SoulSkillID": 8036,
+      "LevelID": 51,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 64,
+      "SoulSkillID": 8036,
+      "LevelID": 60,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 65,
+      "SoulSkillID": 8036,
+      "LevelID": 61,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 66,
+      "SoulSkillID": 8036,
+      "LevelID": 62,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 67,
+      "SoulSkillID": 8036,
+      "LevelID": 70,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 68,
+      "SoulSkillID": 8036,
+      "LevelID": 80,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 69,
+      "SoulSkillID": 8036,
+      "LevelID": 90,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 70,
+      "SoulSkillID": 8036,
+      "LevelID": 91,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 71,
+      "SoulSkillID": 8036,
+      "LevelID": 92,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 72,
+      "SoulSkillID": 8036,
+      "LevelID": 97,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 73,
+      "SoulSkillID": 8036,
+      "LevelID": 98,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 74,
+      "SoulSkillID": 8036,
+      "LevelID": 99,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 75,
+      "SoulSkillID": 8036,
+      "LevelID": 111,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 76,
+      "SoulSkillID": 8036,
+      "LevelID": 3616,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 77,
+      "SoulSkillID": 8036,
+      "LevelID": 3617,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 78,
+      "SoulSkillID": 8036,
+      "LevelID": 3618,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 79,
+      "SoulSkillID": 8036,
+      "LevelID": 3619,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 80,
+      "SoulSkillID": 8036,
+      "LevelID": 3620,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 81,
+      "SoulSkillID": 8036,
+      "LevelID": 3623,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 82,
+      "SoulSkillID": 8036,
+      "LevelID": 3624,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 83,
+      "SoulSkillID": 8036,
+      "LevelID": 3625,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 84,
+      "SoulSkillID": 8036,
+      "LevelID": 3626,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 85,
+      "SoulSkillID": 8036,
+      "LevelID": 3627,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 86,
+      "SoulSkillID": 8036,
+      "LevelID": 3630,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 87,
+      "SoulSkillID": 8036,
+      "LevelID": 3635,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 88,
+      "SoulSkillID": 8036,
+      "LevelID": 4445,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 89,
+      "SoulSkillID": 8129,
+      "LevelID": 1,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 90,
+      "SoulSkillID": 8129,
+      "LevelID": 3,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 91,
+      "SoulSkillID": 8129,
+      "LevelID": 7,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 92,
+      "SoulSkillID": 8129,
+      "LevelID": 9,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 93,
+      "SoulSkillID": 8129,
+      "LevelID": 10,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 94,
+      "SoulSkillID": 8129,
+      "LevelID": 11,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 95,
+      "SoulSkillID": 8129,
+      "LevelID": 12,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 96,
+      "SoulSkillID": 8129,
+      "LevelID": 13,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 97,
+      "SoulSkillID": 8129,
+      "LevelID": 20,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 98,
+      "SoulSkillID": 8129,
+      "LevelID": 21,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 99,
+      "SoulSkillID": 8129,
+      "LevelID": 22,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 100,
+      "SoulSkillID": 8129,
+      "LevelID": 23,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 101,
+      "SoulSkillID": 8129,
+      "LevelID": 24,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 102,
+      "SoulSkillID": 8129,
+      "LevelID": 25,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 103,
+      "SoulSkillID": 8129,
+      "LevelID": 30,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 104,
+      "SoulSkillID": 8129,
+      "LevelID": 31,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 105,
+      "SoulSkillID": 8129,
+      "LevelID": 40,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_psd.MC_40_psd_shu_psd'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 106,
+      "SoulSkillID": 8129,
+      "LevelID": 50,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 107,
+      "SoulSkillID": 8129,
+      "LevelID": 51,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 108,
+      "SoulSkillID": 8129,
+      "LevelID": 60,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 109,
+      "SoulSkillID": 8129,
+      "LevelID": 61,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 110,
+      "SoulSkillID": 8129,
+      "LevelID": 62,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 111,
+      "SoulSkillID": 8129,
+      "LevelID": 70,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 112,
+      "SoulSkillID": 8129,
+      "LevelID": 80,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_psd.MC_40_psd_shu_psd'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 113,
+      "SoulSkillID": 8129,
+      "LevelID": 90,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 114,
+      "SoulSkillID": 8129,
+      "LevelID": 91,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 115,
+      "SoulSkillID": 8129,
+      "LevelID": 92,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 116,
+      "SoulSkillID": 8129,
+      "LevelID": 97,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 117,
+      "SoulSkillID": 8129,
+      "LevelID": 98,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 118,
+      "SoulSkillID": 8129,
+      "LevelID": 99,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 119,
+      "SoulSkillID": 8129,
+      "LevelID": 111,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 120,
+      "SoulSkillID": 8129,
+      "LevelID": 3616,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 121,
+      "SoulSkillID": 8129,
+      "LevelID": 3617,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 122,
+      "SoulSkillID": 8129,
+      "LevelID": 3618,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 123,
+      "SoulSkillID": 8129,
+      "LevelID": 3619,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 124,
+      "SoulSkillID": 8129,
+      "LevelID": 3620,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 125,
+      "SoulSkillID": 8129,
+      "LevelID": 3623,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 126,
+      "SoulSkillID": 8129,
+      "LevelID": 3624,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 127,
+      "SoulSkillID": 8129,
+      "LevelID": 3625,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 128,
+      "SoulSkillID": 8129,
+      "LevelID": 3626,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 129,
+      "SoulSkillID": 8129,
+      "LevelID": 3627,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 130,
+      "SoulSkillID": 8129,
+      "LevelID": 3630,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 131,
+      "SoulSkillID": 8129,
+      "LevelID": 3635,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 132,
+      "SoulSkillID": 8129,
+      "LevelID": 4445,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 133,
+      "SoulSkillID": 8136,
+      "LevelID": 1,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 134,
+      "SoulSkillID": 8136,
+      "LevelID": 3,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 135,
+      "SoulSkillID": 8136,
+      "LevelID": 7,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 136,
+      "SoulSkillID": 8136,
+      "LevelID": 9,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 137,
+      "SoulSkillID": 8136,
+      "LevelID": 10,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 138,
+      "SoulSkillID": 8136,
+      "LevelID": 11,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 139,
+      "SoulSkillID": 8136,
+      "LevelID": 12,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 140,
+      "SoulSkillID": 8136,
+      "LevelID": 13,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 141,
+      "SoulSkillID": 8136,
+      "LevelID": 20,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 142,
+      "SoulSkillID": 8136,
+      "LevelID": 21,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 143,
+      "SoulSkillID": 8136,
+      "LevelID": 22,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 144,
+      "SoulSkillID": 8136,
+      "LevelID": 23,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 145,
+      "SoulSkillID": 8136,
+      "LevelID": 24,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 146,
+      "SoulSkillID": 8136,
+      "LevelID": 25,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 147,
+      "SoulSkillID": 8136,
+      "LevelID": 30,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 148,
+      "SoulSkillID": 8136,
+      "LevelID": 31,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 149,
+      "SoulSkillID": 8136,
+      "LevelID": 40,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 150,
+      "SoulSkillID": 8136,
+      "LevelID": 50,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 151,
+      "SoulSkillID": 8136,
+      "LevelID": 51,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 152,
+      "SoulSkillID": 8136,
+      "LevelID": 60,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 153,
+      "SoulSkillID": 8136,
+      "LevelID": 61,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 154,
+      "SoulSkillID": 8136,
+      "LevelID": 62,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 155,
+      "SoulSkillID": 8136,
+      "LevelID": 70,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 156,
+      "SoulSkillID": 8136,
+      "LevelID": 80,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 157,
+      "SoulSkillID": 8136,
+      "LevelID": 90,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 158,
+      "SoulSkillID": 8136,
+      "LevelID": 91,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 159,
+      "SoulSkillID": 8136,
+      "LevelID": 92,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 160,
+      "SoulSkillID": 8136,
+      "LevelID": 97,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 161,
+      "SoulSkillID": 8136,
+      "LevelID": 98,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 162,
+      "SoulSkillID": 8136,
+      "LevelID": 99,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 163,
+      "SoulSkillID": 8136,
+      "LevelID": 111,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 164,
+      "SoulSkillID": 8136,
+      "LevelID": 3616,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 165,
+      "SoulSkillID": 8136,
+      "LevelID": 3617,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 166,
+      "SoulSkillID": 8136,
+      "LevelID": 3618,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 167,
+      "SoulSkillID": 8136,
+      "LevelID": 3619,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 168,
+      "SoulSkillID": 8136,
+      "LevelID": 3620,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 169,
+      "SoulSkillID": 8136,
+      "LevelID": 3623,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 170,
+      "SoulSkillID": 8136,
+      "LevelID": 3624,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 171,
+      "SoulSkillID": 8136,
+      "LevelID": 3625,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 172,
+      "SoulSkillID": 8136,
+      "LevelID": 3626,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 173,
+      "SoulSkillID": 8136,
+      "LevelID": 3627,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 174,
+      "SoulSkillID": 8136,
+      "LevelID": 3630,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 175,
+      "SoulSkillID": 8136,
+      "LevelID": 3635,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 176,
+      "SoulSkillID": 8136,
+      "LevelID": 4445,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 177,
+      "SoulSkillID": 8229,
+      "LevelID": 1,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 178,
+      "SoulSkillID": 8229,
+      "LevelID": 3,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 179,
+      "SoulSkillID": 8229,
+      "LevelID": 7,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 180,
+      "SoulSkillID": 8229,
+      "LevelID": 9,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 181,
+      "SoulSkillID": 8229,
+      "LevelID": 10,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 182,
+      "SoulSkillID": 8229,
+      "LevelID": 11,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 183,
+      "SoulSkillID": 8229,
+      "LevelID": 12,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 184,
+      "SoulSkillID": 8229,
+      "LevelID": 13,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 185,
+      "SoulSkillID": 8229,
+      "LevelID": 20,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 186,
+      "SoulSkillID": 8229,
+      "LevelID": 21,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 187,
+      "SoulSkillID": 8229,
+      "LevelID": 22,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 188,
+      "SoulSkillID": 8229,
+      "LevelID": 23,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 189,
+      "SoulSkillID": 8229,
+      "LevelID": 24,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 190,
+      "SoulSkillID": 8229,
+      "LevelID": 25,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 191,
+      "SoulSkillID": 8229,
+      "LevelID": 30,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 192,
+      "SoulSkillID": 8229,
+      "LevelID": 31,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 193,
+      "SoulSkillID": 8229,
+      "LevelID": 40,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_psd.MC_40_psd_shu_psd'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 194,
+      "SoulSkillID": 8229,
+      "LevelID": 50,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 195,
+      "SoulSkillID": 8229,
+      "LevelID": 51,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 196,
+      "SoulSkillID": 8229,
+      "LevelID": 60,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 197,
+      "SoulSkillID": 8229,
+      "LevelID": 61,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 198,
+      "SoulSkillID": 8229,
+      "LevelID": 62,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 199,
+      "SoulSkillID": 8229,
+      "LevelID": 70,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 200,
+      "SoulSkillID": 8229,
+      "LevelID": 80,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_psd.MC_40_psd_shu_psd'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 201,
+      "SoulSkillID": 8229,
+      "LevelID": 90,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 202,
+      "SoulSkillID": 8229,
+      "LevelID": 91,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 203,
+      "SoulSkillID": 8229,
+      "LevelID": 92,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 204,
+      "SoulSkillID": 8229,
+      "LevelID": 97,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 205,
+      "SoulSkillID": 8229,
+      "LevelID": 98,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 206,
+      "SoulSkillID": 8229,
+      "LevelID": 99,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 207,
+      "SoulSkillID": 8229,
+      "LevelID": 111,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 208,
+      "SoulSkillID": 8229,
+      "LevelID": 3616,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 209,
+      "SoulSkillID": 8229,
+      "LevelID": 3617,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 210,
+      "SoulSkillID": 8229,
+      "LevelID": 3618,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 211,
+      "SoulSkillID": 8229,
+      "LevelID": 3619,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 212,
+      "SoulSkillID": 8229,
+      "LevelID": 3620,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 213,
+      "SoulSkillID": 8229,
+      "LevelID": 3623,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 214,
+      "SoulSkillID": 8229,
+      "LevelID": 3624,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 215,
+      "SoulSkillID": 8229,
+      "LevelID": 3625,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 216,
+      "SoulSkillID": 8229,
+      "LevelID": 3626,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 217,
+      "SoulSkillID": 8229,
+      "LevelID": 3627,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 218,
+      "SoulSkillID": 8229,
+      "LevelID": 3630,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 219,
+      "SoulSkillID": 8229,
+      "LevelID": 3635,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 220,
+      "SoulSkillID": 8229,
+      "LevelID": 4445,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 221,
+      "SoulSkillID": 8236,
+      "LevelID": 1,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 222,
+      "SoulSkillID": 8236,
+      "LevelID": 3,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 223,
+      "SoulSkillID": 8236,
+      "LevelID": 7,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 224,
+      "SoulSkillID": 8236,
+      "LevelID": 9,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 225,
+      "SoulSkillID": 8236,
+      "LevelID": 10,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 226,
+      "SoulSkillID": 8236,
+      "LevelID": 11,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 227,
+      "SoulSkillID": 8236,
+      "LevelID": 12,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 228,
+      "SoulSkillID": 8236,
+      "LevelID": 13,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 229,
+      "SoulSkillID": 8236,
+      "LevelID": 20,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 230,
+      "SoulSkillID": 8236,
+      "LevelID": 21,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 231,
+      "SoulSkillID": 8236,
+      "LevelID": 22,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 232,
+      "SoulSkillID": 8236,
+      "LevelID": 23,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 233,
+      "SoulSkillID": 8236,
+      "LevelID": 24,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 234,
+      "SoulSkillID": 8236,
+      "LevelID": 25,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 235,
+      "SoulSkillID": 8236,
+      "LevelID": 30,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 236,
+      "SoulSkillID": 8236,
+      "LevelID": 31,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 237,
+      "SoulSkillID": 8236,
+      "LevelID": 40,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 238,
+      "SoulSkillID": 8236,
+      "LevelID": 50,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 239,
+      "SoulSkillID": 8236,
+      "LevelID": 51,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 240,
+      "SoulSkillID": 8236,
+      "LevelID": 60,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 241,
+      "SoulSkillID": 8236,
+      "LevelID": 61,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 242,
+      "SoulSkillID": 8236,
+      "LevelID": 62,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 243,
+      "SoulSkillID": 8236,
+      "LevelID": 70,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 244,
+      "SoulSkillID": 8236,
+      "LevelID": 80,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 245,
+      "SoulSkillID": 8236,
+      "LevelID": 90,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 246,
+      "SoulSkillID": 8236,
+      "LevelID": 91,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 247,
+      "SoulSkillID": 8236,
+      "LevelID": 92,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 248,
+      "SoulSkillID": 8236,
+      "LevelID": 97,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 249,
+      "SoulSkillID": 8236,
+      "LevelID": 98,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 250,
+      "SoulSkillID": 8236,
+      "LevelID": 99,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 251,
+      "SoulSkillID": 8236,
+      "LevelID": 111,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 252,
+      "SoulSkillID": 8236,
+      "LevelID": 3616,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 253,
+      "SoulSkillID": 8236,
+      "LevelID": 3617,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 254,
+      "SoulSkillID": 8236,
+      "LevelID": 3618,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 255,
+      "SoulSkillID": 8236,
+      "LevelID": 3619,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 256,
+      "SoulSkillID": 8236,
+      "LevelID": 3620,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 257,
+      "SoulSkillID": 8236,
+      "LevelID": 3623,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 258,
+      "SoulSkillID": 8236,
+      "LevelID": 3624,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 259,
+      "SoulSkillID": 8236,
+      "LevelID": 3625,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 260,
+      "SoulSkillID": 8236,
+      "LevelID": 3626,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 261,
+      "SoulSkillID": 8236,
+      "LevelID": 3627,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 262,
+      "SoulSkillID": 8236,
+      "LevelID": 3630,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 263,
+      "SoulSkillID": 8236,
+      "LevelID": 3635,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 264,
+      "SoulSkillID": 8236,
+      "LevelID": 4445,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 265,
+      "SoulSkillID": 8329,
+      "LevelID": 1,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 266,
+      "SoulSkillID": 8329,
+      "LevelID": 3,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 267,
+      "SoulSkillID": 8329,
+      "LevelID": 7,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 268,
+      "SoulSkillID": 8329,
+      "LevelID": 9,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 269,
+      "SoulSkillID": 8329,
+      "LevelID": 10,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 270,
+      "SoulSkillID": 8329,
+      "LevelID": 11,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 271,
+      "SoulSkillID": 8329,
+      "LevelID": 12,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 272,
+      "SoulSkillID": 8329,
+      "LevelID": 13,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 273,
+      "SoulSkillID": 8329,
+      "LevelID": 20,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 274,
+      "SoulSkillID": 8329,
+      "LevelID": 21,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 275,
+      "SoulSkillID": 8329,
+      "LevelID": 22,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 276,
+      "SoulSkillID": 8329,
+      "LevelID": 23,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 277,
+      "SoulSkillID": 8329,
+      "LevelID": 24,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 278,
+      "SoulSkillID": 8329,
+      "LevelID": 25,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 279,
+      "SoulSkillID": 8329,
+      "LevelID": 30,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 280,
+      "SoulSkillID": 8329,
+      "LevelID": 31,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 281,
+      "SoulSkillID": 8329,
+      "LevelID": 40,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_psd.MC_40_psd_shu_psd'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 282,
+      "SoulSkillID": 8329,
+      "LevelID": 50,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 283,
+      "SoulSkillID": 8329,
+      "LevelID": 51,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 284,
+      "SoulSkillID": 8329,
+      "LevelID": 60,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 285,
+      "SoulSkillID": 8329,
+      "LevelID": 61,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 286,
+      "SoulSkillID": 8329,
+      "LevelID": 62,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 287,
+      "SoulSkillID": 8329,
+      "LevelID": 70,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 288,
+      "SoulSkillID": 8329,
+      "LevelID": 80,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_psd.MC_40_psd_shu_psd'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 289,
+      "SoulSkillID": 8329,
+      "LevelID": 90,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 290,
+      "SoulSkillID": 8329,
+      "LevelID": 91,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 291,
+      "SoulSkillID": 8329,
+      "LevelID": 92,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 292,
+      "SoulSkillID": 8329,
+      "LevelID": 97,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 293,
+      "SoulSkillID": 8329,
+      "LevelID": 98,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 294,
+      "SoulSkillID": 8329,
+      "LevelID": 99,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 295,
+      "SoulSkillID": 8329,
+      "LevelID": 111,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 296,
+      "SoulSkillID": 8329,
+      "LevelID": 3616,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 297,
+      "SoulSkillID": 8329,
+      "LevelID": 3617,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 298,
+      "SoulSkillID": 8329,
+      "LevelID": 3618,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 299,
+      "SoulSkillID": 8329,
+      "LevelID": 3619,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 300,
+      "SoulSkillID": 8329,
+      "LevelID": 3620,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 301,
+      "SoulSkillID": 8329,
+      "LevelID": 3623,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 302,
+      "SoulSkillID": 8329,
+      "LevelID": 3624,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 303,
+      "SoulSkillID": 8329,
+      "LevelID": 3625,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 304,
+      "SoulSkillID": 8329,
+      "LevelID": 3626,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 305,
+      "SoulSkillID": 8329,
+      "LevelID": 3627,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 306,
+      "SoulSkillID": 8329,
+      "LevelID": 3630,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 307,
+      "SoulSkillID": 8329,
+      "LevelID": 3635,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 308,
+      "SoulSkillID": 8329,
+      "LevelID": 4445,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 309,
+      "SoulSkillID": 8336,
+      "LevelID": 1,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 310,
+      "SoulSkillID": 8336,
+      "LevelID": 3,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 311,
+      "SoulSkillID": 8336,
+      "LevelID": 7,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 312,
+      "SoulSkillID": 8336,
+      "LevelID": 9,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 313,
+      "SoulSkillID": 8336,
+      "LevelID": 10,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 314,
+      "SoulSkillID": 8336,
+      "LevelID": 11,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 315,
+      "SoulSkillID": 8336,
+      "LevelID": 12,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 316,
+      "SoulSkillID": 8336,
+      "LevelID": 13,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 317,
+      "SoulSkillID": 8336,
+      "LevelID": 20,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 318,
+      "SoulSkillID": 8336,
+      "LevelID": 21,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 319,
+      "SoulSkillID": 8336,
+      "LevelID": 22,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 320,
+      "SoulSkillID": 8336,
+      "LevelID": 23,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 321,
+      "SoulSkillID": 8336,
+      "LevelID": 24,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 322,
+      "SoulSkillID": 8336,
+      "LevelID": 25,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 323,
+      "SoulSkillID": 8336,
+      "LevelID": 30,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 324,
+      "SoulSkillID": 8336,
+      "LevelID": 31,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 325,
+      "SoulSkillID": 8336,
+      "LevelID": 40,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 326,
+      "SoulSkillID": 8336,
+      "LevelID": 50,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 327,
+      "SoulSkillID": 8336,
+      "LevelID": 51,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 328,
+      "SoulSkillID": 8336,
+      "LevelID": 60,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 329,
+      "SoulSkillID": 8336,
+      "LevelID": 61,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 330,
+      "SoulSkillID": 8336,
+      "LevelID": 62,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 331,
+      "SoulSkillID": 8336,
+      "LevelID": 70,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 332,
+      "SoulSkillID": 8336,
+      "LevelID": 80,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 333,
+      "SoulSkillID": 8336,
+      "LevelID": 90,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 334,
+      "SoulSkillID": 8336,
+      "LevelID": 91,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 335,
+      "SoulSkillID": 8336,
+      "LevelID": 92,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 336,
+      "SoulSkillID": 8336,
+      "LevelID": 97,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 337,
+      "SoulSkillID": 8336,
+      "LevelID": 98,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 338,
+      "SoulSkillID": 8336,
+      "LevelID": 99,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 339,
+      "SoulSkillID": 8336,
+      "LevelID": 111,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 340,
+      "SoulSkillID": 8336,
+      "LevelID": 3616,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 341,
+      "SoulSkillID": 8336,
+      "LevelID": 3617,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 342,
+      "SoulSkillID": 8336,
+      "LevelID": 3618,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 343,
+      "SoulSkillID": 8336,
+      "LevelID": 3619,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 344,
+      "SoulSkillID": 8336,
+      "LevelID": 3620,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 345,
+      "SoulSkillID": 8336,
+      "LevelID": 3623,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 346,
+      "SoulSkillID": 8336,
+      "LevelID": 3624,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 347,
+      "SoulSkillID": 8336,
+      "LevelID": 3625,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 348,
+      "SoulSkillID": 8336,
+      "LevelID": 3626,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 349,
+      "SoulSkillID": 8336,
+      "LevelID": 3627,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 350,
+      "SoulSkillID": 8336,
+      "LevelID": 3630,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 351,
+      "SoulSkillID": 8336,
+      "LevelID": 3635,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 352,
+      "SoulSkillID": 8336,
+      "LevelID": 4445,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 353,
+      "SoulSkillID": 8429,
+      "LevelID": 1,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 354,
+      "SoulSkillID": 8429,
+      "LevelID": 3,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 355,
+      "SoulSkillID": 8429,
+      "LevelID": 7,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 356,
+      "SoulSkillID": 8429,
+      "LevelID": 9,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 357,
+      "SoulSkillID": 8429,
+      "LevelID": 10,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 358,
+      "SoulSkillID": 8429,
+      "LevelID": 11,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 359,
+      "SoulSkillID": 8429,
+      "LevelID": 12,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 360,
+      "SoulSkillID": 8429,
+      "LevelID": 13,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 361,
+      "SoulSkillID": 8429,
+      "LevelID": 20,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 362,
+      "SoulSkillID": 8429,
+      "LevelID": 21,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 363,
+      "SoulSkillID": 8429,
+      "LevelID": 22,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 364,
+      "SoulSkillID": 8429,
+      "LevelID": 23,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 365,
+      "SoulSkillID": 8429,
+      "LevelID": 24,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 366,
+      "SoulSkillID": 8429,
+      "LevelID": 25,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 367,
+      "SoulSkillID": 8429,
+      "LevelID": 30,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 368,
+      "SoulSkillID": 8429,
+      "LevelID": 31,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 369,
+      "SoulSkillID": 8429,
+      "LevelID": 40,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_psd.MC_40_psd_shu_psd'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 370,
+      "SoulSkillID": 8429,
+      "LevelID": 50,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 371,
+      "SoulSkillID": 8429,
+      "LevelID": 51,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 372,
+      "SoulSkillID": 8429,
+      "LevelID": 60,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 373,
+      "SoulSkillID": 8429,
+      "LevelID": 61,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 374,
+      "SoulSkillID": 8429,
+      "LevelID": 62,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 375,
+      "SoulSkillID": 8429,
+      "LevelID": 70,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 376,
+      "SoulSkillID": 8429,
+      "LevelID": 80,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_psd.MC_40_psd_shu_psd'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 377,
+      "SoulSkillID": 8429,
+      "LevelID": 90,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 378,
+      "SoulSkillID": 8429,
+      "LevelID": 91,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 379,
+      "SoulSkillID": 8429,
+      "LevelID": 92,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 380,
+      "SoulSkillID": 8429,
+      "LevelID": 97,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 381,
+      "SoulSkillID": 8429,
+      "LevelID": 98,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 382,
+      "SoulSkillID": 8429,
+      "LevelID": 99,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 383,
+      "SoulSkillID": 8429,
+      "LevelID": 111,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 384,
+      "SoulSkillID": 8429,
+      "LevelID": 3616,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 385,
+      "SoulSkillID": 8429,
+      "LevelID": 3617,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 386,
+      "SoulSkillID": 8429,
+      "LevelID": 3618,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 387,
+      "SoulSkillID": 8429,
+      "LevelID": 3619,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 388,
+      "SoulSkillID": 8429,
+      "LevelID": 3620,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 389,
+      "SoulSkillID": 8429,
+      "LevelID": 3623,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 390,
+      "SoulSkillID": 8429,
+      "LevelID": 3624,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 391,
+      "SoulSkillID": 8429,
+      "LevelID": 3625,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 392,
+      "SoulSkillID": 8429,
+      "LevelID": 3626,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 393,
+      "SoulSkillID": 8429,
+      "LevelID": 3627,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 394,
+      "SoulSkillID": 8429,
+      "LevelID": 3630,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 395,
+      "SoulSkillID": 8429,
+      "LevelID": 3635,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 396,
+      "SoulSkillID": 8429,
+      "LevelID": 4445,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 397,
+      "SoulSkillID": 8436,
+      "LevelID": 1,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 398,
+      "SoulSkillID": 8436,
+      "LevelID": 3,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 399,
+      "SoulSkillID": 8436,
+      "LevelID": 7,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 400,
+      "SoulSkillID": 8436,
+      "LevelID": 9,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 401,
+      "SoulSkillID": 8436,
+      "LevelID": 10,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 402,
+      "SoulSkillID": 8436,
+      "LevelID": 11,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 403,
+      "SoulSkillID": 8436,
+      "LevelID": 12,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 404,
+      "SoulSkillID": 8436,
+      "LevelID": 13,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 405,
+      "SoulSkillID": 8436,
+      "LevelID": 20,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 406,
+      "SoulSkillID": 8436,
+      "LevelID": 21,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 407,
+      "SoulSkillID": 8436,
+      "LevelID": 22,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 408,
+      "SoulSkillID": 8436,
+      "LevelID": 23,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 409,
+      "SoulSkillID": 8436,
+      "LevelID": 24,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 410,
+      "SoulSkillID": 8436,
+      "LevelID": 25,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 411,
+      "SoulSkillID": 8436,
+      "LevelID": 30,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 412,
+      "SoulSkillID": 8436,
+      "LevelID": 31,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 413,
+      "SoulSkillID": 8436,
+      "LevelID": 40,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 414,
+      "SoulSkillID": 8436,
+      "LevelID": 50,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 415,
+      "SoulSkillID": 8436,
+      "LevelID": 51,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 416,
+      "SoulSkillID": 8436,
+      "LevelID": 60,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 417,
+      "SoulSkillID": 8436,
+      "LevelID": 61,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 418,
+      "SoulSkillID": 8436,
+      "LevelID": 62,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 419,
+      "SoulSkillID": 8436,
+      "LevelID": 70,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 420,
+      "SoulSkillID": 8436,
+      "LevelID": 80,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 421,
+      "SoulSkillID": 8436,
+      "LevelID": 90,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 422,
+      "SoulSkillID": 8436,
+      "LevelID": 91,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 423,
+      "SoulSkillID": 8436,
+      "LevelID": 92,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 424,
+      "SoulSkillID": 8436,
+      "LevelID": 97,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 425,
+      "SoulSkillID": 8436,
+      "LevelID": 98,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 426,
+      "SoulSkillID": 8436,
+      "LevelID": 99,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 427,
+      "SoulSkillID": 8436,
+      "LevelID": 111,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 428,
+      "SoulSkillID": 8436,
+      "LevelID": 3616,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 429,
+      "SoulSkillID": 8436,
+      "LevelID": 3617,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 430,
+      "SoulSkillID": 8436,
+      "LevelID": 3618,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 431,
+      "SoulSkillID": 8436,
+      "LevelID": 3619,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 432,
+      "SoulSkillID": 8436,
+      "LevelID": 3620,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 433,
+      "SoulSkillID": 8436,
+      "LevelID": 3623,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 434,
+      "SoulSkillID": 8436,
+      "LevelID": 3624,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 435,
+      "SoulSkillID": 8436,
+      "LevelID": 3625,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 436,
+      "SoulSkillID": 8436,
+      "LevelID": 3626,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 437,
+      "SoulSkillID": 8436,
+      "LevelID": 3627,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 438,
+      "SoulSkillID": 8436,
+      "LevelID": 3630,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 439,
+      "SoulSkillID": 8436,
+      "LevelID": 3635,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 440,
+      "SoulSkillID": 8436,
+      "LevelID": 4445,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 441,
+      "SoulSkillID": 8529,
+      "LevelID": 1,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 442,
+      "SoulSkillID": 8529,
+      "LevelID": 3,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 443,
+      "SoulSkillID": 8529,
+      "LevelID": 7,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 444,
+      "SoulSkillID": 8529,
+      "LevelID": 9,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 445,
+      "SoulSkillID": 8529,
+      "LevelID": 10,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 446,
+      "SoulSkillID": 8529,
+      "LevelID": 11,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 447,
+      "SoulSkillID": 8529,
+      "LevelID": 12,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 448,
+      "SoulSkillID": 8529,
+      "LevelID": 13,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 449,
+      "SoulSkillID": 8529,
+      "LevelID": 20,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 450,
+      "SoulSkillID": 8529,
+      "LevelID": 21,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 451,
+      "SoulSkillID": 8529,
+      "LevelID": 22,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 452,
+      "SoulSkillID": 8529,
+      "LevelID": 23,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 453,
+      "SoulSkillID": 8529,
+      "LevelID": 24,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 454,
+      "SoulSkillID": 8529,
+      "LevelID": 25,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hfm.MC_40_psd_shu_hfm'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 455,
+      "SoulSkillID": 8529,
+      "LevelID": 30,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 456,
+      "SoulSkillID": 8529,
+      "LevelID": 31,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 457,
+      "SoulSkillID": 8529,
+      "LevelID": 40,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_psd.MC_40_psd_shu_psd'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 458,
+      "SoulSkillID": 8529,
+      "LevelID": 50,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 459,
+      "SoulSkillID": 8529,
+      "LevelID": 51,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 460,
+      "SoulSkillID": 8529,
+      "LevelID": 60,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 461,
+      "SoulSkillID": 8529,
+      "LevelID": 61,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 462,
+      "SoulSkillID": 8529,
+      "LevelID": 62,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 463,
+      "SoulSkillID": 8529,
+      "LevelID": 70,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 464,
+      "SoulSkillID": 8529,
+      "LevelID": 80,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_psd.MC_40_psd_shu_psd'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 465,
+      "SoulSkillID": 8529,
+      "LevelID": 90,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 466,
+      "SoulSkillID": 8529,
+      "LevelID": 91,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_lys.MC_40_psd_shu_lys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 467,
+      "SoulSkillID": 8529,
+      "LevelID": 92,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 468,
+      "SoulSkillID": 8529,
+      "LevelID": 97,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 469,
+      "SoulSkillID": 8529,
+      "LevelID": 98,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 470,
+      "SoulSkillID": 8529,
+      "LevelID": 99,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 471,
+      "SoulSkillID": 8529,
+      "LevelID": 111,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 472,
+      "SoulSkillID": 8529,
+      "LevelID": 3616,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 473,
+      "SoulSkillID": 8529,
+      "LevelID": 3617,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_hys.MC_40_psd_shu_hys'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 474,
+      "SoulSkillID": 8529,
+      "LevelID": 3618,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 475,
+      "SoulSkillID": 8529,
+      "LevelID": 3619,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 476,
+      "SoulSkillID": 8529,
+      "LevelID": 3620,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 477,
+      "SoulSkillID": 8529,
+      "LevelID": 3623,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 478,
+      "SoulSkillID": 8529,
+      "LevelID": 3624,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 479,
+      "SoulSkillID": 8529,
+      "LevelID": 3625,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 480,
+      "SoulSkillID": 8529,
+      "LevelID": 3626,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 481,
+      "SoulSkillID": 8529,
+      "LevelID": 3627,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 482,
+      "SoulSkillID": 8529,
+      "LevelID": 3630,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 483,
+      "SoulSkillID": 8529,
+      "LevelID": 3635,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 484,
+      "SoulSkillID": 8529,
+      "LevelID": 4445,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_40_psd_shu_def.MC_40_psd_shu_def'",
+      "Buff": 20129,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 1026
+    },
+    {
+      "ID": 485,
+      "SoulSkillID": 8536,
+      "LevelID": 1,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 486,
+      "SoulSkillID": 8536,
+      "LevelID": 3,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 487,
+      "SoulSkillID": 8536,
+      "LevelID": 7,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 488,
+      "SoulSkillID": 8536,
+      "LevelID": 9,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 489,
+      "SoulSkillID": 8536,
+      "LevelID": 10,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 490,
+      "SoulSkillID": 8536,
+      "LevelID": 11,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 491,
+      "SoulSkillID": 8536,
+      "LevelID": 12,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 492,
+      "SoulSkillID": 8536,
+      "LevelID": 13,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 493,
+      "SoulSkillID": 8536,
+      "LevelID": 20,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 494,
+      "SoulSkillID": 8536,
+      "LevelID": 21,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 495,
+      "SoulSkillID": 8536,
+      "LevelID": 22,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 496,
+      "SoulSkillID": 8536,
+      "LevelID": 23,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 497,
+      "SoulSkillID": 8536,
+      "LevelID": 24,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 498,
+      "SoulSkillID": 8536,
+      "LevelID": 25,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hfm.MC_50_hys_shi_hfm'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 499,
+      "SoulSkillID": 8536,
+      "LevelID": 30,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 500,
+      "SoulSkillID": 8536,
+      "LevelID": 31,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 501,
+      "SoulSkillID": 8536,
+      "LevelID": 40,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 502,
+      "SoulSkillID": 8536,
+      "LevelID": 50,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 503,
+      "SoulSkillID": 8536,
+      "LevelID": 51,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 504,
+      "SoulSkillID": 8536,
+      "LevelID": 60,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 505,
+      "SoulSkillID": 8536,
+      "LevelID": 61,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 506,
+      "SoulSkillID": 8536,
+      "LevelID": 62,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 507,
+      "SoulSkillID": 8536,
+      "LevelID": 70,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 508,
+      "SoulSkillID": 8536,
+      "LevelID": 80,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 509,
+      "SoulSkillID": 8536,
+      "LevelID": 90,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 510,
+      "SoulSkillID": 8536,
+      "LevelID": 91,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_lys.MC_50_hys_shi_lys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 511,
+      "SoulSkillID": 8536,
+      "LevelID": 92,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 512,
+      "SoulSkillID": 8536,
+      "LevelID": 97,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 513,
+      "SoulSkillID": 8536,
+      "LevelID": 98,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 514,
+      "SoulSkillID": 8536,
+      "LevelID": 99,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 515,
+      "SoulSkillID": 8536,
+      "LevelID": 111,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 516,
+      "SoulSkillID": 8536,
+      "LevelID": 3616,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 517,
+      "SoulSkillID": 8536,
+      "LevelID": 3617,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_hys.MC_50_hys_shi_hys'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 518,
+      "SoulSkillID": 8536,
+      "LevelID": 3618,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 519,
+      "SoulSkillID": 8536,
+      "LevelID": 3619,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 520,
+      "SoulSkillID": 8536,
+      "LevelID": 3620,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 521,
+      "SoulSkillID": 8536,
+      "LevelID": 3623,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 522,
+      "SoulSkillID": 8536,
+      "LevelID": 3624,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 523,
+      "SoulSkillID": 8536,
+      "LevelID": 3625,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 524,
+      "SoulSkillID": 8536,
+      "LevelID": 3626,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 525,
+      "SoulSkillID": 8536,
+      "LevelID": 3627,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 526,
+      "SoulSkillID": 8536,
+      "LevelID": 3630,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 527,
+      "SoulSkillID": 8536,
+      "LevelID": 3635,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    },
+    {
+      "ID": 528,
+      "SoulSkillID": 8536,
+      "LevelID": 4445,
+      "DAPath": "BGWDataAsset_VigorSkillMimicryConfig'/Game/00MainHZ/Characters/Transform/VigorSkill/S1/MC_50_hys_shi_def.MC_50_hys_shi_def'",
+      "Buff": 20136,
+      "OverrideAbnormalDispIDAttacker": 0,
+      "OverrideAbnormalDispIDVictim": 0
+    }
+  ]
+}

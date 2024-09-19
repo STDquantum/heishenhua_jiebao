@@ -1,0 +1,48 @@
+{
+  "List": [
+    {
+      "Id": 1,
+      "LuckValueMin": 0,
+      "LuckValueMax": 0,
+      "GreyMantraWeight": 50,
+      "GreenMantraWeight": 50,
+      "BlueMantraWeight": 50,
+      "PurpleMantraWeight": 0,
+      "OrangeMantraWeight": 0,
+      "RedMantraWeight": 0
+    },
+    {
+      "Id": 2,
+      "LuckValueMin": 1,
+      "LuckValueMax": 3,
+      "GreyMantraWeight": 0,
+      "GreenMantraWeight": 50,
+      "BlueMantraWeight": 50,
+      "PurpleMantraWeight": 50,
+      "OrangeMantraWeight": 20,
+      "RedMantraWeight": 0
+    },
+    {
+      "Id": 3,
+      "LuckValueMin": 4,
+      "LuckValueMax": 6,
+      "GreyMantraWeight": 0,
+      "GreenMantraWeight": 20,
+      "BlueMantraWeight": 30,
+      "PurpleMantraWeight": 60,
+      "OrangeMantraWeight": 60,
+      "RedMantraWeight": 10
+    },
+    {
+      "Id": 4,
+      "LuckValueMin": 7,
+      "LuckValueMax": 0,
+      "GreyMantraWeight": 0,
+      "GreenMantraWeight": 0,
+      "BlueMantraWeight": 0,
+      "PurpleMantraWeight": 20,
+      "OrangeMantraWeight": 20,
+      "RedMantraWeight": 20
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "List": [
+    {
+      "Id": 1,
+      "ChapterName": "",
+      "ChapterPreName": "序章",
+      "ChapterPerformId": 0,
+      "ChapterAdaptorDelayTime": 0.0,
+      "ChapterMovieId": 0,
+      "NextChapterId": 10,
+      "LevelId": 13,
+      "AwardList": [],
+      "LocalizationTag": 0
+    },
+    {
+      "Id": 10,
+      "ChapterName": "火照黑云",
+      "ChapterPreName": "第一回",
+      "ChapterPerformId": 10910011,
+      "ChapterAdaptorDelayTime": 1.0,
+      "ChapterMovieId": 1099,
+      "NextChapterId": 20,
+      "LevelId": 10,
+      "AwardList": [
+        9901,
+        911008,
+        91019
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 20,
+      "ChapterName": "风起黄昏",
+      "ChapterPreName": "第二回",
+      "ChapterPerformId": 20910011,
+      "ChapterAdaptorDelayTime": 3.0,
+      "ChapterMovieId": 2099,
+      "NextChapterId": 30,
+      "LevelId": 20,
+      "AwardList": [
+        9902,
+        912008,
+        91019
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 30,
+      "ChapterName": "夜生白露",
+      "ChapterPreName": "第三回",
+      "ChapterPerformId": 30910011,
+      "ChapterAdaptorDelayTime": 3.0,
+      "ChapterMovieId": 3099,
+      "NextChapterId": 40,
+      "LevelId": 30,
+      "AwardList": [
+        9903,
+        913008,
+        91019
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 40,
+      "ChapterName": "曲度紫鸳",
+      "ChapterPreName": "第四回",
+      "ChapterPerformId": 40910011,
+      "ChapterAdaptorDelayTime": 3.0,
+      "ChapterMovieId": 4099,
+      "NextChapterId": 50,
+      "LevelId": 40,
+      "AwardList": [
+        9904,
+        914008,
+        91019,
+        91053
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50,
+      "ChapterName": "日落红尘",
+      "ChapterPreName": "第五回",
+      "ChapterPerformId": 50910011,
+      "ChapterAdaptorDelayTime": 3.0,
+      "ChapterMovieId": 5099,
+      "NextChapterId": 60,
+      "LevelId": 50,
+      "AwardList": [
+        9905,
+        915008,
+        91019
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 60,
+      "ChapterName": "未竟",
+      "ChapterPreName": "第六回",
+      "ChapterPerformId": 0,
+      "ChapterAdaptorDelayTime": 0.0,
+      "ChapterMovieId": 9999,
+      "NextChapterId": 60,
+      "LevelId": 98,
+      "AwardList": [],
+      "LocalizationTag": 1
+    }
+  ]
+}

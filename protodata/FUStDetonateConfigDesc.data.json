@@ -1,0 +1,66 @@
+{
+  "List": [
+    {
+      "ID": 18,
+      "BuffID": 18400,
+      "Explosive": 5000.0,
+      "ExplosiveDBCPath": "",
+      "AdsortLevelDamageList": [
+        {
+          "ExplosiveDamageBuff": 18401,
+          "ExplosiveRadius": 0.0,
+          "ExplosiveLevel": 0,
+          "PlayerGainBuff": 18071,
+          "PlayerGainRadius": 5000.0
+        },
+        {
+          "ExplosiveDamageBuff": 18402,
+          "ExplosiveRadius": 0.0,
+          "ExplosiveLevel": 0,
+          "PlayerGainBuff": 18072,
+          "PlayerGainRadius": 5000.0
+        },
+        {
+          "ExplosiveDamageBuff": 18403,
+          "ExplosiveRadius": 0.0,
+          "ExplosiveLevel": 0,
+          "PlayerGainBuff": 18073,
+          "PlayerGainRadius": 5000.0
+        },
+        {
+          "ExplosiveDamageBuff": 18404,
+          "ExplosiveRadius": 0.0,
+          "ExplosiveLevel": 0,
+          "PlayerGainBuff": 18074,
+          "PlayerGainRadius": 5000.0
+        }
+      ],
+      "DelayPlayerGainConfig": [
+        {
+          "BuffID": 18471,
+          "PerformanceBuffL1": 18451,
+          "PerformanceBuffL2": 18454,
+          "PerformanceBuffL3": 18454,
+          "PerformanceBuffL4": 18457,
+          "Distance": 1000.0
+        },
+        {
+          "BuffID": 18472,
+          "PerformanceBuffL1": 18452,
+          "PerformanceBuffL2": 18455,
+          "PerformanceBuffL3": 18455,
+          "PerformanceBuffL4": 18458,
+          "Distance": 3000.0
+        },
+        {
+          "BuffID": 18473,
+          "PerformanceBuffL1": 18453,
+          "PerformanceBuffL2": 18456,
+          "PerformanceBuffL3": 18456,
+          "PerformanceBuffL4": 18459,
+          "Distance": 5000.0
+        }
+      ]
+    }
+  ]
+}

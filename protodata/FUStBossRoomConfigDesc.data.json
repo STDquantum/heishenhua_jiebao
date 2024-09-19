@@ -1,0 +1,889 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "LevelID": 113,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFS.GuangZhi"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 1000,
+      "LevelID": 10,
+      "IsEnable": 0,
+      "BossGuid": [
+        "UGuid.HFS.Niu.Teacher"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 1001,
+      "LevelID": 10,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFS.DBL0"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 1002,
+      "LevelID": 10,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFS.Baiyi0",
+        "UGuid.HFS.BaiyiT2"
+      ],
+      "IsEnableCheckOutOfBossRoom": 1,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 1003,
+      "LevelID": 10,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFS.XiongR0"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 1004,
+      "LevelID": 10,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFS.XiongX0",
+        ""
+      ],
+      "IsEnableCheckOutOfBossRoom": 1,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 1005,
+      "LevelID": 10,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFS.GuangZhi"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 1006,
+      "LevelID": 10,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFS.GuangM0"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 1101,
+      "LevelID": 11,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFS.JCZL"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 1201,
+      "LevelID": 12,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFS.WoodDragon"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 2001,
+      "LevelID": 20,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFM.FuZiShu.ZS0",
+        "UGuid.HFM.FuZiShu.FS0"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 200201,
+      "LevelID": 20,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFM.ShuWang_01a.SW0"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 200202,
+      "LevelID": 20,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFM.ShuWang_01a.SW1"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 2003,
+      "LevelID": 20,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFM.HuXianFeng.Hu0"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 2004,
+      "LevelID": 20,
+      "IsEnable": 0,
+      "BossGuid": [
+        "UGuid.HFM.ShiXianFeng",
+        "UGuid.HFM.ShiGanDang.1"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 2005,
+      "LevelID": 20,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFM.HFDS.H0"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 2006,
+      "LevelID": 20,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFM.HuangPaoZhu.Battle"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 2007,
+      "LevelID": 20,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFM.Shawuliang"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 2008,
+      "LevelID": 20,
+      "IsEnable": 0,
+      "BossGuid": [
+        ""
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 2009,
+      "LevelID": 20,
+      "IsEnable": 0,
+      "BossGuid": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 2010,
+      "LevelID": 20,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFM.BaShanHu"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 2011,
+      "LevelID": 20,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFM.Wa.01"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 2401,
+      "LevelID": 24,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFM.LiLong"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 2501,
+      "LevelID": 25,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFM.Hu.01"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 2502,
+      "LevelID": 25,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LSH.DuJiaoXian",
+        "UGuid.HFM.HFDS.Battle",
+        "UGuid.HFM.HFDS.NPC",
+        "UGuid.HFM.HFDS.Pre"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3001,
+      "LevelID": 30,
+      "IsEnable": 0,
+      "BossGuid": [
+        "UGuid.LYS.HuangMei.Small"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3002,
+      "LevelID": 30,
+      "IsEnable": 0,
+      "BossGuid": [
+        "UGuid.LYS.HuangMei.Big"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3003,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.RBM"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3004,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.XueHou.AnShen",
+        "UGuid.LYS.YSCheng.Ass"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3005,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.XueHou.NM",
+        "UGuid.LYS.XueHou.RNM"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3006,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.Mo4"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3007,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.Mo2"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3008,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.Mo_01"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3009,
+      "LevelID": 30,
+      "IsEnable": 0,
+      "BossGuid": [
+        "UGuid.LYS.KJL.Long"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3010,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.KJL.Women"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3011,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.JianLong.Fight",
+        "UGuid.LYS.JianLong.NPC"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3012,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.RuYiLong.01"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3013,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.SengMian"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3014,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.TuiSeng.P1",
+        "UGuid.LYS.TuiSeng.P2"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3015,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.Mo3.FM"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3016,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HFM.HuanWuZhe",
+        "UGuid.HFM.HuanWuZhe.Lunzi",
+        "UGuid.HFM.HuanWuZhe.Lunzi02"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3017,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.LaoSeng"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3018,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.XueWa"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3019,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.ShuangTS"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3020,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.bujing"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3021,
+      "LevelID": 30,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.LYS.SengMian02"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 3101,
+      "LevelID": 31,
+      "IsEnable": 0,
+      "BossGuid": [
+        ""
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 4001,
+      "LevelID": 40,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.PSD.BaiYanMoJun",
+        "UGuid.PSD.Dajie",
+        "UGuid.PSD.ErJie",
+        "UGuid.PSD.Sanjie",
+        "UGuid.PSD.Wumei"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 4002,
+      "LevelID": 40,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.PSD.Dage"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 4003,
+      "LevelID": 40,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.PSD.BaJie.Mo"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 4004,
+      "LevelID": 40,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.PSD.BaJie.Mo2",
+        "UGuid.PSD.BaJie.Ye"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 4005,
+      "LevelID": 40,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.PSD.LaoZhiZhu",
+        "UGuid.PSD.BaJie.Jian"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 4006,
+      "LevelID": 40,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.PSD.Erjie.Village"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 4007,
+      "LevelID": 40,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.PSD.WuLong.4H"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 4008,
+      "LevelID": 40,
+      "IsEnable": 0,
+      "BossGuid": [
+        ""
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 4009,
+      "LevelID": 40,
+      "IsEnable": 0,
+      "BossGuid": [
+        ""
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 4010,
+      "LevelID": 40,
+      "IsEnable": 0,
+      "BossGuid": [
+        ""
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 4011,
+      "LevelID": 40,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.PSD.Wa.01"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 4012,
+      "LevelID": 40,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.PSD.WuLong"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 4013,
+      "LevelID": 40,
+      "IsEnable": 0,
+      "BossGuid": [
+        "UGuid.PSD.YouYan"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 5408,
+      "LevelID": 40,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.PSD.qinlang"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 8001,
+      "LevelID": 80,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.ZYS.MRXG",
+        "UGuid.ZYS.XieZi.MRXG"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 8002,
+      "LevelID": 80,
+      "IsEnable": 0,
+      "BossGuid": [
+        ""
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 8003,
+      "LevelID": 80,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.ZYS.DaoShi.Idle",
+        "UGuid.ZYS.DaoShi.Fight",
+        "UGuid.ZYS.Daoshi.P2"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 5001,
+      "LevelID": 50,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HYS.HMS.Inside"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 5002,
+      "LevelID": 50,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HYS.JiRuHuo01",
+        "UGuid.HYS.KuaiRuFeng01"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 5003,
+      "LevelID": 50,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HYS.YunLiWu",
+        "UGuid.HYS.WuLiYun"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 5004,
+      "LevelID": 50,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HYS.TuDiGong",
+        "UGuid.HYS.TuDi.YS"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 5005,
+      "LevelID": 50,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HYS.HongHaiEr",
+        "UGuid.HYS.YeChaWang"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 5006,
+      "LevelID": 50,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HYS.ZhanChe.01d",
+        "UGuid.HYS.JDS.05"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 5007,
+      "LevelID": 50,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HYS.Wa.01"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 5008,
+      "LevelID": 50,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HYS.HMS.Outside"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 6001,
+      "LevelID": 61,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.MGD.JSDS"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 6002,
+      "LevelID": 61,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.MGD.JSDS.P2"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 6201,
+      "LevelID": 62,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.EndB.YangJian"
+      ],
+      "IsEnableCheckOutOfBossRoom": 1,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 6202,
+      "LevelID": 62,
+      "IsEnable": 0,
+      "BossGuid": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 6203,
+      "LevelID": 62,
+      "IsEnable": 0,
+      "BossGuid": [
+        ""
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 7001,
+      "LevelID": 70,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.BSD.JJS"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 7002,
+      "LevelID": 70,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.HYS.XingGongXian",
+        "UGuid.HYS.XianGongXing"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 7401,
+      "LevelID": 61,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.MGD.Yuan"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 9801,
+      "LevelID": 98,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.BYS.WLG.01"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 9802,
+      "LevelID": 98,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.BYS.Xiniu"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 9803,
+      "LevelID": 98,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.BYS.Xuelu"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 9804,
+      "LevelID": 98,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.SZLC.Wa.01"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    },
+    {
+      "ID": 9805,
+      "LevelID": 98,
+      "IsEnable": 1,
+      "BossGuid": [
+        "UGuid.BYS.Baishe"
+      ],
+      "IsEnableCheckOutOfBossRoom": 0,
+      "TeleportSceneItemTagName": ""
+    }
+  ]
+}

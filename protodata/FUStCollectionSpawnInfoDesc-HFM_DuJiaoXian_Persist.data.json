@@ -1,0 +1,76 @@
+{
+  "List": [
+    {
+      "CollectionName": "BP_yaocai_gancao_C_1",
+      "MapName": "HFM_DuJiaoXian_Persist",
+      "MapId": 25,
+      "GroupId": 200701,
+      "Guid": "1716909450737-DESKTOP-GSDCSVP-E49EC15A4BF516B3BBF9A2B178436772-BP_yaocai_gancao_C_1",
+      "SubLevel": "",
+      "TaskId": 0,
+      "EventId": 0,
+      "PlusEventId": 0,
+      "ChiefEventId": 0
+    },
+    {
+      "CollectionName": "BP_yaocai_gancao_C_3",
+      "MapName": "HFM_DuJiaoXian_Persist",
+      "MapId": 25,
+      "GroupId": 200701,
+      "Guid": "1716909484425-DESKTOP-GSDCSVP-E49EC15A4BF516B3BBF9A2B178436772-BP_yaocai_gancao_C_3",
+      "SubLevel": "",
+      "TaskId": 0,
+      "EventId": 0,
+      "PlusEventId": 0,
+      "ChiefEventId": 0
+    },
+    {
+      "CollectionName": "BP_yaocai_gancao_C_5",
+      "MapName": "HFM_DuJiaoXian_Persist",
+      "MapId": 25,
+      "GroupId": 200701,
+      "Guid": "1716910409408-DESKTOP-GSDCSVP-E49EC15A4BF516B3BBF9A2B178436772-BP_yaocai_gancao_C_5",
+      "SubLevel": "",
+      "TaskId": 0,
+      "EventId": 0,
+      "PlusEventId": 0,
+      "ChiefEventId": 0
+    },
+    {
+      "CollectionName": "BP_yaocai_gancao_C_7",
+      "MapName": "HFM_DuJiaoXian_Persist",
+      "MapId": 25,
+      "GroupId": 200701,
+      "Guid": "1716910545665-DESKTOP-GSDCSVP-E49EC15A4BF516B3BBF9A2B178436772-BP_yaocai_gancao_C_7",
+      "SubLevel": "",
+      "TaskId": 0,
+      "EventId": 0,
+      "PlusEventId": 0,
+      "ChiefEventId": 0
+    },
+    {
+      "CollectionName": "BP_yaocai_gancao_C_9",
+      "MapName": "HFM_DuJiaoXian_Persist",
+      "MapId": 25,
+      "GroupId": 200701,
+      "Guid": "1716910559582-DESKTOP-GSDCSVP-E49EC15A4BF516B3BBF9A2B178436772-BP_yaocai_gancao_C_9",
+      "SubLevel": "",
+      "TaskId": 0,
+      "EventId": 0,
+      "PlusEventId": 0,
+      "ChiefEventId": 0
+    },
+    {
+      "CollectionName": "BP_yaocai_gancao_C_11",
+      "MapName": "HFM_DuJiaoXian_Persist",
+      "MapId": 25,
+      "GroupId": 200701,
+      "Guid": "1716910625230-DESKTOP-GSDCSVP-E49EC15A4BF516B3BBF9A2B178436772-BP_yaocai_gancao_C_11",
+      "SubLevel": "",
+      "TaskId": 0,
+      "EventId": 0,
+      "PlusEventId": 0,
+      "ChiefEventId": 0
+    }
+  ]
+}

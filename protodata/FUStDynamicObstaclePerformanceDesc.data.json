@@ -1,0 +1,94 @@
+{
+  "List": [
+    {
+      "ID": 0,
+      "PerformID": 0,
+      "ResID": 0,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00Main/DataAsset/UDOPConfig/UDOPC_Default.UDOPC_Default'"
+    },
+    {
+      "ID": 1,
+      "PerformID": 10,
+      "ResID": 10,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00Main/DataAsset/UDOPConfig/UDOPC_Wukong_Default.UDOPC_Wukong_Default'"
+    },
+    {
+      "ID": 2,
+      "PerformID": 10,
+      "ResID": 12,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00MainHZ/Characters/Transform/Player_gycy_lang/DOPC_player_gycy_lang.DOPC_player_gycy_lang'"
+    },
+    {
+      "ID": 3,
+      "PerformID": 10,
+      "ResID": 13,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_shi/DOPC_player_hfm_shi.DOPC_player_hfm_shi'"
+    },
+    {
+      "ID": 4,
+      "PerformID": 10,
+      "ResID": 14,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/DOPC_player_hfm_hu.DOPC_player_hfm_hu'"
+    },
+    {
+      "ID": 5,
+      "PerformID": 10,
+      "ResID": 15,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00MainHZ/Characters/Transform/Player_lys_shu/DOPC_player_lys_shu.DOPC_player_lys_shu'"
+    },
+    {
+      "ID": 6,
+      "PerformID": 10,
+      "ResID": 16,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00MainHZ/Characters/Transform/Player_lys_yao/DOPC_player_lys_yao.DOPC_player_lys_yao'"
+    },
+    {
+      "ID": 7,
+      "PerformID": 10,
+      "ResID": 17,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00MainHZ/Characters/Transform/Player_lys_hou/DOPC_player_lys_hou.DOPC_player_lys_hou'"
+    },
+    {
+      "ID": 8,
+      "PerformID": 10,
+      "ResID": 18,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00MainHZ/Characters/Transform/Player_psd_chong/DOPC_player_psd_chong.DOPC_player_psd_chong'"
+    },
+    {
+      "ID": 9,
+      "PerformID": 10,
+      "ResID": 19,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00MainHZ/Characters/Transform/Player_psd_long/DOPC_player_psd_long.DOPC_player_psd_long'"
+    },
+    {
+      "ID": 10,
+      "PerformID": 10,
+      "ResID": 23,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00MainHZ/Characters/Transform/Player_hys_ma/DOPC_player_hys_ma.DOPC_player_hys_ma'"
+    },
+    {
+      "ID": 11,
+      "PerformID": 10,
+      "ResID": 24,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00MainHZ/Characters/Transform/Player_mgd_yuan/DOPC_player_mgd_yuan.DOPC_player_mgd_yuan'"
+    },
+    {
+      "ID": 12,
+      "PerformID": 10,
+      "ResID": 25,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00MainHZ/Characters/Transform/Player_ftxd/DOPC_player_ftxd.DOPC_player_ftxd'"
+    },
+    {
+      "ID": 13,
+      "PerformID": 3001,
+      "ResID": 0,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00Main/DataAsset/UDOPConfig/LYS/UDOPC_HuWind.UDOPC_HuWind'"
+    },
+    {
+      "ID": 14,
+      "PerformID": 4001,
+      "ResID": 10,
+      "DAPath": "BGWDataAsset_UnitDynamicObstaclePerformanceConfig'/Game/00Main/DataAsset/UDOPConfig/PSD/UDOPC_Wukong_PSD.UDOPC_Wukong_PSD'"
+    }
+  ]
+}

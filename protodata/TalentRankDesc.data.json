@@ -1,0 +1,34 @@
+{
+  "List": [
+    {
+      "SpellType": 11,
+      "Rank": 1,
+      "UnlockRankPoint": 0,
+      "UnlockTalent": []
+    },
+    {
+      "SpellType": 11,
+      "Rank": 2,
+      "UnlockRankPoint": 3,
+      "UnlockTalent": [
+        100501
+      ]
+    },
+    {
+      "SpellType": 11,
+      "Rank": 3,
+      "UnlockRankPoint": 10,
+      "UnlockTalent": [
+        100503
+      ]
+    },
+    {
+      "SpellType": 11,
+      "Rank": 4,
+      "UnlockRankPoint": 20,
+      "UnlockTalent": [
+        100505
+      ]
+    }
+  ]
+}

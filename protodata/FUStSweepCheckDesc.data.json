@@ -1,0 +1,194 @@
+{
+  "List": [
+    {
+      "ID": 380001,
+      "Radius": 150.0,
+      "SocketName": "Hit_LYB_1"
+    },
+    {
+      "ID": 380002,
+      "Radius": 150.0,
+      "SocketName": "Hit_LYB_2"
+    },
+    {
+      "ID": 380003,
+      "Radius": 150.0,
+      "SocketName": "Hit_LYB_3"
+    },
+    {
+      "ID": 380004,
+      "Radius": 150.0,
+      "SocketName": "Hit_LYB_4"
+    },
+    {
+      "ID": 380005,
+      "Radius": 150.0,
+      "SocketName": "Hit_LYB_5"
+    },
+    {
+      "ID": 380006,
+      "Radius": 150.0,
+      "SocketName": "Hit_LYB_6"
+    },
+    {
+      "ID": 380007,
+      "Radius": 150.0,
+      "SocketName": "Hit_LYB_7"
+    },
+    {
+      "ID": 380008,
+      "Radius": 400.0,
+      "SocketName": "Hit_LYB_7"
+    },
+    {
+      "ID": 390001,
+      "Radius": 200.0,
+      "SocketName": "Hit_LYB_1"
+    },
+    {
+      "ID": 390002,
+      "Radius": 200.0,
+      "SocketName": "Hit_LYB_2"
+    },
+    {
+      "ID": 390003,
+      "Radius": 200.0,
+      "SocketName": "Hit_LYB_3"
+    },
+    {
+      "ID": 390004,
+      "Radius": 200.0,
+      "SocketName": "Hit_LYB_4"
+    },
+    {
+      "ID": 390005,
+      "Radius": 200.0,
+      "SocketName": "Hit_LYB_5"
+    },
+    {
+      "ID": 390006,
+      "Radius": 200.0,
+      "SocketName": "Hit_LYB_6"
+    },
+    {
+      "ID": 390007,
+      "Radius": 200.0,
+      "SocketName": "Hit_LYB_7"
+    },
+    {
+      "ID": 390008,
+      "Radius": 800.0,
+      "SocketName": "Hit_LYB_7"
+    },
+    {
+      "ID": 800000,
+      "Radius": 150.0,
+      "SocketName": "Hit_Spear_0"
+    },
+    {
+      "ID": 800001,
+      "Radius": 75.0,
+      "SocketName": "Hit_Spear_1"
+    },
+    {
+      "ID": 800002,
+      "Radius": 50.0,
+      "SocketName": "Hit_Spear_2"
+    },
+    {
+      "ID": 800003,
+      "Radius": 50.0,
+      "SocketName": "Hit_Spear_3"
+    },
+    {
+      "ID": 800004,
+      "Radius": 50.0,
+      "SocketName": "Hit_Spear_4"
+    },
+    {
+      "ID": 800005,
+      "Radius": 50.0,
+      "SocketName": "Hit_Spear_5"
+    },
+    {
+      "ID": 800011,
+      "Radius": 75.0,
+      "SocketName": "Hit_Sword_1"
+    },
+    {
+      "ID": 800012,
+      "Radius": 50.0,
+      "SocketName": "Hit_Sword_2"
+    },
+    {
+      "ID": 800013,
+      "Radius": 50.0,
+      "SocketName": "Hit_Sword_3"
+    },
+    {
+      "ID": 800014,
+      "Radius": 50.0,
+      "SocketName": "Hit_Sword_4"
+    },
+    {
+      "ID": 800021,
+      "Radius": 100.0,
+      "SocketName": "Hit_Axe_1"
+    },
+    {
+      "ID": 800022,
+      "Radius": 50.0,
+      "SocketName": "Hit_Axe_2"
+    },
+    {
+      "ID": 800023,
+      "Radius": 50.0,
+      "SocketName": "Hit_Axe_3"
+    },
+    {
+      "ID": 800024,
+      "Radius": 50.0,
+      "SocketName": "Hit_Axe_4"
+    },
+    {
+      "ID": 471301,
+      "Radius": 150.0,
+      "SocketName": "dao_l_1"
+    },
+    {
+      "ID": 471302,
+      "Radius": 150.0,
+      "SocketName": "dao_l_2"
+    },
+    {
+      "ID": 471303,
+      "Radius": 150.0,
+      "SocketName": "dao_l_3"
+    },
+    {
+      "ID": 471304,
+      "Radius": 100.0,
+      "SocketName": "lowerarm_l"
+    },
+    {
+      "ID": 471305,
+      "Radius": 150.0,
+      "SocketName": "dao_r_1"
+    },
+    {
+      "ID": 471306,
+      "Radius": 150.0,
+      "SocketName": "dao_r_2"
+    },
+    {
+      "ID": 471307,
+      "Radius": 150.0,
+      "SocketName": "dao_r_3"
+    },
+    {
+      "ID": 471308,
+      "Radius": 100.0,
+      "SocketName": "lowerarm_r"
+    }
+  ]
+}

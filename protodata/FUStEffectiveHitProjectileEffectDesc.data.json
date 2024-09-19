@@ -1,0 +1,14 @@
+{
+  "List": [
+    {
+      "ID": 10,
+      "PEValueSwitchRatio": 0.5,
+      "CostAttr": {
+        "CostAttrType": 1,
+        "SwitchRatio": 0.3
+      },
+      "IncreaseBaseValue": 5.0,
+      "Guard": "Guard"
+    }
+  ]
+}

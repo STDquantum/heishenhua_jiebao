@@ -1,0 +1,430 @@
+{
+  "List": [
+    {
+      "ID": 10,
+      "UnitResID": 10,
+      "BaseAudioBankName": "AKB_sunwukong_pugong",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/sunwukong_pugong/AKB_sunwukong_pugong.AKB_sunwukong_pugong'"
+    },
+    {
+      "ID": 11,
+      "UnitResID": 11,
+      "BaseAudioBankName": "chan",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/chan/chan.chan'"
+    },
+    {
+      "ID": 20,
+      "UnitResID": 20,
+      "BaseAudioBankName": "NPC_tudi",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/NPC_tudi/NPC_tudi.NPC_tudi'"
+    },
+    {
+      "ID": 12,
+      "UnitResID": 12,
+      "BaseAudioBankName": "AKB_sunwukong_pugong",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/sunwukong_pugong/AKB_sunwukong_pugong.AKB_sunwukong_pugong'"
+    },
+    {
+      "ID": 30,
+      "UnitResID": 30,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 31,
+      "UnitResID": 31,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 32,
+      "UnitResID": 32,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 33,
+      "UnitResID": 33,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 34,
+      "UnitResID": 34,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 35,
+      "UnitResID": 35,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 36,
+      "UnitResID": 36,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 38,
+      "UnitResID": 38,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 29,
+      "UnitResID": 29,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 9,
+      "UnitResID": 9,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 9989,
+      "UnitResID": 9989,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 9990,
+      "UnitResID": 9990,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 9991,
+      "UnitResID": 9991,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 9992,
+      "UnitResID": 9992,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 9993,
+      "UnitResID": 9993,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 9994,
+      "UnitResID": 9994,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 9995,
+      "UnitResID": 9995,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 9996,
+      "UnitResID": 9996,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 9997,
+      "UnitResID": 9997,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 9998,
+      "UnitResID": 9998,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 9999,
+      "UnitResID": 9999,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 10011,
+      "UnitResID": 10011,
+      "BaseAudioBankName": "AKB_sunwukong_pugong",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/sunwukong_pugong/AKB_sunwukong_pugong.AKB_sunwukong_pugong'"
+    },
+    {
+      "ID": 10012,
+      "UnitResID": 10012,
+      "BaseAudioBankName": "AKB_sunwukong_pugong",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/sunwukong_pugong/AKB_sunwukong_pugong.AKB_sunwukong_pugong'"
+    },
+    {
+      "ID": 37,
+      "UnitResID": 37,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 40,
+      "UnitResID": 40,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1001,
+      "UnitResID": 1001,
+      "BaseAudioBankName": "GYCY_lang02",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_lang02/GYCY_lang02.GYCY_lang02'"
+    },
+    {
+      "ID": 1002,
+      "UnitResID": 1002,
+      "BaseAudioBankName": "CYGY_lang03",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_lang03/CYGY_lang03.CYGY_lang03'"
+    },
+    {
+      "ID": 1032,
+      "UnitResID": 1032,
+      "BaseAudioBankName": "CYGY_lang03",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_lang03/CYGY_lang03.CYGY_lang03'"
+    },
+    {
+      "ID": 1003,
+      "UnitResID": 1003,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1004,
+      "UnitResID": 1004,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1005,
+      "UnitResID": 1005,
+      "BaseAudioBankName": "GYCY_lang01",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_lang01/GYCY_lang01.GYCY_lang01'"
+    },
+    {
+      "ID": 1101,
+      "UnitResID": 1101,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1007,
+      "UnitResID": 1007,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1006,
+      "UnitResID": 1006,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1008,
+      "UnitResID": 1008,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1009,
+      "UnitResID": 1009,
+      "BaseAudioBankName": "GYCY_Wa_02",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_Wa_02/GYCY_Wa_02.GYCY_Wa_02'"
+    },
+    {
+      "ID": 1010,
+      "UnitResID": 1010,
+      "BaseAudioBankName": "GYCY_tufei01",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_tufei011/GYCY_TUFEI01.GYCY_tufei01'"
+    },
+    {
+      "ID": 1011,
+      "UnitResID": 1011,
+      "BaseAudioBankName": "GYCY_lang04",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_lang04/GYCY_lang04.GYCY_lang04'"
+    },
+    {
+      "ID": 1012,
+      "UnitResID": 1012,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1013,
+      "UnitResID": 1013,
+      "BaseAudioBankName": "GYCY_Wa01",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1014,
+      "UnitResID": 1014,
+      "BaseAudioBankName": "GYCY_lang05",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_lang05/GYCY_lang05.GYCY_lang05'"
+    },
+    {
+      "ID": 1015,
+      "UnitResID": 1015,
+      "BaseAudioBankName": "GYCY_lang06",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_lang06/GYCY_lang06.GYCY_lang06'"
+    },
+    {
+      "ID": 1033,
+      "UnitResID": 1033,
+      "BaseAudioBankName": "GYCY_lang06",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_lang06/GYCY_lang06.GYCY_lang06'"
+    },
+    {
+      "ID": 1016,
+      "UnitResID": 1016,
+      "BaseAudioBankName": "GYCY_lang07",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_lang07/GYCY_lang07.GYCY_lang07'"
+    },
+    {
+      "ID": 1017,
+      "UnitResID": 1017,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1018,
+      "UnitResID": 1018,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1019,
+      "UnitResID": 1019,
+      "BaseAudioBankName": "FTT_ShiBing01",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/FTT_ShiBing01/FTT_ShiBing01.FTT_ShiBing01'"
+    },
+    {
+      "ID": 1020,
+      "UnitResID": 1020,
+      "BaseAudioBankName": "GYCY_Seng02",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_Seng02/GYCY_Seng02.GYCY_Seng02'"
+    },
+    {
+      "ID": 1021,
+      "UnitResID": 1021,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1022,
+      "UnitResID": 1022,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1023,
+      "UnitResID": 1023,
+      "BaseAudioBankName": "GYCY_yanjianxi",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_yanjianxi/GYCY_yanjianxi.GYCY_yanjianxi'"
+    },
+    {
+      "ID": 1024,
+      "UnitResID": 1024,
+      "BaseAudioBankName": "GYCY_yanjianxi",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_yanjianxi/GYCY_yanjianxi.GYCY_yanjianxi'"
+    },
+    {
+      "ID": 1025,
+      "UnitResID": 1025,
+      "BaseAudioBankName": "CYGY_DBL01",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_DBL01/CYGY_DBL01.CYGY_DBL01'"
+    },
+    {
+      "ID": 1026,
+      "UnitResID": 1026,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1027,
+      "UnitResID": 1027,
+      "BaseAudioBankName": "FTT_GuiShiWei",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/FTT_GuiShiWei/FTT_GuiShiWei.FTT_GuiShiWei'"
+    },
+    {
+      "ID": 1028,
+      "UnitResID": 1028,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1029,
+      "UnitResID": 1029,
+      "BaseAudioBankName": "GYCY_lang08",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_lang08/GYCY_lang08.GYCY_lang08'"
+    },
+    {
+      "ID": 1050,
+      "UnitResID": 1050,
+      "BaseAudioBankName": "GYCY_lang04",
+      "BaseAudioBankPath": "AkAudioBank'/Game/00Main/Audio/GYCY_lang04/GYCY_lang04.GYCY_lang04'"
+    },
+    {
+      "ID": 1030,
+      "UnitResID": 1030,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 1031,
+      "UnitResID": 1031,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 11021,
+      "UnitResID": 11021,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 2001,
+      "UnitResID": 2001,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 2002,
+      "UnitResID": 2002,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 2003,
+      "UnitResID": 2003,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 2004,
+      "UnitResID": 2004,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 2005,
+      "UnitResID": 2005,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    },
+    {
+      "ID": 2006,
+      "UnitResID": 2006,
+      "BaseAudioBankName": "",
+      "BaseAudioBankPath": ""
+    }
+  ]
+}

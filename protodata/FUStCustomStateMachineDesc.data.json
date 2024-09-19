@@ -1,0 +1,2139 @@
+{
+  "List": [
+    {
+      "ID": 825,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/DataAsset/GeneralCPG/CPG_template_weakperform_levelname.CPG_template_weakperform_levelname'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/DataAsset/GeneralCPG/CPG_Template_OverlapVoice.CPG_Template_OverlapVoice'",
+      "DataAssetPath": "CalliopeParameterMappingDataAsset'/Game/00Main/DataAsset/GeneralCPG/DA_CPG_Mapping_OverlapVoice.DA_CPG_Mapping_OverlapVoice'"
+    },
+    {
+      "ID": 1002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/DataAsset/GeneralCPG/CPG_Template_InteractorSequence.CPG_Template_InteractorSequence'",
+      "DataAssetPath": "CalliopeParameterMappingDataAsset'/Game/00Main/DataAsset/GeneralCPG/DA_CPG_Mapping_InteractorSequence.DA_CPG_Mapping_InteractorSequence'"
+    },
+    {
+      "ID": 1003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/TaskAssets/CPG_Task_Test.CPG_Task_Test'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1004,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/TestMaps/SJJTest/CPG_SJJ_Test.CPG_SJJ_Test'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1005,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/DataAsset/GeneralCPG/CPG_template_overlaplevelname.CPG_template_overlaplevelname'",
+      "DataAssetPath": "CalliopeParameterMappingDataAsset'/Game/00Main/DataAsset/GeneralCPG/DA_template_overlaplevelname.DA_template_overlaplevelname'"
+    },
+    {
+      "ID": 1006,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/Maps/TestMaps/TestSequence/CPG_TestSeq.CPG_TestSeq'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1007,
+      "ProcessType": 2,
+      "IsEnableByDefault": 0,
+      "GraphPath": "BED_ProcessAsset'/Game/Yuchen/BeginPlayTest/CPG_BeginPlayTest.CPG_BeginPlayTest'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1008,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/TestMaps/AiTest/CPG_FollowPartnerTest.CPG_FollowPartnerTest'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1009,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/TestMaps/charlietest/charlie_test_CPG.charlie_test_CPG'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1010,
+      "ProcessType": 2,
+      "IsEnableByDefault": 0,
+      "GraphPath": "BED_ProcessAsset'/Game/TestMaps/fjaytest/Graph/CPG_lang03_fjaytest.CPG_lang03_fjaytest'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1024,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/TestMaps/oceantest/Calliope/CPG/CPG_OCEANTest.CPG_OCEANTest'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 110001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/MGD/QuestAsset/CPG_mgd_game_opening.CPG_mgd_game_opening'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1000000,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/SceneBattleDemo/Map/quest/CPG_BDLS.CPG_BDLS'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1010001,
+      "ProcessType": 1,
+      "IsEnableByDefault": 0,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_Start_DingShenZhuaTou.CPG_HFS_Start_DingShenZhuaTou'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_QiaoZhong.CPG_HFS_QiaoZhong'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_Start_Peach.CPG_HFS_Start_Peach'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020101,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_hfs_start_chaxiang.CPG_hfs_start_chaxiang'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_hfs_niu_dingshen.CPG_hfs_niu_dingshen'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020004,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_Forest_Chan.CPG_HFS_Forest_Chan'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020005,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_Forest_Leave.CPG_HFS_Forest_Leave'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020006,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_Forest_RedTides.CPG_HFS_Forest_RedTides'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020019,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_GuangZhiYuYin.CPG_HFS_GuangZhiYuYin'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020007,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_Forest_YouHun.CPG_HFS_Forest_YouHun'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020008,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_GYCY_EntranceBattle.CPG_HFS_GYCY_EntranceBattle'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020009,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_GYCY_DBLBattle.CPG_HFS_GYCY_DBLBattle'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020010,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_Bamboo_She02.CPG_HFS_Bamboo_She02'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020011,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_Bamboo_Zhong.CPG_HFS_Bamboo_Zhong'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020012,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_Swamp_BaiyiBattle.CPG_HFS_Swamp_BaiyiBattle'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020014,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_Cave_HFDWBattle.CPG_HFS_Cave_HFDWBattle'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020015,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_MontainTop_HeiXiongBattle.CPG_HFS_MontainTop_HeiXiongBattle'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020016,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_PuBu.CPG_HFS_PuBu'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020018,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/Degenerator_map/HFS_Transmit/Sequence/CPG_hfs_wooddragon.CPG_hfs_wooddragon'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020017,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_GYCY_TudiAIConTest.CPG_HFS_GYCY_TudiAIConTest'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020020,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_hfs_startwolfdead_tudi_voice.CPG_hfs_startwolfdead_tudi_voice'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020021,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_hfs_gycy_tudi.CPG_hfs_gycy_tudi'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020022,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/DataAsset/GeneralCPG/CPG_Template_OverlapVoice_HFS_TuDi.CPG_Template_OverlapVoice_HFS_TuDi'",
+      "DataAssetPath": "CalliopeParameterMappingDataAsset'/Game/00Main/DataAsset/GeneralCPG/DA_CPG_Mapping_OverlapVoice_HFS_TuDi.DA_CPG_Mapping_OverlapVoice_HFS_TuDi'"
+    },
+    {
+      "ID": 1020023,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_Chiran_PUbu_Voice.CPG_Chiran_PUbu_Voice'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020024,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/Degenerator_map/HFS_Transmit/Sequence/CPG_hfs_wooddragon_battle.CPG_hfs_wooddragon_battle'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020025,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_YSCheng.CPG_HFS_YSCheng'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020026,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01_OldGYCY_YKX/Sequence/CPG_hfs_ykxgycy_enter.CPG_hfs_ykxgycy_enter'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020027,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_hfs_global_levelstreaming.CPG_hfs_global_levelstreaming'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020030,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_Tudipo.CPG_HFS_Tudipo'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020031,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_QiaoZhong_Tudi_Voice.CPG_HFS_QiaoZhong_Tudi_Voice'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020032,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_PiHuoZhao_Tudi_Voice.CPG_HFS_PiHuoZhao_Tudi_Voice'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1020033,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_BaiYiDie_Tudi_Voice.CPG_HFS_BaiYiDie_Tudi_Voice'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1030002,
+      "ProcessType": 3,
+      "IsEnableByDefault": 0,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_hfs_quest_honglinmang.CPG_hfs_quest_honglinmang'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1030003,
+      "ProcessType": 3,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_hfs_laolingxuzi.CPG_hfs_laolingxuzi'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1040001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_hfs_wa01.CPG_hfs_wa01'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1101001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_OldGYCY_YKX.CPG_HFS_OldGYCY_YKX'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1200201,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_MaMian.CPG_HFS_MaMian'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 1310301,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFS01/QuestAssets/CPG_HFS_Shenhou.CPG_HFS_Shenhou'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2005001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Bolanggu_HC.CPG_HFM_Bolanggu_HC'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2005002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Bolanggu_SMCW.CPG_HFM_Bolanggu_SMCW'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2030001,
+      "ProcessType": 3,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/TaskAssets/HFM/ZhuXingNanYi/CPG_HFM_Task_HuangPaoZhu.CPG_HFM_Task_HuangPaoZhu'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2030002,
+      "ProcessType": 3,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/TaskAssets/HFM/MaoShuTongMian/CPG_HFM_Task_ShuangTouShu.CPG_HFM_Task_ShuangTouShu'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2030003,
+      "ProcessType": 3,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/TaskAssets/HFM/ShiZhongSheng/CPG_HFM_ShiZhongSheng.CPG_HFM_ShiZhongSheng'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2030013,
+      "ProcessType": 3,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/TaskAssets/HFM/ShiZhongSheng/CPG_HFM_shizhongsheng_Dialogue.CPG_HFM_shizhongsheng_Dialogue'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2030004,
+      "ProcessType": 3,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/TaskAssets/HFM/HuoZhongQuLi/CPG_HFM_Task_XuGou.CPG_HFM_Task_XuGou'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2030006,
+      "ProcessType": 3,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/TaskAssets/HFM/ShiGanDang/CPG_HFM_ShiGanDang.CPG_HFM_ShiGanDang'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2030066,
+      "ProcessType": 3,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/TaskAssets/HFM/ShiGanDang/CPG_hfm_buddahheadaudio.CPG_hfm_buddahheadaudio'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2030067,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/TaskAssets/HFM/ShiZhongSheng/CPG_hfm_buddahheadsound.CPG_hfm_buddahheadsound'",
+      "DataAssetPath": "CalliopeParameterMappingDataAsset'/Game/00Main/DataAsset/GeneralCPG/DA_CPG_Mapping_OverlapVoice_buddahhead.DA_CPG_Mapping_OverlapVoice_buddahhead'"
+    },
+    {
+      "ID": 2020001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Start_Story.CPG_HFM_Start_Story'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Name_HuangFengLing.CPG_HFM_Name_HuangFengLing'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Name_ShaMenCun.CPG_HFM_Name_ShaMenCun'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020004,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Village_FuZiShu.CPG_HFM_Village_FuZiShu'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020005,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Village_Fujie.CPG_HFM_Village_Fujie'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020006,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Cave_CangLongDong.CPG_HFM_Cave_CangLongDong'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020007,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Desert_HFDSBattle.CPG_HFM_Desert_HFDSBattle'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020008,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Desert_HuangFengZhen.CPG_HFM_Desert_HuangFengZhen'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020009,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_SandSkiing_HuiLuanGuDao.CPG_HFM_SandSkiing_HuiLuanGuDao'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020010,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_SandSkiing_FuJie.CPG_HFM_SandSkiing_FuJie'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020011,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_MountainVillage_BoLangGu.CPG_HFM_MountainVillage_BoLangGu'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020012,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_MountainVillage_HongPaoShu01_DoubleArea.CPG_HFM_MountainVillage_HongPaoShu01_DoubleArea'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020013,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_MountainVillage_HongPaoShu02_Collect.CPG_HFM_MountainVillage_HongPaoShu02_Collect'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020014,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_MountainVillage_HongPaoShu03_CArea.CPG_HFM_MountainVillage_HongPaoShu03_CArea'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020015,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_MountainVillage_HongPaoShu_Final.CPG_HFM_MountainVillage_HongPaoShu_Final'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020016,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_GainFenShen.CPG_HFM_GainFenShen'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020017,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Temple_Fujie.CPG_HFM_Temple_Fujie'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020019,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Temple_TopAreaBattle.CPG_HFM_Temple_TopAreaBattle'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020018,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Temple_HuangFengDong.CPG_HFM_Temple_HuangFengDong'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020020,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Temple_XingFengSi.CPG_HFM_Temple_XingFengSi'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020021,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Valley_XieHunYa.CPG_HFM_Valley_XieHunYa'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020022,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Village_LongZaiYuan.CPG_HFM_Village_LongZaiYuan'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020024,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/TaskAssets/HFM/LongZaiYuan/CPG_HFM_ShaWuLiang.CPG_HFM_ShaWuLiang'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020030,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_hfm_hu_01_voice.CPG_hfm_hu_01_voice'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020031,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_Village_Shuangtoushu_voice.CPG_Village_Shuangtoushu_voice'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020032,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_hfm_fazhen.CPG_hfm_fazhen'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020033,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_fazhen_back.CPG_fazhen_back'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020034,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Chuilong.CPG_HFM_Chuilong'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020035,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_hfm_chuilong_voice.CPG_hfm_chuilong_voice'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020036,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_hide_shuangtoushu_voice.CPG_hide_shuangtoushu_voice'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020037,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_YSCheng.CPG_HFM_YSCheng'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020038,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_hfm_shunushoudamen.CPG_hfm_shunushoudamen'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020039,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_hfm_global_levelstreaming.CPG_hfm_global_levelstreaming'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020040,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_hfm_leiwa.CPG_hfm_leiwa'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020041,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_YSCheng_LongLin.CPG_HFM_YSCheng_LongLin'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020042,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Village_xiaoxumi.CPG_HFM_Village_xiaoxumi'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020102,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Valley_RockBattle_Tiny.CPG_HFM_Valley_RockBattle_Tiny'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020104,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_CaveParty.CPG_HFM_CaveParty'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020105,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_hfm_Valley_caveparty_1f.CPG_hfm_Valley_caveparty_1f'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020106,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_hfm_caveparty_crazygal.CPG_hfm_caveparty_crazygal'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2200201,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_MaMian.CPG_HFM_MaMian'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2500000,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/Online/HFM_DuJiaoXian/QuestAsset/CPG_hfm_SHLG_start.CPG_hfm_SHLG_start'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2500001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/Online/HFM_DuJiaoXian/QuestAsset/CPG_hfm_dujiaoxian_houhubattle.CPG_hfm_dujiaoxian_houhubattle'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2500002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/Online/HFM_DuJiaoXian/QuestAsset/CPG_hfm_dujiaoxian_battle.CPG_hfm_dujiaoxian_battle'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2500003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/Online/HFM_DuJiaoXian/QuestAsset/CPG_hfm_dujiaoxian_hfds_dialog.CPG_hfm_dujiaoxian_hfds_dialog'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2601000,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_HFM_Suoyang.CPG_HFM_Suoyang'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 10300001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/EmptyTest/QuestAssets/CPG_DebugRoom_Teleport.CPG_DebugRoom_Teleport'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5800023,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/RYGD_Events/CPG_RYGD_SpawnRocky.CPG_RYGD_SpawnRocky'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5800024,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_ylwwly.CPG_hys_ylwwly'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4030003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/TaskAssets/HYS/Mamian/CPG_HYS_MaMian.CPG_HYS_MaMian'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4030004,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_whipmonk.CPG_hys_whipmonk'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 2020023,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HFM02/QuestAssets/CPG_hfm_well.CPG_hfm_well'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_HYS_HongHaiEr.CPG_HYS_HongHaiEr'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_HYS_Start.CPG_HYS_Start'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_huandao.CPG_hys_huandao'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010004,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_jrhkrf.CPG_hys_jrhkrf'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010005,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_tudigong.CPG_hys_tudigong'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5099001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_zbj_tudigong.CPG_hys_zbj_tudigong'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5099002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_zbj_honghaier.CPG_hys_zbj_honghaier'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5099003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_zbj_rzd.CPG_lys_zbj_rzd'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5099004,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_SVGuide.CPG_psd_SVGuide'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5099005,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_XueJiGuide1.CPG_psd_XueJiGuide1'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010007,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_HYS_JDS.CPG_HYS_JDS'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010008,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_bishuidong.CPG_hys_bishuidong'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010009,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_HYS_HMS.CPG_HYS_HMS'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010010,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_whatdoesthefoxsay_beforebattle.CPG_hys_whatdoesthefoxsay_beforebattle'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010011,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_whatdoesthefoxsay.CPG_hys_whatdoesthefoxsay'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010012,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_cliff.CPG_hys_cliff'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010013,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_ylwwly_voice.CPG_hys_ylwwly_voice'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010014,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_HYS_YSCheng.CPG_HYS_YSCheng'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010015,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_global_levelstreaming.CPG_hys_global_levelstreaming'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010016,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_huowa.CPG_hys_huowa'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010017,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_zhanche_01c_withoutJDS.CPG_hys_zhanche_01c_withoutJDS'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 5010018,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/HYS01/QuestAssets/CPG_hys_zhanche_01d.CPG_hys_zhanche_01d'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 10300002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/3rd/QATest/CPG_QATest.CPG_QATest'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4010001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_GroundFloor.CPG_psd_GroundFloor'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_start.CPG_psd_start'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_startvillage.CPG_psd_startvillage'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_village_2jie.CPG_psd_village_2jie'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000004,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_4jie_tianwangxiang.CPG_psd_4jie_tianwangxiang'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000005,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_daxi.CPG_psd_daxi'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000006,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_foshouchong.CPG_psd_foshouchong'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000007,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_mohua_zhubajie.CPG_psd_mohua_zhubajie'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000008,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_mohua_zhubajie_ye.CPG_psd_mohua_zhubajie_ye'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000009,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_zhizhumuchao.CPG_psd_zhizhumuchao'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000010,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_baiyanmojun.CPG_psd_baiyanmojun'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000011,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_testpv03.CPG_testpv03'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000012,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_PSD_YSCheng.CPG_PSD_YSCheng'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4001001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_switchlight.CPG_psd_switchlight'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4001002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_cavebottom_levelstreaming.CPG_psd_cavebottom_levelstreaming'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4001003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_global_levelstreaming.CPG_psd_global_levelstreaming'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000013,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_zhaogujing.CPG_psd_zhaogujing'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000014,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_PSD_tudipo.CPG_PSD_tudipo'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4000015,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_PSD_YSCheng_Tanqin.CPG_PSD_YSCheng_Tanqin'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4011001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_name_hhg.CPG_psd_name_hhg'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4200201,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_PSD_MaMian.CPG_PSD_MaMian'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9030001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/FTT01/Quest/CPG_ftt_mile.CPG_ftt_mile'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4002001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_zhuhaitaowang.CPG_psd_zhuhaitaowang'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4003001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_jiachongzongbing.CPG_psd_jiachongzongbing'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4004001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_youyan.CPG_psd_youyan'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4005001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_baijiangcan.CPG_psd_baijiangcan'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4005002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_duwa.CPG_psd_duwa'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4005003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_PSD_HTS_JP.CPG_PSD_HTS_JP'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 6001001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/End_A01/QuestAsset/CPG_END01_Teleport.CPG_END01_Teleport'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 6001002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/End_A02/QuestAsset/CPG_enda_jsds_battle.CPG_enda_jsds_battle'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 6100001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/End_A02/QuestAsset/CPG_enda_boat.CPG_enda_boat'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 6200000,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/End_B01/QuestAsset/CPG_endb01_start.CPG_endb01_start'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 6200001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/End_B01/QuestAsset/CPG_endb01_yangjian.CPG_endb01_yangjian'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 6200002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/End_B01/QuestAsset/CPG_endb01_ftxd.CPG_endb01_ftxd'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 6200003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/End_B01/QuestAsset/CPG_endb01_RebirthPointInvisible.CPG_endb01_RebirthPointInvisible'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4401001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_sijiequestseq.CPG_psd_sijiequestseq'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4401002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_sijiequestinteract.CPG_psd_sijiequestinteract'",
+      "DataAssetPath": "CalliopeParameterMappingDataAsset'/Game/00Main/Maps/PSD01/QuestAssets/DA_CPG_psd_sijiequestinteract.DA_CPG_psd_sijiequestinteract'"
+    },
+    {
+      "ID": 4402001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_sijiequest.CPG_psd_sijiequest'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4403001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_wulongquest.CPG_psd_wulongquest'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4403002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_wulongvoice.CPG_psd_wulongvoice'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 4403003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/PSD01/QuestAssets/CPG_psd_intoZYS.CPG_psd_intoZYS'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_opening.CPG_lys_opening'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_northmountain_xuehou.CPG_lys_northmountain_xuehou'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010012,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_tudifly_nm.CPG_lys_tudifly_nm'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_beishanfeixing.CPG_lys_beishanfeixing'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010023,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_outsidetemple_mo3fly.CPG_lys_outsidetemple_mo3fly'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010004,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_quietlake_kjl.CPG_lys_quietlake_kjl'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010005,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_stupasdungeon_akadilao.CPG_lys_stupasdungeon_akadilao'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010006,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_mo1.CPG_lys_mo1'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010043,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_frontmontain_buddha.CPG_lys_frontmontain_buddha'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010007,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_mo4.CPG_lys_mo4'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010008,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_global_levelstreaming.CPG_lys_global_levelstreaming'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010009,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_toFTT.CPG_lys_toFTT'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010010,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_stupasdungeon_doormanager.CPG_lys_stupasdungeon_doormanager'",
+      "DataAssetPath": "CalliopeParameterMappingDataAsset'/Game/00Main/Maps/LYS/QuestAsset/DA_CPG_lys_stupasdungeon_doormanager.DA_CPG_lys_stupasdungeon_doormanager'"
+    },
+    {
+      "ID": 3010011,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_stupasdungeon_wukong_jaildoor.CPG_lys_stupasdungeon_wukong_jaildoor'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010013,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_huijin02b_invisible.CPG_lys_huijin02b_invisible'",
+      "DataAssetPath": "CalliopeParameterMappingDataAsset'/Game/00Main/Maps/LYS/QuestAsset/DA_CPG_lys_huijin02b_invisible.DA_CPG_lys_huijin02b_invisible'"
+    },
+    {
+      "ID": 3010014,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_huijin02b_invisible_BOSS.CPG_lys_huijin02b_invisible_BOSS'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010015,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_LYS_tudipo.CPG_LYS_tudipo'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010016,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_mo3_interact.CPG_lys_mo3_interact'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010017,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_LYS_bujing.CPG_LYS_bujing'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3010018,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_LYS_fsys.CPG_LYS_fsys'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3011001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_name_xsj.CPG_lys_name_xsj'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3011002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_name_xly.CPG_lys_name_xly'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3011003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_name_jlg.CPG_lys_name_jlg'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3080001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_huangmei_seq.CPG_lys_huangmei_seq'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3080002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_huangmei_dadian.CPG_lys_huangmei_dadian'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3080003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_huangmei_rzd.CPG_lys_huangmei_rzd'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3080004,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_LYS_Xuansu.CPG_LYS_Xuansu'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3080005,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_huangmei_final.CPG_lys_huangmei_final'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3080006,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_huangmei_door.CPG_lys_huangmei_door'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3080007,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_huangmei_lastxiaoguai.CPG_lys_huangmei_lastxiaoguai'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9986543,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/Maps/TestMaps/ZihengTest/CPG_Ziheng.CPG_Ziheng'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 7020001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BSD02/QuestAssets/CPG_bsd02_XGX.CPG_bsd02_XGX'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 7020002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BSD02/QuestAssets/CPG_bsd02_JJS.CPG_bsd02_JJS'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 7020003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BSD02/QuestAssets/CPG_bsd02_start.CPG_bsd02_start'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 8020001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/ZYS01/Quest/CPG_zys_start.CPG_zys_start'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 8020002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/ZYS01/Quest/CPG_zys_mrxg.CPG_zys_mrxg'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 8020003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/ZYS01/Quest/CPG_zys_HongLinMang.CPG_zys_HongLinMang'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 8020004,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/ZYS01/Quest/CPG_zys_XieZi.CPG_zys_XieZi'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 8020005,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/ZYS01/Quest/CPG_zys_DuChong.CPG_zys_DuChong'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 8020006,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/ZYS01/Quest/CPG_zys_XieZi_MRXG.CPG_zys_XieZi_MRXG'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 8020007,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/ZYS01/Quest/CPG_zys_global_levelstreaming.CPG_zys_global_levelstreaming'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3401001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_guibei.CPG_lys_guibei'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3401002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_guibeistreaming.CPG_lys_guibeistreaming'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3025001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_kjldragon.CPG_lys_kjldragon'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3012001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_sengmian.CPG_lys_sengmian'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3012002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_sengmian_finalver.CPG_lys_sengmian_finalver'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3002001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_tuiseng.CPG_lys_tuiseng'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3003001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_laoseng.CPG_lys_laoseng'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3004001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_jianlong.CPG_lys_jianlong'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3013001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_xuehou_nm.CPG_lys_xuehou_nm'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3013002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_LYS_Xuehou_P2.CPG_LYS_Xuehou_P2'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3013004,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_xuehou_battest.CPG_lys_xuehou_battest'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3014001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_LYS_Ruyilong.CPG_LYS_Ruyilong'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3013005,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_LYS_Mo2.CPG_LYS_Mo2'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3015001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_mo3_fly.CPG_lys_mo3_fly'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3200201,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_LYS_MaMian.CPG_LYS_MaMian'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3402031,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_quest_shegu.CPG_lys_quest_shegu'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3402001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_xiaomile_interact.CPG_lys_xiaomile_interact'",
+      "DataAssetPath": "CalliopeParameterMappingDataAsset'/Game/00Main/Maps/LYS/QuestAsset/DA_CPG_lys_xiaomile_interact.DA_CPG_lys_xiaomile_interact'"
+    },
+    {
+      "ID": 3402002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_xiaomile_quest.CPG_lys_xiaomile_quest'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3031001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_xztz.CPG_lys_xztz'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3456001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_icefrog.CPG_lys_icefrog'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3521001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_rsjw.CPG_lys_rsjw'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9000001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_Huazhongshijie.CPG_Huazhongshijie'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9000002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_Huazhongshijie_XuGou.CPG_Huazhongshijie_XuGou'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9000003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_Huazhongshijie_HuWind.CPG_Huazhongshijie_HuWind'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9000004,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_Huazhongshijie_Shenhou.CPG_Huazhongshijie_Shenhou'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9000005,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_Huazhongshijie_start.CPG_Huazhongshijie_start'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9200001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/FTT02/Quest/CPG_FTT_teleport.CPG_FTT_teleport'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9200002,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/FTT02/Quest/CPG_FTT_pics.CPG_FTT_pics'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9200003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/FTT02/Quest/CPG_enterFTT.CPG_enterFTT'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_WLG.CPG_BYS_WLG'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_Xiniu.CPG_BYS_Xiniu'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800004,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_Xuelu.CPG_BYS_Xuelu'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800006,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_Xishuai.CPG_BYS_Xishuai'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800007,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_SnowMountainDoor.CPG_BYS_SnowMountainDoor'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800008,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_bys_tanglang.CPG_bys_tanglang'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800009,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_GamePass.CPG_BYS_GamePass'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800010,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_ZBJ_Xuelu.CPG_BYS_ZBJ_Xuelu'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800011,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/3rd/guansitest/Maps/Quest/CPG_tianbing_01_test.CPG_tianbing_01_test'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800012,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_ZBJ_Xiniu.CPG_BYS_ZBJ_Xiniu'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 3333001,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/LYS/QuestAsset/CPG_lys_yangxian.CPG_lys_yangxian'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 10300003,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/EmptyTest/QuestAssets/CPG_Debugroom_DropRedTides.CPG_Debugroom_DropRedTides'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800014,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Tianbing/CPG_BYS_Tianbing_01.CPG_BYS_Tianbing_01'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800015,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Tianbing/CPG_BYS_Tianbing_02.CPG_BYS_Tianbing_02'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800016,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Tianbing/CPG_BYS_Tianbing_03.CPG_BYS_Tianbing_03'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800017,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Tianbing/CPG_BYS_Tianbing_04.CPG_BYS_Tianbing_04'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800018,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Tianbing/CPG_BYS_Tianbing_05.CPG_BYS_Tianbing_05'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800020,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/ShuiLianDong/CPG_BYS_ZBJ_ShuiLianDong.CPG_BYS_ZBJ_ShuiLianDong'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800021,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_bys_start.CPG_bys_start'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800022,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_BajieBox.CPG_BYS_BajieBox'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800027,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_bys_HMS.CPG_bys_HMS'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800028,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Shiluan/CPG_StoneEgg_Wave_narrow.CPG_StoneEgg_Wave_narrow'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800029,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Shiluan/CPG_BYS_zhubajie_houshan_follow.CPG_BYS_zhubajie_houshan_follow'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800030,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Shiluan/CPG_StoneEgg_Wave_01.CPG_StoneEgg_Wave_01'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800031,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Shiluan/CPG_StoneEgg_Wave_02.CPG_StoneEgg_Wave_02'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800032,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Shiluan/CPG_StoneEgg_Wave_03.CPG_StoneEgg_Wave_03'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800033,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Shiluan/CPG_StoneEgg_Wave_04.CPG_StoneEgg_Wave_04'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800034,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Shiluan/CPG_StoneEgg_Wave_05.CPG_StoneEgg_Wave_05'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800035,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Shiluan/CPG_StoneEgg_Wave_06.CPG_StoneEgg_Wave_06'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800036,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Shiluan/CPG_StoneEgg_Wave_07.CPG_StoneEgg_Wave_07'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800037,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Shiluan/CPG_StoneEgg_Wave_08.CPG_StoneEgg_Wave_08'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800038,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Shiluan/CPG_StoneEgg_Wave_09.CPG_StoneEgg_Wave_09'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800039,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Shiluan/CPG_StoneEgg_Wave_10.CPG_StoneEgg_Wave_10'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800040,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_jingubang.CPG_jingubang'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800041,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_SGD.CPG_BYS_SGD'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800050,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/3rd/guansitest/Maps/CPG_spawn_tianbing.CPG_spawn_tianbing'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800051,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/3rd/guansitest/Maps/CPG_spawn_tianbing_2.CPG_spawn_tianbing_2'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800052,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/3rd/guansitest/Maps/CPG_spawn_tianbing_3.CPG_spawn_tianbing_3'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800053,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Spawn_Tianbing/CPG_spawn_tianbing_swamp_01.CPG_spawn_tianbing_swamp_01'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800054,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Spawn_Tianbing/CPG_spawn_tianbing_swamp_02.CPG_spawn_tianbing_swamp_02'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800055,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_HoushanLevelStreaming.CPG_BYS_HoushanLevelStreaming'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800056,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Design/AI/BTs/Online/SL_shitongling/CPG_sl_shitongling.CPG_sl_shitongling'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800057,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_ShuilianWeakPerformance.CPG_BYS_ShuilianWeakPerformance'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800060,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_MountainTop.CPG_BYS_MountainTop'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800061,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Spawn_Tianbing/CPG_spawn_tianbing_swamp_03.CPG_spawn_tianbing_swamp_03'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800062,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Spawn_Tianbing/CPG_spawn_tianbing_swamp_04.CPG_spawn_tianbing_swamp_04'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800063,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/Spawn_Tianbing/CPG_spawn_tianbing_swamp_05.CPG_spawn_tianbing_swamp_05'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800070,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_Shitongling04.CPG_BYS_Shitongling04'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800071,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_Shitongling01.CPG_BYS_Shitongling01'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800072,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_Shitongling02.CPG_BYS_Shitongling02'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800073,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_Shitongling03.CPG_BYS_Shitongling03'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800074,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_szlc_wa.CPG_szlc_wa'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800075,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_Yihuoshe.CPG_BYS_Yihuoshe'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800076,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_ZBJ_WLG.CPG_BYS_ZBJ_WLG'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800077,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_HemaKing.CPG_BYS_HemaKing'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800078,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_jingubang_weakperform.CPG_BYS_jingubang_weakperform'",
+      "DataAssetPath": ""
+    },
+    {
+      "ID": 9800079,
+      "ProcessType": 2,
+      "IsEnableByDefault": 1,
+      "GraphPath": "BED_ProcessAsset'/Game/00Main/Maps/BYS/Quest/CPG_BYS_ShiwaTianbing.CPG_BYS_ShiwaTianbing'",
+      "DataAssetPath": ""
+    }
+  ]
+}

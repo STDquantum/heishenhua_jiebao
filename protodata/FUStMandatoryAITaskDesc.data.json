@@ -1,0 +1,736 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "ResID": 1028,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        10.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 2,
+          "TaskIntParams": [],
+          "TaskFloatParams": [],
+          "TaskStringParams": [
+            "Baiyi2T3_Seq",
+            "Baiyi2T3"
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 2,
+      "ResID": 3017,
+      "InstanceGUID": "",
+      "TaskCondition": 3,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [],
+      "ConditionIntParams": [
+        301701
+      ],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 0,
+          "TaskIntParams": [
+            301705
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 3,
+      "ResID": 1023,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        50.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 0,
+          "TaskIntParams": [
+            102331
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 4,
+      "ResID": 0,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        30.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            44029903
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 5,
+      "ResID": 0,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        30.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            44039903
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 6,
+      "ResID": 0,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        0.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            44029903
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 7,
+      "ResID": 0,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        0.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            44039903
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 8,
+      "ResID": 0,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        0.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            44029909
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 9,
+      "ResID": 0,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        0.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            44039909
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 10,
+      "ResID": 0,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        50.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            44029916
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 11,
+      "ResID": 0,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        50.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            44039916
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 12,
+      "ResID": 0,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        0.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            44029916
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 13,
+      "ResID": 0,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        0.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            44039916
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 14,
+      "ResID": 1101,
+      "InstanceGUID": "UGuid.HFS.Niu.Teacher",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        49.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": []
+    },
+    {
+      "ID": 15,
+      "ResID": 4020,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        30.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": []
+    },
+    {
+      "ID": 16,
+      "ResID": 4998,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        50.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": []
+    },
+    {
+      "ID": 17,
+      "ResID": 5005,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        33.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": []
+    },
+    {
+      "ID": 18,
+      "ResID": 3014,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        5.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": []
+    },
+    {
+      "ID": 19,
+      "ResID": 8000,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        75.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            80009906,
+            80009913
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 20,
+      "ResID": 8000,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        50.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            80009906,
+            80009914
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 21,
+      "ResID": 1990,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        60.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            19901288
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 22,
+      "ResID": 1990,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        40.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            19901289
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 23,
+      "ResID": 1991,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        40.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            19918888
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 24,
+      "ResID": 1993,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        50.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            19931188
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 25,
+      "ResID": 1993,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        30.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            19931188
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 26,
+      "ResID": 1992,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        50.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            19928801
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 27,
+      "ResID": 4706,
+      "InstanceGUID": "UGuid.ZYS.MRXG",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        58.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            47061210
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 28,
+      "ResID": 2211,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        99.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 0,
+          "TaskIntParams": [
+            221101
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 29,
+      "ResID": 2211,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        80.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 0,
+          "TaskIntParams": [
+            221102
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 30,
+      "ResID": 2211,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        50.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 0,
+          "TaskIntParams": [
+            221103
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 31,
+      "ResID": 2211,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        25.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 0,
+          "TaskIntParams": [
+            221104
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 32,
+      "ResID": 2211,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        10.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 0,
+          "TaskIntParams": [
+            221104
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 33,
+      "ResID": 4407,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        60.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": []
+    },
+    {
+      "ID": 34,
+      "ResID": 4407,
+      "InstanceGUID": "",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        10.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": []
+    },
+    {
+      "ID": 35,
+      "ResID": 4121,
+      "InstanceGUID": "UGuid.SL.sgd",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        2.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 1,
+          "TaskIntParams": [
+            47061210
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    },
+    {
+      "ID": 36,
+      "ResID": 3011,
+      "InstanceGUID": "UGuid.LYS.fsys",
+      "TaskCondition": 1,
+      "TaskActivationEvent": 0,
+      "IsReverseCondition": 0,
+      "ConditionFloatParams": [
+        2.0
+      ],
+      "ConditionIntParams": [],
+      "AITaskInfoList": [
+        {
+          "AITaskActionType": 0,
+          "TaskIntParams": [
+            301199
+          ],
+          "TaskFloatParams": [],
+          "TaskStringParams": []
+        }
+      ]
+    }
+  ]
+}

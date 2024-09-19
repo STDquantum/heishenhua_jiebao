@@ -1,0 +1,79 @@
+{
+  "List": [
+    {
+      "Id": 1,
+      "QualityLowerLimit": 1,
+      "QualityUpperLimit": 5,
+      "RandomItem": [
+        {
+          "ItemId": 3999,
+          "ItemNum": 1,
+          "Weight": 100
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "QualityLowerLimit": 6,
+      "QualityUpperLimit": 10,
+      "RandomItem": [
+        {
+          "ItemId": 3999,
+          "ItemNum": 1,
+          "Weight": 60
+        },
+        {
+          "ItemId": 2201,
+          "ItemNum": 1,
+          "Weight": 40
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "QualityLowerLimit": 11,
+      "QualityUpperLimit": 15,
+      "RandomItem": [
+        {
+          "ItemId": 3999,
+          "ItemNum": 1,
+          "Weight": 40
+        },
+        {
+          "ItemId": 2201,
+          "ItemNum": 1,
+          "Weight": 60
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "QualityLowerLimit": 16,
+      "QualityUpperLimit": 20,
+      "RandomItem": [
+        {
+          "ItemId": 3999,
+          "ItemNum": 1,
+          "Weight": 20
+        },
+        {
+          "ItemId": 2201,
+          "ItemNum": 2,
+          "Weight": 80
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "QualityLowerLimit": 21,
+      "QualityUpperLimit": 40,
+      "RandomItem": [
+        {
+          "ItemId": 2201,
+          "ItemNum": 2,
+          "Weight": 100
+        }
+      ]
+    }
+  ]
+}

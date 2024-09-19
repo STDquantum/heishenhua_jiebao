@@ -1,0 +1,32 @@
+{
+  "List": [
+    {
+      "Id": 1101,
+      "ConversationEnter": "250307，250309，250310",
+      "ConversationBuy": "250315",
+      "ConversationLeave": "250311",
+      "ConversationNoConsume": "250317"
+    },
+    {
+      "Id": 2503,
+      "ConversationEnter": "250320，250321，250322",
+      "ConversationBuy": "250323",
+      "ConversationLeave": "250324",
+      "ConversationNoConsume": "250325"
+    },
+    {
+      "Id": 3100,
+      "ConversationEnter": "",
+      "ConversationBuy": "",
+      "ConversationLeave": "301491",
+      "ConversationNoConsume": "301491"
+    },
+    {
+      "Id": 3103,
+      "ConversationEnter": "",
+      "ConversationBuy": "",
+      "ConversationLeave": "",
+      "ConversationNoConsume": ""
+    }
+  ]
+}

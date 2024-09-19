@@ -1,0 +1,20 @@
+{
+  "List": [
+    {
+      "ID": 22000,
+      "CameraGroupID": 0,
+      "PlayerResID": 22,
+      "PlayerStateCameraIDList": [
+        401,
+        402,
+        403,
+        404,
+        409,
+        412,
+        415
+      ],
+      "PlayerSkillCameraIDList": [],
+      "RelativeUnitList": []
+    }
+  ]
+}

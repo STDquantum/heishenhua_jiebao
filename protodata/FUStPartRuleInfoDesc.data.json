@@ -1,0 +1,6047 @@
+{
+  "List": [
+    {
+      "ID": 1,
+      "PartRuleID": 5002,
+      "PartID": 0,
+      "PartName": "棍子",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 1,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "weapon_r"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 2,
+      "PartRuleID": 5002,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 3,
+      "PartRuleID": 1002,
+      "PartID": 0,
+      "PartName": "棍子",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 1,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 3,
+      "ReduceParams": [
+        1.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "weapon_r"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 4,
+      "PartRuleID": 1002,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 5,
+      "PartRuleID": 1003,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 6,
+      "PartRuleID": 1302,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 7,
+      "PartRuleID": 1450,
+      "PartID": 0,
+      "PartName": "盾牌",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-90",
+        "90"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 8,
+      "PartRuleID": 1450,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 9,
+      "PartRuleID": 102501,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_DBL_01/PBC_GYCY_DBL_01_Body.PBC_GYCY_DBL_01_Body'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 5000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 10,
+      "PartRuleID": 103101,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -2000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Xiong_02/PBC_GYCY_Xiong_02.PBC_GYCY_Xiong_02'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 3000.0
+        },
+        {
+          "DamagedValueRatio": 3000.0
+        },
+        {
+          "DamagedValueRatio": 4000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 11,
+      "PartRuleID": 103101,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Xiong_02/PBC_GYCY_Xiong_02_daodi.PBC_GYCY_Xiong_02_daodi'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 3.0
+        },
+        {
+          "DamagedValueRatio": 3.0
+        },
+        {
+          "DamagedValueRatio": 3.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 12,
+      "PartRuleID": 110101,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Niu_01/PBC_HFM_Niu_01.PBC_HFM_Niu_01'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2700.0
+        },
+        {
+          "DamagedValueRatio": 2700.0
+        },
+        {
+          "DamagedValueRatio": 2700.0
+        },
+        {
+          "DamagedValueRatio": 2700.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 13,
+      "PartRuleID": 111101,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        10000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 14,
+      "PartRuleID": 111101,
+      "PartID": 1,
+      "PartName": "盾牌",
+      "IsActive": 0,
+      "NeedShowUI": 1,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-135",
+        "135"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "Blueprint'/Game/00MainHZ/Characters/Weapon/HGS_TianJiang_01_Dun.HGS_TianJiang_01_Dun'",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/3rd/cd9Test/Test/TianJiang/PBC_cd9_TianJiang_01_SU.PBC_cd9_TianJiang_01_SU'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 15,
+      "PartRuleID": 111102,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        10000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 16,
+      "PartRuleID": 111102,
+      "PartID": 1,
+      "PartName": "盾牌",
+      "IsActive": 1,
+      "NeedShowUI": 1,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-135",
+        "135"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "Blueprint'/Game/00MainHZ/Characters/Weapon/HGS_TianJiang_01_Dun.HGS_TianJiang_01_Dun'",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/3rd/cd9Test/Test/TianJiang/PBC_cd9_TianJiang_01_SU.PBC_cd9_TianJiang_01_SU'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 17,
+      "PartRuleID": 112401,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        10000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 18,
+      "PartRuleID": 112401,
+      "PartID": 1,
+      "PartName": "盾牌",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-135",
+        "135"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "Blueprint'/Game/00MainHZ/Characters/Weapon/HGS_TianJiang_01_Dun.HGS_TianJiang_01_Dun'",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/3rd/cd9Test/Test/TianJiang/PBC_cd9_TianJiang_01_SU.PBC_cd9_TianJiang_01_SU'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 19,
+      "PartRuleID": 112402,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        10000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 20,
+      "PartRuleID": 112402,
+      "PartID": 1,
+      "PartName": "盾牌",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-120",
+        "120"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "Blueprint'/Game/00MainHZ/Characters/Weapon/HGS_TianJiang_01_Dun.HGS_TianJiang_01_Dun'",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/3rd/cd9Test/Test/TianJiang/PBC_cd9_TianJiang_01_SU.PBC_cd9_TianJiang_01_SU'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 21,
+      "PartRuleID": 200601,
+      "PartID": 0,
+      "PartName": "其他部位",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 22,
+      "PartRuleID": 200602,
+      "PartID": 0,
+      "PartName": "头部",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "spine_01"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hou_01a/PBC_HFM_Hou_01a_UpperBody.PBC_HFM_Hou_01a_UpperBody'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": 2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 23,
+      "PartRuleID": 200901,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 24,
+      "PartRuleID": 200902,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": 200903,
+      "PartHitUnitBeAttackedConfigPath": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Shu_05a/UBAConfig_HFM_Shu_05a_dep03.UBAConfig_HFM_Shu_05a_dep03'",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 25,
+      "PartRuleID": 200902,
+      "PartID": 1,
+      "PartName": "盾牌",
+      "IsActive": 1,
+      "NeedShowUI": 1,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "weapon_l"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Shu_05a/PBC_HFM_Shu_05a_SU.PBC_HFM_Shu_05a_SU'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 26,
+      "PartRuleID": 201101,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_HFDS_01a/PBC_HFM_HFDS_01a_P1P3.PBC_HFM_HFDS_01a_P1P3'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 27,
+      "PartRuleID": 201102,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_HFDS_01a/PBC_HFM_HFDS_01a_P2.PBC_HFM_HFDS_01a_P2'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 28,
+      "PartRuleID": 201601,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 29,
+      "PartRuleID": 201601,
+      "PartID": 1,
+      "PartName": "左手",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "clavicle_l"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiTongLing_02/PBC_HYS_ShiTongLing_02_LeftHand.PBC_HYS_ShiTongLing_02_LeftHand'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 4000.0
+        },
+        {
+          "DamagedValueRatio": 6000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 30,
+      "PartRuleID": 201601,
+      "PartID": 2,
+      "PartName": "右手",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "clavicle_r"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiTongLing_02/PBC_HYS_ShiTongLing_02_RightHand.PBC_HYS_ShiTongLing_02_RightHand'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 4000.0
+        },
+        {
+          "DamagedValueRatio": 6000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 31,
+      "PartRuleID": 201602,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        2000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 32,
+      "PartRuleID": 201701,
+      "PartID": 0,
+      "PartName": "其他部位",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 33,
+      "PartRuleID": 201702,
+      "PartID": 0,
+      "PartName": "其他部位",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 34,
+      "PartRuleID": 202401,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_FuShu/PBC_HFM_FuShu.PBC_HFM_FuShu'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 35,
+      "PartRuleID": 202901,
+      "PartID": 0,
+      "PartName": "盾牌",
+      "IsActive": 1,
+      "NeedShowUI": 1,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-130",
+        "65"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_MaGu_01A/PBC_HFM_Magu_01A.PBC_HFM_Magu_01A'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 6000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 36,
+      "PartRuleID": 202901,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        10000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 37,
+      "PartRuleID": 202902,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        10000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 38,
+      "PartRuleID": 220301,
+      "PartID": 0,
+      "PartName": "Body",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShanZhen_03/PBC_HFM_ShanZhen_03.PBC_HFM_ShanZhen_03'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2500.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 39,
+      "PartRuleID": 220302,
+      "PartID": 0,
+      "PartName": "Body",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShanZhen_03/PBC_HFM_ShanZhen_03.PBC_HFM_ShanZhen_03'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2500.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 40,
+      "PartRuleID": 301202,
+      "PartID": 1,
+      "PartName": "格挡区域",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-60",
+        "150"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 41,
+      "PartRuleID": 302301,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_KJLDragon/PBC_LYS_KJLDragon.PBC_LYS_KJLDragon'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 42,
+      "PartRuleID": 305601,
+      "PartID": 0,
+      "PartName": "头部",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        1000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/PDS_lingzhijing_01a/PBC_pds_lingzhijing_01a.PBC_pds_lingzhijing_01a'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 43,
+      "PartRuleID": 3901,
+      "PartID": 0,
+      "PartName": "烟壶 1",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "youhu_09"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/PBC/PBC_LYS_WuDuLong_02A_Pod1.PBC_LYS_WuDuLong_02A_Pod1'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 30.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [
+        390161
+      ],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 44,
+      "PartRuleID": 3901,
+      "PartID": 1,
+      "PartName": "烟壶 2",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "youhu_09"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/PBC/PBC_LYS_WuDuLong_02A_Pod2.PBC_LYS_WuDuLong_02A_Pod2'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 30.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [
+        390162
+      ],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 45,
+      "PartRuleID": 3901,
+      "PartID": 2,
+      "PartName": "烟壶 3",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "youhu_14"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/PBC/PBC_LYS_WuDuLong_02A_Pod3.PBC_LYS_WuDuLong_02A_Pod3'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 30.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [
+        390163
+      ],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 46,
+      "PartRuleID": 390101,
+      "PartID": 3,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/PBC/PBC_LYS_WuDuLong_02A.PBC_LYS_WuDuLong_02A'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 47,
+      "PartRuleID": 390110,
+      "PartID": 0,
+      "PartName": "左倒 1 pot",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-145",
+        "-28"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/PBC/PBC_LYS_WuDuLong_02A_Pod1_left.PBC_LYS_WuDuLong_02A_Pod1_left'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 850.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 48,
+      "PartRuleID": 390110,
+      "PartID": 1,
+      "PartName": "左倒 1 body",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 49,
+      "PartRuleID": 390111,
+      "PartID": 0,
+      "PartName": "左倒 2 pot",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        100.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-145",
+        "-28"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/PBC/PBC_LYS_WuDuLong_02A_Pod2_left.PBC_LYS_WuDuLong_02A_Pod2_left'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 850.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 50,
+      "PartRuleID": 390111,
+      "PartID": 1,
+      "PartName": "左倒 2 body",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 51,
+      "PartRuleID": 390112,
+      "PartID": 0,
+      "PartName": "左倒 3 pot",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        100.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-145",
+        "-28"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/PBC/PBC_LYS_WuDuLong_02A_Pod3_left.PBC_LYS_WuDuLong_02A_Pod3_left'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 850.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 52,
+      "PartRuleID": 390112,
+      "PartID": 1,
+      "PartName": "左倒 3 body",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 53,
+      "PartRuleID": 390120,
+      "PartID": 0,
+      "PartName": "右倒 1 pot",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        13000.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "28",
+        "145"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/PBC/PBC_LYS_WuDuLong_02A_Pod1_right.PBC_LYS_WuDuLong_02A_Pod1_right'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 850.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 54,
+      "PartRuleID": 390120,
+      "PartID": 1,
+      "PartName": "右倒 1 body",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 55,
+      "PartRuleID": 390121,
+      "PartID": 0,
+      "PartName": "右倒 2 pot",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        100.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "28",
+        "145"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/PBC/PBC_LYS_WuDuLong_02A_Pod2_right.PBC_LYS_WuDuLong_02A_Pod2_right'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 850.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 56,
+      "PartRuleID": 390121,
+      "PartID": 1,
+      "PartName": "右倒 2 body",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 57,
+      "PartRuleID": 390122,
+      "PartID": 0,
+      "PartName": "右倒 3 pot",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        100.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "28",
+        "145"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/PBC/PBC_LYS_WuDuLong_02A_Pod3_right.PBC_LYS_WuDuLong_02A_Pod3_right'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 850.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 58,
+      "PartRuleID": 390122,
+      "PartID": 1,
+      "PartName": "右倒 3 body",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 59,
+      "PartRuleID": 400101,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -5000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_JiRuHuo/PBC_HYS_JiRuHuo_01.PBC_HYS_JiRuHuo_01'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 60,
+      "PartRuleID": 400101,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        5000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_JiRuHuo/PBC_HYS_JiRuHuo_02.PBC_HYS_JiRuHuo_02'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 61,
+      "PartRuleID": 400102,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 62,
+      "PartRuleID": 400301,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiXianFeng_02/PBC_HYS_ShiXianFeng_02.PBC_HYS_ShiXianFeng_02'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 3600.0
+        },
+        {
+          "DamagedValueRatio": 5400.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 63,
+      "PartRuleID": 400402,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -2000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_JJShou_01/PBC_HYS_JJShou_01_iceBody.PBC_HYS_JJShou_01_iceBody'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        },
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 64,
+      "PartRuleID": 400402,
+      "PartID": 1,
+      "PartName": "手臂",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -7500.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "upperarm_l",
+        "upperarm_r"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_JJShou_01/PBC_HYS_JJShou_01_iceBody.PBC_HYS_JJShou_01_iceBody'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        },
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 65,
+      "PartRuleID": 400801,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        10000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 66,
+      "PartRuleID": 400801,
+      "PartID": 1,
+      "PartName": "盾牌",
+      "IsActive": 1,
+      "NeedShowUI": 1,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-100",
+        "60"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "Blueprint'/Game/00MainHZ/Characters/Weapon/HYS/HYS_TeChuShi_02/HYS_TeChuShi_02_Wrapon_l.HYS_TeChuShi_02_Wrapon_l'",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TeChuShi_02/PBC_HYS_TeChuShi_02_SU.PBC_HYS_TeChuShi_02_SU'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 67,
+      "PartRuleID": 400802,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        10000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 68,
+      "PartRuleID": 401101,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HMS/PBC_HYS_HMS_P1.PBC_HYS_HMS_P1'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2500.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 69,
+      "PartRuleID": 401101,
+      "PartID": 1,
+      "PartName": "骨头",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "weapon_pelvis",
+        "hand_r"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HMS/PBC_HYS_HMS_P1toP2.PBC_HYS_HMS_P1toP2'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 700.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 70,
+      "PartRuleID": 401111,
+      "PartID": 1,
+      "PartName": "骨头",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "weapon_pelvis",
+        "hand_r"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HMS/PBC_HYS_HMS_P1toP2_F.PBC_HYS_HMS_P1toP2_F'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 100.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 71,
+      "PartRuleID": 401112,
+      "PartID": 1,
+      "PartName": "骨头",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "weapon_pelvis",
+        "hand_r"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HMS/PBC_HYS_HMS_P1toP2_B.PBC_HYS_HMS_P1toP2_B'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 100.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 72,
+      "PartRuleID": 401102,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HMS/PBC_HYS_HMS_P2.PBC_HYS_HMS_P2'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2500.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 73,
+      "PartRuleID": 401201,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_LuoChaGui_01/PBC_HYS_LuoChaGui_01.PBC_HYS_LuoChaGui_01'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        },
+        {
+          "DamagedValueRatio": 15000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 74,
+      "PartRuleID": 401201,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        5000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_LuoChaGui_01/PBC_HYS_LuoChaGui_02.PBC_HYS_LuoChaGui_02'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        },
+        {
+          "DamagedValueRatio": 1.0
+        },
+        {
+          "DamagedValueRatio": 1.0
+        },
+        {
+          "DamagedValueRatio": 1.0
+        },
+        {
+          "DamagedValueRatio": 1.0
+        },
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 75,
+      "PartRuleID": 401501,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -7200.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 76,
+      "PartRuleID": 401501,
+      "PartID": 1,
+      "PartName": "左手",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "1,2",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -3600.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "clavicle_l"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiTongLing_02/PBC_HYS_ShiTongLing_02_LeftHand.PBC_HYS_ShiTongLing_02_LeftHand'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1200.0
+        },
+        {
+          "DamagedValueRatio": 2000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 77,
+      "PartRuleID": 401501,
+      "PartID": 2,
+      "PartName": "右手",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "1,2",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -3600.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "clavicle_r"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiTongLing_02/PBC_HYS_ShiTongLing_02_RightHand.PBC_HYS_ShiTongLing_02_RightHand'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1200.0
+        },
+        {
+          "DamagedValueRatio": 2000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 78,
+      "PartRuleID": 401502,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        3600.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 79,
+      "PartRuleID": 402601,
+      "PartID": 0,
+      "PartName": "头部",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "pelvis-Neck2"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijin_02b/PBC_hys_huijin_02b.PBC_hys_huijin_02b'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2250.0
+        },
+        {
+          "DamagedValueRatio": 2250.0
+        },
+        {
+          "DamagedValueRatio": 2250.0
+        },
+        {
+          "DamagedValueRatio": 2250.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 80,
+      "PartRuleID": 402601,
+      "PartID": 1,
+      "PartName": "全身",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijin_02b/PBC_hys_huijin_02b_headbreak.PBC_hys_huijin_02b_headbreak'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        },
+        {
+          "DamagedValueRatio": 1.0
+        },
+        {
+          "DamagedValueRatio": 1.0
+        },
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 81,
+      "PartRuleID": 402602,
+      "PartID": 0,
+      "PartName": "头部",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "pelvis-Neck2"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijin_02b/PBC_hys_huijin_02b.PBC_hys_huijin_02b'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 3000.0
+        },
+        {
+          "DamagedValueRatio": 3000.0
+        },
+        {
+          "DamagedValueRatio": 3000.0
+        },
+        {
+          "DamagedValueRatio": 3000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 82,
+      "PartRuleID": 402602,
+      "PartID": 1,
+      "PartName": "全身",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijin_02b/PBC_hys_huijin_02b_headbreak.PBC_hys_huijin_02b_headbreak'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        },
+        {
+          "DamagedValueRatio": 1.0
+        },
+        {
+          "DamagedValueRatio": 1.0
+        },
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 83,
+      "PartRuleID": 405001,
+      "PartID": 0,
+      "PartName": "身体前方",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -5000.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-120",
+        "120"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 84,
+      "PartRuleID": 405001,
+      "PartID": 1,
+      "PartName": "身体后方",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        2000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 85,
+      "PartRuleID": 405101,
+      "PartID": 0,
+      "PartName": "身体前方",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -5000.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-120",
+        "120"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 86,
+      "PartRuleID": 405101,
+      "PartID": 1,
+      "PartName": "身体后方",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        2000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 87,
+      "PartRuleID": 405102,
+      "PartID": 0,
+      "PartName": "身体前方",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        1000.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-120",
+        "120"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 88,
+      "PartRuleID": 405102,
+      "PartID": 1,
+      "PartName": "身体后方",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        2000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 89,
+      "PartRuleID": 405201,
+      "PartID": 0,
+      "PartName": "身体前方",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -5000.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-135",
+        "135"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 90,
+      "PartRuleID": 405201,
+      "PartID": 1,
+      "PartName": "身体后方",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        2000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 91,
+      "PartRuleID": 405301,
+      "PartID": 0,
+      "PartName": "身体前方",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -5000.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-135",
+        "135"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 92,
+      "PartRuleID": 405301,
+      "PartID": 1,
+      "PartName": "身体后方",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 93,
+      "PartRuleID": 411001,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/Online/BSD/BSD_JJShou_01/PBC_BSD_JJShou_01.PBC_BSD_JJShou_01'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1000.0
+        },
+        {
+          "DamagedValueRatio": 2000.0
+        },
+        {
+          "DamagedValueRatio": 2500.0
+        },
+        {
+          "DamagedValueRatio": 3000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 94,
+      "PartRuleID": 411002,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        1000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/Online/BSD/BSD_JJShou_01/PBC_BSD_JJShou_01.PBC_BSD_JJShou_01'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 400.0
+        }
+      ],
+      "PartDamagedStiffLevel": 2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 95,
+      "PartRuleID": 412101,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -9500.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 96,
+      "PartRuleID": 412101,
+      "PartID": 1,
+      "PartName": "左手",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -9500.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "hand_l"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SL_SGD_01/PBC_sl_sgd_p2_l.PBC_sl_sgd_p2_l'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 500.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 97,
+      "PartRuleID": 412101,
+      "PartID": 2,
+      "PartName": "右手",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -9500.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "hand_r"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SL_SGD_01/PBC_sl_sgd_p2_r.PBC_sl_sgd_p2_r'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 500.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 98,
+      "PartRuleID": 412102,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -5000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 99,
+      "PartRuleID": 412601,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 100,
+      "PartRuleID": 412601,
+      "PartID": 1,
+      "PartName": "左手",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "clavicle_l"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00Main/Design/Bullets/Online/SL/SL_shitongling/PBC_sl_stl_LeftHand.PBC_sl_stl_LeftHand'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 4000.0
+        },
+        {
+          "DamagedValueRatio": 6000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 101,
+      "PartRuleID": 412601,
+      "PartID": 2,
+      "PartName": "右手",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "clavicle_r"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00Main/Design/Bullets/Online/SL/SL_shitongling/PBC_sl_stl_RightHand.PBC_sl_stl_RightHand'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 4000.0
+        },
+        {
+          "DamagedValueRatio": 6000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 102,
+      "PartRuleID": 412602,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        2000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 103,
+      "PartRuleID": 413401,
+      "PartID": 0,
+      "PartName": "盾牌",
+      "IsActive": 1,
+      "NeedShowUI": 1,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-130",
+        "45"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_TianJiang_01/PBAInfo_sl_tianjiang_01.PBAInfo_sl_tianjiang_01'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 104,
+      "PartRuleID": 413401,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        10000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 105,
+      "PartRuleID": 413402,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        10000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 106,
+      "PartRuleID": 440201,
+      "PartID": 0,
+      "PartName": "盾牌",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "weapon_l"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 107,
+      "PartRuleID": 440301,
+      "PartID": 0,
+      "PartName": "盾牌",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "weapon_r"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 108,
+      "PartRuleID": 444401,
+      "PartID": 0,
+      "PartName": "盾牌",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "weapon_l"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 109,
+      "PartRuleID": 444402,
+      "PartID": 0,
+      "PartName": "盾牌",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "weapon_l"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_TianJiang_01/PBAInfo_HYS_TianJiang_01.PBAInfo_HYS_TianJiang_01'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 4,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 110,
+      "PartRuleID": 500101,
+      "PartID": 0,
+      "PartName": "副手",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -5000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_WuLong/PBC_PSD_WuLongBreakArm.PBC_PSD_WuLongBreakArm'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 400.0
+        },
+        {
+          "DamagedValueRatio": 750.0
+        },
+        {
+          "DamagedValueRatio": 850.0
+        },
+        {
+          "DamagedValueRatio": 950.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 111,
+      "PartRuleID": 500101,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-100",
+        "100",
+        "ArrowP"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 112,
+      "PartRuleID": 500102,
+      "PartID": 0,
+      "PartName": "副手",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -5000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_WuLong/PBC_PSD_WuLongBreakArmWith4Hands.PBC_PSD_WuLongBreakArmWith4Hands'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1000.0
+        },
+        {
+          "DamagedValueRatio": 1000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 113,
+      "PartRuleID": 500102,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-100",
+        "100",
+        "ArrowP"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 114,
+      "PartRuleID": 500103,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        2500.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": 0,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 115,
+      "PartRuleID": 500501,
+      "PartID": 0,
+      "PartName": "全身",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_BaiYanMoJun_01/PBC_PSD_BaiYanMoJun_01_Body_S1.PBC_PSD_BaiYanMoJun_01_Body_S1'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1600.0
+        },
+        {
+          "DamagedValueRatio": 1600.0
+        },
+        {
+          "DamagedValueRatio": 1600.0
+        },
+        {
+          "DamagedValueRatio": 1600.0
+        },
+        {
+          "DamagedValueRatio": 1600.0
+        },
+        {
+          "DamagedValueRatio": 1600.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 116,
+      "PartRuleID": 500501,
+      "PartID": 1,
+      "PartName": "全身",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_BaiYanMoJun_01/PBC_PSD_BaiYanMoJun_01_BodyBreak_S1.PBC_PSD_BaiYanMoJun_01_BodyBreak_S1'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 300.0
+        },
+        {
+          "DamagedValueRatio": 300.0
+        },
+        {
+          "DamagedValueRatio": 300.0
+        },
+        {
+          "DamagedValueRatio": 300.0
+        },
+        {
+          "DamagedValueRatio": 300.0
+        },
+        {
+          "DamagedValueRatio": 300.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 117,
+      "PartRuleID": 500502,
+      "PartID": 0,
+      "PartName": "全身",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_BaiYanMoJun_01/PBC_PSD_BaiYanMoJun_01_Body_S2.PBC_PSD_BaiYanMoJun_01_Body_S2'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1500.0
+        },
+        {
+          "DamagedValueRatio": 1500.0
+        },
+        {
+          "DamagedValueRatio": 1500.0
+        },
+        {
+          "DamagedValueRatio": 1500.0
+        },
+        {
+          "DamagedValueRatio": 1500.0
+        },
+        {
+          "DamagedValueRatio": 1500.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 118,
+      "PartRuleID": 500502,
+      "PartID": 1,
+      "PartName": "全身",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_BaiYanMoJun_01/PBC_PSD_BaiYanMoJun_01_BodyBreak_S2.PBC_PSD_BaiYanMoJun_01_BodyBreak_S2'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 250.0
+        },
+        {
+          "DamagedValueRatio": 250.0
+        },
+        {
+          "DamagedValueRatio": 250.0
+        },
+        {
+          "DamagedValueRatio": 250.0
+        },
+        {
+          "DamagedValueRatio": 250.0
+        },
+        {
+          "DamagedValueRatio": 250.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 119,
+      "PartRuleID": 102102,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 120,
+      "PartRuleID": 500801,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZiZhuEr_01/PBC_psd_zizhuer_01.PBC_psd_zizhuer_01'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2200.0
+        },
+        {
+          "DamagedValueRatio": 4000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 121,
+      "PartRuleID": 501401,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZhiZhuJing_02/PBC_psd_zhizhujing_02.PBC_psd_zhizhujing_02",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2500.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 122,
+      "PartRuleID": 502002,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_YouYan_02/PBC_psd_youyan_02.PBC_psd_youyan_02'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 100.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 123,
+      "PartRuleID": 540302,
+      "PartID": 0,
+      "PartName": "前方",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -7500.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-90",
+        "90"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 124,
+      "PartRuleID": 581001,
+      "PartID": 0,
+      "PartName": "盾牌",
+      "IsActive": 1,
+      "NeedShowUI": 1,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-90",
+        "50"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijingrenou_03/UBACONFIG_hys_huijingrenou_03_dep03.UBACONFIG_hys_huijingrenou_03_dep03'",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijingrenou_03/PBC_hys_huijingrenou_03.PBC_hys_huijingrenou_03'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 125,
+      "PartRuleID": 581001,
+      "PartID": 1,
+      "PartName": "body",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        10000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 100000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 126,
+      "PartRuleID": 581002,
+      "PartID": 1,
+      "PartName": "body",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        10000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 100000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 127,
+      "PartRuleID": 600101,
+      "PartID": 0,
+      "PartName": "弱点",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "lowerarm_l",
+        "lowerarm_r"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_DuJiaoXian/PBC_HFM_DuJiaoXian_DiaoXiangFirstPart.PBC_HFM_DuJiaoXian_DiaoXiangFirstPart'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -5,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 128,
+      "PartRuleID": 600101,
+      "PartID": 1,
+      "PartName": "其他",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 999999.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 129,
+      "PartRuleID": 600102,
+      "PartID": 0,
+      "PartName": "弱点",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        2500.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "lowerarm_l",
+        "lowerarm_r"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 999999.0
+        }
+      ],
+      "PartDamagedStiffLevel": -5,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 130,
+      "PartRuleID": 600102,
+      "PartID": 1,
+      "PartName": "其他",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 999999.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 131,
+      "PartRuleID": 413301,
+      "PartID": 0,
+      "PartName": "body",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -3000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SZLC_heimoshou_01/PBC_szlc_HMS_P2.PBC_szlc_HMS_P2'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 100000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 132,
+      "PartRuleID": 413301,
+      "PartID": 1,
+      "PartName": "head",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        3500.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "head"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 100000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 133,
+      "PartRuleID": 301901,
+      "PartID": 2,
+      "PartName": "body",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 999999.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 134,
+      "PartRuleID": 301904,
+      "PartID": 0,
+      "PartName": "Head",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        28000.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-47",
+        "47"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo1/PBC_lys_mo1_sphere.PBC_lys_mo1_sphere'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 135,
+      "PartRuleID": 301904,
+      "PartID": 1,
+      "PartName": "right arm",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        1800.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "lowerarm_r"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo1/PBC_lys_mo1_rightarm4.PBC_lys_mo1_rightarm4'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 3100.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 136,
+      "PartRuleID": 301904,
+      "PartID": 2,
+      "PartName": "body",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 999999.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 137,
+      "PartRuleID": 301904,
+      "PartID": 3,
+      "PartName": "Head Fall",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        28000.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-47",
+        "47"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 999999.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 138,
+      "PartRuleID": 470501,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 139,
+      "PartRuleID": 470502,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 140,
+      "PartRuleID": 390001,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_HuangMei_02/PBC_LYS_HuangMei_02.PBC_LYS_HuangMei_02'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 3000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 141,
+      "PartRuleID": 390001,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_HuangMei_02/PBC_LYS_HuangMei_02_daodi.PBC_LYS_HuangMei_02_daodi'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": -2,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 142,
+      "PartRuleID": 380001,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 143,
+      "PartRuleID": 380001,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        0.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_HuangMei_03/PBC_LYS_HuangMei_03_JinShen.PBC_LYS_HuangMei_03_JinShen'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 750.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 144,
+      "PartRuleID": 380001,
+      "PartID": 2,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "1",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_HuangMei_03/PBC_LYS_HuangMei_03_daodi.PBC_LYS_HuangMei_03_daodi'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 145,
+      "PartRuleID": 509902,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 146,
+      "PartRuleID": 302002,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        4000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo2/PBC_lys_mo2_exKuangbao.PBC_lys_mo2_exKuangbao'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2100.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 147,
+      "PartRuleID": 470601,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": 0,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/Online/BHL/BHL_gushou_01/PBC_bhl_gushoufsq_01.PBC_bhl_gushoufsq_01'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 148,
+      "PartRuleID": 470701,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 0,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -8000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": 0,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 149,
+      "PartRuleID": 470701,
+      "PartID": 1,
+      "PartName": "角",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 1,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "head",
+        "mouth",
+        "Head"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": 0,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_xiniu_01/PBC_szlc_xiniu_01.PBC_szlc_xiniu_01'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 10.0
+        }
+      ],
+      "PartDamagedStiffLevel": 3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [
+        1099503,
+        1052001
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 150,
+      "PartRuleID": 470702,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 0,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -4000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": 0,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 151,
+      "PartRuleID": 470702,
+      "PartID": 1,
+      "PartName": "角",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 0,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -2000.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "head",
+        "mouth"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": 0,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 152,
+      "PartRuleID": 471001,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -10000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": 0,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 153,
+      "PartRuleID": 505402,
+      "PartID": 0,
+      "PartName": "手",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        3000.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "head"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": 0,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 5000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 154,
+      "PartRuleID": 581101,
+      "PartID": 2,
+      "PartName": "body",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijingtitan_01/PBC_hys_huijingtitan_01.PBC_hys_huijingtitan_01'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 7000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 155,
+      "PartRuleID": 5811011,
+      "PartID": 0,
+      "PartName": "head",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "2",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        20000.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "neck_02"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijingtitan_01/PBC_hys_huijingtitan_01_fall.PBC_hys_huijingtitan_01_fall'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 156,
+      "PartRuleID": 5811011,
+      "PartID": 1,
+      "PartName": "body fall",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "2",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -2000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijingtitan_01/PBC_hys_huijingtitan_01_fall.PBC_hys_huijingtitan_01_fall'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 157,
+      "PartRuleID": 510002,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_zhubajie_02a/PBC_psd_zhubajie_02a.PBC_psd_zhubajie_02a'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 4,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 158,
+      "PartRuleID": 199901,
+      "PartID": 0,
+      "PartName": "body full",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        3000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00Main/Animation/MGD/MGD_erlangshen_01/Montage/PBC/PBC_mgd_erlangshen_01_phase1.PBC_mgd_erlangshen_01_phase1'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1900.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 159,
+      "PartRuleID": 199901,
+      "PartID": 1,
+      "PartName": "body second",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        3000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00Main/Animation/MGD/MGD_erlangshen_01/Montage/PBC/PBC_mgd_erlangshen_01_phase1_broken.PBC_mgd_erlangshen_01_phase1_broken'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": 0,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 160,
+      "PartRuleID": 199901,
+      "PartID": 2,
+      "PartName": "body second",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        3000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 999,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 161,
+      "PartRuleID": 199902,
+      "PartID": 0,
+      "PartName": "body break",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        3000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 130000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 162,
+      "PartRuleID": 199903,
+      "PartID": 0,
+      "PartName": "body full",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        3000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00Main/Animation/MGD/MGD_erlangshen_01/Montage/PBC/PBC_mgd_erlangshen_01_phase2.PBC_mgd_erlangshen_01_phase2'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 4500.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 163,
+      "PartRuleID": 199904,
+      "PartID": 0,
+      "PartName": "body full",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        1000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00Main/Animation/MGD/MGD_erlangshen_01/Montage/PBC/PBC_mgd_erlangshen_01_phase3.PBC_mgd_erlangshen_01_phase3'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 3300.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 164,
+      "PartRuleID": 199904,
+      "PartID": 1,
+      "PartName": "body second",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        1000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00Main/Animation/MGD/MGD_erlangshen_01/Montage/PBC/PBC_mgd_erlangshen_01_phase3_broken.PBC_mgd_erlangshen_01_phase3_broken'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": 3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 165,
+      "PartRuleID": 199904,
+      "PartID": 2,
+      "PartName": "body second",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        1000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [],
+      "PartDamagedStiffLevel": 999,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 166,
+      "PartRuleID": 199905,
+      "PartID": 0,
+      "PartName": "body break",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        1000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 165000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 167,
+      "PartRuleID": 740102,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        5000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": 0,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 2000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 99,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 168,
+      "PartRuleID": 199011,
+      "PartID": 0,
+      "PartName": "body full",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        20000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 169,
+      "PartRuleID": 199111,
+      "PartID": 0,
+      "PartName": "body full",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        20000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 170,
+      "PartRuleID": 199211,
+      "PartID": 0,
+      "PartName": "body full",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        15000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 171,
+      "PartRuleID": 199311,
+      "PartID": 0,
+      "PartName": "body full",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        20000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 172,
+      "PartRuleID": 416302,
+      "PartID": 0,
+      "PartName": "手",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [
+        "upperarm_r",
+        "upperarm_l"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": 0,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 5000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 173,
+      "PartRuleID": 416303,
+      "PartID": 1,
+      "PartName": "手",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 0,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": 0,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 174,
+      "PartRuleID": 102401,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_YanJianXi_01b/PBC_GYCY_YanJianXi_01b_1st.PBC_GYCY_YanJianXi_01b_1st'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 3000.0
+        },
+        {
+          "DamagedValueRatio": 4000.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 175,
+      "PartRuleID": 102401,
+      "PartID": 1,
+      "PartName": "身体",
+      "IsActive": 0,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "0",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_YanJianXi_01b/PBC_GYCY_YanJianXi_01b_2nd.PBC_GYCY_YanJianXi_01b_2nd'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        },
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": 1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 176,
+      "PartRuleID": 200102,
+      "PartID": 0,
+      "PartName": "body full",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -2000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 177,
+      "PartRuleID": 202202,
+      "PartID": 0,
+      "PartName": "body full",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        -2000.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1000000.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 178,
+      "PartRuleID": 471201,
+      "PartID": 0,
+      "PartName": "身体",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_wanglingguan_01/PBC_szlc_wanglingguan_01.PBC_szlc_wanglingguan_01'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 4000.0
+        },
+        {
+          "DamagedValueRatio": 4500.0
+        }
+      ],
+      "PartDamagedStiffLevel": 3,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 179,
+      "PartRuleID": 202899,
+      "PartID": 0,
+      "PartName": "正面 无敌",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0
+      ],
+      "HitPartRuleType": 1,
+      "HitPartRuleParam": [
+        "-120",
+        "120"
+      ],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": 9999,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 180,
+      "PartRuleID": 202899,
+      "PartID": 1,
+      "PartName": "背面",
+      "IsActive": 1,
+      "NeedShowUI": 0,
+      "CanTriggerAtkRebounding": 0,
+      "CanTriggerBeAttackedBuffEffect": 1,
+      "ImmueAbnormalStateAcc": 0,
+      "CanInterruptPartIDs": "",
+      "HitPartReduceAttrType": 1,
+      "ReduceParams": [
+        1.0,
+        0.0
+      ],
+      "HitPartRuleType": 2,
+      "HitPartRuleParam": [],
+      "PartHitMappingUnitBeAttackedInfoID": -1,
+      "PartHitUnitBeAttackedConfigPath": "",
+      "DamagedAMDataAssetPath": "BGWDataAsset_PartBreakAMInfoConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hu_Wind/PBC_hfm_hu_wind_block_back.PBC_hfm_hu_wind_block_back'",
+      "PartDamagedInfoList": [
+        {
+          "DamagedValueRatio": 1.0
+        }
+      ],
+      "PartDamagedStiffLevel": -1,
+      "IsStageInRandomOrder": 0,
+      "BuffWithPartActive": [],
+      "CantBreakPartDmgEffectIDList": [],
+      "Guard": "Guard"
+    }
+  ]
+}

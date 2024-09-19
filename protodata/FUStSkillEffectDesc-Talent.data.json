@@ -1,0 +1,3129 @@
+{
+  "List": [
+    {
+      "ID": 1021111,
+      "EffectActiveCondition": {
+        "ConditionType": 3,
+        "ConditionParams": "2009"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        2005
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1021112,
+      "EffectActiveCondition": {
+        "ConditionType": 3,
+        "ConditionParams": "2009"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        2006
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1021113,
+      "EffectActiveCondition": {
+        "ConditionType": 3,
+        "ConditionParams": "2009"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        2007
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1021114,
+      "EffectActiveCondition": {
+        "ConditionType": 3,
+        "ConditionParams": "2009"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        2008
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1021121,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105018"
+      },
+      "EffectType": 20,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [],
+      "EffectParamsFloat": [],
+      "EffectParamsStr": [
+        "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/Talent/BGW_Player_Wukong_Atk_jiachongwang_01.BGW_Player_Wukong_Atk_jiachongwang_01"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1021122,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105018"
+      },
+      "EffectType": 20,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [],
+      "EffectParamsFloat": [],
+      "EffectParamsStr": [
+        "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/Talent/BGW_Player_Wukong_Atk_jiachongwang_02.BGW_Player_Wukong_Atk_jiachongwang_02"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1021123,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105018"
+      },
+      "EffectType": 20,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [],
+      "EffectParamsFloat": [],
+      "EffectParamsStr": [
+        "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/Talent/BGW_Player_Wukong_Atk_jiachongwang_03.BGW_Player_Wukong_Atk_jiachongwang_03"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1021124,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105018"
+      },
+      "EffectType": 20,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [],
+      "EffectParamsFloat": [],
+      "EffectParamsStr": [
+        "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/Talent/BGW_Player_Wukong_Atk_jiachongwang_04.BGW_Player_Wukong_Atk_jiachongwang_04"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1031101,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "100110"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1033
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [
+        "/Game/00Main/Design/MagicFields/Player/PreciseDodge/BGW_Player_Wukong_PreciseDodgePhantom.BGW_Player_Wukong_PreciseDodgePhantom"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1031102,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        71,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1086000
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        10000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "无"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1031111,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "106007"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        96007
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [
+        "/Game/00Main/Design/MagicFields/Player/PreciseDodge/BGW_Player_Wukong_PreciseDodgePhantom.BGW_Player_Wukong_PreciseDodgePhantom"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1031112,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "901212"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        96005,
+        96006
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "/Game/00Main/Design/MagicFields/Player/PreciseDodge/BGW_Player_Wukong_PreciseDodgePhantom.BGW_Player_Wukong_PreciseDodgePhantom"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1050501,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        71,
+        22,
+        1,
+        0
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        30000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "【主角】轻棍连招/0段蓄力"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1080103,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "100204"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1030
+      ],
+      "EffectParamsFloat": [
+        3000.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1080104,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "100905"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1064
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1080504,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "200101"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1090
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1080505,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        71,
+        20,
+        1,
+        0,
+        0,
+        0,
+        1080505
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        12500.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "【主角】轻棍连招/0段蓄力"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1080506,
+      "EffectActiveCondition": {
+        "ConditionType": 3,
+        "ConditionParams": "1031"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1042
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1080507,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 2,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        71,
+        20,
+        6,
+        0,
+        3,
+        4,
+        0
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        15000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "【主角】轻棍连招/0段蓄力"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1021302,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105011"
+      },
+      "EffectType": 20,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [],
+      "EffectParamsFloat": [],
+      "EffectParamsStr": [
+        "/Game/00Main/Design/MagicFields/Player/Talent/BGW_player_wukong_lava.BGW_player_wukong_lava"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1021303,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        71,
+        0,
+        3,
+        0,
+        3,
+        2,
+        0
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        10000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "无"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1031103,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        71,
+        20,
+        6,
+        0,
+        3,
+        4,
+        1086000
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        12500.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "【主角】轻棍连招/0段蓄力"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1080411,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105009"
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        30,
+        20,
+        1,
+        0,
+        0,
+        0
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        5000.0,
+        0.0,
+        0.0,
+        0.0,
+        10.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1080114,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "100901"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1064
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1080499,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105009"
+      },
+      "EffectType": 134,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0
+      ],
+      "EffectParamsFloat": [
+        3.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 100110191,
+      "EffectActiveCondition": {
+        "ConditionType": 8,
+        "ConditionParams": "101207"
+      },
+      "EffectType": 134,
+      "EffectCategory": 0,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 2,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 1,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0
+      ],
+      "EffectParamsFloat": [
+        3.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 100110291,
+      "EffectActiveCondition": {
+        "ConditionType": 8,
+        "ConditionParams": "101207"
+      },
+      "EffectType": 134,
+      "EffectCategory": 0,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 2,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 1,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0
+      ],
+      "EffectParamsFloat": [
+        4.5
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 100110391,
+      "EffectActiveCondition": {
+        "ConditionType": 8,
+        "ConditionParams": "101207"
+      },
+      "EffectType": 134,
+      "EffectCategory": 0,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 2,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 1,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0
+      ],
+      "EffectParamsFloat": [
+        3.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 100110491,
+      "EffectActiveCondition": {
+        "ConditionType": 8,
+        "ConditionParams": "101207"
+      },
+      "EffectType": 134,
+      "EffectCategory": 0,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 2,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 1,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0
+      ],
+      "EffectParamsFloat": [
+        0.9
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 100110492,
+      "EffectActiveCondition": {
+        "ConditionType": 8,
+        "ConditionParams": "101207"
+      },
+      "EffectType": 134,
+      "EffectCategory": 0,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 2,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 1,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0
+      ],
+      "EffectParamsFloat": [
+        3.9
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 100110591,
+      "EffectActiveCondition": {
+        "ConditionType": 8,
+        "ConditionParams": "101207"
+      },
+      "EffectType": 134,
+      "EffectCategory": 0,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 2,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 1,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0
+      ],
+      "EffectParamsFloat": [
+        12.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 100110411,
+      "EffectActiveCondition": {
+        "ConditionType": 8,
+        "ConditionParams": "105602"
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        30,
+        20,
+        1,
+        0,
+        0,
+        0
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        5000.0,
+        0.0,
+        0.0,
+        0.0,
+        10.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 100119001,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 46,
+      "EffectCategory": 1,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 2,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1110
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1090101,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "106016"
+      },
+      "EffectType": 46,
+      "EffectCategory": 1,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        96016,
+        96017,
+        96018
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1051902,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "101402"
+      },
+      "EffectType": 3,
+      "EffectCategory": 1,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0,
+        186,
+        0
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1051903,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "101403"
+      },
+      "EffectType": 3,
+      "EffectCategory": 1,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0,
+        152,
+        1
+      ],
+      "EffectParamsFloat": [
+        2000.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1051904,
+      "EffectActiveCondition": {
+        "ConditionType": 1,
+        "ConditionParams": "0"
+      },
+      "EffectType": 161,
+      "EffectCategory": 1,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [],
+      "EffectParamsFloat": [
+        99999.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1051905,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "200603"
+      },
+      "EffectType": 46,
+      "EffectCategory": 1,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1101,
+        1102
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1051906,
+      "EffectActiveCondition": {
+        "ConditionType": 3,
+        "ConditionParams": "92301"
+      },
+      "EffectType": 3,
+      "EffectCategory": 1,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0,
+        186,
+        0
+      ],
+      "EffectParamsFloat": [
+        10.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099901,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "100502"
+      },
+      "EffectType": 46,
+      "EffectCategory": 1,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1991
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1009605,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "200102"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1053
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [
+        "【主角】蓄力2"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1009606,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        2096
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1051701,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1040
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099905,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "900621"
+      },
+      "EffectType": 28,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1001102,
+        1,
+        0
+      ],
+      "EffectParamsFloat": [],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099906,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "901711"
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0,
+        20,
+        1,
+        0,
+        0,
+        0,
+        123456
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        20000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "【主角】轻棍连招/0段蓄力"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099907,
+      "EffectActiveCondition": {
+        "ConditionType": 3,
+        "ConditionParams": "2120"
+      },
+      "EffectType": 46,
+      "EffectCategory": 1,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        2122
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099908,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105017"
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0,
+        20,
+        6,
+        0,
+        2,
+        4,
+        0
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        1000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "无"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099909,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105017"
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0,
+        20,
+        6,
+        0,
+        2,
+        4,
+        0
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        3000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "无"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099910,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105017"
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0,
+        20,
+        6,
+        0,
+        2,
+        4,
+        0
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        10000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "无"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099912,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 87,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        3
+      ],
+      "EffectParamsFloat": [
+        40.0,
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099913,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "907010"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        2713,
+        2714
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099914,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "907007"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1096
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099915,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105101"
+      },
+      "EffectType": 20,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [],
+      "EffectParamsFloat": [],
+      "EffectParamsStr": [
+        "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/Talent/BGW_Player_Wukong_Atk_sanjianliangren.BGW_Player_Wukong_Atk_sanjianliangren"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099916,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 6,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0,
+        21,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        2500.0,
+        0.0,
+        0.0,
+        0.0,
+        20.0
+      ],
+      "EffectParamsStr": [
+        "【主角】轻棍连招/0段蓄力"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099917,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105007"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        2018
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099918,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105007"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        2019
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099919,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105007"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        2020
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099920,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105007"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        2021
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099921,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        71,
+        1,
+        2,
+        0
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        10000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "【主角】轻棍连招/0段蓄力"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099922,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        71,
+        1,
+        2,
+        0
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        20000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "【主角】轻棍连招/0段蓄力"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099923,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        71,
+        1,
+        2,
+        0
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        30000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "【主角】轻棍连招/0段蓄力"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099924,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 1,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        71,
+        1,
+        2,
+        0
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        0.0,
+        40000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "EffectParamsStr": [
+        "【主角】轻棍连招/0段蓄力"
+      ],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099927,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "100802"
+      },
+      "EffectType": 3,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0,
+        158,
+        0
+      ],
+      "EffectParamsFloat": [
+        30.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099928,
+      "EffectActiveCondition": {
+        "ConditionType": 3,
+        "ConditionParams": "1090"
+      },
+      "EffectType": 134,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0
+      ],
+      "EffectParamsFloat": [
+        3.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099929,
+      "EffectActiveCondition": {
+        "ConditionType": 3,
+        "ConditionParams": "1090"
+      },
+      "EffectType": 134,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        0
+      ],
+      "EffectParamsFloat": [
+        1.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099930,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 95,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        3,
+        1,
+        0,
+        7
+      ],
+      "EffectParamsFloat": [],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099931,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 95,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        3,
+        1,
+        0,
+        15
+      ],
+      "EffectParamsFloat": [],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099932,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 95,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        3,
+        1,
+        0,
+        40
+      ],
+      "EffectParamsFloat": [],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099933,
+      "EffectActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "EffectType": 95,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        3,
+        1,
+        0,
+        70
+      ],
+      "EffectParamsFloat": [],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099934,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "106030"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        96034
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099935,
+      "EffectActiveCondition": {
+        "ConditionType": 3,
+        "ConditionParams": "421"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1048
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099936,
+      "EffectActiveCondition": {
+        "ConditionType": 3,
+        "ConditionParams": "422"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1049
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099937,
+      "EffectActiveCondition": {
+        "ConditionType": 3,
+        "ConditionParams": "423"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1050
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099938,
+      "EffectActiveCondition": {
+        "ConditionType": 3,
+        "ConditionParams": "424"
+      },
+      "EffectType": 46,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        1051
+      ],
+      "EffectParamsFloat": [
+        0.0
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099939,
+      "EffectActiveCondition": {
+        "ConditionType": 2,
+        "ConditionParams": "105015"
+      },
+      "EffectType": 95,
+      "EffectCategory": 0,
+      "TargetBase": 1,
+      "TargetCount": 1,
+      "TargetFilter": 4,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        4,
+        1,
+        1,
+        10000
+      ],
+      "EffectParamsFloat": [],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1099940,
+      "EffectActiveCondition": {
+        "ConditionType": 3,
+        "ConditionParams": "2133"
+      },
+      "EffectType": 87,
+      "EffectCategory": 0,
+      "TargetBase": 0,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "FXTransUseConfig": 0,
+      "PlayFXSocketName": "",
+      "PlayFXLocalDirX": 0.0,
+      "PlayFXLocalDirY": 0.0,
+      "PlayFXLocalDirZ": 0.0,
+      "FXCameraOffset": 0.0,
+      "HitActionDir": 0,
+      "HitOrientationType": 0,
+      "HitOriBaseCompName": "",
+      "CanFractureVictim": 0,
+      "CanCutVictim": 0,
+      "EffectParamsInt": [
+        7
+      ],
+      "EffectParamsFloat": [
+        0.0,
+        -0.0015
+      ],
+      "EffectParamsStr": [],
+      "Guard": "Guard"
+    }
+  ]
+}

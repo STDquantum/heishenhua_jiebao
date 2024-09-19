@@ -1,0 +1,1783 @@
+{
+  "List": [
+    {
+      "Id": 100001,
+      "TipsTriggerType": 2,
+      "KeepTime": 8,
+      "Title": "土地庙",
+      "Content": "破庙小虽小，灵通不曾少。\r\n多来拜拜，必有福报，必有福报。",
+      "ImageId": 100001,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100002,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "土地庙·调息之一",
+      "Content": "息息归根，命之蒂也，能夺天地造化。\r\n在土地庙施行调息，肉身复旧如新。",
+      "ImageId": 100001,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100003,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "土地庙·调息之二",
+      "Content": "在土地庙调息，吸收天地精气，\r\n乾坤灵蕴异动，便会引出山中群怪。",
+      "ImageId": 100001,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100004,
+      "TipsTriggerType": 2,
+      "KeepTime": 8,
+      "Title": "土地庙·缩地",
+      "Content": "  神仙术法，能缩地脉。\r\n  一瞬之间，千里之外。",
+      "ImageId": 100001,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100005,
+      "TipsTriggerType": 3,
+      "KeepTime": 12,
+      "Title": "气力损耗",
+      "Content": " 奔袭打斗，闪转腾挪，都会损耗气力。\r\n 气力使尽，难免力倦神疲。\r\n 惜而用之，方能大展手段。",
+      "ImageId": 200002,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100006,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "灵蕴",
+      "Content": " 乾坤孕生灵，生灵育灵蕴。\r\n 无所不能，无人不喜，乃三界间的通货。",
+      "ImageId": 100013,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100007,
+      "TipsTriggerType": 2,
+      "KeepTime": 8,
+      "Title": "采集",
+      "Content": " 荒郊野外，多有奇花异果。\r\n 采摘搜罗，他日自有用处。",
+      "ImageId": 100002,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100008,
+      "TipsTriggerType": 3,
+      "KeepTime": 12,
+      "Title": "复生",
+      "Content": "在土地庙拔毛上香，可寄托元神。\r\n即使遭难逢磨，暗丧其身，也可在最近处还魂复生。",
+      "ImageId": 100001,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100009,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "土地庙·修行",
+      "Content": "改变既有天赋与法术，需进行特定法事。\r\n只有在土地庙进行，才可收放自如。",
+      "ImageId": 100001,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100012,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "影神图",
+      "Content": " 有好事者，将天命人沿途所遇的精怪人物，画影图形，抄名访姓，\r\n 连同生平轶事，一起誊录在了一本游记之中。",
+      "ImageId": 100004,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100013,
+      "TipsTriggerType": 3,
+      "KeepTime": 8,
+      "Title": "缩地青符",
+      "Content": "  西游路远，山高水险。 \r\n  青符常备，金身复原。",
+      "ImageId": 100010,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 16,
+          "Param1": 2402,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100014,
+      "TipsTriggerType": 3,
+      "KeepTime": 12,
+      "Title": "道行",
+      "Content": "如说修行，当知是为久修道行。\r\n积攒修为，提升道行，可清明先天灵光，开悟更多本事与神通。",
+      "ImageId": 100003,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100015,
+      "TipsTriggerType": 3,
+      "KeepTime": 12,
+      "Title": "天赋重修",
+      "Content": "  在土地庙，可重修天赋，脱胎换骨。\r\n  先天灵光全归还，勿忧勿虑乐怡然。",
+      "ImageId": 100003,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 20,
+          "Param1": 4,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100016,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "货殖",
+      "Content": "  不同地方，皆有当地特产的土货与材料。\r\n  何妨顺带做些买卖，不枉到此一游。",
+      "ImageId": 100001,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 20,
+          "Param1": 11,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100017,
+      "TipsTriggerType": 3,
+      "KeepTime": 12,
+      "Title": "还魂",
+      "Content": "在土地庙拔毛上香，可寄托元神。\r\n即使遭难逢磨，暗丧其身，也可在最近处还魂复生。",
+      "ImageId": 100001,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100018,
+      "TipsTriggerType": 3,
+      "KeepTime": 12,
+      "Title": "魂幡",
+      "Content": "新死之魂，并未被勾司人带走。\r\n若有魂幡指引，招呼魂魄重回旧地，则能还魂复生。",
+      "ImageId": 100001,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100019,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "仙酿",
+      "Content": "饮一口仙酿，足可聊慰肉身伤痛。\r\n在土地庙调息，土地老儿还会将葫芦灌满，以备后续旅途。",
+      "ImageId": 100005,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100020,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "泡制",
+      "Content": "在土地庙，可将寻得的天材地宝塞入葫芦。\r\n之后饮用仙酿时，便有协同妙用。",
+      "ImageId": 100005,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 20,
+          "Param1": 10,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100021,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "葫芦",
+      "Content": "不同葫芦，盛酒量也不相同，\r\n有些葫芦自身即是异宝，自带神妙补益。",
+      "ImageId": 100005,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100022,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "披挂升阶",
+      "Content": "在寅虎砧台处，可投入珍贵材料，抟炼披挂，增进品阶。\r\n升阶后的披挂更为强固耐用，乃至可能更为华美神妙。",
+      "ImageId": 100006,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 20,
+          "Param1": 2002,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100023,
+      "TipsTriggerType": 3,
+      "KeepTime": 12,
+      "Title": "本事与神通",
+      "Content": "本事可增强身段武术，神通可提高法术成效。 \r\n若想此番走得长远，需有足够傍身的本事与神通才好。",
+      "ImageId": 100003,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100024,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "炼丹",
+      "Content": "沿途采撷的山间药材，皆是炼制灵丹妙药的必须材料。\r\n有些丹药需要习得丹方才能炼制，不妨也去山中多搜检搜检。",
+      "ImageId": 100007,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 20,
+          "Param1": 14,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100025,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "打坐",
+      "Content": "风光旖旎之地，常留有高僧老道打坐的蒲团。 \r\n瞑目盘膝，敛息坐定，或能灵光一闪，有所顿悟。 ",
+      "ImageId": 100003,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100026,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "栽培",
+      "Content": "将山精野怪遗下的种子交付辰龙，令其种在画中之壤间。\r\n不消多时，便能采收到相应的药材。",
+      "ImageId": 100008,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 20,
+          "Param1": 4001,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100027,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "六根",
+      "Content": "灵明石猴，通变化，识天时，知地利，移星换斗。 \r\n既得了大圣的根器，何不参悟参悟他的本事？",
+      "ImageId": 100003,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 16,
+          "Param1": 4091,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100028,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "鬼火",
+      "Content": "  皮囊朽烂，鬼火阑珊。  \r\n  生灵陨灭后，残存的灵蕴会在野外游荡，偶尔汇聚成形。 \r\n  经高人点化，习得吸存之术后，可将这些灵蕴，收归己用。",
+      "ImageId": 100012,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100029,
+      "TipsTriggerType": 3,
+      "KeepTime": 12,
+      "Title": "精魄",
+      "Content": "葫芦经过点化后，能吸入大妖们遗留的精纯魂魄。 \r\n将其融入体内，便能使出化身技，显化大妖们昔日的绝招。 ",
+      "ImageId": 100012,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 20,
+          "Param1": 15,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100030,
+      "TipsTriggerType": 3,
+      "KeepTime": 12,
+      "Title": "元气",
+      "Content": "化身技与法宝皆需消耗元气才能施展 。\r\n与对手斗之时愈发勇猛，元气也恢复得越快。",
+      "ImageId": 100012,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 20,
+          "Param1": 15,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 100031,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "如意画轴",
+      "Content": "辰龙赠与的画轴，通往一处清幽避世之地。 \r\n潜隐山郭，枕松高卧，多有仙人隐居在此，不妨常来坐坐。",
+      "ImageId": 100011,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 16,
+          "Param1": 2401,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 300001,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "执念",
+      "Content": "执念，乃未断的一点尘缘。 \r\n强大的执念，会化为亦真亦假，似有似无的旧时幻境。 \r\n假借外物可往来其间，收因结果，或有更多收获。",
+      "ImageId": 300001,
+      "CoolDownCount": 6,
+      "Priority": 1,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 300002,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "执念",
+      "Content": "执念，乃未断的一点尘缘。 \r\n强大的执念，会化为亦真亦假，似有似无的旧时幻境。 \r\n假借外物可往来其间，收因结果，或有更多收获。",
+      "ImageId": 300002,
+      "CoolDownCount": 6,
+      "Priority": 1,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 300003,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "执念",
+      "Content": "执念，乃未断的一点尘缘。 \r\n强大的执念，会化为亦真亦假，似有似无的旧时幻境。 \r\n假借外物可往来其间，收因结果，或有更多收获。",
+      "ImageId": 300004,
+      "CoolDownCount": 6,
+      "Priority": 1,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 300004,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "执念",
+      "Content": "执念，乃未断的一点尘缘。 \r\n强大的执念，会化为亦真亦假，似有似无的旧时幻境。 \r\n假借外物可往来其间，收因结果，或有更多收获。",
+      "ImageId": 300004,
+      "CoolDownCount": 6,
+      "Priority": 1,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 300005,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "执念",
+      "Content": "执念，乃未断的一点尘缘。 \r\n强大的执念，会化为亦真亦假，似有似无的旧时幻境。 \r\n假借外物可往来其间，收因结果，或有更多收获。",
+      "ImageId": 300005,
+      "CoolDownCount": 6,
+      "Priority": 1,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 300006,
+      "TipsTriggerType": 2,
+      "KeepTime": 12,
+      "Title": "执念",
+      "Content": "执念，乃未断的一点尘缘。 \r\n强大的执念，会化为亦真亦假，似有似无的旧时幻境。 \r\n假借外物可往来其间，收因结果，或有更多收获。",
+      "ImageId": 300006,
+      "CoolDownCount": 6,
+      "Priority": 1,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400001,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "闪身",
+      "Content": " 在对手<{0}_KW>出招的瞬息翻滚</>，将身一闪！\r\n 若正好避开其锋芒，便能<{0}_KW>攒得更多棍势</>。",
+      "ImageId": 200001,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400002,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "轻棍",
+      "Content": "<{0}_KW>轻棍</>是多次<{0}_KW>连续进攻</>的棍术。\r\n不但可以高效伤敌，也适合<{0}_KW>蓄积棍势</>。\r\n在习得某些天赋后，即便在轻棍招式之间翻滚闪身，连招也不会被中断。",
+      "ImageId": 200002,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400003,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "重棍",
+      "Content": "<{0}_KW>重棍</>是单次<{0}_KW>奋力猛击</>的棍术。\r\n<{0}_KW>消耗棍势</>，竭力一击，造成较高伤害与硬直。\r\n更高的棍势段数，会显著提升命中的效果。",
+      "ImageId": 200003,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400004,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "蓄力",
+      "Content": "<{0}_KW>把持重棍</>招式不放，能进入蓄力状态，\r\n以消耗气力为代价，迅速<{0}_KW>积攒起棍势</>。",
+      "ImageId": 200003,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400005,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "积攒棍势",
+      "Content": "<{0}_KW>命中，蓄力，闪身</>，都能<{0}_KW>攒得棍势</>。\r\n听闻有神草灵药可长棍势，\r\n危难之时，不妨吃来试试。",
+      "ImageId": 200003,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400006,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "切手技",
+      "Content": "轻棍<{0}_KW>连招中若接续重棍</>，能演化出<{0}_KW>切手技</>。\r\n第一段切手技若打中对手，还可演化出第二段切手技。\r\n切手技也会消耗棍势段数。",
+      "ImageId": 200006,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400007,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "劈棍",
+      "Content": "<{0}_KW>劈棍法</>的重棍，可<{0}_KW>边跑边蓄力</>，十分灵活。\r\n可谓与对手进行周旋赌斗的首选招式。",
+      "ImageId": 200005,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400008,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "劈棍切手技",
+      "Content": "<{0}_KW>劈棍法</>中，轻棍连招接续重棍，可消耗棍势段数，打出独特<{0}_KW>切手技</>。\r\n若此时恰好遭遇敌人攻击，还能<{0}_KW>识破</>动作，化解对手的攻击。",
+      "ImageId": 200006,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400009,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "立棍",
+      "Content": "<{0}_KW>立棍法</>的重棍，蓄力后能攀到棍头，伸缩自如。\r\n躲避地面攻击的同时，还<{0}_KW>可进行大范围的反击</>。\r\n可谓攻守兼备的首选招式。",
+      "ImageId": 200007,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 19,
+          "Param1": 100701,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400010,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "立棍切手技",
+      "Content": "<{0}_KW>立棍法</>中，轻棍连招接续重棍，可消耗棍势段数，打出独特<{0}_KW>切手技</>。\r\n立棍切手技能够<{0}_KW>命中身旁所有敌人</>，陷入包围难以脱身时不妨一试。",
+      "ImageId": 200007,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 19,
+          "Param1": 100706,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400011,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "戳棍",
+      "Content": "<{0}_KW>戳棍法</>的重棍，蓄力时须停留在原地，\r\n能从<{0}_KW>较远处戳击敌人</>，对直冲而来的攻击尤为克制。\r\n可谓稳中求胜的首选招式。",
+      "ImageId": 200009,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 19,
+          "Param1": 100801,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400012,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "戳棍切手技",
+      "Content": "<{0}_KW>戳棍法</>中，轻棍连招接续重棍，可消耗棍势段数，打出独特<{0}_KW>切手技</>。\r\n戳棍切手技能够<{0}_KW>在打斗中抽身后撤</>，以退为进，见机再发。",
+      "ImageId": 200010,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 19,
+          "Param1": 100804,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400013,
+      "TipsTriggerType": 3,
+      "KeepTime": 12,
+      "Title": "四灾",
+      "Content": "天地间有<{0}_KW>雷蛰</>、<{0}_KW>火焚</>、<{0}_KW>寒冻</>、<{0}_KW>毒伤</>四大灾愆。\r\n每当灾愆积满，便会受到对应的伤害。\r\n提高四灾耐性，能提升抵抗能力。",
+      "ImageId": 200019,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400014,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "寒冻",
+      "Content": "寒气冻骨会积累寒冻异常。 \r\n异常积满后，会身处寒冻状态，结冰僵直，造成初次冻伤。 \r\n此时若被对手粉碎冰身，会受到二次伤害。 \r\n旋身<{0}_KW>翻滚</>，挣扎行动，可<{0}_KW>更快破冰而出</>。",
+      "ImageId": 200015,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 3,
+          "Param1": 1,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400015,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "毒伤",
+      "Content": "毒液侵伤会积累毒伤异常。 \r\n异常积满后，会身处毒伤状态，五脏难安，<{0}_KW>持久损耗生命</>。\r\n取用特定的丹药可解毒保命。",
+      "ImageId": 200016,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 3,
+          "Param1": 3,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400016,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "坠亡",
+      "Content": " 从高处跌下，会受到伤害。\r\n <{0}_KW>落地时翻滚</>，能<{0}_KW>消减损伤</>，\r\n 若是从极高处栽下，摔作个肉坨子，鬼神无救。",
+      "ImageId": 200004,
+      "CoolDownCount": 5,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 4,
+          "Param1": 0,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400017,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "法术",
+      "Content": " 法术变化，神通广大。对敌保命，不在话下。\r\n 逢魔遭难，多多施展。一味蛮打，恐被笑话。",
+      "ImageId": 200020,
+      "CoolDownCount": 8,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 6,
+          "Param1": 8000,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400018,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "破盾",
+      "Content": "把持<{0}_KW>盾牌</>的对手，能用盾牌<{0}_KW>挡住一般攻击</>。\r\n设法将盾牌击碎，则会出现短暂虚弱硬直的状态，\r\n善用某些法术，或有奇效。",
+      "ImageId": 200001,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400019,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "定身法·妙诀",
+      "Content": "定住对手，可制造出方便的攻击时机。\r\n亦可在对手使出绝招，难以闪避时，巧妙化解危机。",
+      "ImageId": 200011,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 16,
+          "Param1": 5101,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400020,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "聚形散气·妙诀",
+      "Content": "化气状态下的破隐一击，威力颇大。\r\n但若没有找准时机盲目释放，却也容易落空。",
+      "ImageId": 200012,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 16,
+          "Param1": 5201,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400021,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "铜头铁臂·妙诀",
+      "Content": "少数雄壮高大对手的猛烈攻击，有击溃铜头铁臂之虞。",
+      "ImageId": 200013,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 16,
+          "Param1": 5202,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400022,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "安身法·妙诀",
+      "Content": "施放安身法后，阵势将持续存在，直至法术幻灭。\r\n在此期间，离开阵势后折返，仍能获得阵势的加持。",
+      "ImageId": 200014,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 16,
+          "Param1": 5102,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400023,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "身外身法·妙诀",
+      "Content": "分身而出的毛猴，性命并不牢固，\r\n也许会被强大的对手针锋相对。",
+      "ImageId": 200020,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 16,
+          "Param1": 5301,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400024,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "雷蛰",
+      "Content": "遭受雷电攻击，会积累雷蛰异常。 \r\n异常积满后，会身处雷蛰状态，骨软筋麻，<{0}_KW>受到的攻击伤害加深</>。\r\n取用特定丹药可平复安身。",
+      "ImageId": 200017,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 3,
+          "Param1": 4,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400025,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "救命毫毛·妙诀",
+      "Content": "如遇豪强拦道，屡战不胜，可尝试整备该法术。 \r\n性命危急时，自会应验。",
+      "ImageId": 200021,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 16,
+          "Param1": 5302,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400026,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "禁字法·妙诀",
+      "Content": "天命人虽有神通，也难免遇到法术悉数被克的对手。 \r\n此时<{0}_KW>主动禁掉自身法术</>，回归棍法克敌，不失为返璞归真的妙诀。",
+      "ImageId": 202021,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 16,
+          "Param1": 5303,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400027,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "四灾耐性",
+      "Content": "耐雷、耐火、耐寒、耐毒的四灾耐性， \r\n能提升对<{0}_KW>雷蛰</>、<{0}_KW>火焚</>、<{0}_KW>寒冻</>、<{0}_KW>毒伤</>的抵抗能力， \r\n减弱身处灾愆状态时受到的伤害效果。",
+      "ImageId": 200020,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 1,
+      "Condition": [
+        {
+          "TipConditionType": 3,
+          "Param1": 1,
+          "Param2": 0
+        },
+        {
+          "TipConditionType": 3,
+          "Param1": 2,
+          "Param2": 0
+        },
+        {
+          "TipConditionType": 3,
+          "Param1": 3,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 400028,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "火焚",
+      "Content": "火焰焚身会积累火焚异常。 \r\n异常积满后，会身处火焚状态，燎毛灼肉，持续损耗生命。 \r\n就地连翻数次可灭火，滚入水中或雪里，火焰立消。",
+      "ImageId": 200018,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 3,
+          "Param1": 2,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50301301,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "头目·赤尻马猴",
+      "Content": "“晓阴阳，会人事，善出入，避死延生。”",
+      "ImageId": 503013,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 3013,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50301302,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "头目·赤尻马猴",
+      "Content": "“朝游花果山，暮宿水帘洞，合契同情，\r\n不入飞鸟之丛，不从走兽之类。”",
+      "ImageId": 503013,
+      "CoolDownCount": 6,
+      "Priority": 20,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 3013,
+          "Param2": 0
+        },
+        {
+          "TipConditionType": 5,
+          "Param1": 2500,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50502001,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "头目·百足虫",
+      "Content": "蜷身一滚无首尾，展足扑腾爪似锥。\r\n螯牙狠毒喷邪风，狭处相逢命无归。",
+      "ImageId": 505020,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 5020,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50502002,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "显密妙诀·百足虫",
+      "Content": "百足虫唤出的虫群，爬行迟缓，绕着岩穴疾奔，\r\n有望将它们甩在身后。",
+      "ImageId": 505020,
+      "CoolDownCount": 5,
+      "Priority": 31,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 5020,
+          "Param2": 0
+        },
+        {
+          "TipConditionType": 2,
+          "Param1": 502010,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50202201,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王·虎先锋",
+      "Content": "“血津津的赤剥身躯，红媸媸的弯环腿足。\r\n  火焰焰的两鬓蓬松，硬搠搠的双眉的竖。\r\n  白森森的四个钢牙，光耀耀的一双金眼。\r\n     气昂昂的努力大哮，雄纠纠的厉声高喊。”",
+      "ImageId": 502022,
+      "CoolDownCount": 8,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 2022,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50202202,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王·虎先锋",
+      "Content": "“只见那虎跑倒了，塌伏在崖前。行者举棒，尽力一打，转震得自己手疼。\r\n 八戒复筑了一钯，亦将钯齿迸起。原来是一张虎皮，苫着一块卧虎石。”",
+      "ImageId": 502022,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 2022,
+          "Param2": 0
+        },
+        {
+          "TipConditionType": 5,
+          "Param1": 2500,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50499901,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王·毒敌大王",
+      "Content": "“那女怪将身一纵，使出个'倒马毒'春，不觉的把大圣头皮上扎了一下。\r\n行者叫声：'苦呵！'忍耐不得，负痛败阵而走。”",
+      "ImageId": 504999,
+      "CoolDownCount": 8,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 4999,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50470601,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王·晦月魔君",
+      "Content": "“冠簪五岳金光彩，笏执山河玉色琼。\r\n     袍挂七星云叆叇，腰围八极宝环明。”",
+      "ImageId": 504706,
+      "CoolDownCount": 8,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 4706,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50470602,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王·晦月魔君",
+      "Content": "“对妖精叫一声，那怪即时就现了本像，\r\n      再叫一声，那怪浑身酥软，死在坡前。”",
+      "ImageId": 504706,
+      "CoolDownCount": 5,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 4706,
+          "Param2": 0
+        },
+        {
+          "TipConditionType": 5,
+          "Param1": 2500,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50201201,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王·石先锋",
+      "Content": " 山以石为骨，石作土之精。\r\n 背岩屹嶝嶝，躯壳耸青云。",
+      "ImageId": 502012,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 2012,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50220501,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王·石敢当",
+      "Content": " 邪魔罢道，扰乱沙门。\r\n 其罪难赎，褫夺六目。\r\n 勉为封印，永镇黄土。",
+      "ImageId": 502205,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 2205,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50302501,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王·小骊龙",
+      "Content": " 声振波浑，滩余旧痕。\r\n 藏战于守，巧便为门。",
+      "ImageId": 503025,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 3025,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50102501,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王 · 灵虚子",
+      "Content": "“行者才去把那道人提起来看，却是一只苍狼。\r\n傍边那个盘儿底下却有字，刻道‘凌虚子制’”。",
+      "ImageId": 50102501,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 1025,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50102801,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王 · 白衣秀士",
+      "Content": "“只把个白衣秀士，一棒打死，拖将过来看处，却是一条白花蛇怪。”",
+      "ImageId": 50102801,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 1028,
+          "Param2": 0
+        },
+        {
+          "TipConditionType": 1,
+          "Param1": 1008,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50103701,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王 · 黑风大王",
+      "Content": "“看他没头没脸的，只情使棍子打来。\r\n这黑汉又化阵清风，转回本洞，紧闭石门不出。”",
+      "ImageId": 50103701,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 1037,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50103101,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王 · 黑熊精",
+      "Content": "“碗子铁盔火漆光，乌金铠甲亮辉煌。\r\n   皂罗袍罩风兜袖，黑绿丝绦軃穗长。\r\n   手执黑缨枪一杆，足踏乌皮靴一双。\r\n       眼幌金睛如掣电，正是山中黑风王。”",
+      "ImageId": 50103101,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 1031,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50390101,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王 · 赤髯龙",
+      "Content": "“第四个赤髯龙，镇守河渎。”",
+      "ImageId": 50390101,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 3901,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50102301,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王 · 金池长老",
+      "Content": "“堪叹老衲性愚蒙，枉作人间一寿翁。\r\n   欲得袈裟传远世，岂知佛宝不凡同。\r\n   但将容易为长久，定是萧条取败功。\r\n       广智广谋成甚用？损人利己一场空。”",
+      "ImageId": 50102301,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 1023,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50201101,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王 · 黄风大王",
+      "Content": "“他本是灵山脚下的得道老鼠，因为偷了琉璃盏内的清油，\r\n       灯火昏暗，恐怕金刚拿他，故此走了，却在此处成精作怪。”",
+      "ImageId": 50201101,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 2011,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50600101,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王 · 蝜蝂",
+      "Content": "“西方路上有个斯哈哩国，乃日落之处，俗呼为‘天尽头’。\r\n若到申酉时，国王差人上城，擂鼓吹角，混杂海沸之声。\r\n日乃太阳真火，落于西海之间，如火淬水，接声滚沸；\r\n若无鼓角之声混耳，即振杀城中小儿。”",
+      "ImageId": 50600101,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 6001,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50302301,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王 · 亢金龙",
+      "Content": "“好大圣，即将金箍棒变作一把钢钻儿，将他那角尖上钻了一个孔窍，\r\n把身子变得似个芥菜子儿，拱在那钻眼里蹲着，叫：‘扯出角去！扯出角去！’”",
+      "ImageId": 50302301,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 3023,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50301901,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王 · 魔将·妙音",
+      "Content": "“吾乃泗州大圣国师王菩萨弟子，帅领四大神将，奉令擒你！”",
+      "ImageId": 50301901,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 3019,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50302901,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王 · 青背龙",
+      "Content": "“第三个青背龙，占了江渎。”",
+      "ImageId": 50302901,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 3029,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50340101,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王 · 亢金星君",
+      "Content": "“幸得亢金龙将角透入铙内，将我度出，被我打碎金铙，惊醒怪物。”",
+      "ImageId": 50340101,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 3401,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50380001,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王 · 黄眉",
+      "Content": "“此处唤做小西天，因我修行，得了正果，天赐与我的宝阁珍楼。\r\n      我名乃是黄眉老佛。这里人不知，但称我为黄眉大王、黄眉爷爷。”",
+      "ImageId": 50380001,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 1,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 3800,
+          "Param2": 0
+        },
+        {
+          "TipConditionType": 1,
+          "Param1": 3900,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50380002,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "妖王 · 黄眉",
+      "Content": "“蓬着头，勒一条扁薄金箍；光着眼，簇两道黄眉的竖。 \r\n悬胆鼻孔窍开查，四方口牙齿尖利。”",
+      "ImageId": 50380001,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 1,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 3800,
+          "Param2": 0
+        },
+        {
+          "TipConditionType": 1,
+          "Param1": 3900,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50301601,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "小黄龙",
+      "Content": "“第一个小黄龙，见居淮渎。”",
+      "ImageId": 50402001,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 3016,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50500301,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "猪八戒",
+      "Content": "“那阵狂风过处，只见半空里来了一个妖精，果然生得丑陋：\r\n黑脸短毛，长喙大耳；穿一领青不青，蓝不蓝的梭布直裰，系一条花布手巾。”",
+      "ImageId": 50500302,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 5003,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50500801,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "紫蛛儿",
+      "Content": "“只见那七个敞开怀，腆着雪白肚子，脐孔中作出法来，\r\n   骨都都丝绳乱冒，搭起一个天篷，把行者盖在底下。”",
+      "ImageId": 50500801,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 5008,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50500501,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "百眼魔君",
+      "Content": "“森森黄雾，艳艳金光。 \r\n    森森黄雾，两边胁下似喷云；\r\n    艳艳金光，千只眼中如放火。 \r\n     左右却如金桶，东西犹似铜钟。”",
+      "ImageId": 50500501,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 5005,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50440701,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "火焰山土地",
+      "Content": "“我本是兜率宫守炉的道人。\r\n当被老君怪我失守，降下此间，就做了火焰山土地也。”",
+      "ImageId": 50440701,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 4407,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50440101,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "红孩儿",
+      "Content": "“他是牛魔王的儿子，罗刹女养的。 \r\n他曾在火焰山修行了三百年，炼成‘三昧真火’，却也广大神通。 \r\n牛魔王使他来镇守号山，乳名叫做红孩儿，号叫做圣婴大王。”",
+      "ImageId": 50440101,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 4401,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50411001,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "璧水金睛兽",
+      "Content": "“他才卸了盔甲，穿一领鸦青剪绒袄子，走出门，\r\n跨上璧水金睛兽，着小的们看守门庭，半云半雾，一直向西北方而去。”",
+      "ImageId": 50411001,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 4110,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50471201,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "王灵官",
+      "Content": "“这厮假传旨意，赚哄贤卿，快着纠察灵官缉访这厮踪迹！”",
+      "ImageId": 50471201,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 4712,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50740101,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "石猿",
+      "Content": "“这猴乃三百年前天产石猴。\r\n当时不以为然，不知这几年在何方修炼成仙，降龙伏虎，强销死籍也。”",
+      "ImageId": 50700102,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 7401,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50700101,
+      "TipsTriggerType": 1,
+      "KeepTime": 16,
+      "Title": "大圣残躯",
+      "Content": "“头戴着三额金冠，身穿着黄金铠甲，手执着金箍棒，足踏着步云鞋，\r\n手下有四万七千群怪，都称我做大圣爷爷，着实为人。”",
+      "ImageId": 50700101,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 7001,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50800001,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "二郎显圣真君",
+      "Content": "“仪容清俊貌堂堂，两耳垂肩目有光。\r\n   头戴三山飞凤帽，身穿一领淡鹅黄。\r\n   缕金靴衬盘龙袜，玉带团花八宝妆。\r\n       腰挎弹弓新月样，手执三尖两刃枪。”",
+      "ImageId": 50800001,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 8000,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50800002,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "二郎显圣真君",
+      "Content": "“他昔日曾力诛六怪，又有梅山兄弟与帐前一千二百草头神，神通广大。\r\n      奈他只是听调不听宣，陛下可降一道调兵旨意，着他助力，便可擒也。”",
+      "ImageId": 50800001,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 8000,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    },
+    {
+      "Id": 50800003,
+      "TipsTriggerType": 1,
+      "KeepTime": 12,
+      "Title": "青面獠牙兽",
+      "Content": "“真君抖擞神威，摇身一变，变得身高万丈，\r\n   两只手举着三尖两刃神锋，好便似华山顶上之峰，\r\n     青脸獠牙，朱红头发，恶狠狠，望大圣着头就砍。”",
+      "ImageId": 50800002,
+      "CoolDownCount": 6,
+      "Priority": 30,
+      "RelationType": 0,
+      "Condition": [
+        {
+          "TipConditionType": 1,
+          "Param1": 1999,
+          "Param2": 0
+        }
+      ],
+      "LocalizationTag": 1
+    }
+  ]
+}

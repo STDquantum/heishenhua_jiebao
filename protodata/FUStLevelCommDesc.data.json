@@ -1,0 +1,60 @@
+{
+  "List": [
+    {
+      "ID": 10,
+      "IsVersionLevel": 1,
+      "MapShowName": "黑风山",
+      "MapPath": "HFS01_PersistentLevel",
+      "RootQuestGraphPath": "BED_QuestAsset'/Game/00Main/Maps/HFS01/QuestAssets/CQG_HFS_Root.CQG_HFS_Root'"
+    },
+    {
+      "ID": 11,
+      "IsVersionLevel": 1,
+      "MapShowName": "旧观音禅院",
+      "MapPath": "HFS01_Old_GYCY_YKX_PersistentLevel",
+      "RootQuestGraphPath": "BED_QuestAsset'/Game/00Main/Maps/HFS01_OldGYCY_YKX/CQG_HFS_Old_GYCY_YKX.CQG_HFS_Old_GYCY_YKX'"
+    },
+    {
+      "ID": 20,
+      "IsVersionLevel": 1,
+      "MapShowName": "黄风岭",
+      "MapPath": "HFM02_PersistentLevel",
+      "RootQuestGraphPath": "BED_QuestAsset'/Game/00Main/Maps/HFM02/QuestAssets/CQG_HFM_Root.CQG_HFM_Root'"
+    },
+    {
+      "ID": 21,
+      "IsVersionLevel": 1,
+      "MapShowName": "须弥间",
+      "MapPath": "HFM_XiaoXuMi_01",
+      "RootQuestGraphPath": "BED_QuestAsset'/Game/00Main/Maps/HFM02/QuestAssets/CQG_HFM_XiaoXuMi.CQG_HFM_XiaoXuMi'"
+    },
+    {
+      "ID": 22,
+      "IsVersionLevel": 1,
+      "MapShowName": "业缘洞天",
+      "MapPath": "HFM_HouHu_Cave01",
+      "RootQuestGraphPath": "BED_QuestAsset'/Game/00Main/Maps/HFM02/QuestAssets/CQG_HFM_HouHu_Cave.CQG_HFM_HouHu_Cave'"
+    },
+    {
+      "ID": 23,
+      "IsVersionLevel": 1,
+      "MapShowName": "斯哈哩国遗迹",
+      "MapPath": "HFM_SHLG_Persistent",
+      "RootQuestGraphPath": ""
+    },
+    {
+      "ID": 30,
+      "IsVersionLevel": 1,
+      "MapShowName": "雷音寺",
+      "MapPath": "LYS_PersistentLevel",
+      "RootQuestGraphPath": ""
+    },
+    {
+      "ID": 40,
+      "IsVersionLevel": 1,
+      "MapShowName": "火焰山",
+      "MapPath": "HYS_PersistentLevel",
+      "RootQuestGraphPath": ""
+    }
+  ]
+}

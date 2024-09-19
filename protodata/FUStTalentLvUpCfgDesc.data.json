@@ -1,0 +1,28 @@
+{
+  "List": [
+    {
+      "ID": 0,
+      "Base": 2000,
+      "LvFactor": 100,
+      "Max": 6000
+    },
+    {
+      "ID": 1,
+      "Base": 1000,
+      "LvFactor": 100,
+      "Max": 5000
+    },
+    {
+      "ID": 2,
+      "Base": 0,
+      "LvFactor": 200,
+      "Max": 10000
+    },
+    {
+      "ID": 3,
+      "Base": 0,
+      "LvFactor": 100,
+      "Max": 4000
+    }
+  ]
+}

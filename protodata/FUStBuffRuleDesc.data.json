@@ -1,0 +1,6347 @@
+{
+  "List": [
+    {
+      "ID": 101,
+      "BuffID": -1001,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        102510
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 102,
+      "BuffID": 107,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        911199,
+        911299,
+        911399,
+        911499,
+        911599,
+        911699
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 103,
+      "BuffID": 128,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        127
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 104,
+      "BuffID": 149,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        149
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 105,
+      "BuffID": 170,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        171
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 106,
+      "BuffID": 170,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201733
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 107,
+      "BuffID": 171,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        170
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 108,
+      "BuffID": 179,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        310803
+      ],
+      "ComposedBuffID": [
+        310804
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 109,
+      "BuffID": 204,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        103763
+      ],
+      "ComposedBuffID": [
+        103760
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 110,
+      "BuffID": 212,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        302004
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 111,
+      "BuffID": 216,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201760,
+        500509
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 112,
+      "BuffID": 223,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        230
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 113,
+      "BuffID": 229,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        101102
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 114,
+      "BuffID": 266,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        267
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 115,
+      "BuffID": 267,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        266
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 116,
+      "BuffID": 283,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        201112
+      ],
+      "ComposedBuffID": [
+        201113
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 117,
+      "BuffID": 310,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201760,
+        500509
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 118,
+      "BuffID": 500,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402690
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 119,
+      "BuffID": 503,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402699
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 120,
+      "BuffID": 504,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402699
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 121,
+      "BuffID": 505,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402699
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 122,
+      "BuffID": 903,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        20192,
+        20292,
+        20392
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 123,
+      "BuffID": 1019,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        1019
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 124,
+      "BuffID": 1029,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        1056
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 125,
+      "BuffID": 1030,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        1031
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 126,
+      "BuffID": 1031,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        1030
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 127,
+      "BuffID": 1053,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        1053
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 128,
+      "BuffID": 1055,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        1055
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 129,
+      "BuffID": 1115,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        1116
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 130,
+      "BuffID": 1116,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        1115
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 131,
+      "BuffID": 2123,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        2122
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 132,
+      "BuffID": 2145,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        2145
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 133,
+      "BuffID": 2705,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        2706,
+        2707
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 134,
+      "BuffID": 2710,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        2712
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 135,
+      "BuffID": 2712,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        2710
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 136,
+      "BuffID": 10002,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        11002
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 137,
+      "BuffID": 10133,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        10133
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 138,
+      "BuffID": 11002,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        10002
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 139,
+      "BuffID": 11006,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        11003
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 140,
+      "BuffID": 14029,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        14031
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 141,
+      "BuffID": 14029,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        14032
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 142,
+      "BuffID": 14031,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        14029
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 143,
+      "BuffID": 14032,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        14029
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 144,
+      "BuffID": 15072,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        15080
+      ],
+      "ComposedBuffID": [
+        15050,
+        15052,
+        9999
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 145,
+      "BuffID": 15072,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        201501
+      ],
+      "ComposedBuffID": [
+        201522,
+        9999
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 146,
+      "BuffID": 15072,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        201501
+      ],
+      "ComposedBuffID": [
+        201523,
+        9999
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 147,
+      "BuffID": 15080,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        15071
+      ],
+      "ComposedBuffID": [
+        15051,
+        9999
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 148,
+      "BuffID": 15080,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        201511
+      ],
+      "ComposedBuffID": [
+        201521,
+        9999
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 149,
+      "BuffID": 17201,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        17901
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 150,
+      "BuffID": 17272,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        17299
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 151,
+      "BuffID": 17273,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        17299
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 152,
+      "BuffID": 17901,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        17201
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 153,
+      "BuffID": 20192,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        305803,
+        305805,
+        305807,
+        305816
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 154,
+      "BuffID": 20292,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        305803,
+        305805,
+        305807,
+        305816
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 155,
+      "BuffID": 20392,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        305803,
+        305805,
+        305807,
+        305816
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 156,
+      "BuffID": 305803,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        20192,
+        20292,
+        20392
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 157,
+      "BuffID": 305805,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        20192,
+        20292,
+        20392
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 158,
+      "BuffID": 305807,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        20192,
+        20292,
+        20392
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 159,
+      "BuffID": 305816,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        20192,
+        20292,
+        20392
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 160,
+      "BuffID": 22210,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        19020
+      ],
+      "ComposedBuffID": [
+        19021,
+        22210
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 161,
+      "BuffID": 22211,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        19021
+      ],
+      "ComposedBuffID": [
+        19022
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 162,
+      "BuffID": 24011,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24021
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 163,
+      "BuffID": 24030,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24031
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 164,
+      "BuffID": 24030,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24032
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 165,
+      "BuffID": 24030,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24033
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 166,
+      "BuffID": 24030,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24034
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 167,
+      "BuffID": 24031,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24032
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 168,
+      "BuffID": 24031,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24033
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 169,
+      "BuffID": 24031,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24034
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 170,
+      "BuffID": 24032,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24033
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 171,
+      "BuffID": 24032,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24034
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 172,
+      "BuffID": 24033,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24034
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 173,
+      "BuffID": 24071,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24072
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 174,
+      "BuffID": 24072,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24071
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 175,
+      "BuffID": 24971,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24071
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 176,
+      "BuffID": 24972,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        24072
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 177,
+      "BuffID": 25082,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        25984
+      ],
+      "ComposedBuffID": [
+        25994
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 178,
+      "BuffID": 25082,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        25985
+      ],
+      "ComposedBuffID": [
+        25995
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 179,
+      "BuffID": 25082,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        25986
+      ],
+      "ComposedBuffID": [
+        25996
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 180,
+      "BuffID": 25084,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        25085
+      ],
+      "ComposedBuffID": [
+        25086
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 181,
+      "BuffID": 25982,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        25983
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 182,
+      "BuffID": 25983,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        25982
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 183,
+      "BuffID": 25984,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        25082
+      ],
+      "ComposedBuffID": [
+        25994
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 184,
+      "BuffID": 25985,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        25082
+      ],
+      "ComposedBuffID": [
+        25995
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 185,
+      "BuffID": 25986,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        25082
+      ],
+      "ComposedBuffID": [
+        25996
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 186,
+      "BuffID": 26100,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        26100
+      ],
+      "ComposedBuffID": [
+        26200
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 187,
+      "BuffID": 26100,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        26110
+      ],
+      "ComposedBuffID": [
+        26210
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 188,
+      "BuffID": 26100,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        26211
+      ],
+      "ComposedBuffID": [
+        26320
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 189,
+      "BuffID": 26100,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        26210
+      ],
+      "ComposedBuffID": [
+        26340
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 190,
+      "BuffID": 26100,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        26201
+      ],
+      "ComposedBuffID": [
+        26360
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 191,
+      "BuffID": 26100,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        26200
+      ],
+      "ComposedBuffID": [
+        26380
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 192,
+      "BuffID": 26110,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        26100
+      ],
+      "ComposedBuffID": [
+        26201
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 193,
+      "BuffID": 26110,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        26110
+      ],
+      "ComposedBuffID": [
+        26211
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 194,
+      "BuffID": 26110,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        26211
+      ],
+      "ComposedBuffID": [
+        26310
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 195,
+      "BuffID": 26110,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        26210
+      ],
+      "ComposedBuffID": [
+        26330
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 196,
+      "BuffID": 26110,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        26201
+      ],
+      "ComposedBuffID": [
+        26350
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 197,
+      "BuffID": 26110,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        26200
+      ],
+      "ComposedBuffID": [
+        26370
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 198,
+      "BuffID": 50007,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        50007
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 199,
+      "BuffID": 50020,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        50020
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 200,
+      "BuffID": 50021,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        50021
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 201,
+      "BuffID": 50022,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        50022
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 202,
+      "BuffID": 50023,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        50023
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 203,
+      "BuffID": 50024,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        50024
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 204,
+      "BuffID": 50025,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        50025
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 205,
+      "BuffID": 50026,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        50026
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 206,
+      "BuffID": 91022,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        91022
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 207,
+      "BuffID": 91120,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        91120
+      ],
+      "ComposedBuffID": [
+        91121
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 208,
+      "BuffID": 91120,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        91121
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 209,
+      "BuffID": 92008,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        92008
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 210,
+      "BuffID": 92009,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        92009
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 211,
+      "BuffID": 92010,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        92010
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 212,
+      "BuffID": 92012,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        92012
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 213,
+      "BuffID": 92224,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        92245
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 214,
+      "BuffID": 92227,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        92253
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 215,
+      "BuffID": 92245,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        92224
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 216,
+      "BuffID": 92251,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        92252
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 217,
+      "BuffID": 92253,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        92227
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 218,
+      "BuffID": 96010,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        96011
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 219,
+      "BuffID": 96011,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        96010
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 220,
+      "BuffID": 101102,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        229
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 221,
+      "BuffID": 102504,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        1001201
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 222,
+      "BuffID": 102510,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        -1001,
+        105003
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 223,
+      "BuffID": 103101,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        103102
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 224,
+      "BuffID": 103101,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        103102
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 225,
+      "BuffID": 103101,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        103198
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 226,
+      "BuffID": 103102,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        103101
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 227,
+      "BuffID": 103102,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        103101
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 228,
+      "BuffID": 103103,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        103100
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 229,
+      "BuffID": 103108,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        103107
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 230,
+      "BuffID": 103198,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        103101
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 231,
+      "BuffID": 103700,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        103741,
+        103742
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 232,
+      "BuffID": 103703,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        103732
+      ],
+      "ComposedBuffID": [
+        103742
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 233,
+      "BuffID": 103703,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        103709
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 234,
+      "BuffID": 103741,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        103740
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 235,
+      "BuffID": 103742,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        103740
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 236,
+      "BuffID": 103780,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        103741,
+        103742
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 237,
+      "BuffID": 103783,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        103731
+      ],
+      "ComposedBuffID": [
+        103741,
+        103784
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 238,
+      "BuffID": 103783,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        103732
+      ],
+      "ComposedBuffID": [
+        103742,
+        103784
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 239,
+      "BuffID": 103783,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        103709
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 240,
+      "BuffID": 105003,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        102510
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 241,
+      "BuffID": 105121,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        41215011
+      ],
+      "ComposedBuffID": [
+        9999
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 242,
+      "BuffID": 188805,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        188884
+      ],
+      "ComposedBuffID": [
+        188807,
+        188884
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 243,
+      "BuffID": 188806,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        188884
+      ],
+      "ComposedBuffID": [
+        188808,
+        188884
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 244,
+      "BuffID": 188884,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        188805
+      ],
+      "ComposedBuffID": [
+        188807,
+        188884
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 245,
+      "BuffID": 188884,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        188806
+      ],
+      "ComposedBuffID": [
+        188808,
+        188884
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 246,
+      "BuffID": 200604,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        200607
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 247,
+      "BuffID": 200607,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        200604
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 248,
+      "BuffID": 200612,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        200613
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 249,
+      "BuffID": 200613,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        200612
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 250,
+      "BuffID": 201013,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201012
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 251,
+      "BuffID": 201014,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201013,
+        201012
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 252,
+      "BuffID": 201112,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        283
+      ],
+      "ComposedBuffID": [
+        201113
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 253,
+      "BuffID": 201117,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        470511
+      ],
+      "ComposedBuffID": [
+        201116
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 254,
+      "BuffID": 201211,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201212
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 255,
+      "BuffID": 201212,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201211
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 256,
+      "BuffID": 201302,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201301
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 257,
+      "BuffID": 201502,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        15071
+      ],
+      "ComposedBuffID": [
+        15051,
+        9999
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 258,
+      "BuffID": 201502,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        201511
+      ],
+      "ComposedBuffID": [
+        201521,
+        9999
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 259,
+      "BuffID": 201512,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        15080
+      ],
+      "ComposedBuffID": [
+        15050,
+        15052,
+        9999
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 260,
+      "BuffID": 201512,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        201501
+      ],
+      "ComposedBuffID": [
+        201522,
+        9999
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 261,
+      "BuffID": 201513,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        15080
+      ],
+      "ComposedBuffID": [
+        15050,
+        15052,
+        9999
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 262,
+      "BuffID": 201513,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        201501
+      ],
+      "ComposedBuffID": [
+        201523,
+        9999
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 263,
+      "BuffID": 201601,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        201602
+      ],
+      "ComposedBuffID": [
+        201603
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 264,
+      "BuffID": 201602,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        201601
+      ],
+      "ComposedBuffID": [
+        201603
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 265,
+      "BuffID": 201711,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201710
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 266,
+      "BuffID": 201712,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201711,
+        201710
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 267,
+      "BuffID": 201713,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201714
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 268,
+      "BuffID": 201714,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201713
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 269,
+      "BuffID": 201715,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201716
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 270,
+      "BuffID": 201716,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201715
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 271,
+      "BuffID": 201720,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201719
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 272,
+      "BuffID": 201720,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201747
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 273,
+      "BuffID": 201726,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201738
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 274,
+      "BuffID": 201733,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        171
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 275,
+      "BuffID": 201734,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201732
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 276,
+      "BuffID": 201735,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201732
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 277,
+      "BuffID": 201737,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201732
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 278,
+      "BuffID": 201738,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201726
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 279,
+      "BuffID": 201740,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201737
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 280,
+      "BuffID": 201741,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        201729
+      ],
+      "ComposedBuffID": [
+        201730
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 281,
+      "BuffID": 201746,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201732
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 282,
+      "BuffID": 201747,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201720
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 283,
+      "BuffID": 201749,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201732
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 284,
+      "BuffID": 201760,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        216,
+        310
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 285,
+      "BuffID": 201909,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201910
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 286,
+      "BuffID": 201980,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201981
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 287,
+      "BuffID": 201980,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201982
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 288,
+      "BuffID": 201982,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        201980
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 289,
+      "BuffID": 202405,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        202410
+      ],
+      "ComposedBuffID": [
+        202412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 290,
+      "BuffID": 202410,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        202405
+      ],
+      "ComposedBuffID": [
+        202412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 291,
+      "BuffID": 202410,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        202411
+      ],
+      "ComposedBuffID": [
+        202412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 292,
+      "BuffID": 202411,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        202410
+      ],
+      "ComposedBuffID": [
+        202412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 293,
+      "BuffID": 202501,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        202401
+      ],
+      "ComposedBuffID": [
+        202402,
+        202403,
+        202409
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 294,
+      "BuffID": 202701,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        210,
+        202799
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 295,
+      "BuffID": 202803,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        202804
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 296,
+      "BuffID": 202804,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        202803
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 297,
+      "BuffID": 202901,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        202902
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 298,
+      "BuffID": 202901,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        202905
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 299,
+      "BuffID": 202901,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        202904
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 300,
+      "BuffID": 202904,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        202907
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 301,
+      "BuffID": 202905,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        202904
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 302,
+      "BuffID": 203102,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201106
+      ],
+      "ComposedBuffID": [
+        202412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 303,
+      "BuffID": 203102,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201141
+      ],
+      "ComposedBuffID": [
+        202412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 304,
+      "BuffID": 203102,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201142
+      ],
+      "ComposedBuffID": [
+        202412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 305,
+      "BuffID": 203103,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201106
+      ],
+      "ComposedBuffID": [
+        202412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 306,
+      "BuffID": 203103,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201141
+      ],
+      "ComposedBuffID": [
+        202412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 307,
+      "BuffID": 203103,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201142
+      ],
+      "ComposedBuffID": [
+        202412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 308,
+      "BuffID": 203104,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201106
+      ],
+      "ComposedBuffID": [
+        202412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 309,
+      "BuffID": 203104,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201141
+      ],
+      "ComposedBuffID": [
+        202412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 310,
+      "BuffID": 203104,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        201142
+      ],
+      "ComposedBuffID": [
+        202412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 311,
+      "BuffID": 220301,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        220329
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 312,
+      "BuffID": 220302,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        220329
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 313,
+      "BuffID": 220303,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        220304
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 314,
+      "BuffID": 220303,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        220316
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 315,
+      "BuffID": 220305,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        220329
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 316,
+      "BuffID": 220309,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        220329
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 317,
+      "BuffID": 220314,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        220315
+      ],
+      "ComposedBuffID": [
+        220316
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 318,
+      "BuffID": 220315,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        220314
+      ],
+      "ComposedBuffID": [
+        220316
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 319,
+      "BuffID": 220334,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        220545
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 320,
+      "BuffID": 220514,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        220517
+      ],
+      "ComposedBuffID": [
+        220518,
+        220517
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 321,
+      "BuffID": 220515,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        220517
+      ],
+      "ComposedBuffID": [
+        220519,
+        220517
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 322,
+      "BuffID": 220516,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        220517
+      ],
+      "ComposedBuffID": [
+        220520,
+        220517
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 323,
+      "BuffID": 220529,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        220535
+      ],
+      "ComposedBuffID": [
+        220530
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 324,
+      "BuffID": 220531,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        220532
+      ],
+      "ComposedBuffID": [
+        220533
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 325,
+      "BuffID": 220532,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        220531
+      ],
+      "ComposedBuffID": [
+        220533
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 326,
+      "BuffID": 220540,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        220536
+      ],
+      "ComposedBuffID": [
+        220537,
+        220536
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 327,
+      "BuffID": 220541,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        220536
+      ],
+      "ComposedBuffID": [
+        220538,
+        220536
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 328,
+      "BuffID": 220542,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        220536
+      ],
+      "ComposedBuffID": [
+        220539,
+        220536
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 329,
+      "BuffID": 260111,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        260130
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 330,
+      "BuffID": 260130,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        260111
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 331,
+      "BuffID": 300401,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        300402
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 332,
+      "BuffID": 300402,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        300401
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 333,
+      "BuffID": 300502,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        300501
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 334,
+      "BuffID": 300704,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        300706
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 335,
+      "BuffID": 300704,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        300704
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 336,
+      "BuffID": 300706,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        300704
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 337,
+      "BuffID": 300708,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        300709
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 338,
+      "BuffID": 301210,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        301299
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 339,
+      "BuffID": 301210,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301228
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 340,
+      "BuffID": 301212,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301211
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 341,
+      "BuffID": 301213,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301214
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 342,
+      "BuffID": 301214,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301213
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 343,
+      "BuffID": 301223,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301224
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 344,
+      "BuffID": 301224,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301223
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 345,
+      "BuffID": 301225,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301229
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 346,
+      "BuffID": 301314,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301313
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 347,
+      "BuffID": 301322,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301323
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 348,
+      "BuffID": 301397,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301395
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 349,
+      "BuffID": 301401,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        301401
+      ],
+      "ComposedBuffID": [
+        301402
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 350,
+      "BuffID": 301401,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        301402
+      ],
+      "ComposedBuffID": [
+        301403
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 351,
+      "BuffID": 301401,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        301403
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 352,
+      "BuffID": 301405,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        301405
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 353,
+      "BuffID": 301407,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        301406
+      ],
+      "ComposedBuffID": [
+        301410
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 354,
+      "BuffID": 301411,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        301406
+      ],
+      "ComposedBuffID": [
+        301412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 355,
+      "BuffID": 301411,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        301414
+      ],
+      "ComposedBuffID": [
+        301415,
+        9999
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 356,
+      "BuffID": 301419,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301420
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 357,
+      "BuffID": 301420,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301419
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 358,
+      "BuffID": 301425,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301426
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 359,
+      "BuffID": 301426,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301425
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 360,
+      "BuffID": 301427,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        301428
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 361,
+      "BuffID": 301706,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301710
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 362,
+      "BuffID": 301813,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301817
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 363,
+      "BuffID": 301817,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        301813
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 364,
+      "BuffID": 301911,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301914,
+        301912,
+        301913
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 365,
+      "BuffID": 301912,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301914,
+        301911,
+        301913
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 366,
+      "BuffID": 301913,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301914,
+        301911,
+        301912
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 367,
+      "BuffID": 301914,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        301913,
+        301911,
+        301912
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 368,
+      "BuffID": 302004,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        302004
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 369,
+      "BuffID": 302004,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        302005
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 370,
+      "BuffID": 302005,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        302004
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 371,
+      "BuffID": 302010,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        302019
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 372,
+      "BuffID": 302019,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        302010
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 373,
+      "BuffID": 302030,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        302041
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 374,
+      "BuffID": 302040,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        302031
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 375,
+      "BuffID": 302311,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        302701
+      ],
+      "ComposedBuffID": [
+        302312,
+        302313
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 376,
+      "BuffID": 302803,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        302801
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 377,
+      "BuffID": 303011,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        303012
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 378,
+      "BuffID": 303012,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        303011,
+        204
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 379,
+      "BuffID": 305607,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        305608
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 380,
+      "BuffID": 310803,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        179
+      ],
+      "ComposedBuffID": [
+        310804
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 381,
+      "BuffID": 340101,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        340102,
+        340103
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 382,
+      "BuffID": 340102,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        340101,
+        340103
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 383,
+      "BuffID": 340103,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        340101,
+        340102
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 384,
+      "BuffID": 340104,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        340106
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 385,
+      "BuffID": 340105,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        340107
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 386,
+      "BuffID": 340106,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        340104
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 387,
+      "BuffID": 340107,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        340105
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 388,
+      "BuffID": 340108,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        340109
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 389,
+      "BuffID": 340109,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        340108
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 390,
+      "BuffID": 340111,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        340114
+      ],
+      "ComposedBuffID": [
+        340112,
+        340113
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 391,
+      "BuffID": 340130,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        340131
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 392,
+      "BuffID": 340190,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        340192
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 393,
+      "BuffID": 340191,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        340192
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 394,
+      "BuffID": 380022,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        380090,
+        380091
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 395,
+      "BuffID": 380090,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        380022
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 396,
+      "BuffID": 380091,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        380022
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 397,
+      "BuffID": 380096,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        10000
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 398,
+      "BuffID": 390105,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        390100
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 399,
+      "BuffID": 390106,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        390100
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 400,
+      "BuffID": 390123,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        390183
+      ],
+      "ComposedBuffID": [
+        390133,
+        390185
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 401,
+      "BuffID": 390123,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        390185
+      ],
+      "ComposedBuffID": [
+        390143,
+        390185
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 402,
+      "BuffID": 390151,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        390152,
+        390153
+      ],
+      "ComposedBuffID": [
+        390154
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 403,
+      "BuffID": 390161,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        390164
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 404,
+      "BuffID": 390162,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        390165
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 405,
+      "BuffID": 390163,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        390166
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 406,
+      "BuffID": 390164,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        390161,
+        390167
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 407,
+      "BuffID": 390165,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        390162,
+        390168
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 408,
+      "BuffID": 390166,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        390163,
+        390169
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 409,
+      "BuffID": 390167,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        390164
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 410,
+      "BuffID": 390168,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        390165
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 411,
+      "BuffID": 390169,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        390166
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 412,
+      "BuffID": 390180,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        390181
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 413,
+      "BuffID": 390183,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        390185
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 414,
+      "BuffID": 390186,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        390192,
+        390182,
+        390172
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 415,
+      "BuffID": 390187,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        390194,
+        390184,
+        390174
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 416,
+      "BuffID": 390192,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        390180
+      ],
+      "ComposedBuffID": [
+        390182,
+        390181
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 417,
+      "BuffID": 390192,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        390181
+      ],
+      "ComposedBuffID": [
+        390172,
+        390181
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 418,
+      "BuffID": 390193,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        390186
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 419,
+      "BuffID": 390193,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        390186
+      ],
+      "ComposedBuffID": [
+        390186
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 420,
+      "BuffID": 390193,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        390129
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 421,
+      "BuffID": 390193,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        390124
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 422,
+      "BuffID": 390194,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        390180
+      ],
+      "ComposedBuffID": [
+        390184,
+        390181
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 423,
+      "BuffID": 390194,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        390181
+      ],
+      "ComposedBuffID": [
+        390174,
+        390181
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 424,
+      "BuffID": 390195,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        390186
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 425,
+      "BuffID": 390195,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        390129
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 426,
+      "BuffID": 390195,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        390124
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 427,
+      "BuffID": 400102,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400128
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 428,
+      "BuffID": 400102,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400131
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 429,
+      "BuffID": 400107,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400108
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 430,
+      "BuffID": 400112,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        400113
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 431,
+      "BuffID": 400112,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        400125
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 432,
+      "BuffID": 400112,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400121
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 433,
+      "BuffID": 400113,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400121
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 434,
+      "BuffID": 400114,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400112
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 435,
+      "BuffID": 400114,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400128
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 436,
+      "BuffID": 400114,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400131
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 437,
+      "BuffID": 400114,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400130
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 438,
+      "BuffID": 400117,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        401909
+      ],
+      "ComposedBuffID": [
+        401910
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 439,
+      "BuffID": 400121,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        400113
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 440,
+      "BuffID": 400121,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        400112
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 441,
+      "BuffID": 400122,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400123
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 442,
+      "BuffID": 400125,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400112
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 443,
+      "BuffID": 400125,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400133
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 444,
+      "BuffID": 400128,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        400102,
+        400114,
+        400125
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 445,
+      "BuffID": 400130,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        400114,
+        400125
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 446,
+      "BuffID": 400131,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        400102,
+        400114,
+        400125
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 447,
+      "BuffID": 400133,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        400102,
+        400114,
+        400125
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 448,
+      "BuffID": 400403,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400406
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 449,
+      "BuffID": 400512,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400511
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 450,
+      "BuffID": 400520,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        400521
+      ],
+      "ComposedBuffID": [
+        400522
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 451,
+      "BuffID": 400521,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        400520
+      ],
+      "ComposedBuffID": [
+        400522
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 452,
+      "BuffID": 400550,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400549
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 453,
+      "BuffID": 400601,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400602
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 454,
+      "BuffID": 400603,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        400606
+      ],
+      "ComposedBuffID": [
+        400601
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 455,
+      "BuffID": 400608,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400625
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 456,
+      "BuffID": 400620,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        400621
+      ],
+      "ComposedBuffID": [
+        400622,
+        400619
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 457,
+      "BuffID": 400621,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        400620
+      ],
+      "ComposedBuffID": [
+        400622,
+        400619
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 458,
+      "BuffID": 400626,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        400625
+      ],
+      "ComposedBuffID": [
+        400627
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 459,
+      "BuffID": 400632,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400633
+      ],
+      "ComposedBuffID": [
+        400628
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 460,
+      "BuffID": 400634,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400633
+      ],
+      "ComposedBuffID": [
+        400628
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 461,
+      "BuffID": 400650,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400649
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 462,
+      "BuffID": 400656,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        400650
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 463,
+      "BuffID": 401207,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        401206
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 464,
+      "BuffID": 401501,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        401510
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 465,
+      "BuffID": 401502,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        401510
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 466,
+      "BuffID": 401904,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        401903
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 467,
+      "BuffID": 401906,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        401905
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 468,
+      "BuffID": 402001,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        402003
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 469,
+      "BuffID": 402241,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402320
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 470,
+      "BuffID": 402242,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        402241
+      ],
+      "ComposedBuffID": [
+        402252
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 471,
+      "BuffID": 402242,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402320
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 472,
+      "BuffID": 402243,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        402252
+      ],
+      "ComposedBuffID": [
+        402253
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 473,
+      "BuffID": 402243,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402320
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 474,
+      "BuffID": 402244,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        402253
+      ],
+      "ComposedBuffID": [
+        402254
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 475,
+      "BuffID": 402244,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402320
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 476,
+      "BuffID": 402246,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        402254
+      ],
+      "ComposedBuffID": [
+        402256
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 477,
+      "BuffID": 402246,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402320
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 478,
+      "BuffID": 402247,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        402256
+      ],
+      "ComposedBuffID": [
+        402257
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 479,
+      "BuffID": 402247,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402320
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 480,
+      "BuffID": 402248,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        402257
+      ],
+      "ComposedBuffID": [
+        402258
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 481,
+      "BuffID": 402248,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402320
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 482,
+      "BuffID": 402249,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        402258
+      ],
+      "ComposedBuffID": [
+        402259
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 483,
+      "BuffID": 402249,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402320
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 484,
+      "BuffID": 402301,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402303
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 485,
+      "BuffID": 402302,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        402301
+      ],
+      "ComposedBuffID": [
+        402302
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 486,
+      "BuffID": 402302,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402303
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 487,
+      "BuffID": 402303,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        402302
+      ],
+      "ComposedBuffID": [
+        402303
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 488,
+      "BuffID": 402315,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402324
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 489,
+      "BuffID": 402316,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402324
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 490,
+      "BuffID": 402325,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402314
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 491,
+      "BuffID": 402326,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402314
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 492,
+      "BuffID": 402602,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402605
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 493,
+      "BuffID": 402604,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        402603
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 494,
+      "BuffID": 402605,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        402602
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 495,
+      "BuffID": 402611,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        402600
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 496,
+      "BuffID": 402616,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        402600
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 497,
+      "BuffID": 402630,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402640
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 498,
+      "BuffID": 402633,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        402640
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 499,
+      "BuffID": 402640,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        402630,
+        402633
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 500,
+      "BuffID": 402690,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 501,
+      "BuffID": 402699,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        503,
+        504,
+        505
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 502,
+      "BuffID": 405502,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        405503
+      ],
+      "ComposedBuffID": [
+        405504
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 503,
+      "BuffID": 405503,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        405502
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 504,
+      "BuffID": 405505,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        405503
+      ],
+      "ComposedBuffID": [
+        405506
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 505,
+      "BuffID": 405507,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        405503
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 506,
+      "BuffID": 405601,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        210,
+        405699
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 507,
+      "BuffID": 409903,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        409902
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 508,
+      "BuffID": 409903,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        409903
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 509,
+      "BuffID": 411031,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        411031
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 510,
+      "BuffID": 411032,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        411032
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 511,
+      "BuffID": 411033,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        411033
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 512,
+      "BuffID": 411106,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        411107
+      ],
+      "ComposedBuffID": [
+        411108,
+        9998
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 513,
+      "BuffID": 412170,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        412124
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 514,
+      "BuffID": 412172,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        412124
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 515,
+      "BuffID": 412174,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        412175
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 516,
+      "BuffID": 412411,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        412301
+      ],
+      "ComposedBuffID": [
+        412412
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 517,
+      "BuffID": 412682,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        412681
+      ],
+      "ComposedBuffID": [
+        412683
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 518,
+      "BuffID": 413010,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        413001
+      ],
+      "ComposedBuffID": [
+        413011
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 519,
+      "BuffID": 413030,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        413021
+      ],
+      "ComposedBuffID": [
+        413031
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 520,
+      "BuffID": 413110,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        413101
+      ],
+      "ComposedBuffID": [
+        413111
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 521,
+      "BuffID": 413130,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        413121
+      ],
+      "ComposedBuffID": [
+        413131
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 522,
+      "BuffID": 413303,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        412154
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 523,
+      "BuffID": 413303,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        412154
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 524,
+      "BuffID": 417281,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        417280
+      ],
+      "ComposedBuffID": [
+        417282
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 525,
+      "BuffID": 440201,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        440202
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 526,
+      "BuffID": 440202,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        440201
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 527,
+      "BuffID": 440204,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        440203
+      ],
+      "ComposedBuffID": [
+        440205
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 528,
+      "BuffID": 440204,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        440303
+      ],
+      "ComposedBuffID": [
+        440205
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 529,
+      "BuffID": 440206,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        440212
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 530,
+      "BuffID": 440206,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        440212
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 531,
+      "BuffID": 440209,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        440214
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 532,
+      "BuffID": 440210,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        440211
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 533,
+      "BuffID": 440212,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        440206
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 534,
+      "BuffID": 440214,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        440215
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 535,
+      "BuffID": 440215,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        440214
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 536,
+      "BuffID": 440216,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        440211
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 537,
+      "BuffID": 440216,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        440215
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 538,
+      "BuffID": 440216,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        440220
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 539,
+      "BuffID": 440218,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        440223
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 540,
+      "BuffID": 470522,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        470511
+      ],
+      "ComposedBuffID": [
+        470523
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 541,
+      "BuffID": 470603,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        470602
+      ],
+      "ComposedBuffID": [
+        470604
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 542,
+      "BuffID": 470633,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        470629
+      ],
+      "ComposedBuffID": [
+        470626,
+        470627,
+        470631
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 543,
+      "BuffID": 471413,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        10299
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 544,
+      "BuffID": 471416,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        10299
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 545,
+      "BuffID": 488815,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        488811
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 546,
+      "BuffID": 488816,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        488815
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 547,
+      "BuffID": 499803,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        499804
+      ],
+      "ComposedBuffID": [
+        499805,
+        499803,
+        499806
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 548,
+      "BuffID": 499804,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        499803
+      ],
+      "ComposedBuffID": [
+        499805,
+        499803,
+        499806
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 549,
+      "BuffID": 500193,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        500198
+      ],
+      "ComposedBuffID": [
+        500182
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 550,
+      "BuffID": 500194,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        500197
+      ],
+      "ComposedBuffID": [
+        500181
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 551,
+      "BuffID": 500197,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        500194
+      ],
+      "ComposedBuffID": [
+        500181
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 552,
+      "BuffID": 500198,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        500193
+      ],
+      "ComposedBuffID": [
+        500182
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 553,
+      "BuffID": 500330,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        500390
+      ],
+      "ComposedBuffID": [
+        500331
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 554,
+      "BuffID": 500330,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        500391
+      ],
+      "ComposedBuffID": [
+        500332
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 555,
+      "BuffID": 500509,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        216,
+        310
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 556,
+      "BuffID": 500520,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500590,
+        500591,
+        500592,
+        500541
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 557,
+      "BuffID": 500521,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        500522
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 558,
+      "BuffID": 500522,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500521
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 559,
+      "BuffID": 500523,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500528
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 560,
+      "BuffID": 500531,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500532
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 561,
+      "BuffID": 500532,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500531
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 562,
+      "BuffID": 500541,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        500583
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 563,
+      "BuffID": 500542,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500541
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 564,
+      "BuffID": 500542,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        500583
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 565,
+      "BuffID": 500544,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500543
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 566,
+      "BuffID": 500552,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        500551
+      ],
+      "ComposedBuffID": [
+        500553
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 567,
+      "BuffID": 500575,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500571,
+        500572,
+        500573,
+        500574,
+        500583
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 568,
+      "BuffID": 500575,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500555,
+        500556
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 569,
+      "BuffID": 500555,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        500575
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 570,
+      "BuffID": 500556,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        500575
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 571,
+      "BuffID": 500581,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        500581
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 572,
+      "BuffID": 500555,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        500581
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 573,
+      "BuffID": 500556,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        500581
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 574,
+      "BuffID": 500581,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500555,
+        500556
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 575,
+      "BuffID": 500591,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500590
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 576,
+      "BuffID": 500591,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        500592
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 577,
+      "BuffID": 500592,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500590,
+        500591
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 578,
+      "BuffID": 500891,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        500893,
+        500895,
+        500897
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 579,
+      "BuffID": 500892,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        500893,
+        500895,
+        500897
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 580,
+      "BuffID": 500893,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500892
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 581,
+      "BuffID": 500893,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        500894
+      ],
+      "ComposedBuffID": [
+        500895
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 582,
+      "BuffID": 500893,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        500896
+      ],
+      "ComposedBuffID": [
+        500897
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 583,
+      "BuffID": 500895,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500892
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 584,
+      "BuffID": 500897,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500892
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 585,
+      "BuffID": 500898,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        500805
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 586,
+      "BuffID": 505403,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        505441
+      ],
+      "ComposedBuffID": [
+        505442
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 587,
+      "BuffID": 505403,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        505443
+      ],
+      "ComposedBuffID": [
+        505444
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 588,
+      "BuffID": 505434,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        505441
+      ],
+      "ComposedBuffID": [
+        505435
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 589,
+      "BuffID": 509912,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        509915
+      ],
+      "ComposedBuffID": [
+        509914
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 590,
+      "BuffID": 600805,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        600808
+      ],
+      "ComposedBuffID": [
+        600809,
+        600808
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 591,
+      "BuffID": 600806,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        600808
+      ],
+      "ComposedBuffID": [
+        600810,
+        600808
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 592,
+      "BuffID": 600807,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        600808
+      ],
+      "ComposedBuffID": [
+        600811,
+        600808
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 593,
+      "BuffID": 600808,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        600805
+      ],
+      "ComposedBuffID": [
+        600809,
+        600808
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 594,
+      "BuffID": 600808,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        600806
+      ],
+      "ComposedBuffID": [
+        600810,
+        600808
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 595,
+      "BuffID": 600808,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        600807
+      ],
+      "ComposedBuffID": [
+        600811,
+        600808
+      ],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 596,
+      "BuffID": 700199,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        700199
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 597,
+      "BuffID": 740110,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        740111
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 598,
+      "BuffID": 740111,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        740110
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 599,
+      "BuffID": 740161,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        740162
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 600,
+      "BuffID": 740161,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        740163
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 601,
+      "BuffID": 740162,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        740161
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 602,
+      "BuffID": 740162,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        740163
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 603,
+      "BuffID": 800002,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        800003
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 604,
+      "BuffID": 800018,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        800040,
+        800041,
+        800042,
+        800018
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 605,
+      "BuffID": 800026,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        800027
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 606,
+      "BuffID": 800026,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        800028
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 607,
+      "BuffID": 800026,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        800029
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 608,
+      "BuffID": 800026,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        800009
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 609,
+      "BuffID": 800027,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        800009
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 610,
+      "BuffID": 800027,
+      "BuffRuleType": 4,
+      "BuffIDList": [
+        800003
+      ],
+      "ComposedBuffID": [
+        800034
+      ],
+      "ComposedKeepOldBuff": 1,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 611,
+      "BuffID": 800028,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        800009
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 612,
+      "BuffID": 800029,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        800009
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 613,
+      "BuffID": 800031,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        800009
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 614,
+      "BuffID": 800032,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        800003
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 615,
+      "BuffID": 800032,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        800009
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 616,
+      "BuffID": 800032,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        800033
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 617,
+      "BuffID": 800033,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        800009
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 618,
+      "BuffID": 800040,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        800040,
+        800041,
+        800042,
+        800018
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 619,
+      "BuffID": 800041,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        800040,
+        800041,
+        800042,
+        800018
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 620,
+      "BuffID": 800042,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        800040,
+        800041,
+        800042,
+        800018
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 0
+    },
+    {
+      "ID": 621,
+      "BuffID": 800050,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        800038
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 622,
+      "BuffID": 911199,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        107
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 623,
+      "BuffID": 911299,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        107
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 624,
+      "BuffID": 911399,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        107
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 625,
+      "BuffID": 911499,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        107
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 626,
+      "BuffID": 911599,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        107
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 627,
+      "BuffID": 911699,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        107
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 628,
+      "BuffID": 921140,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        411056
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 629,
+      "BuffID": 921150,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        411056
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 630,
+      "BuffID": 921160,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        411056
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 631,
+      "BuffID": 921240,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        411056
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 632,
+      "BuffID": 921240,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        411057
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 633,
+      "BuffID": 921250,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        411056
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 634,
+      "BuffID": 921250,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        411057
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 635,
+      "BuffID": 921260,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        411056
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 636,
+      "BuffID": 921260,
+      "BuffRuleType": 2,
+      "BuffIDList": [
+        411057
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    },
+    {
+      "ID": 637,
+      "BuffID": 1001201,
+      "BuffRuleType": 1,
+      "BuffIDList": [
+        102504
+      ],
+      "ComposedBuffID": [],
+      "ComposedKeepOldBuff": 0,
+      "WithTriggerRemmoveEffect": 1
+    }
+  ]
+}

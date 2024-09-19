@@ -1,0 +1,693 @@
+{
+  "List": [
+    {
+      "ID": 1100,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 5802,
+          "Type": 4
+        },
+        {
+          "SpellID": 0,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 5002,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 1,
+      "TransBackSkillId": 11001,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    },
+    {
+      "ID": 1200,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 5801,
+          "Type": 4
+        },
+        {
+          "SpellID": 0,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 0,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 0,
+      "TransBackSkillId": 12099,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    },
+    {
+      "ID": 1300,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 5804,
+          "Type": 4
+        },
+        {
+          "SpellID": 5513,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 0,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 0,
+      "TransBackSkillId": 13099,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    },
+    {
+      "ID": 1400,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 5814,
+          "Type": 4
+        },
+        {
+          "SpellID": 5514,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 0,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 0,
+      "TransBackSkillId": 14099,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    },
+    {
+      "ID": 1500,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 5806,
+          "Type": 4
+        },
+        {
+          "SpellID": 0,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 0,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 0,
+      "TransBackSkillId": 15099,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    },
+    {
+      "ID": 1600,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 5816,
+          "Type": 4
+        },
+        {
+          "SpellID": 5516,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 0,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 0,
+      "TransBackSkillId": 16099,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    },
+    {
+      "ID": 1700,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 5817,
+          "Type": 4
+        },
+        {
+          "SpellID": 5517,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 0,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 0,
+      "TransBackSkillId": 17099,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    },
+    {
+      "ID": 1701,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 5817,
+          "Type": 4
+        },
+        {
+          "SpellID": 5521,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 0,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 0,
+      "TransBackSkillId": 17099,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    },
+    {
+      "ID": 1800,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 5818,
+          "Type": 4
+        },
+        {
+          "SpellID": 5518,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 0,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 0,
+      "TransBackSkillId": 18099,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    },
+    {
+      "ID": 1900,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 5819,
+          "Type": 4
+        },
+        {
+          "SpellID": 0,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 0,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 0,
+      "TransBackSkillId": 19099,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    },
+    {
+      "ID": 2100,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 0,
+          "Type": 4
+        },
+        {
+          "SpellID": 0,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 5021,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 1,
+      "TransBackSkillId": 0,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    },
+    {
+      "ID": 2300,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 5808,
+          "Type": 4
+        },
+        {
+          "SpellID": 5523,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 0,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 0,
+      "TransBackSkillId": 23099,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    },
+    {
+      "ID": 2400,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 5824,
+          "Type": 4
+        },
+        {
+          "SpellID": 0,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 0,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [
+        {
+          "FindType": 3,
+          "FindSpellID": 5101,
+          "SetType": 3,
+          "SetSpellID": 5524
+        },
+        {
+          "FindType": 3,
+          "FindSpellID": 5102,
+          "SetType": 3,
+          "SetSpellID": 5504
+        },
+        {
+          "FindType": 3,
+          "FindSpellID": 5103,
+          "SetType": 3,
+          "SetSpellID": 0
+        },
+        {
+          "FindType": 1,
+          "FindSpellID": 5201,
+          "SetType": 1,
+          "SetSpellID": 5624
+        },
+        {
+          "FindType": 1,
+          "FindSpellID": 5202,
+          "SetType": 1,
+          "SetSpellID": 5604
+        },
+        {
+          "FindType": 2,
+          "FindSpellID": 5301,
+          "SetType": 2,
+          "SetSpellID": 5724
+        },
+        {
+          "FindType": 2,
+          "FindSpellID": 5302,
+          "SetType": 2,
+          "SetSpellID": 5704
+        }
+      ],
+      "TransType": 0,
+      "TransBackSkillId": 24099,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    },
+    {
+      "ID": 2500,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 0,
+          "Type": 4
+        },
+        {
+          "SpellID": 0,
+          "Type": 3
+        },
+        {
+          "SpellID": 5625,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 5025,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 0,
+      "TransBackSkillId": 25099,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 1,
+      "ReadArchiveTrans": 1,
+      "ShowSettingUiOnly": 1
+    },
+    {
+      "ID": 2501,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 0,
+          "Type": 4
+        },
+        {
+          "SpellID": 5525,
+          "Type": 3
+        },
+        {
+          "SpellID": 5625,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 5025,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 0,
+      "TransBackSkillId": 25099,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 1,
+      "ReadArchiveTrans": 1,
+      "ShowSettingUiOnly": 1
+    },
+    {
+      "ID": 2502,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 0,
+          "Type": 4
+        },
+        {
+          "SpellID": 5520,
+          "Type": 3
+        },
+        {
+          "SpellID": 5620,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 5025,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 0,
+      "TransBackSkillId": 25099,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 1,
+      "ReadArchiveTrans": 1,
+      "ShowSettingUiOnly": 1
+    },
+    {
+      "ID": 3900,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 5839,
+          "Type": 4
+        },
+        {
+          "SpellID": 0,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 5039,
+      "TransBackBeHit": 5839,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 1,
+      "TransBackSkillId": 39009,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    },
+    {
+      "ID": 5000,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 0,
+          "Type": 4
+        },
+        {
+          "SpellID": 5501,
+          "Type": 3
+        },
+        {
+          "SpellID": 5502,
+          "Type": 1
+        },
+        {
+          "SpellID": 5503,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 5050,
+      "TransBackBeHit": 0,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 0,
+      "TransBackSkillId": 0,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 1,
+      "ReadArchiveTrans": 1,
+      "ShowSettingUiOnly": 1
+    },
+    {
+      "ID": 105100,
+      "MagicSkillInfoList": [
+        {
+          "SpellID": 5809,
+          "Type": 9
+        },
+        {
+          "SpellID": 0,
+          "Type": 3
+        },
+        {
+          "SpellID": 0,
+          "Type": 1
+        },
+        {
+          "SpellID": 0,
+          "Type": 2
+        },
+        {
+          "SpellID": 0,
+          "Type": 9
+        }
+      ],
+      "ReSetTransId": 5009,
+      "TransBackBeHit": 5809,
+      "SwitchMagicSkillInfoList": [],
+      "TransType": 2,
+      "TransBackSkillId": 105151,
+      "DrinkSkillId": 0,
+      "DeadDontTransback": 0,
+      "ReadArchiveTrans": 0,
+      "ShowSettingUiOnly": 0
+    }
+  ]
+}

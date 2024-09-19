@@ -1,0 +1,166 @@
+{
+  "List": [
+    {
+      "ID": 1001,
+      "Name": "苍狼林 ",
+      "SortId": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1002,
+      "Name": "黑风洞",
+      "SortId": 3,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1003,
+      "Name": "隐 · 旧观音禅院",
+      "SortId": 4,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 1004,
+      "Name": "翠竹林",
+      "SortId": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2001,
+      "Name": "沙门村",
+      "SortId": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2002,
+      "Name": "卧虎寺",
+      "SortId": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2003,
+      "Name": "挟魂崖",
+      "SortId": 3,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2004,
+      "Name": "黄风阵",
+      "SortId": 4,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 2005,
+      "Name": "隐 · 斯哈里国",
+      "SortId": 5,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 3001,
+      "Name": "雪山径",
+      "SortId": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 3002,
+      "Name": "浮屠界",
+      "SortId": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 3003,
+      "Name": "苦海",
+      "SortId": 3,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 3004,
+      "Name": "极乐谷",
+      "SortId": 4,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 3005,
+      "Name": "小雷音寺",
+      "SortId": 5,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 3006,
+      "Name": "隐 · 梅山",
+      "SortId": 6,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 3101,
+      "Name": "六六村",
+      "SortId": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 4001,
+      "Name": "兰喜村",
+      "SortId": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 4002,
+      "Name": "盘丝洞",
+      "SortId": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 4003,
+      "Name": "黄花观",
+      "SortId": 3,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 4004,
+      "Name": "隐 · 紫云山",
+      "SortId": 4,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 5001,
+      "Name": "灰烬林",
+      "SortId": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 5002,
+      "Name": "丹灶谷",
+      "SortId": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 5003,
+      "Name": "火光地",
+      "SortId": 3,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 5004,
+      "Name": "隐 · 璧水洞",
+      "SortId": 4,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 6001,
+      "Name": "山脚",
+      "SortId": 1,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 6002,
+      "Name": "水帘洞",
+      "SortId": 2,
+      "LocalizationTag": 1
+    },
+    {
+      "ID": 6003,
+      "Name": "石卵",
+      "SortId": 3,
+      "LocalizationTag": 1
+    }
+  ]
+}
