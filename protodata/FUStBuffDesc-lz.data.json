@@ -2074,7 +2074,7 @@
         }
       ],
       "IsExclusiveBuff": 0,
-      "CanBeInherited": 1,
+      "CanBeInherited": 0,
       "Guard": "Guard"
     },
     {
@@ -2174,7 +2174,7 @@
         }
       ],
       "IsExclusiveBuff": 0,
-      "CanBeInherited": 1,
+      "CanBeInherited": 0,
       "Guard": "Guard"
     },
     {

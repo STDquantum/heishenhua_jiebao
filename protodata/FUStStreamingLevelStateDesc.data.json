@@ -325,6 +325,10 @@
       "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HYS/DA_hys_levelstreaming_yyy_yu.DA_hys_levelstreaming_yyy_yu'"
     },
     {
+      "ID": 5008,
+      "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HYS/DA_hys_levelstreaming_hheseq_finish.DA_hys_levelstreaming_hheseq_finish'"
+    },
+    {
       "ID": 1001,
       "DataAssetPath": "BGWDataAsset_StreamingLevelStateConfig'/Game/00Main/DataAsset/LevelStreaming/HFS/DA_HFS_LevelStreaming_HideRedundantLevels.DA_HFS_LevelStreaming_HideRedundantLevels'"
     },

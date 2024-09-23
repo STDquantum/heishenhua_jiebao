@@ -2857,7 +2857,7 @@
       "Name": "脆断",
       "TalentGroupId": 5101,
       "UnitResIDStrs": "10",
-      "PassiveSkillIDs": "10901",
+      "PassiveSkillIDs": "10901,10902",
       "AddBuffIDs": "",
       "RequireTalentId": [],
       "RequireSpellId": [],

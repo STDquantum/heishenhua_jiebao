@@ -17125,6 +17125,94 @@
       "Guard": "Guard"
     },
     {
+      "ID": 500537,
+      "BuffTips": "蜈蚣精-玩家定身或冰冻他就解除放大的hitmove（CBG用）",
+      "BuffActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "BuffLayerCounterType": 0,
+      "BuffCategory": 0,
+      "CanRemoveWhenAttackHit": 0,
+      "CanRemoveWhenAttacked": 0,
+      "Delay": 0,
+      "Duration": -1,
+      "Interval": 0,
+      "AlmostEndAheadTime": 0,
+      "MaxLayer": 1,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "BuffEffects": [
+        {
+          "EffectTrigger": 1,
+          "EffectType": 56,
+          "EffectTargetSelectType": 0,
+          "EffectParamsString": [
+            "Collision_Fly"
+          ],
+          "EffectParams": [
+            0
+          ],
+          "EffectParamsFloat": []
+        }
+      ],
+      "IsExclusiveBuff": 0,
+      "CanBeInherited": 0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 500538,
+      "BuffTips": "蜈蚣精-关闭两腿间Hitmove-测试用",
+      "BuffActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "BuffLayerCounterType": 0,
+      "BuffCategory": 0,
+      "CanRemoveWhenAttackHit": 0,
+      "CanRemoveWhenAttacked": 0,
+      "Delay": 0,
+      "Duration": -1,
+      "Interval": 0,
+      "AlmostEndAheadTime": 0,
+      "MaxLayer": 1,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "BuffEffects": [
+        {
+          "EffectTrigger": 1,
+          "EffectType": 56,
+          "EffectTargetSelectType": 0,
+          "EffectParamsString": [
+            "Collision_BodyBlock"
+          ],
+          "EffectParams": [
+            0
+          ],
+          "EffectParamsFloat": []
+        }
+      ],
+      "IsExclusiveBuff": 0,
+      "CanBeInherited": 0,
+      "Guard": "Guard"
+    },
+    {
       "ID": 500540,
       "BuffTips": "蜈蚣精-隐身现身技能期间免疫定身受击冰冻和减伤",
       "BuffActiveCondition": {

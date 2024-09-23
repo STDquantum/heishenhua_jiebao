@@ -788,32 +788,60 @@
       "ID": 57,
       "PassiveSkillID": 10901,
       "PassiveSkillMappingIndexID": 1,
-      "ModifyMethod": 5,
-      "ValOp": 0,
-      "BaseValue": -1000.0,
+      "ModifyMethod": 33,
+      "ValOp": 2,
+      "BaseValue": 1024.0,
       "Multiplier": 0.0,
       "MaxValue": 0.0,
       "MinValue": 0.0,
-      "MainID": "1025",
-      "SubID": 0,
-      "SubID2": 1
+      "MainID": "10,1,11",
+      "SubID": 103,
+      "SubID2": 0
     },
     {
       "ID": 58,
-      "PassiveSkillID": 10901,
-      "PassiveSkillMappingIndexID": 2,
-      "ModifyMethod": 5,
-      "ValOp": 0,
-      "BaseValue": -1500.0,
+      "PassiveSkillID": 10902,
+      "PassiveSkillMappingIndexID": 1,
+      "ModifyMethod": 33,
+      "ValOp": 2,
+      "BaseValue": 0.0,
       "Multiplier": 0.0,
       "MaxValue": 0.0,
       "MinValue": 0.0,
-      "MainID": "1025",
-      "SubID": 0,
-      "SubID2": 1
+      "MainID": "10,1,11",
+      "SubID": 133,
+      "SubID2": 0
     },
     {
       "ID": 59,
+      "PassiveSkillID": 10901,
+      "PassiveSkillMappingIndexID": 2,
+      "ModifyMethod": 33,
+      "ValOp": 2,
+      "BaseValue": 1024.0,
+      "Multiplier": 0.0,
+      "MaxValue": 0.0,
+      "MinValue": 0.0,
+      "MainID": "10,1,11",
+      "SubID": 103,
+      "SubID2": 0
+    },
+    {
+      "ID": 60,
+      "PassiveSkillID": 10902,
+      "PassiveSkillMappingIndexID": 2,
+      "ModifyMethod": 33,
+      "ValOp": 2,
+      "BaseValue": 1025.0,
+      "Multiplier": 0.0,
+      "MaxValue": 0.0,
+      "MinValue": 0.0,
+      "MainID": "10,1,11",
+      "SubID": 133,
+      "SubID2": 0
+    },
+    {
+      "ID": 61,
       "PassiveSkillID": 10903,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 33,
@@ -827,7 +855,7 @@
       "SubID2": 0
     },
     {
-      "ID": 60,
+      "ID": 62,
       "PassiveSkillID": 10913,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 33,
@@ -841,7 +869,7 @@
       "SubID2": 0
     },
     {
-      "ID": 61,
+      "ID": 63,
       "PassiveSkillID": 10904,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 30,
@@ -855,7 +883,7 @@
       "SubID2": 0
     },
     {
-      "ID": 62,
+      "ID": 64,
       "PassiveSkillID": 10914,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 14,
@@ -869,7 +897,7 @@
       "SubID2": 0
     },
     {
-      "ID": 63,
+      "ID": 65,
       "PassiveSkillID": 10924,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -883,7 +911,7 @@
       "SubID2": 0
     },
     {
-      "ID": 64,
+      "ID": 66,
       "PassiveSkillID": 10905,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 13,
@@ -897,7 +925,7 @@
       "SubID2": 0
     },
     {
-      "ID": 65,
+      "ID": 67,
       "PassiveSkillID": 10905,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 13,
@@ -911,7 +939,7 @@
       "SubID2": 0
     },
     {
-      "ID": 66,
+      "ID": 68,
       "PassiveSkillID": 10907,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 18,
@@ -925,7 +953,7 @@
       "SubID2": 0
     },
     {
-      "ID": 67,
+      "ID": 69,
       "PassiveSkillID": 11002,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 53,
@@ -939,7 +967,7 @@
       "SubID2": 0
     },
     {
-      "ID": 68,
+      "ID": 70,
       "PassiveSkillID": 11002,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 53,
@@ -953,7 +981,7 @@
       "SubID2": 0
     },
     {
-      "ID": 69,
+      "ID": 71,
       "PassiveSkillID": 11004,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 14,
@@ -967,7 +995,7 @@
       "SubID2": 0
     },
     {
-      "ID": 70,
+      "ID": 72,
       "PassiveSkillID": 11014,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -981,7 +1009,7 @@
       "SubID2": 0
     },
     {
-      "ID": 71,
+      "ID": 73,
       "PassiveSkillID": 11024,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -995,7 +1023,7 @@
       "SubID2": 0
     },
     {
-      "ID": 72,
+      "ID": 74,
       "PassiveSkillID": 11005,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -1009,7 +1037,7 @@
       "SubID2": 1
     },
     {
-      "ID": 73,
+      "ID": 75,
       "PassiveSkillID": 11005,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 5,
@@ -1023,7 +1051,7 @@
       "SubID2": 1
     },
     {
-      "ID": 74,
+      "ID": 76,
       "PassiveSkillID": 11006,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 46,
@@ -1037,7 +1065,7 @@
       "SubID2": 2
     },
     {
-      "ID": 75,
+      "ID": 77,
       "PassiveSkillID": 11006,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 46,
@@ -1051,7 +1079,7 @@
       "SubID2": 2
     },
     {
-      "ID": 76,
+      "ID": 78,
       "PassiveSkillID": 11101,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -1065,7 +1093,7 @@
       "SubID2": 6
     },
     {
-      "ID": 77,
+      "ID": 79,
       "PassiveSkillID": 11103,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -1079,7 +1107,7 @@
       "SubID2": 1
     },
     {
-      "ID": 78,
+      "ID": 80,
       "PassiveSkillID": 11103,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 5,
@@ -1093,7 +1121,7 @@
       "SubID2": 1
     },
     {
-      "ID": 79,
+      "ID": 81,
       "PassiveSkillID": 11113,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 35,
@@ -1107,7 +1135,7 @@
       "SubID2": 0
     },
     {
-      "ID": 80,
+      "ID": 82,
       "PassiveSkillID": 11113,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 35,
@@ -1121,7 +1149,7 @@
       "SubID2": 0
     },
     {
-      "ID": 81,
+      "ID": 83,
       "PassiveSkillID": 11123,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 3,
@@ -1135,7 +1163,7 @@
       "SubID2": 0
     },
     {
-      "ID": 82,
+      "ID": 84,
       "PassiveSkillID": 11123,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 3,
@@ -1149,7 +1177,7 @@
       "SubID2": 0
     },
     {
-      "ID": 83,
+      "ID": 85,
       "PassiveSkillID": 11133,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 9,
@@ -1163,7 +1191,7 @@
       "SubID2": 0
     },
     {
-      "ID": 84,
+      "ID": 86,
       "PassiveSkillID": 11133,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 9,
@@ -1177,7 +1205,7 @@
       "SubID2": 0
     },
     {
-      "ID": 85,
+      "ID": 87,
       "PassiveSkillID": 11105,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 0,
@@ -1191,7 +1219,7 @@
       "SubID2": 0
     },
     {
-      "ID": 86,
+      "ID": 88,
       "PassiveSkillID": 11106,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -1205,7 +1233,7 @@
       "SubID2": 1
     },
     {
-      "ID": 87,
+      "ID": 89,
       "PassiveSkillID": 11106,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 5,
@@ -1219,7 +1247,7 @@
       "SubID2": 1
     },
     {
-      "ID": 88,
+      "ID": 90,
       "PassiveSkillID": 11201,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 37,
@@ -1233,7 +1261,7 @@
       "SubID2": 0
     },
     {
-      "ID": 89,
+      "ID": 91,
       "PassiveSkillID": 11201,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 37,
@@ -1247,7 +1275,7 @@
       "SubID2": 0
     },
     {
-      "ID": 90,
+      "ID": 92,
       "PassiveSkillID": 11203,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 2,
@@ -1261,7 +1289,7 @@
       "SubID2": 0
     },
     {
-      "ID": 91,
+      "ID": 93,
       "PassiveSkillID": 11203,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 2,
@@ -1275,49 +1303,49 @@
       "SubID2": 0
     },
     {
-      "ID": 92,
-      "PassiveSkillID": 11213,
-      "PassiveSkillMappingIndexID": 1,
-      "ModifyMethod": 14,
-      "ValOp": 0,
-      "BaseValue": 20.0,
-      "Multiplier": 0.0,
-      "MaxValue": 0.0,
-      "MinValue": 0.0,
-      "MainID": "10516",
-      "SubID": 0,
-      "SubID2": 0
-    },
-    {
-      "ID": 93,
-      "PassiveSkillID": 11213,
-      "PassiveSkillMappingIndexID": 2,
-      "ModifyMethod": 14,
-      "ValOp": 0,
-      "BaseValue": 40.0,
-      "Multiplier": 0.0,
-      "MaxValue": 0.0,
-      "MinValue": 0.0,
-      "MainID": "10516",
-      "SubID": 0,
-      "SubID2": 0
-    },
-    {
       "ID": 94,
-      "PassiveSkillID": 11223,
+      "PassiveSkillID": 11213,
       "PassiveSkillMappingIndexID": 1,
-      "ModifyMethod": 1,
+      "ModifyMethod": 14,
       "ValOp": 0,
       "BaseValue": 20.0,
       "Multiplier": 0.0,
       "MaxValue": 0.0,
       "MinValue": 0.0,
-      "MainID": "1051651",
+      "MainID": "10516",
       "SubID": 0,
       "SubID2": 0
     },
     {
       "ID": 95,
+      "PassiveSkillID": 11213,
+      "PassiveSkillMappingIndexID": 2,
+      "ModifyMethod": 14,
+      "ValOp": 0,
+      "BaseValue": 40.0,
+      "Multiplier": 0.0,
+      "MaxValue": 0.0,
+      "MinValue": 0.0,
+      "MainID": "10516",
+      "SubID": 0,
+      "SubID2": 0
+    },
+    {
+      "ID": 96,
+      "PassiveSkillID": 11223,
+      "PassiveSkillMappingIndexID": 1,
+      "ModifyMethod": 1,
+      "ValOp": 0,
+      "BaseValue": 20.0,
+      "Multiplier": 0.0,
+      "MaxValue": 0.0,
+      "MinValue": 0.0,
+      "MainID": "1051651",
+      "SubID": 0,
+      "SubID2": 0
+    },
+    {
+      "ID": 97,
       "PassiveSkillID": 11223,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 1,
@@ -1331,7 +1359,7 @@
       "SubID2": 0
     },
     {
-      "ID": 96,
+      "ID": 98,
       "PassiveSkillID": 11205,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 46,
@@ -1345,7 +1373,7 @@
       "SubID2": 2
     },
     {
-      "ID": 97,
+      "ID": 99,
       "PassiveSkillID": 11208,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -1359,7 +1387,7 @@
       "SubID2": 1
     },
     {
-      "ID": 98,
+      "ID": 100,
       "PassiveSkillID": 11208,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 5,
@@ -1373,7 +1401,7 @@
       "SubID2": 1
     },
     {
-      "ID": 99,
+      "ID": 101,
       "PassiveSkillID": 11300,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -1387,7 +1415,7 @@
       "SubID2": 1
     },
     {
-      "ID": 100,
+      "ID": 102,
       "PassiveSkillID": 11301,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 44,
@@ -1401,7 +1429,7 @@
       "SubID2": 0
     },
     {
-      "ID": 101,
+      "ID": 103,
       "PassiveSkillID": 11301,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 44,
@@ -1415,7 +1443,7 @@
       "SubID2": 0
     },
     {
-      "ID": 102,
+      "ID": 104,
       "PassiveSkillID": 11301,
       "PassiveSkillMappingIndexID": 3,
       "ModifyMethod": 44,
@@ -1429,7 +1457,7 @@
       "SubID2": 0
     },
     {
-      "ID": 103,
+      "ID": 105,
       "PassiveSkillID": 11302,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 4,
@@ -1443,7 +1471,7 @@
       "SubID2": 0
     },
     {
-      "ID": 104,
+      "ID": 106,
       "PassiveSkillID": 11302,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 4,
@@ -1457,7 +1485,7 @@
       "SubID2": 0
     },
     {
-      "ID": 105,
+      "ID": 107,
       "PassiveSkillID": 11303,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -1471,7 +1499,7 @@
       "SubID2": 1
     },
     {
-      "ID": 106,
+      "ID": 108,
       "PassiveSkillID": 11303,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 5,
@@ -1485,7 +1513,7 @@
       "SubID2": 1
     },
     {
-      "ID": 107,
+      "ID": 109,
       "PassiveSkillID": 11304,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 14,
@@ -1499,7 +1527,7 @@
       "SubID2": 0
     },
     {
-      "ID": 108,
+      "ID": 110,
       "PassiveSkillID": 11314,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -1513,7 +1541,7 @@
       "SubID2": 0
     },
     {
-      "ID": 109,
+      "ID": 111,
       "PassiveSkillID": 11402,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -1527,7 +1555,7 @@
       "SubID2": 0
     },
     {
-      "ID": 110,
+      "ID": 112,
       "PassiveSkillID": 11402,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 1,
@@ -1541,7 +1569,7 @@
       "SubID2": 0
     },
     {
-      "ID": 111,
+      "ID": 113,
       "PassiveSkillID": 11404,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 7,
@@ -1555,7 +1583,7 @@
       "SubID2": 0
     },
     {
-      "ID": 112,
+      "ID": 114,
       "PassiveSkillID": 11404,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 7,
@@ -1569,36 +1597,8 @@
       "SubID2": 0
     },
     {
-      "ID": 113,
-      "PassiveSkillID": 11502,
-      "PassiveSkillMappingIndexID": 1,
-      "ModifyMethod": 5,
-      "ValOp": 0,
-      "BaseValue": 0.0,
-      "Multiplier": 0.0,
-      "MaxValue": 0.0,
-      "MinValue": 0.0,
-      "MainID": "1130",
-      "SubID": 0,
-      "SubID2": 0
-    },
-    {
-      "ID": 114,
-      "PassiveSkillID": 11502,
-      "PassiveSkillMappingIndexID": 2,
-      "ModifyMethod": 5,
-      "ValOp": 0,
-      "BaseValue": 0.0,
-      "Multiplier": 0.0,
-      "MaxValue": 0.0,
-      "MinValue": 0.0,
-      "MainID": "1130",
-      "SubID": 0,
-      "SubID2": 1
-    },
-    {
       "ID": 115,
-      "PassiveSkillID": 11512,
+      "PassiveSkillID": 11502,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
       "ValOp": 0,
@@ -1612,6 +1612,34 @@
     },
     {
       "ID": 116,
+      "PassiveSkillID": 11502,
+      "PassiveSkillMappingIndexID": 2,
+      "ModifyMethod": 5,
+      "ValOp": 0,
+      "BaseValue": 0.0,
+      "Multiplier": 0.0,
+      "MaxValue": 0.0,
+      "MinValue": 0.0,
+      "MainID": "1130",
+      "SubID": 0,
+      "SubID2": 1
+    },
+    {
+      "ID": 117,
+      "PassiveSkillID": 11512,
+      "PassiveSkillMappingIndexID": 1,
+      "ModifyMethod": 5,
+      "ValOp": 0,
+      "BaseValue": 0.0,
+      "Multiplier": 0.0,
+      "MaxValue": 0.0,
+      "MinValue": 0.0,
+      "MainID": "1130",
+      "SubID": 0,
+      "SubID2": 0
+    },
+    {
+      "ID": 118,
       "PassiveSkillID": 11512,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 5,
@@ -1625,7 +1653,7 @@
       "SubID2": 1
     },
     {
-      "ID": 117,
+      "ID": 119,
       "PassiveSkillID": 11503,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 3,
@@ -1639,7 +1667,7 @@
       "SubID2": 0
     },
     {
-      "ID": 118,
+      "ID": 120,
       "PassiveSkillID": 11503,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 3,
@@ -1653,7 +1681,7 @@
       "SubID2": 0
     },
     {
-      "ID": 119,
+      "ID": 121,
       "PassiveSkillID": 11513,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 3,
@@ -1667,7 +1695,7 @@
       "SubID2": 0
     },
     {
-      "ID": 120,
+      "ID": 122,
       "PassiveSkillID": 11513,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 3,
@@ -1681,7 +1709,7 @@
       "SubID2": 0
     },
     {
-      "ID": 121,
+      "ID": 123,
       "PassiveSkillID": 20201,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 3,
@@ -1695,7 +1723,7 @@
       "SubID2": 0
     },
     {
-      "ID": 122,
+      "ID": 124,
       "PassiveSkillID": 20202,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -1709,12 +1737,12 @@
       "SubID2": 1
     },
     {
-      "ID": 123,
+      "ID": 125,
       "PassiveSkillID": 20212,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 35,
       "ValOp": 0,
-      "BaseValue": -0.2,
+      "BaseValue": -0.1,
       "Multiplier": 0.0,
       "MaxValue": 0.0,
       "MinValue": 0.0,
@@ -1723,12 +1751,12 @@
       "SubID2": 0
     },
     {
-      "ID": 124,
+      "ID": 126,
       "PassiveSkillID": 20222,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 3,
       "ValOp": 0,
-      "BaseValue": -200.0,
+      "BaseValue": -100.0,
       "Multiplier": 0.0,
       "MaxValue": 0.0,
       "MinValue": 0.0,
@@ -1737,12 +1765,12 @@
       "SubID2": 0
     },
     {
-      "ID": 125,
+      "ID": 127,
       "PassiveSkillID": 20232,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 9,
       "ValOp": 0,
-      "BaseValue": -0.2,
+      "BaseValue": -0.1,
       "Multiplier": 0.0,
       "MaxValue": 0.0,
       "MinValue": 0.0,
@@ -1751,7 +1779,7 @@
       "SubID2": 0
     },
     {
-      "ID": 126,
+      "ID": 128,
       "PassiveSkillID": 20302,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -1765,7 +1793,7 @@
       "SubID2": 0
     },
     {
-      "ID": 127,
+      "ID": 129,
       "PassiveSkillID": 20303,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 3,
@@ -1779,7 +1807,7 @@
       "SubID2": 0
     },
     {
-      "ID": 128,
+      "ID": 130,
       "PassiveSkillID": 20402,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 31,
@@ -1793,7 +1821,7 @@
       "SubID2": 0
     },
     {
-      "ID": 129,
+      "ID": 131,
       "PassiveSkillID": 20404,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 3,
@@ -1807,7 +1835,7 @@
       "SubID2": 0
     },
     {
-      "ID": 130,
+      "ID": 132,
       "PassiveSkillID": 20501,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -1821,7 +1849,7 @@
       "SubID2": 0
     },
     {
-      "ID": 131,
+      "ID": 133,
       "PassiveSkillID": 20504,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 62,
@@ -1835,7 +1863,7 @@
       "SubID2": 0
     },
     {
-      "ID": 132,
+      "ID": 134,
       "PassiveSkillID": 20601,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -1849,7 +1877,7 @@
       "SubID2": 0
     },
     {
-      "ID": 133,
+      "ID": 135,
       "PassiveSkillID": 20611,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -1863,7 +1891,7 @@
       "SubID2": 0
     },
     {
-      "ID": 134,
+      "ID": 136,
       "PassiveSkillID": 15002,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 56,
@@ -1877,7 +1905,7 @@
       "SubID2": -1
     },
     {
-      "ID": 135,
+      "ID": 137,
       "PassiveSkillID": 15012,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 57,
@@ -1891,7 +1919,7 @@
       "SubID2": 3
     },
     {
-      "ID": 136,
+      "ID": 138,
       "PassiveSkillID": 15022,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 56,
@@ -1905,7 +1933,7 @@
       "SubID2": -1
     },
     {
-      "ID": 137,
+      "ID": 139,
       "PassiveSkillID": 15032,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 57,
@@ -1919,7 +1947,7 @@
       "SubID2": -1
     },
     {
-      "ID": 138,
+      "ID": 140,
       "PassiveSkillID": 15003,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -1933,7 +1961,7 @@
       "SubID2": 0
     },
     {
-      "ID": 139,
+      "ID": 141,
       "PassiveSkillID": 15003,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 1,
@@ -1947,7 +1975,7 @@
       "SubID2": 0
     },
     {
-      "ID": 140,
+      "ID": 142,
       "PassiveSkillID": 15004,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -1961,7 +1989,7 @@
       "SubID2": 1
     },
     {
-      "ID": 141,
+      "ID": 143,
       "PassiveSkillID": 15008,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -1975,7 +2003,7 @@
       "SubID2": 0
     },
     {
-      "ID": 142,
+      "ID": 144,
       "PassiveSkillID": 15010,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -1989,7 +2017,7 @@
       "SubID2": 0
     },
     {
-      "ID": 143,
+      "ID": 145,
       "PassiveSkillID": 15014,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 2,
@@ -2003,7 +2031,7 @@
       "SubID2": 0
     },
     {
-      "ID": 144,
+      "ID": 146,
       "PassiveSkillID": 15024,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -2017,7 +2045,7 @@
       "SubID2": 1
     },
     {
-      "ID": 145,
+      "ID": 147,
       "PassiveSkillID": 15015,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -2031,7 +2059,7 @@
       "SubID2": 0
     },
     {
-      "ID": 146,
+      "ID": 148,
       "PassiveSkillID": 15101,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 38,
@@ -2045,7 +2073,7 @@
       "SubID2": 0
     },
     {
-      "ID": 147,
+      "ID": 149,
       "PassiveSkillID": 15102,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -2059,7 +2087,7 @@
       "SubID2": 0
     },
     {
-      "ID": 148,
+      "ID": 150,
       "PassiveSkillID": 15103,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 2,
@@ -2073,7 +2101,7 @@
       "SubID2": 0
     },
     {
-      "ID": 149,
+      "ID": 151,
       "PassiveSkillID": 16005,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 0,
@@ -2087,7 +2115,7 @@
       "SubID2": 0
     },
     {
-      "ID": 150,
+      "ID": 152,
       "PassiveSkillID": 16006,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 0,
@@ -2101,7 +2129,7 @@
       "SubID2": 0
     },
     {
-      "ID": 151,
+      "ID": 153,
       "PassiveSkillID": 16007,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 0,
@@ -2115,7 +2143,7 @@
       "SubID2": 0
     },
     {
-      "ID": 152,
+      "ID": 154,
       "PassiveSkillID": 16008,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 47,
@@ -2129,7 +2157,7 @@
       "SubID2": 0
     },
     {
-      "ID": 153,
+      "ID": 155,
       "PassiveSkillID": 16009,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -2143,7 +2171,7 @@
       "SubID2": 1
     },
     {
-      "ID": 154,
+      "ID": 156,
       "PassiveSkillID": 16009,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 5,
@@ -2157,7 +2185,7 @@
       "SubID2": 1
     },
     {
-      "ID": 155,
+      "ID": 157,
       "PassiveSkillID": 16009,
       "PassiveSkillMappingIndexID": 3,
       "ModifyMethod": 5,
@@ -2171,7 +2199,7 @@
       "SubID2": 1
     },
     {
-      "ID": 156,
+      "ID": 158,
       "PassiveSkillID": 16023,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 58,
@@ -2185,7 +2213,7 @@
       "SubID2": -1
     },
     {
-      "ID": 157,
+      "ID": 159,
       "PassiveSkillID": 16024,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 58,
@@ -2199,7 +2227,7 @@
       "SubID2": -1
     },
     {
-      "ID": 158,
+      "ID": 160,
       "PassiveSkillID": 16025,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 58,
@@ -2213,7 +2241,7 @@
       "SubID2": -1
     },
     {
-      "ID": 159,
+      "ID": 161,
       "PassiveSkillID": 16026,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 58,
@@ -2227,7 +2255,7 @@
       "SubID2": -1
     },
     {
-      "ID": 160,
+      "ID": 162,
       "PassiveSkillID": 16027,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 58,
@@ -2241,7 +2269,7 @@
       "SubID2": -1
     },
     {
-      "ID": 161,
+      "ID": 163,
       "PassiveSkillID": 18012,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -2255,7 +2283,7 @@
       "SubID2": 1
     },
     {
-      "ID": 162,
+      "ID": 164,
       "PassiveSkillID": 90301,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -2269,7 +2297,7 @@
       "SubID2": 0
     },
     {
-      "ID": 163,
+      "ID": 165,
       "PassiveSkillID": 90332,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -2283,7 +2311,7 @@
       "SubID2": 1
     },
     {
-      "ID": 164,
+      "ID": 166,
       "PassiveSkillID": 90401,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -2297,7 +2325,7 @@
       "SubID2": 0
     },
     {
-      "ID": 165,
+      "ID": 167,
       "PassiveSkillID": 90611,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 2,
@@ -2311,7 +2339,7 @@
       "SubID2": 0
     },
     {
-      "ID": 166,
+      "ID": 168,
       "PassiveSkillID": 90612,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 38,
@@ -2325,7 +2353,7 @@
       "SubID2": 0
     },
     {
-      "ID": 167,
+      "ID": 169,
       "PassiveSkillID": 90711,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -2339,7 +2367,7 @@
       "SubID2": 0
     },
     {
-      "ID": 168,
+      "ID": 170,
       "PassiveSkillID": 90802,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 2,
@@ -2353,7 +2381,7 @@
       "SubID2": 0
     },
     {
-      "ID": 169,
+      "ID": 171,
       "PassiveSkillID": 90822,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -2367,7 +2395,7 @@
       "SubID2": 0
     },
     {
-      "ID": 170,
+      "ID": 172,
       "PassiveSkillID": 90811,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 3,
@@ -2381,7 +2409,7 @@
       "SubID2": 0
     },
     {
-      "ID": 171,
+      "ID": 173,
       "PassiveSkillID": 90911,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 38,
@@ -2395,7 +2423,7 @@
       "SubID2": 0
     },
     {
-      "ID": 172,
+      "ID": 174,
       "PassiveSkillID": 90921,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 37,
@@ -2409,7 +2437,7 @@
       "SubID2": 0
     },
     {
-      "ID": 173,
+      "ID": 175,
       "PassiveSkillID": 90922,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 14,
@@ -2423,7 +2451,7 @@
       "SubID2": 0
     },
     {
-      "ID": 174,
+      "ID": 176,
       "PassiveSkillID": 90923,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -2437,7 +2465,7 @@
       "SubID2": 0
     },
     {
-      "ID": 175,
+      "ID": 177,
       "PassiveSkillID": 91211,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 4,
@@ -2451,7 +2479,7 @@
       "SubID2": 0
     },
     {
-      "ID": 176,
+      "ID": 178,
       "PassiveSkillID": 91221,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 3,
@@ -2465,7 +2493,7 @@
       "SubID2": 0
     },
     {
-      "ID": 177,
+      "ID": 179,
       "PassiveSkillID": 91224,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -2479,7 +2507,7 @@
       "SubID2": 1
     },
     {
-      "ID": 178,
+      "ID": 180,
       "PassiveSkillID": 91304,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 39,
@@ -2493,7 +2521,7 @@
       "SubID2": 0
     },
     {
-      "ID": 179,
+      "ID": 181,
       "PassiveSkillID": 91401,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 4,
@@ -2507,7 +2535,7 @@
       "SubID2": 0
     },
     {
-      "ID": 180,
+      "ID": 182,
       "PassiveSkillID": 91803,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 36,
@@ -2521,7 +2549,7 @@
       "SubID2": 5
     },
     {
-      "ID": 181,
+      "ID": 183,
       "PassiveSkillID": 91811,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 4,
@@ -2535,7 +2563,7 @@
       "SubID2": 0
     },
     {
-      "ID": 182,
+      "ID": 184,
       "PassiveSkillID": 91812,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 36,
@@ -2549,12 +2577,12 @@
       "SubID2": 0
     },
     {
-      "ID": 183,
+      "ID": 185,
       "PassiveSkillID": 91912,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 3,
       "ValOp": 1,
-      "BaseValue": 1000.0,
+      "BaseValue": 2000.0,
       "Multiplier": 0.0,
       "MaxValue": 0.0,
       "MinValue": 0.0,
@@ -2563,7 +2591,7 @@
       "SubID2": 0
     },
     {
-      "ID": 184,
+      "ID": 186,
       "PassiveSkillID": 97001,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -2577,7 +2605,7 @@
       "SubID2": 1
     },
     {
-      "ID": 185,
+      "ID": 187,
       "PassiveSkillID": 97005,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -2591,7 +2619,7 @@
       "SubID2": 0
     },
     {
-      "ID": 186,
+      "ID": 188,
       "PassiveSkillID": 97015,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -2605,7 +2633,7 @@
       "SubID2": 0
     },
     {
-      "ID": 187,
+      "ID": 189,
       "PassiveSkillID": 97011,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 0,
@@ -2619,7 +2647,7 @@
       "SubID2": 0
     },
     {
-      "ID": 188,
+      "ID": 190,
       "PassiveSkillID": 92207,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -2633,7 +2661,7 @@
       "SubID2": 0
     },
     {
-      "ID": 189,
+      "ID": 191,
       "PassiveSkillID": 92208,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 51,
@@ -2647,7 +2675,7 @@
       "SubID2": 0
     },
     {
-      "ID": 190,
+      "ID": 192,
       "PassiveSkillID": 92209,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 4,
@@ -2661,7 +2689,7 @@
       "SubID2": 0
     },
     {
-      "ID": 191,
+      "ID": 193,
       "PassiveSkillID": 92234,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 50,
@@ -2675,7 +2703,7 @@
       "SubID2": 0
     },
     {
-      "ID": 192,
+      "ID": 194,
       "PassiveSkillID": 92304,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 30,
@@ -2689,7 +2717,7 @@
       "SubID2": 0
     },
     {
-      "ID": 193,
+      "ID": 195,
       "PassiveSkillID": 92305,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 37,
@@ -2703,7 +2731,7 @@
       "SubID2": 0
     },
     {
-      "ID": 194,
+      "ID": 196,
       "PassiveSkillID": 92306,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -2717,7 +2745,7 @@
       "SubID2": 0
     },
     {
-      "ID": 195,
+      "ID": 197,
       "PassiveSkillID": 92314,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -2731,7 +2759,7 @@
       "SubID2": 1
     },
     {
-      "ID": 196,
+      "ID": 198,
       "PassiveSkillID": 92318,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 14,
@@ -2745,7 +2773,7 @@
       "SubID2": 0
     },
     {
-      "ID": 197,
+      "ID": 199,
       "PassiveSkillID": 92328,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -2759,7 +2787,7 @@
       "SubID2": 0
     },
     {
-      "ID": 198,
+      "ID": 200,
       "PassiveSkillID": 92319,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 44,
@@ -2773,7 +2801,7 @@
       "SubID2": 0
     },
     {
-      "ID": 199,
+      "ID": 201,
       "PassiveSkillID": 92320,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 3,
@@ -2787,7 +2815,7 @@
       "SubID2": 0
     },
     {
-      "ID": 200,
+      "ID": 202,
       "PassiveSkillID": 19999,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 39,
@@ -2801,7 +2829,7 @@
       "SubID2": 0
     },
     {
-      "ID": 201,
+      "ID": 203,
       "PassiveSkillID": 19997,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 39,
@@ -2815,7 +2843,7 @@
       "SubID2": 0
     },
     {
-      "ID": 202,
+      "ID": 204,
       "PassiveSkillID": 19995,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
@@ -2829,7 +2857,7 @@
       "SubID2": 0
     },
     {
-      "ID": 203,
+      "ID": 205,
       "PassiveSkillID": 19998,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 2,
@@ -2843,7 +2871,7 @@
       "SubID2": 0
     },
     {
-      "ID": 204,
+      "ID": 206,
       "PassiveSkillID": 19996,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 50,
@@ -2857,7 +2885,7 @@
       "SubID2": 0
     },
     {
-      "ID": 205,
+      "ID": 207,
       "PassiveSkillID": 140031,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -2871,7 +2899,7 @@
       "SubID2": 0
     },
     {
-      "ID": 206,
+      "ID": 208,
       "PassiveSkillID": 140033,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -2885,7 +2913,7 @@
       "SubID2": 0
     },
     {
-      "ID": 207,
+      "ID": 209,
       "PassiveSkillID": 140033,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 42,
@@ -2899,7 +2927,7 @@
       "SubID2": 0
     },
     {
-      "ID": 208,
+      "ID": 210,
       "PassiveSkillID": 140050,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 42,
@@ -2913,7 +2941,7 @@
       "SubID2": 0
     },
     {
-      "ID": 209,
+      "ID": 211,
       "PassiveSkillID": 140070,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 42,
@@ -2927,7 +2955,7 @@
       "SubID2": 0
     },
     {
-      "ID": 210,
+      "ID": 212,
       "PassiveSkillID": 140160,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 39,
@@ -2941,7 +2969,7 @@
       "SubID2": 0
     },
     {
-      "ID": 211,
+      "ID": 213,
       "PassiveSkillID": 160050,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 39,
@@ -2955,7 +2983,7 @@
       "SubID2": 0
     },
     {
-      "ID": 212,
+      "ID": 214,
       "PassiveSkillID": 170050,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 39,
@@ -2969,7 +2997,7 @@
       "SubID2": 0
     },
     {
-      "ID": 213,
+      "ID": 215,
       "PassiveSkillID": 170070,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 42,
@@ -2983,7 +3011,7 @@
       "SubID2": 0
     },
     {
-      "ID": 214,
+      "ID": 216,
       "PassiveSkillID": 170350,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 39,
@@ -2997,7 +3025,7 @@
       "SubID2": 0
     },
     {
-      "ID": 215,
+      "ID": 217,
       "PassiveSkillID": 170370,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 42,
@@ -3011,7 +3039,7 @@
       "SubID2": 0
     },
     {
-      "ID": 216,
+      "ID": 218,
       "PassiveSkillID": 180001,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 45,
@@ -3025,7 +3053,7 @@
       "SubID2": 0
     },
     {
-      "ID": 217,
+      "ID": 219,
       "PassiveSkillID": 180001,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 45,
@@ -3039,7 +3067,7 @@
       "SubID2": 0
     },
     {
-      "ID": 218,
+      "ID": 220,
       "PassiveSkillID": 180001,
       "PassiveSkillMappingIndexID": 3,
       "ModifyMethod": 45,
@@ -3053,7 +3081,7 @@
       "SubID2": 0
     },
     {
-      "ID": 219,
+      "ID": 221,
       "PassiveSkillID": 230070,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 42,
@@ -3067,7 +3095,7 @@
       "SubID2": 0
     },
     {
-      "ID": 220,
+      "ID": 222,
       "PassiveSkillID": 31006,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3081,7 +3109,7 @@
       "SubID2": 0
     },
     {
-      "ID": 221,
+      "ID": 223,
       "PassiveSkillID": 31006,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 1,
@@ -3095,7 +3123,7 @@
       "SubID2": 0
     },
     {
-      "ID": 222,
+      "ID": 224,
       "PassiveSkillID": 31006,
       "PassiveSkillMappingIndexID": 3,
       "ModifyMethod": 1,
@@ -3109,7 +3137,7 @@
       "SubID2": 0
     },
     {
-      "ID": 223,
+      "ID": 225,
       "PassiveSkillID": 31006,
       "PassiveSkillMappingIndexID": 4,
       "ModifyMethod": 1,
@@ -3123,7 +3151,7 @@
       "SubID2": 0
     },
     {
-      "ID": 224,
+      "ID": 226,
       "PassiveSkillID": 31006,
       "PassiveSkillMappingIndexID": 5,
       "ModifyMethod": 1,
@@ -3137,7 +3165,7 @@
       "SubID2": 0
     },
     {
-      "ID": 225,
+      "ID": 227,
       "PassiveSkillID": 31006,
       "PassiveSkillMappingIndexID": 6,
       "ModifyMethod": 1,
@@ -3151,40 +3179,12 @@
       "SubID2": 0
     },
     {
-      "ID": 226,
-      "PassiveSkillID": 31101,
-      "PassiveSkillMappingIndexID": 1,
-      "ModifyMethod": 5,
-      "ValOp": 2,
-      "BaseValue": 0.0,
-      "Multiplier": 0.0,
-      "MaxValue": 0.0,
-      "MinValue": 0.0,
-      "MainID": "1117",
-      "SubID": 0,
-      "SubID2": 1
-    },
-    {
-      "ID": 227,
-      "PassiveSkillID": 31111,
-      "PassiveSkillMappingIndexID": 1,
-      "ModifyMethod": 5,
-      "ValOp": 2,
-      "BaseValue": 0.0,
-      "Multiplier": 0.0,
-      "MaxValue": 0.0,
-      "MinValue": 0.0,
-      "MainID": "1117",
-      "SubID": 0,
-      "SubID2": 2
-    },
-    {
       "ID": 228,
       "PassiveSkillID": 31101,
-      "PassiveSkillMappingIndexID": 2,
+      "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
       "ValOp": 2,
-      "BaseValue": 1119.0,
+      "BaseValue": 0.0,
       "Multiplier": 0.0,
       "MaxValue": 0.0,
       "MinValue": 0.0,
@@ -3195,7 +3195,7 @@
     {
       "ID": 229,
       "PassiveSkillID": 31111,
-      "PassiveSkillMappingIndexID": 2,
+      "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 5,
       "ValOp": 2,
       "BaseValue": 0.0,
@@ -3209,7 +3209,7 @@
     {
       "ID": 230,
       "PassiveSkillID": 31101,
-      "PassiveSkillMappingIndexID": 3,
+      "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 5,
       "ValOp": 2,
       "BaseValue": 1119.0,
@@ -3223,6 +3223,34 @@
     {
       "ID": 231,
       "PassiveSkillID": 31111,
+      "PassiveSkillMappingIndexID": 2,
+      "ModifyMethod": 5,
+      "ValOp": 2,
+      "BaseValue": 0.0,
+      "Multiplier": 0.0,
+      "MaxValue": 0.0,
+      "MinValue": 0.0,
+      "MainID": "1117",
+      "SubID": 0,
+      "SubID2": 2
+    },
+    {
+      "ID": 232,
+      "PassiveSkillID": 31101,
+      "PassiveSkillMappingIndexID": 3,
+      "ModifyMethod": 5,
+      "ValOp": 2,
+      "BaseValue": 1119.0,
+      "Multiplier": 0.0,
+      "MaxValue": 0.0,
+      "MinValue": 0.0,
+      "MainID": "1117",
+      "SubID": 0,
+      "SubID2": 1
+    },
+    {
+      "ID": 233,
+      "PassiveSkillID": 31111,
       "PassiveSkillMappingIndexID": 3,
       "ModifyMethod": 5,
       "ValOp": 2,
@@ -3235,7 +3263,7 @@
       "SubID2": 2
     },
     {
-      "ID": 232,
+      "ID": 234,
       "PassiveSkillID": 31103,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 0,
@@ -3249,7 +3277,7 @@
       "SubID2": 0
     },
     {
-      "ID": 233,
+      "ID": 235,
       "PassiveSkillID": 31113,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 0,
@@ -3263,7 +3291,7 @@
       "SubID2": 0
     },
     {
-      "ID": 234,
+      "ID": 236,
       "PassiveSkillID": 31106,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 13,
@@ -3277,7 +3305,7 @@
       "SubID2": 0
     },
     {
-      "ID": 235,
+      "ID": 237,
       "PassiveSkillID": 31106,
       "PassiveSkillMappingIndexID": 2,
       "ModifyMethod": 13,
@@ -3291,7 +3319,7 @@
       "SubID2": 0
     },
     {
-      "ID": 236,
+      "ID": 238,
       "PassiveSkillID": 31108,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 3,
@@ -3305,7 +3333,7 @@
       "SubID2": 0
     },
     {
-      "ID": 237,
+      "ID": 239,
       "PassiveSkillID": 33629,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3319,7 +3347,7 @@
       "SubID2": 0
     },
     {
-      "ID": 238,
+      "ID": 240,
       "PassiveSkillID": 33650,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 14,
@@ -3333,7 +3361,7 @@
       "SubID2": 0
     },
     {
-      "ID": 239,
+      "ID": 241,
       "PassiveSkillID": 33550,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3347,7 +3375,7 @@
       "SubID2": 0
     },
     {
-      "ID": 240,
+      "ID": 242,
       "PassiveSkillID": 33654,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 14,
@@ -3361,7 +3389,7 @@
       "SubID2": 0
     },
     {
-      "ID": 241,
+      "ID": 243,
       "PassiveSkillID": 33554,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3375,7 +3403,7 @@
       "SubID2": 0
     },
     {
-      "ID": 242,
+      "ID": 244,
       "PassiveSkillID": 33656,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 14,
@@ -3389,7 +3417,7 @@
       "SubID2": 0
     },
     {
-      "ID": 243,
+      "ID": 245,
       "PassiveSkillID": 33556,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3403,7 +3431,7 @@
       "SubID2": 0
     },
     {
-      "ID": 244,
+      "ID": 246,
       "PassiveSkillID": 33657,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 46,
@@ -3417,7 +3445,7 @@
       "SubID2": 2
     },
     {
-      "ID": 245,
+      "ID": 247,
       "PassiveSkillID": 33659,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 0,
@@ -3431,7 +3459,7 @@
       "SubID2": 0
     },
     {
-      "ID": 246,
+      "ID": 248,
       "PassiveSkillID": 33681,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 51,
@@ -3445,7 +3473,7 @@
       "SubID2": 0
     },
     {
-      "ID": 247,
+      "ID": 249,
       "PassiveSkillID": 33581,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3459,7 +3487,7 @@
       "SubID2": 0
     },
     {
-      "ID": 248,
+      "ID": 250,
       "PassiveSkillID": 33682,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3473,7 +3501,7 @@
       "SubID2": 0
     },
     {
-      "ID": 249,
+      "ID": 251,
       "PassiveSkillID": 33582,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 61,
@@ -3487,7 +3515,7 @@
       "SubID2": 0
     },
     {
-      "ID": 250,
+      "ID": 252,
       "PassiveSkillID": 33683,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 4,
@@ -3501,7 +3529,7 @@
       "SubID2": 0
     },
     {
-      "ID": 251,
+      "ID": 253,
       "PassiveSkillID": 33583,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3515,7 +3543,7 @@
       "SubID2": 0
     },
     {
-      "ID": 252,
+      "ID": 254,
       "PassiveSkillID": 33684,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3529,7 +3557,7 @@
       "SubID2": 0
     },
     {
-      "ID": 253,
+      "ID": 255,
       "PassiveSkillID": 33685,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 4,
@@ -3543,7 +3571,7 @@
       "SubID2": 0
     },
     {
-      "ID": 254,
+      "ID": 256,
       "PassiveSkillID": 33686,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 2,
@@ -3557,7 +3585,7 @@
       "SubID2": 0
     },
     {
-      "ID": 255,
+      "ID": 257,
       "PassiveSkillID": 33687,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3571,7 +3599,7 @@
       "SubID2": 0
     },
     {
-      "ID": 256,
+      "ID": 258,
       "PassiveSkillID": 33688,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 4,
@@ -3585,7 +3613,7 @@
       "SubID2": 0
     },
     {
-      "ID": 257,
+      "ID": 259,
       "PassiveSkillID": 33429,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3599,7 +3627,7 @@
       "SubID2": 0
     },
     {
-      "ID": 258,
+      "ID": 260,
       "PassiveSkillID": 33450,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 14,
@@ -3613,7 +3641,7 @@
       "SubID2": 0
     },
     {
-      "ID": 259,
+      "ID": 261,
       "PassiveSkillID": 33350,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3627,7 +3655,7 @@
       "SubID2": 0
     },
     {
-      "ID": 260,
+      "ID": 262,
       "PassiveSkillID": 33454,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 14,
@@ -3641,7 +3669,7 @@
       "SubID2": 0
     },
     {
-      "ID": 261,
+      "ID": 263,
       "PassiveSkillID": 33354,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3655,7 +3683,7 @@
       "SubID2": 0
     },
     {
-      "ID": 262,
+      "ID": 264,
       "PassiveSkillID": 33456,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 14,
@@ -3669,7 +3697,7 @@
       "SubID2": 0
     },
     {
-      "ID": 263,
+      "ID": 265,
       "PassiveSkillID": 33356,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3683,7 +3711,7 @@
       "SubID2": 0
     },
     {
-      "ID": 264,
+      "ID": 266,
       "PassiveSkillID": 33457,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 46,
@@ -3697,7 +3725,7 @@
       "SubID2": 2
     },
     {
-      "ID": 265,
+      "ID": 267,
       "PassiveSkillID": 33459,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 0,
@@ -3711,7 +3739,7 @@
       "SubID2": 0
     },
     {
-      "ID": 266,
+      "ID": 268,
       "PassiveSkillID": 33481,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 51,
@@ -3725,7 +3753,7 @@
       "SubID2": 0
     },
     {
-      "ID": 267,
+      "ID": 269,
       "PassiveSkillID": 33381,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3739,7 +3767,7 @@
       "SubID2": 0
     },
     {
-      "ID": 268,
+      "ID": 270,
       "PassiveSkillID": 33482,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3753,7 +3781,7 @@
       "SubID2": 0
     },
     {
-      "ID": 269,
+      "ID": 271,
       "PassiveSkillID": 33382,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 61,
@@ -3767,7 +3795,7 @@
       "SubID2": 0
     },
     {
-      "ID": 270,
+      "ID": 272,
       "PassiveSkillID": 33483,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 4,
@@ -3781,7 +3809,7 @@
       "SubID2": 0
     },
     {
-      "ID": 271,
+      "ID": 273,
       "PassiveSkillID": 33383,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3795,7 +3823,7 @@
       "SubID2": 0
     },
     {
-      "ID": 272,
+      "ID": 274,
       "PassiveSkillID": 33484,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3809,7 +3837,7 @@
       "SubID2": 0
     },
     {
-      "ID": 273,
+      "ID": 275,
       "PassiveSkillID": 33485,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 4,
@@ -3823,7 +3851,7 @@
       "SubID2": 0
     },
     {
-      "ID": 274,
+      "ID": 276,
       "PassiveSkillID": 33486,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 2,
@@ -3837,7 +3865,7 @@
       "SubID2": 0
     },
     {
-      "ID": 275,
+      "ID": 277,
       "PassiveSkillID": 33487,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3851,7 +3879,7 @@
       "SubID2": 0
     },
     {
-      "ID": 276,
+      "ID": 278,
       "PassiveSkillID": 33488,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 4,
@@ -3865,7 +3893,7 @@
       "SubID2": 0
     },
     {
-      "ID": 277,
+      "ID": 279,
       "PassiveSkillID": 33129,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3879,7 +3907,7 @@
       "SubID2": 0
     },
     {
-      "ID": 278,
+      "ID": 280,
       "PassiveSkillID": 33150,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 14,
@@ -3893,7 +3921,7 @@
       "SubID2": 0
     },
     {
-      "ID": 279,
+      "ID": 281,
       "PassiveSkillID": 33050,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3907,7 +3935,7 @@
       "SubID2": 0
     },
     {
-      "ID": 280,
+      "ID": 282,
       "PassiveSkillID": 33154,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 14,
@@ -3921,7 +3949,7 @@
       "SubID2": 0
     },
     {
-      "ID": 281,
+      "ID": 283,
       "PassiveSkillID": 33054,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3935,7 +3963,7 @@
       "SubID2": 0
     },
     {
-      "ID": 282,
+      "ID": 284,
       "PassiveSkillID": 33156,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 14,
@@ -3949,7 +3977,7 @@
       "SubID2": 0
     },
     {
-      "ID": 283,
+      "ID": 285,
       "PassiveSkillID": 33056,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -3963,7 +3991,7 @@
       "SubID2": 0
     },
     {
-      "ID": 284,
+      "ID": 286,
       "PassiveSkillID": 33157,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 46,
@@ -3977,7 +4005,7 @@
       "SubID2": 2
     },
     {
-      "ID": 285,
+      "ID": 287,
       "PassiveSkillID": 33159,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 0,
@@ -3991,7 +4019,7 @@
       "SubID2": 0
     },
     {
-      "ID": 286,
+      "ID": 288,
       "PassiveSkillID": 33181,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 51,
@@ -4005,7 +4033,7 @@
       "SubID2": 0
     },
     {
-      "ID": 287,
+      "ID": 289,
       "PassiveSkillID": 33081,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -4019,7 +4047,7 @@
       "SubID2": 0
     },
     {
-      "ID": 288,
+      "ID": 290,
       "PassiveSkillID": 33182,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -4033,7 +4061,7 @@
       "SubID2": 0
     },
     {
-      "ID": 289,
+      "ID": 291,
       "PassiveSkillID": 33082,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 61,
@@ -4047,7 +4075,7 @@
       "SubID2": 0
     },
     {
-      "ID": 290,
+      "ID": 292,
       "PassiveSkillID": 33183,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 4,
@@ -4061,7 +4089,7 @@
       "SubID2": 0
     },
     {
-      "ID": 291,
+      "ID": 293,
       "PassiveSkillID": 33083,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -4075,7 +4103,7 @@
       "SubID2": 0
     },
     {
-      "ID": 292,
+      "ID": 294,
       "PassiveSkillID": 33184,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -4089,7 +4117,7 @@
       "SubID2": 0
     },
     {
-      "ID": 293,
+      "ID": 295,
       "PassiveSkillID": 33185,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 4,
@@ -4103,7 +4131,7 @@
       "SubID2": 0
     },
     {
-      "ID": 294,
+      "ID": 296,
       "PassiveSkillID": 33186,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 2,
@@ -4117,7 +4145,7 @@
       "SubID2": 0
     },
     {
-      "ID": 295,
+      "ID": 297,
       "PassiveSkillID": 33187,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 1,
@@ -4131,7 +4159,7 @@
       "SubID2": 0
     },
     {
-      "ID": 296,
+      "ID": 298,
       "PassiveSkillID": 33188,
       "PassiveSkillMappingIndexID": 1,
       "ModifyMethod": 4,

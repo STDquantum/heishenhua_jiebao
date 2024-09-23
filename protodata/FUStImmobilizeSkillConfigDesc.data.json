@@ -16,7 +16,7 @@
         {
           "EffectType": 2,
           "TargetBaseType": 1,
-          "Value": 1025
+          "Value": 0
         },
         {
           "EffectType": 3,
@@ -162,7 +162,7 @@
         {
           "EffectType": 2,
           "TargetBaseType": 1,
-          "Value": 1025
+          "Value": 0
         },
         {
           "EffectType": 3,
@@ -308,7 +308,7 @@
         {
           "EffectType": 2,
           "TargetBaseType": 1,
-          "Value": 1025
+          "Value": 0
         },
         {
           "EffectType": 3,
@@ -454,7 +454,7 @@
         {
           "EffectType": 2,
           "TargetBaseType": 1,
-          "Value": 1025
+          "Value": 0
         },
         {
           "EffectType": 3,
@@ -600,7 +600,7 @@
         {
           "EffectType": 2,
           "TargetBaseType": 1,
-          "Value": 1025
+          "Value": 0
         },
         {
           "EffectType": 3,

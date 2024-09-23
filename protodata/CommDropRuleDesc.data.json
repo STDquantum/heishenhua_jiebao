@@ -3891,8 +3891,8 @@
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
       "GroupDropRate": 2000,
-      "RollType": 0,
-      "RollNum": 0,
+      "RollType": 3,
+      "RollNum": 11,
       "RandDrop": [
         {
           "ItemId": 4017,
@@ -3923,8 +3923,8 @@
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
       "GroupDropRate": 2000,
-      "RollType": 0,
-      "RollNum": 0,
+      "RollType": 3,
+      "RollNum": 11,
       "RandDrop": [
         {
           "ItemId": 4017,
@@ -4536,14 +4536,14 @@
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
       "GroupDropRate": 180,
-      "RollType": 0,
-      "RollNum": 0,
+      "RollType": 3,
+      "RollNum": 125,
       "RandDrop": [
         {
           "ItemId": 4054,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 10000
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -7342,9 +7342,9 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 500,
+      "RollType": 3,
+      "RollNum": 45,
       "RandDrop": [
         {
           "ItemId": 6012,
@@ -7372,9 +7372,9 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 500,
+      "RollType": 3,
+      "RollNum": 45,
       "RandDrop": [
         {
           "ItemId": 3202,
@@ -7402,9 +7402,9 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 500,
+      "RollType": 3,
+      "RollNum": 45,
       "RandDrop": [
         {
           "ItemId": 6001,
@@ -7432,9 +7432,9 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 500,
+      "RollType": 3,
+      "RollNum": 45,
       "RandDrop": [
         {
           "ItemId": 3217,
@@ -7462,9 +7462,9 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 500,
+      "RollType": 3,
+      "RollNum": 45,
       "RandDrop": [
         {
           "ItemId": 6004,
@@ -7492,9 +7492,9 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 500,
+      "RollType": 3,
+      "RollNum": 45,
       "RandDrop": [
         {
           "ItemId": 3204,
@@ -7522,9 +7522,9 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 500,
+      "RollType": 3,
+      "RollNum": 45,
       "RandDrop": [
         {
           "ItemId": 6005,
@@ -7552,9 +7552,9 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 500,
+      "RollType": 3,
+      "RollNum": 45,
       "RandDrop": [
         {
           "ItemId": 6017,
@@ -7582,9 +7582,9 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 500,
+      "RollType": 3,
+      "RollNum": 45,
       "RandDrop": [
         {
           "ItemId": 6006,
@@ -7612,9 +7612,9 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 500,
+      "RollType": 3,
+      "RollNum": 45,
       "RandDrop": [
         {
           "ItemId": 6007,
@@ -7642,9 +7642,9 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 500,
+      "RollType": 3,
+      "RollNum": 45,
       "RandDrop": [
         {
           "ItemId": 6015,
@@ -7672,9 +7672,9 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 500,
+      "RollType": 3,
+      "RollNum": 45,
       "RandDrop": [
         {
           "ItemId": 6018,
@@ -7704,15 +7704,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 210,
+      "RollType": 3,
+      "RollNum": 107,
       "RandDrop": [
         {
           "ItemId": 2325,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 210
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -7736,15 +7736,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 210,
+      "RollType": 3,
+      "RollNum": 107,
       "RandDrop": [
         {
           "ItemId": 2326,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 210
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -7768,15 +7768,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 210,
+      "RollType": 3,
+      "RollNum": 107,
       "RandDrop": [
         {
           "ItemId": 2327,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 210
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -11227,9 +11227,9 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 360,
+      "RollType": 3,
+      "RollNum": 62,
       "RandDrop": [
         {
           "ItemId": 17007,
@@ -11387,9 +11387,9 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 1800,
+      "RollType": 3,
+      "RollNum": 12,
       "RandDrop": [
         {
           "ItemId": 17011,
@@ -11607,15 +11607,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 240,
+      "RollType": 3,
+      "RollNum": 93,
       "RandDrop": [
         {
           "ItemId": 17005,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 240
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -11699,15 +11699,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 360,
+      "RollType": 3,
+      "RollNum": 62,
       "RandDrop": [
         {
           "ItemId": 2308,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 360
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -12036,15 +12036,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 180,
+      "RollType": 3,
+      "RollNum": 125,
       "RandDrop": [
         {
           "ItemId": 2320,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 180
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -12100,15 +12100,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 240,
+      "RollType": 3,
+      "RollNum": 93,
       "RandDrop": [
         {
           "ItemId": 2321,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 240
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -12130,15 +12130,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 810,
+      "RollType": 3,
+      "RollNum": 27,
       "RandDrop": [
         {
           "ItemId": 17003,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 810
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -12464,15 +12464,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 360,
+      "RollType": 3,
+      "RollNum": 62,
       "RandDrop": [
         {
           "ItemId": 16025,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 360
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -13026,15 +13026,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 360,
+      "RollType": 3,
+      "RollNum": 62,
       "RandDrop": [
         {
           "ItemId": 16032,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 360
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -13056,15 +13056,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 360,
+      "RollType": 3,
+      "RollNum": 62,
       "RandDrop": [
         {
           "ItemId": 16033,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 360
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -13086,15 +13086,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 100,
+      "RollType": 3,
+      "RollNum": 225,
       "RandDrop": [
         {
           "ItemId": 16034,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 100
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -13116,15 +13116,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 360,
+      "RollType": 3,
+      "RollNum": 62,
       "RandDrop": [
         {
           "ItemId": 16034,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 360
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -13146,15 +13146,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 240,
+      "RollType": 3,
+      "RollNum": 93,
       "RandDrop": [
         {
           "ItemId": 16027,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 240
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -13176,15 +13176,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 360,
+      "RollType": 3,
+      "RollNum": 62,
       "RandDrop": [
         {
           "ItemId": 16035,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 360
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -13206,15 +13206,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 100,
+      "RollType": 3,
+      "RollNum": 225,
       "RandDrop": [
         {
           "ItemId": 16036,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 100
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -13236,15 +13236,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 100,
+      "RollType": 3,
+      "RollNum": 225,
       "RandDrop": [
         {
           "ItemId": 16036,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 100
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,
@@ -13266,15 +13266,15 @@
       "ExtraExp": 0,
       "UniqueDropOnce": [],
       "UniqueDropReplace": [],
-      "GroupDropRate": 10000,
-      "RollType": 0,
-      "RollNum": 0,
+      "GroupDropRate": 360,
+      "RollType": 3,
+      "RollNum": 62,
       "RandDrop": [
         {
           "ItemId": 16037,
           "MinNum": 1,
           "MaxNum": 1,
-          "Rate": 360
+          "Rate": 0
         }
       ],
       "UniqueDropRepeat": 0,

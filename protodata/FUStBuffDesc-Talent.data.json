@@ -706,8 +706,8 @@
       "Guard": "Guard"
     },
     {
-      "ID": 1025,
-      "BuffTips": "脆断",
+      "ID": 1024,
+      "BuffTips": "脆断-lv1效果",
       "BuffActiveCondition": {
         "ConditionType": 0,
         "ConditionParams": ""
@@ -739,7 +739,52 @@
           "EffectParamsString": [],
           "EffectParams": [
             120,
+            -1000,
             0,
+            0
+          ],
+          "EffectParamsFloat": []
+        }
+      ],
+      "IsExclusiveBuff": 0,
+      "CanBeInherited": 0,
+      "Guard": "Guard"
+    },
+    {
+      "ID": 1025,
+      "BuffTips": "脆断-lv2效果",
+      "BuffActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "BuffLayerCounterType": 0,
+      "BuffCategory": 0,
+      "CanRemoveWhenAttackHit": 0,
+      "CanRemoveWhenAttacked": 0,
+      "Delay": 0,
+      "Duration": -1,
+      "Interval": 0,
+      "AlmostEndAheadTime": 0,
+      "MaxLayer": 1,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "BuffEffects": [
+        {
+          "EffectTrigger": 1,
+          "EffectType": 2,
+          "EffectTargetSelectType": 0,
+          "EffectParamsString": [],
+          "EffectParams": [
+            120,
+            -500,
             0,
             0
           ],

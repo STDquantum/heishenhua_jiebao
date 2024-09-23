@@ -3567,6 +3567,37 @@
       "Guard": "Guard"
     },
     {
+      "ID": 440142,
+      "BuffTips": "红孩儿在大风车中不能放炼精化气",
+      "BuffActiveCondition": {
+        "ConditionType": 0,
+        "ConditionParams": ""
+      },
+      "BuffLayerCounterType": 0,
+      "BuffCategory": 0,
+      "CanRemoveWhenAttackHit": 0,
+      "CanRemoveWhenAttacked": 0,
+      "Delay": 0,
+      "Duration": 35600,
+      "Interval": 0,
+      "AlmostEndAheadTime": 0,
+      "MaxLayer": 1,
+      "TargetBase": 2,
+      "TargetCount": 1,
+      "TargetFilter": 1,
+      "TargetTypeFilter": 1,
+      "AffiliationTypeFilter": 0,
+      "Range": {
+        "RangeType": 0,
+        "RangeCenterType": 0,
+        "RangeParam": []
+      },
+      "BuffEffects": [],
+      "IsExclusiveBuff": 0,
+      "CanBeInherited": 0,
+      "Guard": "Guard"
+    },
+    {
       "ID": 440123,
       "BuffTips": "红孩儿隐身表现",
       "BuffActiveCondition": {
